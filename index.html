@@ -23,6 +23,14 @@
     <div id="map"></div>
     
     <script>
+      function strip(content) {
+        // The GeoJSON contains html content, but we don't want to render untrusted input
+        // We only set the text with e.textContent, but that renders escaped HTML which is ugly.
+	// So we strip it here.
+        let doc = new DOMParser().parseFromString(content, 'text/html');
+        return doc.body.textContent || "";
+      }
+
       var map = L.map('map').fitWorld();
       L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
         maxZoom: 19,
@@ -42,7 +50,7 @@
 
             var name = document.createElement("h2");
             if (layer.feature.properties && layer.feature.properties.name) {
-              name.textContent = layer.feature.properties.name;
+              name.textContent = strip(layer.feature.properties.name);
             } else {
               name.textContent = "Unnamed Point";
             }
@@ -50,7 +58,7 @@
             
             if (layer.feature.properties && layer.feature.properties.description) {
               var description = document.createElement("p");
-              description.textContent = layer.feature.properties.description;
+              description.textContent = strip(layer.feature.properties.description);
               popup.appendChild(description);
             }
 

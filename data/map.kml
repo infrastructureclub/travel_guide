@@ -1,0 +1,4840 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Infrastructure Club Travel Guide</name>
+    <description><![CDATA[Things that the Infrastructure Club members think are worth seeing.<br><br>https://infrastructureclub.co.uk<br><br>When adding things, please add any extra detail you feel might be helpful - more detailed description, how long you might spend, why it's cool.]]></description>
+    <Style id="icon-1899-006064-labelson">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-8.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-006064-labelson-nodesc">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-8.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0F9D58-labelson">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-7.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-0F9D58-labelson-nodesc">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-7.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-558B2F-labelson">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-5.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-558B2F-labelson-nodesc">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-5.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-757575-labelson">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-3.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-757575-labelson-nodesc">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-3.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-9C27B0-labelson">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-9C27B0-labelson-nodesc">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-A52714-labelson">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-4.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-A52714-labelson-nodesc">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-4.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-BDBDBD-labelson">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-6.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-BDBDBD-labelson-nodesc">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-6.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-F9A825-labelson">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-2.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-F9A825-labelson-nodesc">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-2.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Folder>
+      <name>Interesting Things</name>
+      <Placemark>
+        <name>Pulgas Water Temple</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3165415,37.4834543,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ripple Rock site
+</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -125.3538108,50.1322092,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Maeslantkering</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.1641028,51.9545582,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SF Bay Ferry
+</name>
+        <description>Excellent views under the Bay Bridge, past the Port of Oakland, etc., depending on route. Subsidized as a disaster preparedness program in order to provide emergency transport in case bridges are damaged in a major earthquake.</description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3893725,37.8089822,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Altamont Pass wind farm
+</name>
+        <description>Notable for being one of the first windfarms in the US.</description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.6619128,37.7188118,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Monticello Dam, Lake Berryessa</name>
+        <description>A relatively small dam but easy to get to and to see without any special access. Famous glory hole.</description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.104682,38.5132324,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>View of ODock from the Steel Bridge’s sidewalk
+</name>
+        <description>A good from-above view of bulk carrier operations without any special permission needed. Mostly this is wheat going to Asia.</description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.6682024,45.5281548,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bethany Reservoir
+</name>
+        <description>Probably the easiest way to get close to the California Aqueduct at ground level (i.e., not just driving over it) from the inner Bay Area. $10 parking fee.</description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.6177231,37.7824647,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Methane flare
+</name>
+        <description>The park is built partly on a landfill; this prevents buildup (and lowers the CO2e of the methane by burning it).</description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3178153,37.8728909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Geothermal Energy Exhibition</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -21.4010109,64.0372869,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PDX parking lot roof
+</name>
+        <description>Outstanding planespotting.</description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.5905719,45.5887139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cross Channel electricity cable landing point
+</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.1947516,51.0827545,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Manchester Beach cable landing site
+</name>
+        <description><![CDATA[If you go down on the beach, you can find several old cables sticking out of the bluff.<br><br>See https://www.theatlantic.com/technology/archive/2015/11/where-the-cloud-rises-from-the-sea/415236/. <br><br>Not worth the trip unless you’re already on the 1, frankly.]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -123.7053051,38.9810364,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Middle Harbor
+</name>
+        <description>One of several good shipspotting areas in the Port of Oakland.</description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.324248,37.8059253,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mt Tabor reservoirs
+</name>
+        <description>No interpretive installations, but an interesting walk. Mt Tabor is geologically interesting – it’s a volcano, part of the Boring Lava Field.</description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.5974863,45.5115746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Washington Park (Zoo) MAX station
+</name>
+        <description>One of the deepest rail stations in the world, despite being on a rail system that’s almost entirely aboveground. Small but interesting selection of interpretive material (e.g., drilled cores) in the station.</description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.7167957,45.5106752,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Baikonur Cosmodrome</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            63.3052427,45.9645851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cape Canaveral Space Force Station</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.5768594,28.4923776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kennedy Space Center</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.6489808,28.5728722,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Arecibo Observatory</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -66.7528196,18.3464019,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Karl G. Jansky Very Large Array Visitor Center</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -107.6223899,34.0733998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Very Large Array</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -107.6183633,34.0783584,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Willamette Stone State Heritage Site</name>
+        <description>Origin point of surveys in the region.</description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.7430039,45.5211223,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Green Bank Telescope</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.8396867,38.4329815,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Atacama Large Millimeter Array - ALMA Radio Telescope</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -67.7538335,-23.0234342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fast Telescope</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.8565533,25.6528739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Effelsberg 100-m Radio Telescope</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.8836239,50.5248229,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sardinia Radio Telescope</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.246485,39.4934183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lovell Telescope</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.3084833,53.2366626,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CSIRO - Parkes Observatory</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            148.2621459,-32.9986038,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Planta Solar 10</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -6.250032,37.4424527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gemasolar</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.3256731,37.5578215,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Santa Justa Lift</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -9.1394297,38.7121301,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Borax Visitor Center</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -117.6872024,35.0299301,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aqueduto das Águas Livres</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -9.1664815,38.7266673,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Markfield Beam Engine and Museum</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.061452,51.5818841,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Thames Barrier</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.0376304,51.4946289,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thames Barrier Information Centre</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.0411062,51.495188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dinorwig Power Station</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.113889,53.118611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Crich Tramway Village</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.4859543,53.0904893,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mount Diablo Summit Museum and Trailhead</name>
+        <description>Theoretical origin point for surveys in a large part of California. Outstanding views; go on the clearest day possible.</description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.9142302,37.8817969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PK Porthcurno</name>
+        <description>MUSEUM OF GLOBAL COMMUNICATIONS</description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -5.654882,50.046757,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Walthamstow Pumphouse Museum</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.0349438,51.5770337,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kirkaldy’s Testing Works</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.1015366,51.5059562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tillamook Creamery</name>
+        <description>Self-guided cheese factory tour.</description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -123.8442545,45.4839833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Four Corners Monument</name>
+        <description>The only quadripoint of US states.</description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -109.0451831,36.9989779,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oroville Dam</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -121.4832601,39.5380318,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[White Pass & Yukon Route Railway]]></name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -135.3181086,59.4531431,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>K.R. Flower Market</name>
+        <description>Notable for many reasons, e.g., the first building in Asia to have electrical lighting.</description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            77.5762829,12.9656588,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Atomium</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.3415547,50.8948787,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Castle</name>
+        <description>An imposing victorian pumping station now converted into a climbing center - you can pop in and look around</description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -0.0925618,51.5653079,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Greenwich Foot Tunnel</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.010152,51.4834545,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dawlish Sea Wall and Railway</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.4643689,50.5805934,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kempegowda Metro Station Majestic</name>
+        <description>Notable for its size and complexity.</description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            77.5729323,12.9757454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>John Snow Water Pump</name>
+        <description>Memorial water pump for John Snow who made maps of cholera infections and worked out they were spread by dirty water. Next door to a nice pub.</description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -0.1366027,51.5132744,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Whitechapel Bell Foundry</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.0671557,51.5169803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Bell Foundry</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.207431,52.7724701,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calshot Spit</name>
+        <description><![CDATA[Activities centre includes some displays about the spit's use as a seaplane base. Also Calshot Castle next door, a beach, a good place to watch cruise ships and cargo ships, plus a radar tower with a National Coastwatch Institute watch station.]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -1.3076932,50.8183867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Royal Victoria Country Park and Historic Hospital</name>
+        <description><![CDATA[Country Park on the site of old hospital used in WW1 by Florence Nightingale. Most of hospital burnt down in the 1960s. Chapel is left with a museum in it, plus tower access sometimes.<br><br>Miniature railway also there.]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -1.342678,50.868544,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Marmes Rockshelter
+</name>
+        <description>Submerged by accident.</description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -118.2021082,46.6145878,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wroxham Miniature Worlds</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.4100229,52.7160507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Barton House Railway</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.4084197,52.7075511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dounreay Nuclear Power Station Viewing Platform</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.7268972,58.5812506,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Museum of Berkshire Aviation</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.8828876,51.450561,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Amundsen-Scott South Pole Station</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0,-85.1000005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pylon Lookout</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            151.2095372,-33.8543819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Willamette Falls Scenic Viewpoint</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.6141992,45.3520634,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Miniature World</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -123.3669183,48.4223763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>33 Thomas Street / Long Lines building</name>
+        <description>Windowless skyscraper containing major communication exchange points, and the likely location of an NSA intercept hub codenamed TITANPOINTE. https://en.m.wikipedia.org/wiki/33_Thomas_Street</description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -74.006057,40.7165999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Marfa, Texas
+</name>
+        <description>A small town that has become a magnet for arts, culture, and eccentricity. A popular road trip stop. Good place to see an art car.</description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -104.0162228,30.3107005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mappa Mundi Ltd</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.7169624,52.0539805,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aberystwyth Cliff Railway</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.083905,52.422387,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Central Tramway</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.3984357,54.2810136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bridgnorth Cliff Railway Bottom Station</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.4175461,52.5341549,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hastings Cliff Railway - The West Hill Lift</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.5877279,50.855657,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hastings Cliff Railway - East Hill Lift</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.5947705,50.8563075,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Great Orme Cable Car</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.8529084,53.3328988,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Funikularea</name>
+        <description>Take the funicular up for a great view over San Sebastian</description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -2.0063229,43.3191306,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Pittock Block</name>
+        <description>Home of Portland’s internet exchange site. Many cables come ashore on the nearby coast, and many cloud-based companies have data centers in the Pacific Northwest, so it’s a larger interchange than you would expect for a mid-sized city. No tours that I know of.</description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.6803377,45.5214748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Portland Loo</name>
+        <description>Example of a heavily used Portland Loo, a distinctive kind of public toilet: https://en.wikipedia.org/wiki/Portland_Loo</description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.6785876,45.5239003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FAST Fiberglass Mold Graveyard</name>
+        <description>Bizarre place you can explore where they keep all the old fibreglass moulds from years gone by just lying around outside. Visit!</description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -90.782071,43.9689293,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>National Cold War Exhibition</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.3154729,52.6443268,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Royal Air Force Museum Midlands</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.3154025,52.64528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bennerley Viaduct</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.2978727,52.9895779,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gas Works Park</name>
+        <description>An unremarkable city park except it has a huge rusting gasworks in it.</description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3343532,47.6456308,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Point Reyes Lighthouse</name>
+        <description>Other interesting things on Point Reyes include sea lions.</description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -123.0231981,37.995608,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Redwood Valley Railway (Tilden Steam Train)</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2217674,37.8796359,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hythe Pier</name>
+        <description>Long pier out into Southampton Water. Has a railway running along it, and boat trips from the end to Town Quay in Southampton. Good place to watch ships leaving Southampton Docks.</description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -1.3992994,50.8706747,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Town Mill</name>
+        <description>Working flour mill</description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9338549,50.7255818,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Norman Lockyer Observatory</name>
+        <description>Astronomical observatory, regularly open to the public with lots of talks and observing evenings. The original owner discovered Helium on the Sun through spectroscopy.</description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -3.2196178,50.68787,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>San Andreas Fault
+</name>
+        <description>This stretch of 1, between Pt Reyes Station and Woodville, runs almost exactly along the San Andreas Fault. At any given moment the left wheels of your car might be on the Pacific Plate and the right wheels on the North American Plane.</description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.7692543,38.0161187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Abbotsbury Swannery</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.60228,50.655096,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vitra Slide Tower</name>
+        <description><![CDATA[<img src="https://doc-08-0c-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/71acgsgbqjlk7k23ijh3r9hqd0/1677463200000/uEc1z3PiLiW2OxNlCl-ou0C8FIjcGbx3/*/6AI-xGzxCnqO_0N1h0FjITQwXL5_VFggLlIdpTsLH-TQxeevk1Z20nCPEvxBC_516Vrcat90Up54RhHpQV8A8e9lYtetsWKNhnj3mSHXAc0JRp0DN46zWeYluYiezr-mhVsJx2CwTOpgu2lQ1vkJKDI3MDpD5vf7nQpPD7x1-eBflmmzlPUmUg-pZLeyWB_XNrWryRw?fife" height="200" width="auto" /><br><br>Tall free slide tower by Carsten Höller<br>https://www.vitra.com/en-be/about-vitra/campus/architecture/architecture-vitra-slide-tower]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://doc-08-0c-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/71acgsgbqjlk7k23ijh3r9hqd0/1677463200000/uEc1z3PiLiW2OxNlCl-ou0C8FIjcGbx3/*/6AI-xGzxCnqO_0N1h0FjITQwXL5_VFggLlIdpTsLH-TQxeevk1Z20nCPEvxBC_516Vrcat90Up54RhHpQV8A8e9lYtetsWKNhnj3mSHXAc0JRp0DN46zWeYluYiezr-mhVsJx2CwTOpgu2lQ1vkJKDI3MDpD5vf7nQpPD7x1-eBflmmzlPUmUg-pZLeyWB_XNrWryRw?fife</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            7.6148974,47.6020734,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Verner-Panton-Weg</name>
+        <description><![CDATA[<img src="https://doc-0c-0c-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/1uhgeb6c732lbo22rccqamo6og/1677463200000/uEc1z3PiLiW2OxNlCl-ou0C8FIjcGbx3/*/6AI-xGzyLCmRvGJfyjbHUM7rQZ9Yeyg9i5iDdINH8I5tYz6ebnExultgkljuKcz9JRpPo21ZcMfsqtKzUzAoWFOFpaGLk_KQlEMxhkw3DLimqiLjM1alTUFXrYiBbzzvNSFVLGFzA88tdMj7cAa8hH29MY4-APVi2MKCkQqLLSsg6_ucjasICoD51LyhKGyfzNUnTiQ?fife" height="200" width="auto" /><br><br>There's a really picturesque walk back to Basel, with modern art sculptures dotted on the landscape along the way.]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://doc-0c-0c-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/1uhgeb6c732lbo22rccqamo6og/1677463200000/uEc1z3PiLiW2OxNlCl-ou0C8FIjcGbx3/*/6AI-xGzyLCmRvGJfyjbHUM7rQZ9Yeyg9i5iDdINH8I5tYz6ebnExultgkljuKcz9JRpPo21ZcMfsqtKzUzAoWFOFpaGLk_KQlEMxhkw3DLimqiLjM1alTUFXrYiBbzzvNSFVLGFzA88tdMj7cAa8hH29MY4-APVi2MKCkQqLLSsg6_ucjasICoD51LyhKGyfzNUnTiQ?fife</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            7.6245848,47.6029969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Newport Transporter Bridge Visitor Centre</name>
+        <description>Currently closed until 2024. See https://www.newport.gov.uk/heritage/en/Transporter-Bridge/Transporter-Bridge.aspx for details.</description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9872161,51.5711407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jonty</name>
+        <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.700867,44.248102,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Museums / attractions</name>
+      <Placemark>
+        <name>London Transport Museum Depot</name>
+        <description>Open occasionally</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -0.2811468,51.5046007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>National Museum of Scotland</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.1905666,55.9469995,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Postal Museum</name>
+        <description><![CDATA[Not just a museum about post, but you can also ride on the 'mail rail' trains in the tunnels under London...]]></description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -0.113926,51.524751,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lacock Abbey and Photography Museum</name>
+        <description>National Trust property including the Fox Talbot photography museum</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -2.1171611,51.4146597,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The National Museum of Computing</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.7436958,51.998431,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bletchley Park</name>
+        <description>WWII codebreaking site and museum.</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -0.7406863,51.9976597,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Farnborough Air Sciences Trust Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.7534639,51.2822806,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Centre for Computing History</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.149001,52.207901,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>City of Norwich Aviation Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.2757992,52.68028,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>National Waterways Museum Gloucester</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.2525669,51.8617551,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Bressingham Steam Museum & Gardens]]></name>
+        <description><![CDATA[Includes Dad's Army museum!]]></description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            1.0555403,52.3844508,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RAF Air Defence Radar Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.4717326,52.7128097,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Canal Museum, Stoke Bruerne</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.914958,52.142497,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>National Waterways Museum Ellesmere Port</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.8919494,53.2879447,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Museum of Brands</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.2110215,51.5163012,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Hamilton Museum of Steam & Technology]]></name>
+        <description>Small place with a preserved steam-powered water pump.  Can get up and close to much of the beautifully preserved mechanisms.</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -79.7716998,43.2563766,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>San Francisco Cable Car Museum</name>
+        <description>Working plant that pulls the cable cars with good museum exhibits.  Take the cable car to get here!</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.4115074,37.7946366,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kempton Steam Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.4046461,51.4257533,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Monterey Bay Aquarium</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -121.9017919,36.618264,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brunel Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.052866,51.501591,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Royal Observatory Greenwich</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.0005002,51.476853,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centre for Alternative Technology</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.8393963,52.6237376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Evergreen Aviation & Space Museum
+]]></name>
+        <description>Most notably, resting place of the Spruce Goose.</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -123.1445744,45.2042951,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Columbia River Maritime Museum
+</name>
+        <description>The Columbia River is one of the world’s most economically important, but also has one of the most dangerous entrances. This museum is almost entirely historical, and covers interesting things like the lifeboat service. Well worth the stop.</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -123.8235949,46.1898725,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Whale Museum</name>
+        <description>It’s a museum about whales.</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -123.0172606,48.5357677,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Monte Solaro Chair Lift</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            14.2231951,40.5450765,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Romsey Signal Box</name>
+        <description>Lever-frame signal box and associated signals, points etc, all connected up to a simulator. Open on selected days see https://romseysignalbox.org.uk/</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -1.4908866,50.9918658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lalbagh Botanical Garden</name>
+        <description>Including Lalbagh Rock, some of the geologically oldest bedrock exposed within a major city anywhere in the world.</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            77.5847773,12.9507432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wight Aviation Museum</name>
+        <description><![CDATA[Aviation museum with various aircraft and related exhibits. Includes a Blue Streak missile, flight simulator connected to an actual aircraft etc. Cafe and lots of private plane flying.<br><br>https://wightaviationmuseum.org.uk/]]></description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -1.1797766,50.6552281,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Columbia Gorge Discovery Center & Museum]]></name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -121.2104392,45.6544055,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bournemouth Aviation Musem</name>
+        <description><![CDATA[Lots of aircraft and parts of aircraft, and you can get inside most of the cockpits! Also a bus, fire engine etc, plus general museum exhibits. Right next to the airport so you can see landings/take-offs.<br><br>https://www.bamhurn.org/]]></description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -1.8426753,50.7759157,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Didcot Railway Centre</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.2426326,51.6109229,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Amberley Museum</name>
+        <description><![CDATA[Fascinating museum with exhibits including crafts, printing, buses, narrow gauge railway, telephones (including working telephone exchanges!) and more.<br><br>https://www.amberleymuseum.co.uk/]]></description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -0.5395424,50.8973975,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Point Defiance Zoo & Aquarium]]></name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.5216575,47.3049533,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hovercraft Museum</name>
+        <description><![CDATA[The world's only museum of hovercraft. Lots of craft to view and/or go inside - including the only remaining SRN-4 - a car-carrying hovercraft that went across the channel. <br><br>https://www.hovercraft-museum.org/]]></description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -1.2100531,50.8076229,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bursledon Brickworks Museum</name>
+        <description><![CDATA[Historic brickworks museum. Has multiple narrow gauge/miniature railways, and has steam open days where traction engines etc visit.<br><br>https://thebrickworksmuseum.org/]]></description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -1.2877293,50.8837983,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Arizona-Sonora Desert Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -111.168174,32.244013,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bembridge Lifeboat Station</name>
+        <description><![CDATA[RNLI lifeboat station, with boat launched down a slipway. Station open regularly, and they allow visitors in to watch their practice launches once a week.<br><br>https://bembridgelifeboat.org.uk/]]></description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -1.0705399,50.6902554,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Anderton Boat Lift</name>
+        <description><![CDATA[Restored boat lift, still used to lift canal boats from one canal to another. Museum and visitor's centre, plus canal boat trips (including up and down the lift).<br><br>https://canalrivertrust.org.uk/places-to-visit/anderton-boat-lift-visitor-centre]]></description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -2.5298668,53.2737307,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jodrell Bank</name>
+        <description><![CDATA[Large radio telescope, plus smaller telescopes. Visitors centre and museum.<br><br>https://www.jodrellbank.net/]]></description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -2.3067222,53.2368656,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SS Great Britain</name>
+        <description><![CDATA[Brunel's steam ship, with museum plus access to the ship. Very good accessibility, with lifts inside the ship. Museum, plus events. You can even climb the rigging!<br><br>https://www.ssgreatbritain.org/]]></description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -2.6077641,51.448994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aerospace Bristol</name>
+        <description><![CDATA[Aviation museum with lots of aircraft, other displays, and a Concorde.<br><br>https://aerospacebristol.org/]]></description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -2.5781971,51.5232224,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Pima Air & Space Museum]]></name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -110.8687032,32.1389616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>STEAM - Museum of the Great Western Railway</name>
+        <description><![CDATA[Great Western Railway museum in the old works in Swindon.<br><br>https://www.steam-museum.org.uk/]]></description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -1.7947202,51.5625437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Titan Missile Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -110.9992833,31.9027417,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Connections Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3231874,47.5408566,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shoreham Airport</name>
+        <description><![CDATA[Working airport, with museum and exhibits. Some special open days.<br><br>https://flybrighton.com/]]></description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -0.2936501,50.837106,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Maryhill Museum of Art</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -120.864762,45.6775953,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twyford Waterworks</name>
+        <description>Victorian pumping station and museum. Has open days when the boilers are fired up and other exhibits are there.</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -1.2990775,51.0212084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Klondike Gold Rush National Historical Park</name>
+        <description>Seattle was the main departure point for people looking for gold in Alaska. This museum therefore gets into the supply chains, etc.</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3317758,47.5993238,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hiram M. Chittenden Locks (Ballard)</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3971838,47.6655043,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Croome Court</name>
+        <description>National Trust property with historic house and gardens, BUT also includes museum of RAF Croome where lots of radar systems developed nearby at RSRE Malvern were tested.</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -2.1695916,52.0999623,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Buffalo Bayou Park Cistern</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -95.3760063,29.7624224,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5th shaft, Metropolitan Area Outer Underground Discharge Channel</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.7471384,35.9929899,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Miniatur Wunderland</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.989073,53.5438692,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Churchill War Rooms</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.1293572,51.5021585,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rotherhithe Tunnel Shaft</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.0445397,51.5104835,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Rotherhithe Tunnel Ventilation Shaft 3</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.0483871,51.5085405,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Crossness Pumping Station</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.1381945,51.5088757,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Croydon Airport Visitor Centre</name>
+        <description>Visitor centre for former airport in Croydon. Open first Sunday of the month. https://www.historiccroydonairport.org.uk/</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -0.1172222,51.3563889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Chabot Space & Science Center]]></name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.1807217,37.8187474,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[London Museum of Water & Steam]]></name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.2896213,51.4887729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Battle of Britain Bunker</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.4644559,51.5408513,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hack Green Secret Nuclear Bunker</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.5305216,53.0272407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kelvedon Hatch Secret Nuclear Bunker</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.2556948,51.6723959,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Helicopter Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.931193,51.339246,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clifton Suspension Bridge</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.6278553,51.4549089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hōheikyō Dam</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            141.1534583,42.915709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sapporo City Sewage Science Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            141.3426091,43.1169993,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dover Castle and Tunnels</name>
+        <description>Dover Castle (fairly standard castle), but also the tunnels inside the White Cliffs which were used to control troop movements on D-Day (amongst other things).</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            1.3234552,51.1294413,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Solent Sky</name>
+        <description>Aviation museum. Has a massive sea plane you can go inside - including into the cockpit if you ask nicely.</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -1.3933403,50.8978142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rådhuset T-bana</name>
+        <description>All the blue line stations are carved out of the bedrock and decorated by local artists</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            18.0459317,59.3312391,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lake Pontchartrain Causeway</name>
+        <description><![CDATA[The longest continuous bridge over water. It's 24 miles long!]]></description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -90.124117,30.1927998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Museum of Flight
+</name>
+        <description>Very Boeing-centric for obvious reasons but well worth it.</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2964894,47.5186185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Museum of History & Industry (MOHAI)]]></name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3365631,47.6275253,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Royal BC Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -123.3674497,48.4198111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cle Elum Telephone Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -120.9350954,47.19463,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>USS Blueback
+</name>
+        <description>Submarine tour. There’s a daily 45 minute tour and a twice-monthly multi-hour technical tour. Part of OMSI (the family-oriented science museum); check omsi.edu for schedule and tickets.</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.6668602,45.5077536,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grand Coulee Dam
+</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -118.9862298,47.9605397,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Deception Pass
+</name>
+        <description>Spectacular bridge view over a pass with very strong tidal currents. The best angle is from the beach to its SW.</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.6446632,48.4072099,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oso Landslide memorial
+</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -121.842614,48.2765038,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Udvar-Hazy (National Air & Space Museum)
+]]></name>
+        <description>Top-tier aviation museum. Many docents were engineers on the exhibits.</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -77.444255,38.9106856,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>National Postal Museum
+</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0082146,38.8982295,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jet Age Museum</name>
+        <description><![CDATA[Various aircraft, some of which you can get into the cockpits of.<br><br>https://jetagemuseum.org/]]></description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -2.1748141,51.8964774,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Dalles Google Data Center</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -121.2010282,45.6319052,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Industrial Gas Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.7132647,37.9773484,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Warsaw Gasworks Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            20.9672449,52.226403,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>York Cold War Bunker</name>
+        <description>Amazingly, it is actually wheelchair accessible!</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -1.1167915,53.9568797,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thackray Museum of Medicine</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.518575,53.8082167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>National Railway Museum York</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.096366,53.9605467,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>York Castle Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.0783677,53.9552439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Clifford's Tower, York]]></name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.07994,53.95582,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JORVIK Viking Centre</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.0803002,53.9574083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DIG: An Archaeological Adventure</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.0780252,53.9595719,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Yorkshire Air Museum & Allied Air Forces Memorial]]></name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.9656852,53.9253701,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fort Nelson</name>
+        <description>Good wheelchair accessibility. Nice tunnels! Live firing demonstrations sometimes!</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -1.1388334,50.8608518,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>National Motor Museum, Beaulieu</name>
+        <description>Has a monorail!</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -1.4540761,50.8246692,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Foynes Flying Boat & Maritime Museum]]></name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -9.1098398,52.6115726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Manchester Airport Runway Visitor Park</name>
+        <description>Various aircraft to see including Concorde, plus viewing aircraft at the airport</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -2.2845275,53.3535458,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kelham Island Museum</name>
+        <description><![CDATA[Interesting museum about steel making. Also has a wonderful (small) kid's softplay area based around steel making, with soft-play Bessemer converters and so on!]]></description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -1.4725166,53.3895673,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>National Space Centre</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.1315871,52.6536853,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Abbey Pumping Station Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.1306925,52.6549794,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>British Motor Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.481111,52.1888991,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coventry Transport Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.5092179,52.41082,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Isle of Wight Bus and Coach Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.153973,50.725861,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Riverside Museum</name>
+        <description><![CDATA[Transport and other things museum. Has a wall of cars that looks like they are toy cars, but they're actually real!]]></description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -4.3062062,55.865103,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Royal Yacht Britannia</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.1772521,55.9821554,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Falkirk Wheel</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.8416667,56.0003318,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Museum on the Mound - Bank of Scotland museum</name>
+        <description>Museum of money!</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -3.1929781,55.9501987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bank of England Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.087613,51.514166,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>San Francisco Railway Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3935533,37.7938256,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Niagara Parks Power Station</name>
+        <description>Early hydroelectric power plant preserved as a museum.  There is an elevator down the path that water would have flowed and a walk out to the base of Niagara falls to one of the best viewpoints of the falls.</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -79.0792878,43.075022,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Niagara Power Vista
+</name>
+        <description>Platform overlooking the niagara river gives a great view of two hydroelectric power plants on both sides of the river.  The museum has kid-friendly interactive exhibits.  Free museum, also free EV charging</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -79.0389849,43.1404619,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Toronto Railway Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.385949,43.64072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Great Cockcrow Railway</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.5251695,51.3851809,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Canadian Canoe Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -78.3303465,44.287959,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Railway Museum of Eastern Ontario</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -76.028393,44.901671,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Canadian Railway Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -73.5647593,45.375353,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beauharnois Power Plant - Interpretation Center</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -73.9010585,45.3128596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Computer History Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.077409,37.4142744,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>USS Midway Museum</name>
+        <description>Aircraft carrier with lots of aircraft onboard</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -117.1751265,32.7137398,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Maritime Museum of San Diego</name>
+        <description>Several preserved ships of different eras</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -117.1739873,32.7209355,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eden Project, Cornwall</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.7435967,50.3605397,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Surgeons' Hall Museums]]></name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.1852781,55.9466549,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Old Operating Theatre Museum and Herb Garret</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.0885991,51.5050283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Royal Berkshire Medical Museum</name>
+        <description>See https://berksfhs.org/the-royal-berkshire-medical-museum-and-archive/#:~:text=The%20Museum%20is%20open%20to,below%20for%20specific%20archival%20enquiries.</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -0.9581844,51.4492924,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Museum of Jurassic Technology</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -118.395063,34.0258837,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Intrepid Sea, Air & Space Museum]]></name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -73.9996076,40.7645266,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alcatraz Island</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.4230122,37.8266636,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Halton County Radial Railway Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.1132939,43.5794081,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Smithsonian National Air and Space Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0198679,38.8881601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>National Cryptologic Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -76.7747575,39.1148399,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Portmeirion North Wales</name>
+        <description>Bonkers weird town, as seen in famous film The Prisoner</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -4.0989495,52.9134329,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>National Trust - Bembridge Windmill</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.0956535,50.6833812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Maritime Museum</name>
+        <description>A very small museum. One of the more interesting things in a rather over-touristy area.</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.4238931,37.8063433,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Royal Navy Submarine Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.119596,50.7882151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Ironbridge Gorge Museum Trust Head Office</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.4925273,52.6392149,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Museum of Cider</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.7263959,52.0561887,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Bekonscot Model Village & Railway]]></name>
+        <description>Has a full size signal box, with a mini electrical lever frame</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -0.6453315,51.613103,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Foxton Locks</name>
+        <description>Staircase locks and museum for the locks and the inclined plane that used to be here (remains still visible)</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -0.9829568,52.4998505,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Big Pit National Coal Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.1045674,51.7725125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St. Fagans National Museum of History</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.2723611,51.487203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sizewell B Visitor Centre</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.616333,52.2175733,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RNLI Henry Blogg Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.3042118,52.9311887,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RNLI Barry Island Visitors Centre and Shop</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.2758345,51.39106,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Great Orme Tramway - (Victoria, Station)</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.8355936,53.3272558,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Marquess of Anglesey's Column]]></name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.1967073,53.2208662,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>San Diego Zoo</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -117.1509849,32.7360353,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Portmeirion</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.0973316,52.9144986,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Woodland Park Zoo</name>
+        <description>A notably good zoo – a cut above the average city’s.</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3508786,47.668436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inigo Jones Slate Works</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.283915,53.070308,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>National Slate Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.1152142,53.1214023,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Deutsches Museum</name>
+        <description>The High Voltage demos are great!</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            11.5834522,48.1298707,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stuttgart TV Tower</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.1901056,48.7558602,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Österreichische Mediathek</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            16.348813,48.1923637,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>First dawn redwood (Metasequoia glyptostroboides) to grow in the Western Hemisphere in 5+ million years
+</name>
+        <description>Pin location is not exact – look for a small sign.</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.7171639,45.5174887,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Port Museum of Dunkirk</name>
+        <description>They do boat tours of the docks</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            2.3718935,51.0377684,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Museum Dunkerque 1940 Operation Dynamo</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.3812714,51.0461133,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>National Trust - The Needles Old Battery and New Battery</name>
+        <description>Defensive position plus site used for rocket testing</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -1.5833048,50.6628143,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Army Flying Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.5721239,51.1503584,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Tank Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.243119,50.6949825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SeaCity Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.4076044,50.908159,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Victoria Bug Zoo</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -123.3666683,48.4232996,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Musée Aeroscopia</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.3605989,43.6601453,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Airbus Factory Tours</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.3593774,43.6597154,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Royal Navy Fleet Air Arm Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.6371345,51.0150235,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>M Shed</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.5982372,51.4476479,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Musical Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.293257,51.4878533,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The MAD Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.7070282,52.1931177,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>History of Science Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.2554139,51.7542879,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Enigma Museum for post, telecommunications and communication</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            12.5748875,55.6998433,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bate Collection of Musical Instruments</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.2558809,51.7486777,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brooklands Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.464345,51.354512,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>de Young Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.4686755,37.771469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>London Bus Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.4640918,51.3559746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>De Havilland Aircraft Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.271759,51.7109104,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Mountfitchet Castle & Norman Village]]></name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.201252,51.9021458,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Barrow Hill Roundhouse Railway Centre</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.3820685,53.2744731,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Locomotion</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.6309604,54.6242653,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sewer Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.3388424,50.844625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Windermere Jetty Museum - Stories of boats and steam</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9219195,54.3708152,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Beacon Museum - includes Sellafield Story</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.594663,54.5486798,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vilnius TV Tower</name>
+        <description>Observation deck and rotating floor with cafe and a small museum</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            25.2146475,54.6871372,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Gressenhall Farm & Workhouse]]></name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.921209,52.714846,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Buckinghamshire Railway Centre</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.928548,51.864755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Museum of the Broads</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.5164996,52.7676219,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seething Control Tower Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.4143165,52.5074913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stalham Firehouse Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.5168181,52.7714871,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>London Canal Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.1200561,51.5342376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lizard Lighthouse</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.2021471,49.9601971,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>World of Coca-Cola</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.392436,33.7625564,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>National Maritime Museum Cornwall</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.0614008,50.1514484,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Underground Passages</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.5269472,50.7251167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pecorama</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.100564,50.697455,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beer Quarry Caves</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.113528,50.6988633,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seaton Tramway</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.0678925,50.7051638,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Blue John Cavern</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.8036044,53.3455317,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Battle Of Britain Memorial Flight Visitors Centre</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.1795427,53.0970907,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Holyhead Maritime Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.6357067,53.3167726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Anglesey Transport Museum & Café - Tacla Taid]]></name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.3480982,53.1737524,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Herschel Museum of Astronomy</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.3669444,51.3825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Museum Cemento Rezola</name>
+        <description>Museum for this cement factory. Kind of cool, but not a long visit. I think the factory does real tours twice a year.</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -2.0003462,43.2853906,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Museum of Bath at Work</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.3624417,51.3881469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Britannia Mine Museum</name>
+        <description>Copper mine museum with a mine train ride, taking you into a mine tunnel into the side of a mountain</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -123.2044606,49.6235711,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dynamic Earth</name>
+        <description>Mining-focused science museum featuring an underground mine tour</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -81.0337278,46.4741806,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>National Mustard Museum</name>
+        <description>Quirky small museum for all things mustard.</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -89.5112372,43.0952858,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Noguchi Museum</name>
+        <description>Relaxing museum for Naguchi (sculpter)</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.9380539,40.766813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TWA Terminal</name>
+        <description>Famous 60s curvy airport terminal. Now restored and a hotel.</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.7776757,40.6457157,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dia Beacon</name>
+        <description>Modern art museum. Makes a lovely day (rail) trip from NY</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.9825664,41.5000753,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Espace 67</name>
+        <description><![CDATA[Park and museum. The main attraction is the huge biosphere you can walk around.<br><br>Makes for a nice afternoon.]]></description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.5339496,45.5110457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pacific Pinball Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2766427,37.7737977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Exploratorium</name>
+        <description>Awesome science museum filled with only interactive exhibits. Great for kids but also for adults (adults only evenings are fun)</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.397348,37.8016649,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MAAT</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -9.1944529,38.6959278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Harvard Museum of Natural History</name>
+        <description><![CDATA[Especially visit the wing for the glass flowers - they're amazing!<br>https://hmnh.harvard.edu/glass-flowers]]></description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -71.1155576,42.3784626,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hayward Fault creep
+</name>
+        <description>If you’re visiting the Bay Area and want to see some realtime effects of the spicy geology, the cracks in the asphalt near the bathroom entrances here come from the fault moving since it was laid down.</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2274768,37.8440834,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Museum Tinguely</name>
+        <description>Awesome museum by quirky animated sculptor</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            7.612257,47.5591157,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vitra Design Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.6189167,47.6016618,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hurst Castle</name>
+        <description><![CDATA[Castle on the end of a spit into the Solent. Has typical castle things, plus museums, including a lighthouse and lightkeepers museum.<br><br>You can walk down the spit, drive down the spit, or catch a boat.]]></description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -1.5511577,50.7064542,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vulcan Restoration Trust</name>
+        <description>View a RAF Vulcan bomber - in partial working order (it can taxi at least)</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            0.6934602,51.5688501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mexicable</name>
+        <description>Aerial tramway.</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -99.0588773,19.5402398,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ramsgate Tunnels</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.4265439,51.3344721,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Victoria Tunnel Tours (advance booking essential)</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.5905251,54.9725933,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Standedge Tunnel & Visitor Centre - Canal & River Trust]]></name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.9414913,53.6039973,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Historic Dockyard Chatham</name>
+        <description>Includes various ships, a submarine you can go on-board (HMS Ocelot) and more.</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            0.5289683,51.3971021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>National Trust South Foreland Lighthouse</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.3711178,51.1404621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>East Anglia Transport Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.6875115,52.452483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>East Anglian Railway Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.7587805,51.9260301,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dover Transport Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.2904581,51.1500609,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Museum of Transport, Greater Manchester</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.233625,53.503025,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gatwick Aviation Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.2162801,51.1526876,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wings Aviation Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.1684524,51.0602262,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>East Midlands Aeropark</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.3476944,52.8323506,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shuttleworth Collection</name>
+        <description>Vintage cars and aeroplanes and more</description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -0.3009795,52.075765,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oxford Bus Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.370665,51.8240561,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ulster Aviation Society</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -6.1130484,54.4910261,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Transport Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.614856,51.518169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dundee Museum of Transport</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9491916,56.4663299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grampian Transport Museum</name>
+        <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.7015057,57.2331848,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thuy Tien lake Abandoned Water Park</name>
+        <description><![CDATA[Abandoned water park and amusement rides.<br><br>Not technically open to the public, but you can ride your moped there and around the site. When I visited there was just a single security guy who spent his entire day chasing 20+ tourists around the site. Fun!<br><br>https://www.google.com/maps/place/Thuy+Tien+lake+Abandoned+Water+Park/@16.4079295,107.5785719,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOp5LGCdke3ymZ0wt2Mf0r2StpSlpPSzj7AGVaS!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOp5LGCdke3ymZ0wt2Mf0r2StpSlpPSzj7AGVaS%3Dw114-h86-k-no!7i2000!8i1498!4m6!3m5!1s0x3141a3896808b883:0x5fa12839c5dd3542!8m2!3d16.4079295!4d107.5785719!16s%2Fg%2F11cjk28cnb]]></description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            107.5785719,16.4079295,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[God's Own Junkyard]]></name>
+        <description><![CDATA[A museum / collection of neon signs, located on a east London industrial park, which might make it a bit hard to find. It's not a large space, but they managed to fit a lot of signs into it. It's next to a small brewery with outside seating, if that's your cup of tea.]]></description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -0.008324,51.583976,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>British Waterways Kerr Cup Pile Driving Competition Prize Length of Piling 1959</name>
+        <description><![CDATA[<img src="https://doc-08-0c-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/fkpoog8bi47ru904brqgil0e4c/1677463200000/uEc1z3PiLiW2OxNlCl-ou0C8FIjcGbx3/*/6AI-xGzwvjq3-wSAIYW_PAY4KVsymcfcP1MGANFCji12XLDNjr1eptxYcfLs6jlcYDNVsn9i3w05lDg-76S9NDKFOgdVUqjcVRCp1Bw5xGEsL3wUbYIExxlXds7Cra2pNA5jdgdlBCuoPMPxpJqGOqrhIwBWJr_K9mp3KqEXYuCtweetWs8oKTyyV5W0hsqdk20bcPA?fife" height="200" width="auto" /><br><br>Unclear exactly what the prize was for, but it is unusual, and this is a length of piling. https://www.blipfoto.com/entry/3137047]]></description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://doc-08-0c-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/fkpoog8bi47ru904brqgil0e4c/1677463200000/uEc1z3PiLiW2OxNlCl-ou0C8FIjcGbx3/*/6AI-xGzwvjq3-wSAIYW_PAY4KVsymcfcP1MGANFCji12XLDNjr1eptxYcfLs6jlcYDNVsn9i3w05lDg-76S9NDKFOgdVUqjcVRCp1Bw5xGEsL3wUbYIExxlXds7Cra2pNA5jdgdlBCuoPMPxpJqGOqrhIwBWJr_K9mp3KqEXYuCtweetWs8oKTyyV5W0hsqdk20bcPA?fife</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.33778,51.4991539,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Industry</name>
+      <Placemark>
+        <name>LIGO Hanford
+</name>
+        <description>Public and private tours: https://www.ligo.caltech.edu/WA/page/lho-tours-and-events</description>
+        <styleUrl>#icon-1899-757575-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -119.4072667,46.4551783,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Palm Springs Windmill Tours</name>
+        <styleUrl>#icon-1899-757575-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -116.5669125,33.9077982,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fort Worden
+</name>
+        <description>Built to control the entrance to Puget Sound; long retired as an active installation. Unusually dangerous for a place open to the public – lots of unlit underground corridors, etc.</description>
+        <styleUrl>#icon-1899-757575-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.7663948,48.1413645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>San Luis Reservoir
+</name>
+        <description>Good visitor center.</description>
+        <styleUrl>#icon-1899-757575-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.0978734,37.0804792,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Moss Landing Power Plant
+</name>
+        <description>Large natural gas power plant, now site of a very large grid battery.</description>
+        <styleUrl>#icon-1899-757575-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.782137,36.8063823,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cajon Pass
+</name>
+        <description>Major chokepoint for freight to and from the LA area; attractions include excellent trainspotting. (Point placement is general – refer to local advice for best trainspotting areas.)</description>
+        <styleUrl>#icon-1899-757575-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -117.44142,34.2445639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Biosphere 2</name>
+        <styleUrl>#icon-1899-757575-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -110.8513627,32.5784467,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Crescent Dunes
+</name>
+        <description>Large concentrated solar plant</description>
+        <styleUrl>#icon-1899-757575-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -117.3644791,38.2399102,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Krafla</name>
+        <description>Besides the really cool landscape, the geothermal industrial buildings around here are cool. Including geodesic domes!</description>
+        <styleUrl>#icon-1899-757575-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -16.7544199,65.7171196,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Historic / ruins / structures</name>
+      <Placemark>
+        <name>Trent-Severn Waterway, Lock 21 - Peterborough Lift Lock</name>
+        <description><![CDATA[For years was the tallest lift-locks in the world.  Lovely parklands around too, nice place to stop if you're in the area]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -78.3005704,44.3076708,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Berkeley Pit Viewing Stand</name>
+        <styleUrl>#icon-1899-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -112.5183281,46.0112395,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Museo della Carta</name>
+        <styleUrl>#icon-1899-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            14.5997867,40.6396068,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cliff Palace</name>
+        <styleUrl>#icon-1899-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -108.473217,37.1669064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Maunsell Forts</name>
+        <description>WWII giant iron forts in the English channel. Needs a private boat to get to them.</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            1.0293125,51.4269375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ruins of RAF Stoney Cross</name>
+        <description>Ruins of old WW2 airfield in the New Forest. Lots of bits of taxiways and runways available (look on satellite view), old lighting structures etc. The main runway is now the suspiciously straight road. Lots of pleasant New Forest scenery, plus ice cream vans, and local ponds/lakes.</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -1.6625997,50.9141816,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ramsgate Hoverport Remains
+</name>
+        <description><![CDATA[Only the tarmac left - so probably not worth visiting unless you're in the area anyway]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            1.3726555,51.3265922,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Manzanar National Historic Site</name>
+        <description>WWII Japanese-American “internment” camp</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -118.1482456,36.7274747,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Manhattan Project National Historical Park - B Reactor</name>
+        <styleUrl>#icon-1899-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -119.6473329,46.6303262,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nevada Northern Railway Museum</name>
+        <styleUrl>#icon-1899-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -114.8690338,39.2593307,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Old Plank Road</name>
+        <styleUrl>#icon-1899-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -114.9222667,32.7103263,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Euro Banknote Bridges</name>
+        <description>The bridges shown on Euro bank notes were fictional, but in various European styles. An art project then actually built the bridges pictured.</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            4.3405437,51.8497222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ribblehead Viaduct</name>
+        <styleUrl>#icon-1899-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.370284,54.2106638,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dungeness Sound Mirrors</name>
+        <description><![CDATA[Used before radar to hear aircraft approaching from a long way away.<br><br>Makes a great day trip.<br><br>Only open on open days a few times a year.]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            0.9540529,50.9564027,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Park of the Aqueducts</name>
+        <styleUrl>#icon-1899-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            12.5574572,41.8503929,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Southend Pier</name>
+        <description>Longest pier in the UK, plus a railway running down the pier</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            0.7213401,51.5169805,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Spiral Jetty</name>
+        <styleUrl>#icon-1899-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -112.6688659,41.4376786,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Casa Grande Ruins National Monument</name>
+        <styleUrl>#icon-1899-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -111.5325468,32.9974176,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Museum of the Canals</name>
+        <styleUrl>#icon-1899-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.886253,52.3678987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>REM - Restaurant | Bar | Rooftop</name>
+        <description><![CDATA[A restaurant & bar on a former oil rig platform]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            4.8832333,52.3987225,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ocean Star Offshore Drilling Rig and Museum</name>
+        <styleUrl>#icon-1899-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -94.7917377,29.3104255,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Trinity Site</name>
+        <styleUrl>#icon-1899-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -106.4752871,33.6772929,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>San Juan Island NHP, English Camp Visitor Center</name>
+        <description>One of two sites documenting the Pig War, a US/UK border dispute.</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -123.1507405,48.5867524,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Airmail Navigation Arrow</name>
+        <styleUrl>#icon-1899-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -115.8313412,35.3996298,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fantoft Stave Church</name>
+        <styleUrl>#icon-1899-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            5.35329,60.3393031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Viking Ship Museum</name>
+        <styleUrl>#icon-1899-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.6844075,59.9049448,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Drammen Spiral</name>
+        <styleUrl>#icon-1899-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.2008964,59.7521483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R.C. Harris Water Treatment Plant</name>
+        <description><![CDATA[Art-deco water treatment plant on the waterfront.  Open to the public only once a year during Doors Open, but the outside is still nice if you're at the nearby beach.]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -79.2789182,43.6734074,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Great Sphinx of Giza</name>
+        <styleUrl>#icon-1899-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            31.1375674,29.9752687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Great Pyramid of Giza</name>
+        <styleUrl>#icon-1899-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            31.1342019,29.9792345,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Spinnaker Tower</name>
+        <styleUrl>#icon-1899-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.1085171,50.7955752,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Portchester Castle</name>
+        <description>Great views of Portsmouth Harbour</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -1.1147381,50.8376105,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>UNESCO-Welterbe Zollverein</name>
+        <description>Massive site of abandoned coal mine. Lots of rusting steel structures to explore. Take the full day!</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            7.0439172,51.4877427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Southampton Civic Centre Clock Tower</name>
+        <description>Tours usually listed on https://seacitymuseum.co.uk/whats-on/</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -1.4065146,50.9075829,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CN Tower</name>
+        <styleUrl>#icon-1899-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.3870568,43.6425662,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Danube Tower</name>
+        <styleUrl>#icon-1899-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            16.4098739,48.2403447,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pompeii Ruins</name>
+        <styleUrl>#icon-1899-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            14.4818328,40.7480839,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Greenham Control Tower and Cafe</name>
+        <description>Museum in the control tower about the history (including the peace camp), plus restored control room to look out over the airport.</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -1.2842648,51.3821926,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Acle Bridge</name>
+        <description>Exceptionally low bridge, always good fun to watch boats going through</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            1.5676791,52.6489878,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pont de Normandie</name>
+        <styleUrl>#icon-1899-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.2742406,49.4306078,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>York Minster</name>
+        <description>Go down into the crypt and see the underpinning that they had to do to stop it sinking further into the ground. Tower tours also available.</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -1.0819205,53.9623292,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Laugharne Castle/ Castell Talacharn</name>
+        <styleUrl>#icon-1899-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.4619368,51.7696222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Menai Bridge Viewpoint</name>
+        <styleUrl>#icon-1899-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.1836345,53.2224862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Montparnasse Tower</name>
+        <description><![CDATA[Observation deck at the top of a very tall tower. Good views of the Eiffel Tower.<br><br>See https://www.tourmontparnasse56.com/fr/]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            2.3219514,48.8421379,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Solheimasandur Plane Wreck</name>
+        <description>Instagram famous wreck of a plane. Cool to visit if you can spare the time. At least an hour walk each way.</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -19.364789,63.459104,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Habitat 67</name>
+        <description><![CDATA[Cool jenga style 60s apartment block. You can't go inside, but you can wander around the outside.]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.5437127,45.4998316,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pontcysyllte Aqueduct</name>
+        <description>Nice canal basin/boat yard at one end, with a little shop for ice creams etc. One of the cottages alongside the canal is a holiday cottage which is a nice place to stay.</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -3.0877879,52.9704262,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Walthamstow Pumphouse Museum</name>
+        <description><![CDATA[This used to be a sewage pumping station, and is now being run as a museum by a group of (mostly elderly) hobbyist, who are more than happy to explain all the details. They do run the machines on certain days (mostly Sundays), using compressed air instead of steam. Don't expect to spent more than half an hour here, it's not very big. Last I checked they were also working on a model rail replicate of the old Walthamstow Street Station.]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -0.0349438,51.5770337,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Middlesex Filter Beds Nature Reserve</name>
+        <description><![CDATA[A historic sewage treatment site that has been turned into a nature reserve and park. The center-piece is a round filterbed where each side is in a different state of 're-wilding'. 1-2 hours max, can get quite busy on nice days. You can combine it with a stroll along the canal towards the Olypmic park.]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -0.0400376,51.560682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hackney Power Station
+</name>
+        <description>Historic power station, which is now a waste depot/car park. You can see one wall of what used to be a massive hall from the canal bridge, the other walls and the roof are gone. </description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -0.0400515,51.5586709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Nature</name>
+      <Placemark>
+        <name>Crater Lake</name>
+        <description>Rightly famous for its spectacular, panoramic view of an extremely deep volcanic lake at elevation. Well worth the trip if you’re in the area.</description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.119383,42.9370052,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Henry M. Jackson Memorial Visitor Center</name>
+        <styleUrl>#icon-1899-558B2F-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -121.7367888,46.7858833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Samphire Hoe Country Park</name>
+        <description>Made out of spoil from construction of the Channel Tunnel! Can see some tunnel infra here.</description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            1.2758512,51.1050411,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hoh Rain Forest Visitor Center</name>
+        <styleUrl>#icon-1899-558B2F-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -123.9348331,47.8608804,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ape Cave Interpretive Site</name>
+        <description>World’s best cross-country underground hike.</description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2116892,46.1079101,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Meteor Crater Visitor Center</name>
+        <styleUrl>#icon-1899-558B2F-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -111.021641,35.0331777,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Johnston Ridge Observatory</name>
+        <description>The best place to see Mt St Helens without climbing it.</description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2172115,46.2752687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Goleta Monarch Butterfly Grove at Ellwood Mesa</name>
+        <styleUrl>#icon-1899-558B2F-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -119.8907485,34.4229047,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Death Valley National Park Information Area</name>
+        <styleUrl>#icon-1899-558B2F-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -116.9779619,36.7241912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Patriarch Grove</name>
+        <styleUrl>#icon-1899-558B2F-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -118.1977588,37.5271986,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Muir Woods Visitor Center</name>
+        <description>A way to see redwoods in a natural environment. Tends to be busy, so check ahead to make sure of parking. Played a small catalyzing rôle in the foundation of the United Nations: https://www.parksconservancy.org/article/fdr-memorial-75-years-ago-muir-woods-showed-its-healing-power</description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.5724979,37.8928503,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ernest F. Coe Visitor Center</name>
+        <description>Modest but good introduction to the Everglades.</description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -80.5830722,25.3953191,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Not open to public</name>
+      <Placemark>
+        <name>Dungeness B Power Station</name>
+        <description>No public access - can be seen from all around Dungeness</description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            0.9596944,50.9138436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Northam Traincare Facility</name>
+        <description>Depot for South Western Railway trains. Occasional open days.</description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -1.3910345,50.9134034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Goonhilly Earth Station</name>
+        <description>Lunar and Deep Space Communications</description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -5.1810449,50.0481728,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thames Valley Signalling Centre</name>
+        <description>Private but I managed a tour by knowing the right person...</description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -1.2483216,51.6149188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Boston Lodge Works (Ffestiniog Railway)</name>
+        <description>Nominally private, but often will let you look round if you ask nicely.</description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -4.1070031,52.9193957,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fawley Oil Refinery</name>
+        <description><![CDATA[There used to be tours of the refinery, but I can't see any info online about them any more.]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -1.3719055,50.8361705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Steamship Shieldhall</name>
+        <description>Tours available fairly regularly, plus boat trips around the solent</description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -1.442086,50.908194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>King George V Dry Dock</name>
+        <description>Was the largest dry dock in the world when it was built. Included in tours of the docks that are run sometimes.</description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -1.4419592,50.9095563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>UMore Park Abandoned Munitions Plant</name>
+        <description><![CDATA[Abandoned WWII site. Not open to public, but possible to walk through woods to get there. Creepy!<br><br>https://www.atlasobscura.com/places/umore-park]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -93.0863,44.7196,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RNAS Culdrose Public Viewing Area</name>
+        <description>Used to be coach tours of the station, seem to have stopped now</description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -5.2391049,50.0829334,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Airbus UK East Factory</name>
+        <styleUrl>#icon-1899-BDBDBD-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9759988,53.1742612,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BT Madley Satellite Communications Centre</name>
+        <styleUrl>#icon-1899-BDBDBD-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.8415915,52.0316505,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hakai Institute</name>
+        <styleUrl>#icon-1899-BDBDBD-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -128.1307678,51.6545562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Deer Island Wastewater Treatment Plant</name>
+        <description>Sewage treatment plant. Runs occasional tours. Cool view from the egg digestors!</description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -70.9578286,42.3513861,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fire Service College</name>
+        <description>Includes the M96 fake motorway, used for training by firefighters and other agencies.</description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -1.6756694,51.992479,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dollands Moor Freight Yard</name>
+        <description>Freight yard used for freight going through the Channel Tunnel</description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            1.0999262,51.0918586,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Power House #2, near Snoqualmie Falls
+</name>
+        <description><![CDATA[<img src="https://doc-0c-0c-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/pfhpgumqo04vgepgkhuh6vmteo/1677463200000/uEc1z3PiLiW2OxNlCl-ou0C8FIjcGbx3/*/6AI-xGzyl_VuluAdM0luxVSwIW87PxgrTKXW0b7zSWQA3pw3p14_c89ejlCEUHHpEm0uBrPFHSJlidKEghq2SfLtOcjnOWpHK09cZt_J-Rb-03-YeJkoDqW6UpWa8xSdB4NNBpuDciEGRFvIxJHMo3wz8rGzcivPLsRgv3-oJhkJtmZTdilIbC7tP1FSJlbbENDM7YUI?fife" height="200" width="auto" /><br><br>A power plant right next to a water fall. Worth a short trip if you're in the area, especially if you're going to see the falls anyway. You can't actually access the power house itself, but you can see the inside through windows and there's an elevated walkway that let's you see the falls from the downstream side.<br><br><img src="https://doc-00-0c-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/6o256qd9oe51daed0t17dg97i4/1677463200000/uEc1z3PiLiW2OxNlCl-ou0C8FIjcGbx3/*/6AI-xGzz0I-QdZC3zHuebqcxj3wwn8m0j4A_t_Wsp9kccyxrkeBRGaKLgtli-i7s_Vh5M6OWy7y_5lEAw20u_iLrQUjttFq4cM2HOzAfG_gOuuICgR2aCPVUaf-AIFk0l9F9nsvVaC7j8k0HHsUG6ccOmJLofzkZPH528wO3b9szvzUUqAwaKqB8u91toUYMli9XY9bA?fife" height="200" width="auto" /><br><br><img src="https://doc-0c-0c-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/igjphla21ikl4fgekjurm0pp9s/1677463200000/uEc1z3PiLiW2OxNlCl-ou0C8FIjcGbx3/*/6AI-xGzyFdLboEa-fGCrnNMstC37QUhhHnpDW6k-61uHGE2mVd76EnefDb4tduS4Kdc6c-GbhVRpz3Y5rwSdstwu4DhPqdILM6f7MW4kePQwKKKiq3oWVYEri7zmAf1azy4bgLF9Qa6N_A2i7sy7SwXMEfKienhvCB66A4D3SIsxg0akL2fxHFMjVP9jlj5aGPQ7Q_PY?fife" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://doc-0c-0c-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/pfhpgumqo04vgepgkhuh6vmteo/1677463200000/uEc1z3PiLiW2OxNlCl-ou0C8FIjcGbx3/*/6AI-xGzyl_VuluAdM0luxVSwIW87PxgrTKXW0b7zSWQA3pw3p14_c89ejlCEUHHpEm0uBrPFHSJlidKEghq2SfLtOcjnOWpHK09cZt_J-Rb-03-YeJkoDqW6UpWa8xSdB4NNBpuDciEGRFvIxJHMo3wz8rGzcivPLsRgv3-oJhkJtmZTdilIbC7tP1FSJlbbENDM7YUI?fife https://doc-00-0c-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/6o256qd9oe51daed0t17dg97i4/1677463200000/uEc1z3PiLiW2OxNlCl-ou0C8FIjcGbx3/*/6AI-xGzz0I-QdZC3zHuebqcxj3wwn8m0j4A_t_Wsp9kccyxrkeBRGaKLgtli-i7s_Vh5M6OWy7y_5lEAw20u_iLrQUjttFq4cM2HOzAfG_gOuuICgR2aCPVUaf-AIFk0l9F9nsvVaC7j8k0HHsUG6ccOmJLofzkZPH528wO3b9szvzUUqAwaKqB8u91toUYMli9XY9bA?fife https://doc-0c-0c-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/igjphla21ikl4fgekjurm0pp9s/1677463200000/uEc1z3PiLiW2OxNlCl-ou0C8FIjcGbx3/*/6AI-xGzyFdLboEa-fGCrnNMstC37QUhhHnpDW6k-61uHGE2mVd76EnefDb4tduS4Kdc6c-GbhVRpz3Y5rwSdstwu4DhPqdILM6f7MW4kePQwKKKiq3oWVYEri7zmAf1azy4bgLF9Qa6N_A2i7sy7SwXMEfKienhvCB66A4D3SIsxg0akL2fxHFMjVP9jlj5aGPQ7Q_PY?fife</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.841462,47.5443393,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Evel Knievel Jump Monument</name>
+        <styleUrl>#icon-1899-BDBDBD-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -114.4546548,42.5985385,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hackney Substation
+</name>
+        <description><![CDATA[While the station is closed to the public, it's the destination of a lot of power lines in east London. One lies under the tow path next to the canal to the Olympic park, you can walk along it all the way.]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -0.0435472,51.5594543,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Science</name>
+      <Placemark>
+        <name>Mt. Lemmon Sky Center Observatory</name>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -110.788813,32.4410085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LIGO Livingston</name>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -90.7741778,30.5629972,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LIGO Hanford Observatory</name>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -119.4074955,46.4551552,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Harwell Scientific Campus</name>
+        <description><![CDATA[There are tours of some of the sites here sometimes, including the Diamond Light Source and the STFC Rutherford Appleton Laboratory.<br><br>Worth going on their annual open day.]]></description>
+        <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -1.3111174,51.5748116,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>University of Southampton</name>
+        <description>Usually just for staff/students, but they hold open days at least once a year which includes tours of the nano-tech labs, wind tunnels etc. See https://www.sotsef.co.uk/</description>
+        <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -1.3962713,50.9359543,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Haleakalā Observatory</name>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -156.2567542,20.7081832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jules Undersea Lodge</name>
+        <description><![CDATA[The only underwater hotel in America. You'll need to dive to your room.]]></description>
+        <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -80.3986183,25.1330941,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aquarius Reef Base</name>
+        <description>The only remaining underwater research base</description>
+        <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -80.5851108,24.9537747,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Technic Museum Speyer</name>
+        <description>Has the only Buran shuttle on public display, and you can go inside it!</description>
+        <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            8.4471718,49.3114076,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Spitbank Fort</name>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.0988836,50.7705217,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Helens Fort</name>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.0838699,50.7050741,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Horse Sand Fort</name>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.0724943,50.7500255,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Solent Forts</name>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.0952139,50.7398222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Newlyn Ordnance Survey datum</name>
+        <description>Point used for measuring sea level for all heights on Ordnance Survey maps/data</description>
+        <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -5.5429226,50.1029153,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Barcelona Supercomputing Center</name>
+        <description>Visit the supercomputer in a church</description>
+        <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            2.1153769,41.3899442,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Caltech Owens Valley Radio Observatory</name>
+        <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -118.2950897,37.2316967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Para-infrastructural / cultural</name>
+      <Placemark>
+        <name>Gravenstein Apple Fair</name>
+        <description>They like apples.</description>
+        <styleUrl>#icon-1899-006064-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.8475158,38.4040912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>National Lentil Festial
+</name>
+        <description>http://www.lentilfest.com/</description>
+        <styleUrl>#icon-1899-006064-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -117.1732556,46.7315357,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Burke Museum of Natural History and Culture</name>
+        <styleUrl>#icon-1899-006064-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3115365,47.6604329,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Museum of Anthropology at UBC</name>
+        <styleUrl>#icon-1899-006064-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -123.2594409,49.2695015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pacific Science Center</name>
+        <styleUrl>#icon-1899-006064-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.351493,47.6200328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Science World</name>
+        <styleUrl>#icon-1899-006064-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -123.103834,49.273376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OMSI</name>
+        <styleUrl>#icon-1899-006064-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.6660352,45.508393,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>California Academy of Sciences</name>
+        <styleUrl>#icon-1899-006064-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.4660947,37.7698646,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Prelinger Library</name>
+        <styleUrl>#icon-1899-006064-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.4096368,37.7748604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oakland Museum of California</name>
+        <description>Broad in scope, from local nature to contemporary arts. Every time I take someone here we leave wishing we had more time.</description>
+        <styleUrl>#icon-1899-006064-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2633654,37.7987496,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>University of California Botanical Garden</name>
+        <styleUrl>#icon-1899-006064-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2387194,37.875145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Locke Chinese School Museum</name>
+        <description>This preserved village documents the lives of Chinese immigrants who helped create a lot of early California’s settler infrastructure. Very interesting and very “weird” in the sense that if you didn’t already know about it, you’d never guess it from anything else you saw in the area.</description>
+        <styleUrl>#icon-1899-006064-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.509951,38.2510194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oregon Shakespeare Festival</name>
+        <description>A somewhat quixotic Shakespeare festival in a middle-of-nowhere town that slowly became one of the world’s largest.</description>
+        <styleUrl>#icon-1899-006064-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.7150472,42.1961139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Butchart Gardens</name>
+        <styleUrl>#icon-1899-006064-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -123.4706261,48.5635765,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skagway Museum</name>
+        <styleUrl>#icon-1899-006064-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -135.3116533,59.4557147,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vista House</name>
+        <styleUrl>#icon-1899-006064-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2443611,45.5395694,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oregon Coast Aquarium</name>
+        <styleUrl>#icon-1899-006064-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0472528,44.6176528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rosie the Riveter National Historical Park</name>
+        <styleUrl>#icon-1899-006064-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3572222,37.9097083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Art Institute of Chicago</name>
+        <styleUrl>#icon-1899-006064-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -87.6237133,41.8795845,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pumpkin Park</name>
+        <styleUrl>#icon-1899-006064-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -112.4704779,54.1130809,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Peace Arch</name>
+        <styleUrl>#icon-1899-006064-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.756484,49.0020808,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nez Perce National Historical Park Visitor Center</name>
+        <styleUrl>#icon-1899-006064-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -116.8227368,46.4475305,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bodleian Library</name>
+        <styleUrl>#icon-1899-006064-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.254042,51.754073,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Radcliffe Camera</name>
+        <styleUrl>#icon-1899-006064-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.2540476,51.7534307,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Blackwell's Bookshop]]></name>
+        <description>Famous bookshop in Oxford with a MASSIVE underground non-fiction section underneath the quad of one of the local colleges. Also the print/art branch opposite and the music shop next door.</description>
+        <styleUrl>#icon-1899-006064-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -1.2555315,51.7546524,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seattle Pinball Museum</name>
+        <styleUrl>#icon-1899-006064-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3247852,47.598065,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Museum of Pop Culture</name>
+        <styleUrl>#icon-1899-006064-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3481245,47.6214824,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Minack Theatre</name>
+        <styleUrl>#icon-1899-006064-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6510503,50.0408464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mill Ends Park</name>
+        <description>World’s smallest standalone public park that is actually signed and maintained as such (contested).</description>
+        <styleUrl>#icon-1899-006064-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.6732327,45.5161983,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Powell's City of Books]]></name>
+        <description>Extremely large and wonderful independent bookstore.</description>
+        <styleUrl>#icon-1899-006064-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.6812478,45.5230928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grand Lake Theatre</name>
+        <description>A notably well-preserved example of a “movie palace” – a type of ornate cinema that was mostly wiped out by the end of the studio system after WWII. An organist plays before some showings.</description>
+        <styleUrl>#icon-1899-006064-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2477279,37.8115054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cypress Freeway Memorial Park</name>
+        <description>The Loma Prieta earthquake (1989) partially pancaked a two-level expressway that ran here. The local community, mostly impoverished Black people whose neighborhood the freeway had split, acted heroically, improvising ladders and other tools, pulling trapped drivers out of the wreckage, and administering first aid while EMTs were overloaded. This is one of very few memorials to peacetime community heroism in the world.</description>
+        <styleUrl>#icon-1899-006064-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2921431,37.8104377,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dylan Thomas Writing Shed</name>
+        <styleUrl>#icon-1899-006064-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.4571313,51.7718388,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Granville Island Public Market</name>
+        <styleUrl>#icon-1899-006064-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -123.1351387,49.2726609,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wooden Boat Chandlery</name>
+        <description>Home of the Wooden Boat Festival</description>
+        <styleUrl>#icon-1899-006064-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.7517944,48.1160577,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fort Ross</name>
+        <description>As far south as the Russians came.</description>
+        <styleUrl>#icon-1899-006064-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -123.2435574,38.5142596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>UTA Flight 772 Memorial</name>
+        <styleUrl>#icon-1899-006064-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            11.9538938,16.8654069,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hearst Castle Visitor Center</name>
+        <description>Newspaper tycoon buys up European art and antiquities and puts them in a castle on a beautiful stretch of coast. Gets made fun of by Orson Welles. Absurd folly but neat to visit.</description>
+        <styleUrl>#icon-1899-006064-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.1863362,35.6505171,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sculpture of Green Fluorescent Protein
+</name>
+        <description>See https://engr.udel.edu/news/2016/02/green-fluorescent-protein-illuminating-molecular-level-processes/</description>
+        <styleUrl>#icon-1899-006064-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -123.014055,48.5453802,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Makah Cultural & Research Center Museum]]></name>
+        <styleUrl>#icon-1899-006064-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -124.59885,48.3683417,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Haida Heritage Centre</name>
+        <styleUrl>#icon-1899-006064-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -131.9974507,53.2482957,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saxman Tribal House</name>
+        <styleUrl>#icon-1899-006064-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -131.5957387,55.3199893,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Center for Wooden Boats</name>
+        <styleUrl>#icon-1899-006064-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3364817,47.6262814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The John and Mable Ringling Museum of Art</name>
+        <styleUrl>#icon-1899-006064-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -82.5594402,27.3831341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Norton Museum of Art</name>
+        <styleUrl>#icon-1899-006064-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.053595,26.7006257,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

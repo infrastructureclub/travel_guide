@@ -26,6 +26,20 @@
         maxZoom: 19,
         attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
       }).addTo(map);
+      
+      fetch("./data/map.geojson")
+        .then(response => {
+          if (!response.ok) {
+           throw new Error("HTTP error " + response.status);
+          }
+          return response.json();
+        })
+        .then(json => {
+          L.geoJSON(json).addTo(map);
+        })
+        .catch(function () {
+          console.log("something has gone wrong");
+        })
     </script>
   </body>
 </html>

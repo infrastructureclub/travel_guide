@@ -34,8 +34,13 @@
           }
           return response.json();
         })
-        .then(json => {
-          L.geoJSON(json).addTo(map);
+        .then(geojson => {
+          L.geoJSON(geojson).bindPopup(function (layer) {
+            if (layer.feature.properties && layer.feature.properties.popupContent) {
+              return layer.feature.properties.description;
+            }
+            return "no description";
+          }).addTo(map);
         })
         .catch(function () {
           console.log("something has gone wrong");

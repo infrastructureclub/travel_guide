@@ -36,10 +36,21 @@
         })
         .then(geojson => {
           L.geoJSON(geojson).bindPopup(function (layer) {
-            if (layer.feature.properties && layer.feature.properties.description) {
-              return layer.feature.properties.description;
+            if (layer.feature.properties && layer.feature.properties.name) {
+              name = layer.feature.properties.name;
+            } else {
+              name = ""
             }
-            return "no description";
+            
+            if (layer.feature.properties && layer.feature.properties.description) {
+              description = layer.feature.properties.description;
+            } else {
+              description = ""
+            }
+            
+            // TODO: XSS in the JSON?
+            return "<h2>" + name + "</h2><p>" + description + "</p>"
+
           }).addTo(map);
         })
         .catch(function () {

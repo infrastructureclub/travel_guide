@@ -1,0 +1,28 @@
+name: Update data
+on: 
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+jobs:
+  fetch-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+      - name: Install unzip
+        run: apt-get install unzip
+      - name: Fetch and commit
+        run: |
+          mkdir -p data
+          curl "https://mapsengine.google.com/map/kml?mid=1wSGRzmK0rwrPnqdQAtz0p5h_NvKCjgY" | funzip > data/map.kml
+          git add data
+          git config --global user.email "infrastructureclub-travel-guide@jonty.co.uk"
+          git config --global user.name "Travel Guide Update Bot"
+          git commit -m "Automatic data update"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}

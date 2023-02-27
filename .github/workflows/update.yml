@@ -11,10 +11,16 @@ jobs:
         uses: actions/checkout@v2
         with:
           persist-credentials: false
-      - name: Fetch and commit
+      - name: Fetch
         run: |
           mkdir -p data
           curl "https://mapsengine.google.com/map/kml?mid=1wSGRzmK0rwrPnqdQAtz0p5h_NvKCjgY" | funzip > data/map.kml
+      - name: Convert to geojson
+        run: |
+          npm install -g @mapbox/togeojson
+          togeojson data/map.kml > data/map.geojson
+      - name: Commit
+        run: |
           git add data
           git config --global user.email "infrastructureclub-travel-guide@jonty.co.uk"
           git config --global user.name "Travel Guide Update Bot"

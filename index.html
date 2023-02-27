@@ -36,20 +36,23 @@
         })
         .then(geojson => {
           L.geoJSON(geojson).bindPopup(function (layer) {
+            var popup = document.createElement("div");
+
+            var name = document.createElement("h2");
             if (layer.feature.properties && layer.feature.properties.name) {
-              name = layer.feature.properties.name;
+              name.textContent = layer.feature.properties.name;
             } else {
-              name = "Unnamed Point"
+              name.textContent = "Unnamed Point";
             }
+            popup.appendChild(name);
             
             if (layer.feature.properties && layer.feature.properties.description) {
-              description = layer.feature.properties.description;
-            } else {
-              description = ""
+              var description = document.createElement("p");
+              description.textContent = layer.feature.properties.description;
+              popup.appendChild(description);
             }
             
-            // TODO: XSS in the JSON?
-            return "<h2>" + name + "</h2><p>" + description + "</p>"
+            return popup;
 
           }).addTo(map);
         })

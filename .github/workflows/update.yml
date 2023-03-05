@@ -21,6 +21,8 @@ jobs:
         run: |
           npm install -g @mapbox/togeojson
           togeojson data/map.kml > data/map.geojson
+      - name: Convert to json for website
+        run: ./scripts/convert-to-json.py
       - name: Commit
         run: |
           git add data

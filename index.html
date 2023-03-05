@@ -63,10 +63,13 @@
             }
 
             if (layer.feature.properties && layer.feature.properties.gx_media_links) {
-              var img = document.createElement("img");
-              img.src = layer.feature.properties.gx_media_links;
-	      img.classList.add("popupimg");
-              popup.appendChild(img);
+              var urls = layer.feature.properties.gx_media_links.split(" ");
+              for (var i = 0; i < urls.length; i++) {
+                var img = document.createElement("img");
+                img.src = urls[i];
+                img.classList.add("popupimg");
+                popup.appendChild(img);
+              }
             }
             
             return popup;

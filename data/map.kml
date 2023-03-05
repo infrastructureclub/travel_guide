@@ -1041,11 +1041,11 @@
       </Placemark>
       <Placemark>
         <name>Vitra Slide Tower</name>
-        <description><![CDATA[<img src="https://doc-0s-0c-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/otmvpb6r034btdahsm0c1vek7s/1677986100000/uEc1z3PiLiW2OxNlCl-ou0C8FIjcGbx3/*/6AI-xGzz1LavwOXrAMSKUnemvcE9m9kmoKY35mR8nQhI5fruW4AGWSHFcU7jLWvnoX8j-0s-CEGg1ly9EYausXV1Zjz_E7r2K2lDCMlKmDiv28GrptAKVR9LjPYSD3uJqeYLKLCM1ekEPAkGxLyiawPjmGbvC-qJbJpGxzr2IBFwsBQpecmBl6neEZMw0EVhAGqxePg?fife" height="200" width="auto" /><br><br>Tall free slide tower by Carsten Höller<br>https://www.vitra.com/en-be/about-vitra/campus/architecture/architecture-vitra-slide-tower]]></description>
+        <description><![CDATA[<img src="./data/images/01658f18d8f97edc67316ddded96328c82ca7c96a0a39f57bd38bc281312dad5.png" height="200" width="auto" /><br><br>Tall free slide tower by Carsten Höller<br>https://www.vitra.com/en-be/about-vitra/campus/architecture/architecture-vitra-slide-tower]]></description>
         <styleUrl>#icon-1899-A52714-labelson</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://doc-0s-0c-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/otmvpb6r034btdahsm0c1vek7s/1677986100000/uEc1z3PiLiW2OxNlCl-ou0C8FIjcGbx3/*/6AI-xGzz1LavwOXrAMSKUnemvcE9m9kmoKY35mR8nQhI5fruW4AGWSHFcU7jLWvnoX8j-0s-CEGg1ly9EYausXV1Zjz_E7r2K2lDCMlKmDiv28GrptAKVR9LjPYSD3uJqeYLKLCM1ekEPAkGxLyiawPjmGbvC-qJbJpGxzr2IBFwsBQpecmBl6neEZMw0EVhAGqxePg?fife</value>
+            <value>./data/images/01658f18d8f97edc67316ddded96328c82ca7c96a0a39f57bd38bc281312dad5.png</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -1056,11 +1056,11 @@
       </Placemark>
       <Placemark>
         <name>Verner-Panton-Weg</name>
-        <description><![CDATA[<img src="https://doc-0k-0c-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/mapjj1l4kaa0sbie2vrhdsq5fg/1677986100000/uEc1z3PiLiW2OxNlCl-ou0C8FIjcGbx3/*/6AI-xGzzp0U6o_onBtS1VYGxoalCaOisNx2DOyaz1kbDvbq2K8buGNXPFZgSH8q-zWRKtfh-Q47uHd99OvesSGKnOuBFuBEXZd5tUN8f0x_NNBJ3SCSAAGqOWlqeV95Q45ppqx0A1mhNhpsLeYfyA4ON9FfXUInSykcSPv4HBbbvuaReGB1lKJAuuukSERaJBbEO-CA?fife" height="200" width="auto" /><br><br>There's a really picturesque walk back to Basel, with modern art sculptures dotted on the landscape along the way.]]></description>
+        <description><![CDATA[<img src="./data/images/35950762a7030c486e7955ad2967ac34748c650cf158f60bac96ae9654ab187d.png" height="200" width="auto" /><br><br>There's a really picturesque walk back to Basel, with modern art sculptures dotted on the landscape along the way.]]></description>
         <styleUrl>#icon-1899-A52714-labelson</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://doc-0k-0c-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/mapjj1l4kaa0sbie2vrhdsq5fg/1677986100000/uEc1z3PiLiW2OxNlCl-ou0C8FIjcGbx3/*/6AI-xGzzp0U6o_onBtS1VYGxoalCaOisNx2DOyaz1kbDvbq2K8buGNXPFZgSH8q-zWRKtfh-Q47uHd99OvesSGKnOuBFuBEXZd5tUN8f0x_NNBJ3SCSAAGqOWlqeV95Q45ppqx0A1mhNhpsLeYfyA4ON9FfXUInSykcSPv4HBbbvuaReGB1lKJAuuukSERaJBbEO-CA?fife</value>
+            <value>./data/images/35950762a7030c486e7955ad2967ac34748c650cf158f60bac96ae9654ab187d.png</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -2010,11 +2010,43 @@
       </Placemark>
       <Placemark>
         <name>The Bathysphere</name>
-        <description>Just to the left of the entrance to the New York Aquarium is the Bathysphere, the first spherical deep-sea vehicle. It set many diving records, and was the first underwater vehicle used by a marine biologist observed deep-sea animals in their native environment. https://en.wikipedia.org/wiki/Bathysphere</description>
+        <description><![CDATA[Just to the left of the entrance to the New York Aquarium is the Bathysphere, the first spherical deep-sea submersible. It set many diving records, and was the first underwater vehicle used by a marine biologist to observe deep-sea animals in their native environment. <br><br>It was the main display of the New York Zoological Society at the 1939 World's Fair, and has been on display in Coney Island sporadically since 1957. <br><br>https://en.wikipedia.org/wiki/Bathysphere]]></description>
         <styleUrl>#icon-1899-A52714-labelson</styleUrl>
         <Point>
           <coordinates>
             -73.97605,40.5740972222222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Bay Lights
+</name>
+        <description>Art made using the lights on the cables of the western span of the Bay Bridge. Not operational as of this writing, but will return. https://en.wikipedia.org/wiki/The_Bay_Lights</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3778182,37.7982799,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lower Baker Dam</name>
+        <description>A modestly sized but undeniably striking dam close to a highway: https://en.wikipedia.org/wiki/Lower_Baker_Dam</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.7404396,48.547785,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Black Panther Party stoplight
+</name>
+        <description>See https://www.hmdb.org/m.asp?m=72395 or https://localwiki.org/oakland/55th_and_Market_Traffic_Light – a minor event, but important in the history of the BPP; it showed its ability to do infrastructural things, and contributed momentum that led toward Free Breakfast for Children and other major projects.</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2739223,37.8392579,0
           </coordinates>
         </Point>
       </Placemark>
@@ -2783,7 +2815,8 @@
       <Placemark>
         <name>Grand Coulee Dam
 </name>
-        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <description>Largest power plant in North America.</description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
         <Point>
           <coordinates>
             -118.9862298,47.9605397,0
@@ -4293,11 +4326,11 @@
       </Placemark>
       <Placemark>
         <name>British Waterways Kerr Cup Pile Driving Competition Prize Length of Piling 1959</name>
-        <description><![CDATA[<img src="https://doc-04-0c-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/l3n6s987h9lu0tavv1m1vnsnr0/1677986100000/uEc1z3PiLiW2OxNlCl-ou0C8FIjcGbx3/*/6AI-xGzxvqk_MLpPruOToMovdfGrnPJyXJOlir2omL1_mFix7lc5bqlWOoOaXstxgR0CkmWqGoY1V4pTzFer8Rq9DqZNu1Qp6__xI53_eUFD0hDms5fRnIJzuFNJK72mt1kPLKE9xMlMSjZN1QvMmud5PFRvdfIym9RiA8H4rjLX11EkVXQV83mZElsPY1ul_hIWyTA?fife" height="200" width="auto" /><br><br>Unclear exactly what the prize was for, but it is unusual, and this is a length of piling. https://www.blipfoto.com/entry/3137047]]></description>
+        <description><![CDATA[<img src="./data/images/812cee3fd4c0b3d17d4f4207f12d061f44fab5d4bd0a32e0e76029cbd5dcb816.png" height="200" width="auto" /><br><br>Unclear exactly what the prize was for, but it is unusual, and this is a length of piling. https://www.blipfoto.com/entry/3137047]]></description>
         <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://doc-04-0c-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/l3n6s987h9lu0tavv1m1vnsnr0/1677986100000/uEc1z3PiLiW2OxNlCl-ou0C8FIjcGbx3/*/6AI-xGzxvqk_MLpPruOToMovdfGrnPJyXJOlir2omL1_mFix7lc5bqlWOoOaXstxgR0CkmWqGoY1V4pTzFer8Rq9DqZNu1Qp6__xI53_eUFD0hDms5fRnIJzuFNJK72mt1kPLKE9xMlMSjZN1QvMmud5PFRvdfIym9RiA8H4rjLX11EkVXQV83mZElsPY1ul_hIWyTA?fife</value>
+            <value>./data/images/812cee3fd4c0b3d17d4f4207f12d061f44fab5d4bd0a32e0e76029cbd5dcb816.png</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -5750,6 +5783,42 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Greenland National Museum and Archives</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -51.7463806,64.1770596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Polar Museum</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.9633211,69.6522343,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Arabia Steamboat Museum</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -94.5813811,39.1094732,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>South Wales Aviation Museum</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.4400389,51.4198837,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>
@@ -5892,6 +5961,47 @@
         <Point>
           <coordinates>
             -109.9130761,31.4404186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alang Ship Scrap Yard</name>
+        <description>Not the only shipbreaking area in the world but perhaps the most famous.</description>
+        <styleUrl>#icon-1693-757575-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            72.1747225,21.3920556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Khewra Salt Mines</name>
+        <description>Source of most exported “Himalayan” pink salt.</description>
+        <styleUrl>#icon-1693-757575-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            73.0084071,32.6479889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bisie Tin Mine</name>
+        <description>One of the most important mines in the world in relation to its accessibility. Roughly 1% of global tin production comes from this one site.</description>
+        <styleUrl>#icon-1693-757575-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            27.7438125,-1.0385625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ambatovy (nickel mine)
+</name>
+        <description>Notable for its size. Estimated to account for 25% of Madagascar’s entire tax base. Waste fluids are piped 200 km to ponds at Toamasina, on the coast.</description>
+        <styleUrl>#icon-1693-757575-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            48.3086014,-18.8317208,0
           </coordinates>
         </Point>
       </Placemark>
@@ -7000,6 +7110,35 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Don Juan Pond</name>
+        <styleUrl>#icon-1596-558B2F-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            161.1907728,-77.5618985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[SAASAK' Viewpoint]]></name>
+        <styleUrl>#icon-1596-558B2F-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -129.2232194,55.1956704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shoreline traces of Lake Missoula
+</name>
+        <description>Which periodically flooded huge areas of the Pacific Northwest: https://en.wikipedia.org/wiki/Glacial_Lake_Missoula</description>
+        <styleUrl>#icon-1596-558B2F-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -114.1273879,46.839896,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Not open to public</name>
@@ -7164,11 +7303,11 @@
       <Placemark>
         <name>Power House #2, near Snoqualmie Falls
 </name>
-        <description><![CDATA[<img src="https://doc-04-0c-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/ljchaoo4b83jlhc1saqtnoudas/1677986100000/uEc1z3PiLiW2OxNlCl-ou0C8FIjcGbx3/*/6AI-xGzy0UcPvavN1bxvPCyyB6D_D-YqnTwcjP-mTVFKRSCmak9wzDCC4UamFMTuk0bCjVlf1QoUWMlcjlkgDplQWRpE8sNXvuVuWyZ162h7R1Dqh9hDLkfysBNfWp6z9Dm5okaODcUmzkDZ5dG4KwyNZWxw-ZpKKqwH85SqXhWJDG_LCKzMF57GTPkHZXunF9HeW9Vs?fife" height="200" width="auto" /><br><br>A power plant right next to a water fall. Worth a short trip if you're in the area, especially if you're going to see the falls anyway. You can't actually access the power house itself, but you can see the inside through windows and there's an elevated walkway that let's you see the falls from the downstream side.<br><br><img src="https://doc-0c-0c-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/00orpr75vnpmg85erd13ktce50/1677986100000/uEc1z3PiLiW2OxNlCl-ou0C8FIjcGbx3/*/6AI-xGzzuYn0CiMUDHUv-LnP0L1ccHLPJSvEQ_u7yC9lEOHI6E0HSMiluKkjT93xFPPMD9_PZvqjLs_tHi9pn7Sjn9RGPcmaXHETuGBlLPwMl1AVcnmbPWYuOyPpm81skllED9xzSSndWk4e_GtlnD2aOyl1Ft26ZwaDXkSiOCyTVOYKnznaqNMLt8utHrwgbncG_koo?fife" height="200" width="auto" /><br><br><img src="https://doc-0g-0c-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/4vl6i12vnev1qktttu20rgmkkg/1677986100000/uEc1z3PiLiW2OxNlCl-ou0C8FIjcGbx3/*/6AI-xGzwPY7GJf3aiiPQo1OFhlcdTqXT-GEdPI5GLYvoolSfjVXrrP7Zo8OiCqcCJUIoSYzlimbdqlh09QnKjIpREYizd8vTe514N2ymh5hplaPsXLtoT4-XIldH7WAS_-r1SWN9UQfbx56FlHi4rmBJYnUPNYzyIVJDCXn-b5VtuSfeOq9gIg6w4Q4KEedZ3UV4_GXI?fife" height="200" width="auto" />]]></description>
+        <description><![CDATA[<img src="./data/images/4c359bdc6c8fa17543ad4486f8a71d33471e4028da1485379d0739f8338f3b39.png" height="200" width="auto" /><br><br>A power plant right next to a water fall. Worth a short trip if you're in the area, especially if you're going to see the falls anyway. You can't actually access the power house itself, but you can see the inside through windows and there's an elevated walkway that let's you see the falls from the downstream side.<br><br><img src="./data/images/443fe7cd76af36423a59741a84f09f63978d3bf3b573b758982a82819805465c.png" height="200" width="auto" /><br><br><img src="./data/images/a52747ee928b3e26e1d88877591d259229f05c074c7c525bb79cc593c83af30b.png" height="200" width="auto" />]]></description>
         <styleUrl>#icon-1898-BDBDBD-labelson</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://doc-04-0c-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/ljchaoo4b83jlhc1saqtnoudas/1677986100000/uEc1z3PiLiW2OxNlCl-ou0C8FIjcGbx3/*/6AI-xGzy0UcPvavN1bxvPCyyB6D_D-YqnTwcjP-mTVFKRSCmak9wzDCC4UamFMTuk0bCjVlf1QoUWMlcjlkgDplQWRpE8sNXvuVuWyZ162h7R1Dqh9hDLkfysBNfWp6z9Dm5okaODcUmzkDZ5dG4KwyNZWxw-ZpKKqwH85SqXhWJDG_LCKzMF57GTPkHZXunF9HeW9Vs?fife https://doc-0c-0c-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/00orpr75vnpmg85erd13ktce50/1677986100000/uEc1z3PiLiW2OxNlCl-ou0C8FIjcGbx3/*/6AI-xGzzuYn0CiMUDHUv-LnP0L1ccHLPJSvEQ_u7yC9lEOHI6E0HSMiluKkjT93xFPPMD9_PZvqjLs_tHi9pn7Sjn9RGPcmaXHETuGBlLPwMl1AVcnmbPWYuOyPpm81skllED9xzSSndWk4e_GtlnD2aOyl1Ft26ZwaDXkSiOCyTVOYKnznaqNMLt8utHrwgbncG_koo?fife https://doc-0g-0c-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/4vl6i12vnev1qktttu20rgmkkg/1677986100000/uEc1z3PiLiW2OxNlCl-ou0C8FIjcGbx3/*/6AI-xGzwPY7GJf3aiiPQo1OFhlcdTqXT-GEdPI5GLYvoolSfjVXrrP7Zo8OiCqcCJUIoSYzlimbdqlh09QnKjIpREYizd8vTe514N2ymh5hplaPsXLtoT4-XIldH7WAS_-r1SWN9UQfbx56FlHi4rmBJYnUPNYzyIVJDCXn-b5VtuSfeOq9gIg6w4Q4KEedZ3UV4_GXI?fife</value>
+            <value>./data/images/4c359bdc6c8fa17543ad4486f8a71d33471e4028da1485379d0739f8338f3b39.png ./data/images/443fe7cd76af36423a59741a84f09f63978d3bf3b573b758982a82819805465c.png ./data/images/a52747ee928b3e26e1d88877591d259229f05c074c7c525bb79cc593c83af30b.png</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -7379,6 +7518,26 @@
         <Point>
           <coordinates>
             15.3893462,78.2303772,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tekeze Power Station</name>
+        <styleUrl>#icon-1898-BDBDBD-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            38.7406214,13.3493192,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jim Creek Naval Radio Station
+</name>
+        <description>https://en.wikipedia.org/wiki/Jim_Creek_Naval_Radio_Station</description>
+        <styleUrl>#icon-1898-BDBDBD-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.9167,48.2037,0
           </coordinates>
         </Point>
       </Placemark>
@@ -8035,6 +8194,24 @@
         <Point>
           <coordinates>
             -122.4309761,37.9292124,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>El Muro en la Playa, Tijuana</name>
+        <styleUrl>#icon-1608-006064-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -117.1238816,32.534258,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Madagascar Photography Museum</name>
+        <styleUrl>#icon-1608-006064-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            47.533787,-18.9180931,0
           </coordinates>
         </Point>
       </Placemark>

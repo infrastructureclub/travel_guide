@@ -19,6 +19,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage": "http://infrastructureclub.co.uk/travel_guide/",
   "eslintConfig": {
     "extends": [
       "react-app",

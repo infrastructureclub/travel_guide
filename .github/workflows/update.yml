@@ -15,6 +15,8 @@ jobs:
         run: |
           mkdir -p data
           curl "https://mapsengine.google.com/map/kml?mid=1wSGRzmK0rwrPnqdQAtz0p5h_NvKCjgY" | funzip > data/map.kml
+      - name: Download and replace images
+        run: ./scripts/download-images.py
       - name: Convert to geojson
         run: |
           npm install -g @mapbox/togeojson

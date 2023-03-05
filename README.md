@@ -3,6 +3,6 @@ A daily updated archive of things that the Infrastructure Club members think are
 
 https://infrastructureclub.co.uk
 
-Todo: 
-- Add an HTML viewer
-- Export images (if possible)
+http://infrastructureclub.co.uk/travel_guide/
+
+

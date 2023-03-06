@@ -2050,6 +2050,25 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>West Edmonton Mall</name>
+        <description>One of the largest malls in the world by various measures. In essence, they took a shopping district and put a giant building around it.</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -113.6241906,53.5225151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Papplewick Pumping Station</name>
+        <styleUrl>#icon-1899-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.1313799,53.0631915,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>
@@ -2766,7 +2785,7 @@
       <Placemark>
         <name>Museum of Flight
 </name>
-        <description>Very Boeing-centric for obvious reasons but well worth it.</description>
+        <description>Very Boeing-centric for obvious reasons but nonetheless excellent.</description>
         <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
         <Point>
           <coordinates>
@@ -5819,6 +5838,62 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>The Coffin Works</name>
+        <description>Museum of coffin - and more specifically, coffin furniture - making.</description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -1.9073582,52.4819641,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>National Neon Sign Museum</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -121.1835323,45.601025,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Western Antique Aeroplane and Automobile Museum (WAAAM)</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -121.5412344,45.6768599,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fort Amherst Heritage Trust</name>
+        <description>Including tunnel tours!</description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            0.5254248,51.3873828,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mersey Tunnel Tours</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9941173,53.4045199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Humber Bridge</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.449848,53.70484,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>
@@ -5854,7 +5929,7 @@
       <Placemark>
         <name>Fort Worden
 </name>
-        <description>Built to control the entrance to Puget Sound; long retired as an active installation. Unusually dangerous for a place open to the public – lots of unlit underground corridors, etc.</description>
+        <description><![CDATA[Built to control the entrance to Puget Sound; long retired as an active installation. Unusually dangerous for a place open to the public – lots of unlit underground corridors, etc.<br><br>Several minor attractions are on the grounds, such as Copper Canyon Press (a prestigious poetry press) and a number of small museums.]]></description>
         <styleUrl>#icon-1693-757575-labelson</styleUrl>
         <Point>
           <coordinates>
@@ -6840,6 +6915,36 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Stack Interchange</name>
+        <description>The first four-level stack freeway interchange, connecting the 110 and the 101. Built in 1948, a more compact replacement for a cloverleaf exchange </description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -118.2488446,34.0628628,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Angels Flight Railway</name>
+        <description>Funicular railway moved from its original location, now connecting the subway, Grand Central Market, and the ritzy office district of Bunker Hill.</description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -118.2506142,34.0516174,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Arroyo Seco Confluence</name>
+        <description>Where the Los Angeles River and pretty much the entire LA basin watershed intersect. Totally concretized because of floods culminating in a disastrous one in 1938. Also the confluence of the 110 and 5 freeways and the Gold Line light rail track, and trains bound for Grand Central Station and the nearby cargo rail yards.</description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -118.2259552,34.0794755,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Nature</name>
@@ -6855,7 +6960,8 @@
       </Placemark>
       <Placemark>
         <name>Henry M. Jackson Memorial Visitor Center</name>
-        <styleUrl>#icon-1596-558B2F-labelson-nodesc</styleUrl>
+        <description>The place to go if you want to see Mt Rainier up close without climbing it.</description>
+        <styleUrl>#icon-1596-558B2F-labelson</styleUrl>
         <Point>
           <coordinates>
             -121.7367888,46.7858833,0
@@ -7136,6 +7242,15 @@
         <Point>
           <coordinates>
             -114.1273879,46.839896,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Old Light</name>
+        <styleUrl>#icon-1596-558B2F-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.6732158,51.1672591,0
           </coordinates>
         </Point>
       </Placemark>
@@ -7861,7 +7976,8 @@
       </Placemark>
       <Placemark>
         <name>The Butchart Gardens</name>
-        <styleUrl>#icon-1608-006064-labelson-nodesc</styleUrl>
+        <description>Extensive and luxurious privately owned (but open) gardens.</description>
+        <styleUrl>#icon-1608-006064-labelson</styleUrl>
         <Point>
           <coordinates>
             -123.4706261,48.5635765,0
@@ -8212,6 +8328,57 @@
         <Point>
           <coordinates>
             47.533787,-18.9180931,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sinking of the “Valencia”
+</name>
+        <description>The region’s most deadly shipwreck, in 1906: https://en.wikipedia.org/wiki/SS_Valencia#Final_voyage</description>
+        <styleUrl>#icon-1608-006064-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -125.005833,48.705556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Strait of Juan de Fuca boundary dispute
+</name>
+        <description>Despite warm relations, the US and Canada manage to dispute areas at both ends of both their borders. (See https://en.wikipedia.org/wiki/List_of_areas_disputed_by_Canada_and_the_United_States.) This is the smallest and probably least important: the countries disagree on how to draw the median line in two areas of the Exclusive Economic Zones outside the mouth of the Strait. In short, Canada includes its inland waters as contributing to the median line, while the US uses the low tide line. (See https://www.durham.ac.uk/media/durham-university/research-/research-centres/ibru-centre-for-borders-research/maps-and-databases/publications-database/boundary-amp-security-bulletins/bsb5-3_gray.pdf for a little more detail.) The total area in dispute is slightly over 50 km² and (so far as I know) has never led to any actual incidents.</description>
+        <styleUrl>#icon-1608-006064-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -124.8544008,48.4966318,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>“Kapitan Man” laser incident
+</name>
+        <description>Pin location not exact. https://en.wikipedia.org/wiki/Strait_of_Juan_de_Fuca_laser_incident</description>
+        <styleUrl>#icon-1608-006064-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -123.4543437,48.2249596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beneath the Streets</name>
+        <styleUrl>#icon-1608-006064-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3340931,47.6028497,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fremont Troll</name>
+        <styleUrl>#icon-1608-006064-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3474987,47.6510628,0
           </coordinates>
         </Point>
       </Placemark>

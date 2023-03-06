@@ -3205,6 +3205,39 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -113.6241906,
+                    53.5225151,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "West Edmonton Mall",
+                "styleUrl": "#icon-1899-A52714-labelson",
+                "styleHash": "2a468a2a",
+                "description": "One of the largest malls in the world by various measures. In essence, they took a shopping district and put a giant building around it."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.1313799,
+                    53.0631915,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Papplewick Pumping Station",
+                "styleUrl": "#icon-1899-A52714-labelson-nodesc",
+                "styleHash": "-47c358db"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0
@@ -4447,7 +4480,7 @@
                 "name": "Museum of Flight\n",
                 "styleUrl": "#icon-1636-F9A825-labelson",
                 "styleHash": "-73d4c685",
-                "description": "Very Boeing-centric for obvious reasons but well worth it."
+                "description": "Very Boeing-centric for obvious reasons but nonetheless excellent."
             }
         },
         {
@@ -9733,6 +9766,104 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -1.9073582,
+                    52.4819641,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Coffin Works",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "description": "Museum of coffin - and more specifically, coffin furniture - making."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.1835323,
+                    45.601025,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "National Neon Sign Museum",
+                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
+                "styleHash": "-4303c82c"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.5412344,
+                    45.6768599,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Western Antique Aeroplane and Automobile Museum (WAAAM)",
+                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
+                "styleHash": "-4303c82c"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.5254248,
+                    51.3873828,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fort Amherst Heritage Trust",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "description": "Including tunnel tours!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9941173,
+                    53.4045199,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mersey Tunnel Tours",
+                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
+                "styleHash": "-4303c82c"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.449848,
+                    53.70484,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Humber Bridge",
+                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
+                "styleHash": "-4303c82c"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.9055879,
                     38.1671515,
                     0
@@ -9791,7 +9922,7 @@
                 "name": "Fort Worden\n",
                 "styleUrl": "#icon-1693-757575-labelson",
                 "styleHash": "-1d74371c",
-                "description": "Built to control the entrance to Puget Sound; long retired as an active installation. Unusually dangerous for a place open to the public – lots of unlit underground corridors, etc."
+                "description": "Built to control the entrance to Puget Sound; long retired as an active installation. Unusually dangerous for a place open to the public – lots of unlit underground corridors, etc.<br><br>Several minor attractions are on the grounds, such as Copper Canyon Press (a prestigious poetry press) and a number of small museums."
             }
         },
         {
@@ -11465,6 +11596,57 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -118.2488446,
+                    34.0628628,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stack Interchange",
+                "styleUrl": "#icon-1598-A52714-labelson",
+                "styleHash": "118808a5",
+                "description": "The first four-level stack freeway interchange, connecting the 110 and the 101. Built in 1948, a more compact replacement for a cloverleaf exchange "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.2506142,
+                    34.0516174,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Angels Flight Railway",
+                "styleUrl": "#icon-1598-A52714-labelson",
+                "styleHash": "118808a5",
+                "description": "Funicular railway moved from its original location, now connecting the subway, Grand Central Market, and the ritzy office district of Bunker Hill."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.2259552,
+                    34.0794755,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Arroyo Seco Confluence",
+                "styleUrl": "#icon-1598-A52714-labelson",
+                "styleHash": "118808a5",
+                "description": "Where the Los Angeles River and pretty much the entire LA basin watershed intersect. Totally concretized because of floods culminating in a disastrous one in 1938. Also the confluence of the 110 and 5 freeways and the Gold Line light rail track, and trains bound for Grand Central Station and the nearby cargo rail yards."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -122.119383,
                     42.9370052,
                     0
@@ -11489,8 +11671,9 @@
             },
             "properties": {
                 "name": "Henry M. Jackson Memorial Visitor Center",
-                "styleUrl": "#icon-1596-558B2F-labelson-nodesc",
-                "styleHash": "2ebec33f"
+                "styleUrl": "#icon-1596-558B2F-labelson",
+                "styleHash": "638c400",
+                "description": "The place to go if you want to see Mt Rainier up close without climbing it."
             }
         },
         {
@@ -11968,6 +12151,22 @@
                 "styleUrl": "#icon-1596-558B2F-labelson",
                 "styleHash": "638c400",
                 "description": "Which periodically flooded huge areas of the Pacific Northwest: https://en.wikipedia.org/wiki/Glacial_Lake_Missoula"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.6732158,
+                    51.1672591,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Old Light",
+                "styleUrl": "#icon-1596-558B2F-labelson-nodesc",
+                "styleHash": "2ebec33f"
             }
         },
         {
@@ -13192,8 +13391,9 @@
             },
             "properties": {
                 "name": "The Butchart Gardens",
-                "styleUrl": "#icon-1608-006064-labelson-nodesc",
-                "styleHash": "672042b4"
+                "styleUrl": "#icon-1608-006064-labelson",
+                "styleHash": "1468cf8f",
+                "description": "Extensive and luxurious privately owned (but open) gardens."
             }
         },
         {
@@ -13796,6 +13996,89 @@
             },
             "properties": {
                 "name": "Madagascar Photography Museum",
+                "styleUrl": "#icon-1608-006064-labelson-nodesc",
+                "styleHash": "672042b4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -125.005833,
+                    48.705556,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sinking of the “Valencia”\n",
+                "styleUrl": "#icon-1608-006064-labelson",
+                "styleHash": "1468cf8f",
+                "description": "The region’s most deadly shipwreck, in 1906: https://en.wikipedia.org/wiki/SS_Valencia#Final_voyage"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.8544008,
+                    48.4966318,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Strait of Juan de Fuca boundary dispute\n",
+                "styleUrl": "#icon-1608-006064-labelson",
+                "styleHash": "1468cf8f",
+                "description": "Despite warm relations, the US and Canada manage to dispute areas at both ends of both their borders. (See https://en.wikipedia.org/wiki/List_of_areas_disputed_by_Canada_and_the_United_States.) This is the smallest and probably least important: the countries disagree on how to draw the median line in two areas of the Exclusive Economic Zones outside the mouth of the Strait. In short, Canada includes its inland waters as contributing to the median line, while the US uses the low tide line. (See https://www.durham.ac.uk/media/durham-university/research-/research-centres/ibru-centre-for-borders-research/maps-and-databases/publications-database/boundary-amp-security-bulletins/bsb5-3_gray.pdf for a little more detail.) The total area in dispute is slightly over 50 km² and (so far as I know) has never led to any actual incidents."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.4543437,
+                    48.2249596,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "“Kapitan Man” laser incident\n",
+                "styleUrl": "#icon-1608-006064-labelson",
+                "styleHash": "1468cf8f",
+                "description": "Pin location not exact. https://en.wikipedia.org/wiki/Strait_of_Juan_de_Fuca_laser_incident"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3340931,
+                    47.6028497,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Beneath the Streets",
+                "styleUrl": "#icon-1608-006064-labelson-nodesc",
+                "styleHash": "672042b4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3474987,
+                    47.6510628,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fremont Troll",
                 "styleUrl": "#icon-1608-006064-labelson-nodesc",
                 "styleHash": "672042b4"
             }

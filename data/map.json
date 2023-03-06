@@ -1,7 +1,7 @@
 {
   "categories": {
     "historic-ruins-structures": {
-      "count": 86,
+      "count": 89,
       "name": "Historic / ruins / structures"
     },
     "industry": {
@@ -9,15 +9,15 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 192,
+      "count": 194,
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 397,
+      "count": 403,
       "name": "Museums / attractions"
     },
     "nature": {
-      "count": 31,
+      "count": 32,
       "name": "Nature"
     },
     "not-open-to-public": {
@@ -25,7 +25,7 @@
       "name": "Not open to public"
     },
     "para-infrastructural-cultural": {
-      "count": 51,
+      "count": 56,
       "name": "Para-infrastructural / cultural"
     },
     "science": {
@@ -275,6 +275,16 @@
       "id": "anderton-boat-lift",
       "name": "Anderton Boat Lift"
     },
+    "angels-flight-railway": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        -118.2506142,
+        34.0516174
+      ],
+      "description": "Funicular railway moved from its original location, now connecting the subway, Grand Central Market, and the ritzy office district of Bunker Hill.",
+      "id": "angels-flight-railway",
+      "name": "Angels Flight Railway"
+    },
     "anglesey-transport-museum-caf-tacla-taid": {
       "category": "museums-attractions",
       "coordinates": [
@@ -387,6 +397,16 @@
       ],
       "id": "army-flying-museum",
       "name": "Army Flying Museum"
+    },
+    "arroyo-seco-confluence": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        -118.2259552,
+        34.0794755
+      ],
+      "description": "Where the Los Angeles River and pretty much the entire LA basin watershed intersect. Totally concretized because of floods culminating in a disastrous one in 1938. Also the confluence of the 110 and 5 freeways and the Gold Line light rail track, and trains bound for Grand Central Station and the nearby cargo rail yards.",
+      "id": "arroyo-seco-confluence",
+      "name": "Arroyo Seco Confluence"
     },
     "atacama-large-millimeter-array-alma-radio-telescope": {
       "category": "interesting-things",
@@ -603,6 +623,15 @@
       "description": "RNLI lifeboat station, with boat launched down a slipway. Station open regularly, and they allow visitors in to watch their practice launches once a week.\n\nhttps://bembridgelifeboat.org.uk/",
       "id": "bembridge-lifeboat-station",
       "name": "Bembridge Lifeboat Station"
+    },
+    "beneath-the-streets": {
+      "category": "para-infrastructural-cultural",
+      "coordinates": [
+        -122.3340931,
+        47.6028497
+      ],
+      "id": "beneath-the-streets",
+      "name": "Beneath the Streets"
     },
     "bennerley-viaduct": {
       "category": "interesting-things",
@@ -2194,6 +2223,16 @@
       "id": "foredown-tower",
       "name": "Foredown Tower"
     },
+    "fort-amherst-heritage-trust": {
+      "category": "museums-attractions",
+      "coordinates": [
+        0.5254248,
+        51.3873828
+      ],
+      "description": "Including tunnel tours!",
+      "id": "fort-amherst-heritage-trust",
+      "name": "Fort Amherst Heritage Trust"
+    },
     "fort-jefferson": {
       "category": "historic-ruins-structures",
       "coordinates": [
@@ -2230,7 +2269,7 @@
         -122.7663948,
         48.1413645
       ],
-      "description": "Built to control the entrance to Puget Sound; long retired as an active installation. Unusually dangerous for a place open to the public \u2013 lots of unlit underground corridors, etc.",
+      "description": "Built to control the entrance to Puget Sound; long retired as an active installation. Unusually dangerous for a place open to the public \u2013 lots of unlit underground corridors, etc.\n\nSeveral minor attractions are on the grounds, such as Copper Canyon Press (a prestigious poetry press) and a number of small museums.",
       "id": "fort-worden",
       "name": "Fort Worden"
     },
@@ -2262,6 +2301,15 @@
       ],
       "id": "foynes-flying-boat-maritime-museum",
       "name": "Foynes Flying Boat & Maritime Museum"
+    },
+    "fremont-troll": {
+      "category": "para-infrastructural-cultural",
+      "coordinates": [
+        -122.3474987,
+        47.6510628
+      ],
+      "id": "fremont-troll",
+      "name": "Fremont Troll"
     },
     "funikularea": {
       "category": "interesting-things",
@@ -2774,6 +2822,7 @@
         -121.7367888,
         46.7858833
       ],
+      "description": "The place to go if you want to see Mt Rainier up close without climbing it.",
       "id": "henry-m-jackson-memorial-visitor-center",
       "name": "Henry M. Jackson Memorial Visitor Center"
     },
@@ -2917,6 +2966,15 @@
       "description": "The world's only museum of hovercraft. Lots of craft to view and/or go inside - including the only remaining SRN-4 - a car-carrying hovercraft that went across the channel. \n\nhttps://www.hovercraft-museum.org/",
       "id": "hovercraft-museum",
       "name": "Hovercraft Museum"
+    },
+    "humber-bridge": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -0.449848,
+        53.70484
+      ],
+      "id": "humber-bridge",
+      "name": "Humber Bridge"
     },
     "hunterian-museum": {
       "category": "museums-attractions",
@@ -3150,6 +3208,16 @@
       "description": "The only underwater hotel in America. You'll need to dive to your room.",
       "id": "jules-undersea-lodge",
       "name": "Jules Undersea Lodge"
+    },
+    "kapitan-man-laser-incident": {
+      "category": "para-infrastructural-cultural",
+      "coordinates": [
+        -123.4543437,
+        48.2249596
+      ],
+      "description": "Pin location not exact. https://en.wikipedia.org/wiki/Strait_of_Juan_de_Fuca_laser_incident",
+      "id": "kapitan-man-laser-incident",
+      "name": "\u201cKapitan Man\u201d laser incident"
     },
     "karl-g-jansky-very-large-array-visitor-center": {
       "category": "interesting-things",
@@ -3799,6 +3867,15 @@
       "id": "menai-bridge-viewpoint",
       "name": "Menai Bridge Viewpoint"
     },
+    "mersey-tunnel-tours": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -2.9941173,
+        53.4045199
+      ],
+      "id": "mersey-tunnel-tours",
+      "name": "Mersey Tunnel Tours"
+    },
     "met-office": {
       "category": "not-open-to-public",
       "coordinates": [
@@ -4217,7 +4294,7 @@
         -122.2964894,
         47.5186185
       ],
-      "description": "Very Boeing-centric for obvious reasons but well worth it.",
+      "description": "Very Boeing-centric for obvious reasons but nonetheless excellent.",
       "id": "museum-of-flight",
       "name": "Museum of Flight"
     },
@@ -4494,6 +4571,15 @@
       "description": "Quirky small museum for all things mustard.",
       "id": "national-mustard-museum",
       "name": "National Mustard Museum"
+    },
+    "national-neon-sign-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -121.1835323,
+        45.601025
+      ],
+      "id": "national-neon-sign-museum",
+      "name": "National Neon Sign Museum"
     },
     "national-postal-museum": {
       "category": "museums-attractions",
@@ -4859,6 +4945,15 @@
       "id": "oklo-natural-nuclear-reactor",
       "name": "Oklo natural nuclear reactor"
     },
+    "old-light": {
+      "category": "nature",
+      "coordinates": [
+        -4.6732158,
+        51.1672591
+      ],
+      "id": "old-light",
+      "name": "Old Light"
+    },
     "old-plank-road": {
       "category": "historic-ruins-structures",
       "coordinates": [
@@ -4988,6 +5083,15 @@
       ],
       "id": "palomar-observatory",
       "name": "Palomar Observatory"
+    },
+    "papplewick-pumping-station": {
+      "category": "interesting-things",
+      "coordinates": [
+        -1.1313799,
+        53.0631915
+      ],
+      "id": "papplewick-pumping-station",
+      "name": "Papplewick Pumping Station"
     },
     "park-of-the-aqueducts": {
       "category": "historic-ruins-structures",
@@ -6190,6 +6294,16 @@
       "id": "singing-ringing-tree",
       "name": "Singing Ringing Tree"
     },
+    "sinking-of-the-valencia": {
+      "category": "para-infrastructural-cultural",
+      "coordinates": [
+        -125.005833,
+        48.705556
+      ],
+      "description": "The region's most deadly shipwreck, in 1906: https://en.wikipedia.org/wiki/SS_Valencia#Final_voyage",
+      "id": "sinking-of-the-valencia",
+      "name": "Sinking of the \u201cValencia\u201d"
+    },
     "sir-john-soanes-museum": {
       "category": "museums-attractions",
       "coordinates": [
@@ -6418,6 +6532,16 @@
       "id": "st-helens-fort",
       "name": "St Helens Fort"
     },
+    "stack-interchange": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        -118.2488446,
+        34.0628628
+      ],
+      "description": "The first four-level stack freeway interchange, connecting the 110 and the 101. Built in 1948, a more compact replacement for a cloverleaf exchange",
+      "id": "stack-interchange",
+      "name": "Stack Interchange"
+    },
     "stalham-firehouse-museum": {
       "category": "museums-attractions",
       "coordinates": [
@@ -6522,6 +6646,16 @@
       ],
       "id": "stonehenge-wwi-memorial",
       "name": "Stonehenge WWI Memorial"
+    },
+    "strait-of-juan-de-fuca-boundary-dispute": {
+      "category": "para-infrastructural-cultural",
+      "coordinates": [
+        -124.8544008,
+        48.4966318
+      ],
+      "description": "Despite warm relations, the US and Canada manage to dispute areas at both ends of both their borders. (See https://en.wikipedia.org/wiki/List_of_areas_disputed_by_Canada_and_the_United_States.) This is the smallest and probably least important: the countries disagree on how to draw the median line in two areas of the Exclusive Economic Zones outside the mouth of the Strait. In short, Canada includes its inland waters as contributing to the median line, while the US uses the low tide line. (See https://www.durham.ac.uk/media/durham-university/research-/research-centres/ibru-centre-for-borders-research/maps-and-databases/publications-database/boundary-amp-security-bulletins/bsb5-3_gray.pdf for a little more detail.) The total area in dispute is slightly over 50 km\u00b2 and (so far as I know) has never led to any actual incidents.",
+      "id": "strait-of-juan-de-fuca-boundary-dispute",
+      "name": "Strait of Juan de Fuca boundary dispute"
     },
     "stuttgart-tv-tower": {
       "category": "museums-attractions",
@@ -6776,6 +6910,7 @@
         -123.4706261,
         48.5635765
       ],
+      "description": "Extensive and luxurious privately owned (but open) gardens.",
       "id": "the-butchart-gardens",
       "name": "The Butchart Gardens"
     },
@@ -6843,6 +6978,16 @@
       ],
       "id": "the-centre-for-computing-history",
       "name": "The Centre for Computing History"
+    },
+    "the-coffin-works": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -1.9073582,
+        52.4819641
+      ],
+      "description": "Museum of coffin - and more specifically, coffin furniture - making.",
+      "id": "the-coffin-works",
+      "name": "The Coffin Works"
     },
     "the-dalles-google-data-center": {
       "category": "museums-attractions",
@@ -7689,6 +7834,16 @@
       "id": "welwyn-roman-baths",
       "name": "Welwyn Roman Baths"
     },
+    "west-edmonton-mall": {
+      "category": "interesting-things",
+      "coordinates": [
+        -113.6241906,
+        53.5225151
+      ],
+      "description": "One of the largest malls in the world by various measures. In essence, they took a shopping district and put a giant building around it.",
+      "id": "west-edmonton-mall",
+      "name": "West Edmonton Mall"
+    },
     "west-kennet-long-barrow": {
       "category": "historic-ruins-structures",
       "coordinates": [
@@ -7708,6 +7863,15 @@
       "description": "Transport yourself back in time as you learn about two centuries of policing history.\n\nIt's a great day out for all, so round up your family and friends and be part of policing history at our very own Victorian lock-up.",
       "id": "west-midlands-police-museum",
       "name": "West Midlands Police Museum"
+    },
+    "western-antique-aeroplane-and-automobile-museum-waaam": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -121.5412344,
+        45.6768599
+      ],
+      "id": "western-antique-aeroplane-and-automobile-museum-waaam",
+      "name": "Western Antique Aeroplane and Automobile Museum (WAAAM)"
     },
     "western-approaches": {
       "category": "museums-attractions",

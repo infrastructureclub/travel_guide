@@ -2069,6 +2069,135 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Babbacombe Cliff Railway</name>
+        <styleUrl>#icon-1899-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.5180191,50.4815294,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Berry Head Lighthouse</name>
+        <description><![CDATA[The UK's shortest, but also highest lighthouse. The light is barely above ground level, but the lighthouse is one of the highest above sea level.<br><br>See https://en.wikipedia.org/wiki/Berry_Head_Lighthouse]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -3.4835574,50.3995632,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cuckfield Royal Observer Corps Bunker</name>
+        <description>https://www.facebook.com/Cuckfieldnuclearbunker/ for details of regular open days</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -0.1411485,51.0040372,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beckton Sewage Treatment Works</name>
+        <description>Often open during Open House</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            0.0888008,51.5182595,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Southwark Integrated Waste Management Facility</name>
+        <description>Southwark residents can book a tour. Also often open during Open House.</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -0.0583366,51.4832153,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[South East London Combined Heat & Power Ltd]]></name>
+        <description>Often open during Open House</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -0.0462238,51.4854816,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Westray Community Wind Turbine</name>
+        <description>Run by Westray Renewable Energy Ltd with proceeds going to the local community. https://westraydevelopmenttrust.co.uk/westray-renewable-energy-ltd/</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9891947,59.2994577,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seafield waste water treatment works</name>
+        <description>Has opened on Doors Open Day in the past https://www.scottishwater.co.uk/About-Us/News-and-Views/2022/10/041022-Seafield-Doors-Open-Day</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -3.144909,55.9700898,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skye Ferry</name>
+        <description><![CDATA[The last manually operated steel turntable ferry in the world.<br><br>https://en.wikipedia.org/wiki/MV_Glenachulish]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6651798,57.2277477,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Donside Hydro</name>
+        <description><![CDATA[Small community-owned hydro plant, with an archimedes screw turbine. You can also access the artificial island on the far side of the lade.<br>https://acenergy.org.uk/]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -2.1130884,57.176586,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Isle of May lighthouse</name>
+        <description>A Robert Stephenson lighthouse. Open to visitors. https://www.nlb.org.uk/lighthouses/isle-of-may/</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -2.5573301,56.1856862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Portsmouth to Ryde hovercraft terminal</name>
+        <description>https://www.hovertravel.co.uk/</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -1.099968,50.7851587,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Corrour Station House</name>
+        <description>A station in Rannoch Moor, only accessible by rail or 20 mile walk. There is accommodation in the old signal box. https://www.corrour.co.uk/station-house/</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -4.6903719,56.7603782,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>
@@ -5894,6 +6023,99 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Boscombe Down Aviation Collection</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.7854731,51.0999835,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kents Cavern Prehistoric Caves</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.5026919,50.4677686,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Avog's Crash Museum]]></name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.6140566,52.0141645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brixham Battery</name>
+        <description>Restored gun enplacements, with museum and tunnels etc.</description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -3.5214305,50.4010194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Golden Hind Museum Ship</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.5128533,50.3964342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avalon Marshes Centre</name>
+        <description><![CDATA[http://avalonmarshes.org/explore/avalon-marshes-centre/<br>Includes history about the nearby Sweet Track, a road built in 3807 or 3806BC.]]></description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -2.822577,51.169325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Scottish Crannog Centre</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.0031778,56.5795157,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Snowdon Mountain Railway ticket office</name>
+        <description>Rack and pinion mountain railway https://snowdonrailway.co.uk/</description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -4.119494,53.1150984,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Museum Of Scottish Lighthouses</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.0057261,57.6975376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Peterhead Prison Museum</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.7927235,57.4912436,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>
@@ -6077,6 +6299,26 @@
         <Point>
           <coordinates>
             48.3086014,-18.8317208,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hunterston Jetty/PARC</name>
+        <description>Former deepwater docking facility on the Clyde, with a future in HVDC undersea cables. https://en.wikipedia.org/wiki/Hunterston_Terminal</description>
+        <styleUrl>#icon-1693-757575-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -4.8611531,55.7443275,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ailsa Craig</name>
+        <description>Quarried for curling stones, among other things https://en.wikipedia.org/wiki/Ailsa_Craig#Curling_stones</description>
+        <styleUrl>#icon-1693-757575-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -5.1109026,55.2510022,0
           </coordinates>
         </Point>
       </Placemark>
@@ -6945,6 +7187,65 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Bridge of Balgownie</name>
+        <description>Built in 1320, rebuilt in 1605. Originally the main route north from Aberdeen. Superseded in 1830 by the downstream Bridge of Don. https://en.wikipedia.org/wiki/Brig_o%27_Balgownie</description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -2.0985536,57.1772839,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Forth Bridge</name>
+        <description>Iconic cantilever rail bridge.</description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -3.3884392,56.0006491,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tay Rail Bridge</name>
+        <description>Iconic railway bridge. Also adjacent are the piers from the original Tay Rail bridge which catastrophically failed in bad weather. Both bridges feature in infamous McGonagall poems.</description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9882343,56.4383034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Glenfinnan Viaduct</name>
+        <description><![CDATA[Landmark curving train viaduct. There's a public footpath underneath.<br><br>Built 1897-1901 in concrete.]]></description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -5.4317589,56.8762172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skye Bridge</name>
+        <styleUrl>#icon-1598-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.7425689,57.2763084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Old Mam Tor Road</name>
+        <description>Formerly the main road from Sheffield to Manchester, intended to be a gentler gradient than Winnats Pass to the south. Unfortunately, it crosses an active landslide and had to be repeatedly repaired until they gave up. You can now visit the old road on foot. https://en.wikipedia.org/wiki/Mam_Tor#Landslides</description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -1.7969475,53.3462801,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Nature</name>
@@ -7254,6 +7555,26 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>High Street</name>
+        <description>A mountain range with a Roman road going over it.</description>
+        <styleUrl>#icon-1596-558B2F-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -2.8653315,54.4918864,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lairig Ghru</name>
+        <description><![CDATA[Hill pass, formerly used as drover's road or general transport between Speyside and Deeside. Now mainly a walking route.]]></description>
+        <styleUrl>#icon-1596-558B2F-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -3.6948288,57.0879655,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Not open to public</name>
@@ -7531,16 +7852,6 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Donside Hydro</name>
-        <description>https://acenergy.org.uk/</description>
-        <styleUrl>#icon-1898-BDBDBD-labelson</styleUrl>
-        <Point>
-          <coordinates>
-            -2.1130884,57.176586,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>Mullard Radio Astronomy Observatory (MRAO)</name>
         <description>Occasional open days</description>
         <styleUrl>#icon-1898-BDBDBD-labelson</styleUrl>
@@ -7653,6 +7964,16 @@
         <Point>
           <coordinates>
             -121.9167,48.2037,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nigg Waste Water Treatment Works</name>
+        <description>In the 1990s it opened during Doors Open Day but unclear if it has done so recently. https://www.scottishwater.co.uk/in-your-area/investments-in-your-area/nigg-wwtw</description>
+        <styleUrl>#icon-1898-BDBDBD-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -2.060587,57.1315494,0
           </coordinates>
         </Point>
       </Placemark>

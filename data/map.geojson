@@ -3238,6 +3238,226 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -3.5180191,
+                    50.4815294,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Babbacombe Cliff Railway",
+                "styleUrl": "#icon-1899-A52714-labelson-nodesc",
+                "styleHash": "-47c358db"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.4835574,
+                    50.3995632,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Berry Head Lighthouse",
+                "styleUrl": "#icon-1899-A52714-labelson",
+                "styleHash": "2a468a2a",
+                "description": "The UK's shortest, but also highest lighthouse. The light is barely above ground level, but the lighthouse is one of the highest above sea level.<br><br>See https://en.wikipedia.org/wiki/Berry_Head_Lighthouse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1411485,
+                    51.0040372,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cuckfield Royal Observer Corps Bunker",
+                "styleUrl": "#icon-1899-A52714-labelson",
+                "styleHash": "2a468a2a",
+                "description": "https://www.facebook.com/Cuckfieldnuclearbunker/ for details of regular open days"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0888008,
+                    51.5182595,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Beckton Sewage Treatment Works",
+                "styleUrl": "#icon-1899-A52714-labelson",
+                "styleHash": "2a468a2a",
+                "description": "Often open during Open House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0583366,
+                    51.4832153,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Southwark Integrated Waste Management Facility",
+                "styleUrl": "#icon-1899-A52714-labelson",
+                "styleHash": "2a468a2a",
+                "description": "Southwark residents can book a tour. Also often open during Open House."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0462238,
+                    51.4854816,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "South East London Combined Heat & Power Ltd",
+                "styleUrl": "#icon-1899-A52714-labelson",
+                "styleHash": "2a468a2a",
+                "description": "Often open during Open House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9891947,
+                    59.2994577,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Westray Community Wind Turbine",
+                "styleUrl": "#icon-1899-A52714-labelson",
+                "styleHash": "2a468a2a",
+                "description": "Run by Westray Renewable Energy Ltd with proceeds going to the local community. https://westraydevelopmenttrust.co.uk/westray-renewable-energy-ltd/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.144909,
+                    55.9700898,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Seafield waste water treatment works",
+                "styleUrl": "#icon-1899-A52714-labelson",
+                "styleHash": "2a468a2a",
+                "description": "Has opened on Doors Open Day in the past https://www.scottishwater.co.uk/About-Us/News-and-Views/2022/10/041022-Seafield-Doors-Open-Day"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.6651798,
+                    57.2277477,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Skye Ferry",
+                "styleUrl": "#icon-1899-A52714-labelson",
+                "styleHash": "2a468a2a",
+                "description": "The last manually operated steel turntable ferry in the world.<br><br>https://en.wikipedia.org/wiki/MV_Glenachulish"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.1130884,
+                    57.176586,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Donside Hydro",
+                "styleUrl": "#icon-1899-A52714-labelson",
+                "styleHash": "2a468a2a",
+                "description": "Small community-owned hydro plant, with an archimedes screw turbine. You can also access the artificial island on the far side of the lade.<br>https://acenergy.org.uk/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.5573301,
+                    56.1856862,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Isle of May lighthouse",
+                "styleUrl": "#icon-1899-A52714-labelson",
+                "styleHash": "2a468a2a",
+                "description": "A Robert Stephenson lighthouse. Open to visitors. https://www.nlb.org.uk/lighthouses/isle-of-may/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.099968,
+                    50.7851587,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Portsmouth to Ryde hovercraft terminal",
+                "styleUrl": "#icon-1899-A52714-labelson",
+                "styleHash": "2a468a2a",
+                "description": "https://www.hovertravel.co.uk/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.6903719,
+                    56.7603782,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Corrour Station House",
+                "styleUrl": "#icon-1899-A52714-labelson",
+                "styleHash": "2a468a2a",
+                "description": "A station in Rannoch Moor, only accessible by rail or 20 mile walk. There is accommodation in the old signal box. https://www.corrour.co.uk/station-house/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0
@@ -9864,6 +10084,169 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -1.7854731,
+                    51.0999835,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Boscombe Down Aviation Collection",
+                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
+                "styleHash": "-4303c82c"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.5026919,
+                    50.4677686,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kents Cavern Prehistoric Caves",
+                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
+                "styleHash": "-4303c82c"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.6140566,
+                    52.0141645,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Avog's Crash Museum",
+                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
+                "styleHash": "-4303c82c"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.5214305,
+                    50.4010194,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Brixham Battery",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "description": "Restored gun enplacements, with museum and tunnels etc."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.5128533,
+                    50.3964342,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Golden Hind Museum Ship",
+                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
+                "styleHash": "-4303c82c"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.822577,
+                    51.169325,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Avalon Marshes Centre",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "description": "http://avalonmarshes.org/explore/avalon-marshes-centre/<br>Includes history about the nearby Sweet Track, a road built in 3807 or 3806BC."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.0031778,
+                    56.5795157,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Scottish Crannog Centre",
+                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
+                "styleHash": "-4303c82c"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.119494,
+                    53.1150984,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Snowdon Mountain Railway ticket office",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "description": "Rack and pinion mountain railway https://snowdonrailway.co.uk/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.0057261,
+                    57.6975376,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Museum Of Scottish Lighthouses",
+                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
+                "styleHash": "-4303c82c"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.7927235,
+                    57.4912436,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Peterhead Prison Museum",
+                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
+                "styleHash": "-4303c82c"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.9055879,
                     38.1671515,
                     0
@@ -10159,6 +10542,40 @@
                 "styleUrl": "#icon-1693-757575-labelson",
                 "styleHash": "-1d74371c",
                 "description": "Notable for its size. Estimated to account for 25% of Madagascar’s entire tax base. Waste fluids are piped 200 km to ponds at Toamasina, on the coast."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.8611531,
+                    55.7443275,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hunterston Jetty/PARC",
+                "styleUrl": "#icon-1693-757575-labelson",
+                "styleHash": "-1d74371c",
+                "description": "Former deepwater docking facility on the Clyde, with a future in HVDC undersea cables. https://en.wikipedia.org/wiki/Hunterston_Terminal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.1109026,
+                    55.2510022,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ailsa Craig",
+                "styleUrl": "#icon-1693-757575-labelson",
+                "styleHash": "-1d74371c",
+                "description": "Quarried for curling stones, among other things https://en.wikipedia.org/wiki/Ailsa_Craig#Curling_stones"
             }
         },
         {
@@ -11647,6 +12064,107 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -2.0985536,
+                    57.1772839,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bridge of Balgownie",
+                "styleUrl": "#icon-1598-A52714-labelson",
+                "styleHash": "118808a5",
+                "description": "Built in 1320, rebuilt in 1605. Originally the main route north from Aberdeen. Superseded in 1830 by the downstream Bridge of Don. https://en.wikipedia.org/wiki/Brig_o%27_Balgownie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.3884392,
+                    56.0006491,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Forth Bridge",
+                "styleUrl": "#icon-1598-A52714-labelson",
+                "styleHash": "118808a5",
+                "description": "Iconic cantilever rail bridge."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9882343,
+                    56.4383034,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tay Rail Bridge",
+                "styleUrl": "#icon-1598-A52714-labelson",
+                "styleHash": "118808a5",
+                "description": "Iconic railway bridge. Also adjacent are the piers from the original Tay Rail bridge which catastrophically failed in bad weather. Both bridges feature in infamous McGonagall poems."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.4317589,
+                    56.8762172,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Glenfinnan Viaduct",
+                "styleUrl": "#icon-1598-A52714-labelson",
+                "styleHash": "118808a5",
+                "description": "Landmark curving train viaduct. There's a public footpath underneath.<br><br>Built 1897-1901 in concrete."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.7425689,
+                    57.2763084,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Skye Bridge",
+                "styleUrl": "#icon-1598-A52714-labelson-nodesc",
+                "styleHash": "7d57c442"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.7969475,
+                    53.3462801,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Old Mam Tor Road",
+                "styleUrl": "#icon-1598-A52714-labelson",
+                "styleHash": "118808a5",
+                "description": "Formerly the main road from Sheffield to Manchester, intended to be a gentler gradient than Winnats Pass to the south. Unfortunately, it crosses an active landslide and had to be repeatedly repaired until they gave up. You can now visit the old road on foot. https://en.wikipedia.org/wiki/Mam_Tor#Landslides"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -122.119383,
                     42.9370052,
                     0
@@ -12174,6 +12692,40 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -2.8653315,
+                    54.4918864,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "High Street",
+                "styleUrl": "#icon-1596-558B2F-labelson",
+                "styleHash": "638c400",
+                "description": "A mountain range with a Roman road going over it."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6948288,
+                    57.0879655,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lairig Ghru",
+                "styleUrl": "#icon-1596-558B2F-labelson",
+                "styleHash": "638c400",
+                "description": "Hill pass, formerly used as drover's road or general transport between Speyside and Deeside. Now mainly a walking route."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     0.9596944,
                     50.9138436,
                     0
@@ -12629,23 +13181,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -2.1130884,
-                    57.176586,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Donside Hydro",
-                "styleUrl": "#icon-1898-BDBDBD-labelson",
-                "styleHash": "-2f1af5a4",
-                "description": "https://acenergy.org.uk/"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     0.0329894,
                     52.1675812,
                     0
@@ -12836,6 +13371,23 @@
                 "styleUrl": "#icon-1898-BDBDBD-labelson",
                 "styleHash": "-2f1af5a4",
                 "description": "https://en.wikipedia.org/wiki/Jim_Creek_Naval_Radio_Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.060587,
+                    57.1315494,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Nigg Waste Water Treatment Works",
+                "styleUrl": "#icon-1898-BDBDBD-labelson",
+                "styleHash": "-2f1af5a4",
+                "description": "In the 1990s it opened during Doors Open Day but unclear if it has done so recently. https://www.scottishwater.co.uk/in-your-area/investments-in-your-area/nigg-wwtw"
             }
         },
         {

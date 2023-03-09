@@ -3458,6 +3458,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -96.7982391,
+                    32.7830012,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Dallas Pedestrian Network\n",
+                "styleUrl": "#icon-1899-A52714-labelson",
+                "styleHash": "2a468a2a",
+                "description": "A slightly abandoned network of underground and overground tunnels linking many buildings in Downtown Dallas. Cool to explore and have a creepy walk around..."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0
@@ -7585,10 +7602,11 @@
                 ]
             },
             "properties": {
-                "name": "Farting lane lamp",
+                "name": "Carting Lane Sewer Gas Destructor Lamp",
                 "styleUrl": "#icon-1636-F9A825-labelson",
                 "styleHash": "-73d4c685",
-                "description": "The last sewer gas destructor lamp https://www.historic-uk.com/HistoryMagazine/DestinationsUK/Farting-Lane/"
+                "description": "<img src=\"./data/images/bebb37f5320078de288c9ca20dfdc38ea44ad502767b5a63566189078ddfd937.png\" height=\"200\" width=\"auto\" /><br><br>The last sewer gas destructor lamp https://www.historic-uk.com/HistoryMagazine/DestinationsUK/Farting-Lane/<br><br><img src=\"./data/images/b8e5635510608542117348b868125c9f238f895947aa06ca88632c29d0ec3c2c.png\" height=\"200\" width=\"auto\" />",
+                "gx_media_links": "./data/images/bebb37f5320078de288c9ca20dfdc38ea44ad502767b5a63566189078ddfd937.png ./data/images/b8e5635510608542117348b868125c9f238f895947aa06ca88632c29d0ec3c2c.png"
             }
         },
         {

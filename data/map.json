@@ -9,7 +9,7 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 207,
+      "count": 208,
       "name": "Interesting Things"
     },
     "museums-attractions": {
@@ -1235,6 +1235,20 @@
       "id": "cape-canaveral-space-force-station",
       "name": "Cape Canaveral Space Force Station"
     },
+    "carting-lane-sewer-gas-destructor-lamp": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -0.1210497,
+        51.5100773
+      ],
+      "description": "The last sewer gas destructor lamp https://www.historic-uk.com/HistoryMagazine/DestinationsUK/Farting-Lane/",
+      "id": "carting-lane-sewer-gas-destructor-lamp",
+      "img": [
+        "./data/images/bebb37f5320078de288c9ca20dfdc38ea44ad502767b5a63566189078ddfd937.png",
+        "./data/images/b8e5635510608542117348b868125c9f238f895947aa06ca88632c29d0ec3c2c.png"
+      ],
+      "name": "Carting Lane Sewer Gas Destructor Lamp"
+    },
     "casa-grande-ruins-national-monument": {
       "category": "historic-ruins-structures",
       "coordinates": [
@@ -1682,6 +1696,16 @@
       "description": "The Loma Prieta earthquake (1989) partially pancaked a two-level expressway that ran here. The local community, mostly impoverished Black people whose neighborhood the freeway had split, acted heroically, improvising ladders and other tools, pulling trapped drivers out of the wreckage, and administering first aid while EMTs were overloaded. This is one of very few memorials to peacetime community heroism in the world.",
       "id": "cypress-freeway-memorial-park",
       "name": "Cypress Freeway Memorial Park"
+    },
+    "dallas-pedestrian-network": {
+      "category": "interesting-things",
+      "coordinates": [
+        -96.7982391,
+        32.7830012
+      ],
+      "description": "A slightly abandoned network of underground and overground tunnels linking many buildings in Downtown Dallas. Cool to explore and have a creepy walk around...",
+      "id": "dallas-pedestrian-network",
+      "name": "Dallas Pedestrian Network"
     },
     "danube-tower": {
       "category": "historic-ruins-structures",
@@ -2240,16 +2264,6 @@
       ],
       "id": "farnborough-air-sciences-trust-museum",
       "name": "Farnborough Air Sciences Trust Museum"
-    },
-    "farting-lane-lamp": {
-      "category": "museums-attractions",
-      "coordinates": [
-        -0.1210497,
-        51.5100773
-      ],
-      "description": "The last sewer gas destructor lamp https://www.historic-uk.com/HistoryMagazine/DestinationsUK/Farting-Lane/",
-      "id": "farting-lane-lamp",
-      "name": "Farting lane lamp"
     },
     "faslane-nuclear-submarine-base": {
       "category": "not-open-to-public",

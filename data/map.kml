@@ -2198,6 +2198,17 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Dallas Pedestrian Network
+</name>
+        <description>A slightly abandoned network of underground and overground tunnels linking many buildings in Downtown Dallas. Cool to explore and have a creepy walk around...</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -96.7982391,32.7830012,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>
@@ -4575,9 +4586,14 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Farting lane lamp</name>
-        <description>The last sewer gas destructor lamp https://www.historic-uk.com/HistoryMagazine/DestinationsUK/Farting-Lane/</description>
+        <name>Carting Lane Sewer Gas Destructor Lamp</name>
+        <description><![CDATA[<img src="./data/images/bebb37f5320078de288c9ca20dfdc38ea44ad502767b5a63566189078ddfd937.png" height="200" width="auto" /><br><br>The last sewer gas destructor lamp https://www.historic-uk.com/HistoryMagazine/DestinationsUK/Farting-Lane/<br><br><img src="./data/images/b8e5635510608542117348b868125c9f238f895947aa06ca88632c29d0ec3c2c.png" height="200" width="auto" />]]></description>
         <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>./data/images/bebb37f5320078de288c9ca20dfdc38ea44ad502767b5a63566189078ddfd937.png ./data/images/b8e5635510608542117348b868125c9f238f895947aa06ca88632c29d0ec3c2c.png</value>
+          </Data>
+        </ExtendedData>
         <Point>
           <coordinates>
             -0.1210497,51.5100773,0

@@ -25,7 +25,7 @@ jobs:
         run: ./scripts/convert-to-json.py
       - name: Commit
         run: |
-          git add data
+          git add data src
           git config --global user.email "infrastructureclub-travel-guide@jonty.co.uk"
           git config --global user.name "Travel Guide Update Bot"
           git commit -m "Automatic data update"

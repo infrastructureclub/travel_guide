@@ -1,23 +1,23 @@
 {
   "categories": {
     "historic-ruins-structures": {
-      "count": 86,
+      "count": 95,
       "name": "Historic / ruins / structures"
     },
     "industry": {
-      "count": 18,
+      "count": 20,
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 192,
+      "count": 208,
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 397,
+      "count": 413,
       "name": "Museums / attractions"
     },
     "nature": {
-      "count": 31,
+      "count": 34,
       "name": "Nature"
     },
     "not-open-to-public": {
@@ -25,7 +25,7 @@
       "name": "Not open to public"
     },
     "para-infrastructural-cultural": {
-      "count": 51,
+      "count": 56,
       "name": "Para-infrastructural / cultural"
     },
     "science": {
@@ -109,6 +109,16 @@
       "description": "Aviation museum with lots of aircraft, other displays, and a Concorde.\n\nhttps://aerospacebristol.org/",
       "id": "aerospace-bristol",
       "name": "Aerospace Bristol"
+    },
+    "ailsa-craig": {
+      "category": "industry",
+      "coordinates": [
+        -5.1109026,
+        55.2510022
+      ],
+      "description": "Quarried for curling stones, among other things https://en.wikipedia.org/wiki/Ailsa_Craig#Curling_stones",
+      "id": "ailsa-craig",
+      "name": "Ailsa Craig"
     },
     "air-force-flight-test-museum": {
       "category": "museums-attractions",
@@ -275,6 +285,16 @@
       "id": "anderton-boat-lift",
       "name": "Anderton Boat Lift"
     },
+    "angels-flight-railway": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        -118.2506142,
+        34.0516174
+      ],
+      "description": "Funicular railway moved from its original location, now connecting the subway, Grand Central Market, and the ritzy office district of Bunker Hill.",
+      "id": "angels-flight-railway",
+      "name": "Angels Flight Railway"
+    },
     "anglesey-transport-museum-caf-tacla-taid": {
       "category": "museums-attractions",
       "coordinates": [
@@ -388,6 +408,16 @@
       "id": "army-flying-museum",
       "name": "Army Flying Museum"
     },
+    "arroyo-seco-confluence": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        -118.2259552,
+        34.0794755
+      ],
+      "description": "Where the Los Angeles River and pretty much the entire LA basin watershed intersect. Totally concretized because of floods culminating in a disastrous one in 1938. Also the confluence of the 110 and 5 freeways and the Gold Line light rail track, and trains bound for Grand Central Station and the nearby cargo rail yards.",
+      "id": "arroyo-seco-confluence",
+      "name": "Arroyo Seco Confluence"
+    },
     "atacama-large-millimeter-array-alma-radio-telescope": {
       "category": "interesting-things",
       "coordinates": [
@@ -416,6 +446,16 @@
       "id": "atomium",
       "name": "Atomium"
     },
+    "avalon-marshes-centre": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -2.822577,
+        51.169325
+      ],
+      "description": "http://avalonmarshes.org/explore/avalon-marshes-centre/\nIncludes history about the nearby Sweet Track, a road built in 3807 or 3806BC.",
+      "id": "avalon-marshes-centre",
+      "name": "Avalon Marshes Centre"
+    },
     "avebury-stone-circles": {
       "category": "historic-ruins-structures",
       "coordinates": [
@@ -425,6 +465,15 @@
       "description": "Avebury henge and stone circles are one of the greatest marvels of prehistoric Britain. Built and much altered during the Neolithic period, roughly between 2850 BC and 2200 BC, the henge survives as a huge circular bank and ditch, encircling an area that includes part of Avebury village. Within the henge is the largest stone circle in Britain - originally of about 100 stones - which in turn encloses two smaller stone circles.\n\nSee https://www.english-heritage.org.uk/visit/places/avebury/",
       "id": "avebury-stone-circles",
       "name": "Avebury Stone Circles"
+    },
+    "avogs-crash-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        6.6140566,
+        52.0141645
+      ],
+      "id": "avogs-crash-museum",
+      "name": "Avog's Crash Museum"
     },
     "avoncroft-museum-of-historic-buildings": {
       "category": "museums-attractions",
@@ -444,6 +493,15 @@
       ],
       "id": "avro-aircraft-heritage-museum",
       "name": "Avro Aircraft Heritage Museum"
+    },
+    "babbacombe-cliff-railway": {
+      "category": "interesting-things",
+      "coordinates": [
+        -3.5180191,
+        50.4815294
+      ],
+      "id": "babbacombe-cliff-railway",
+      "name": "Babbacombe Cliff Railway"
     },
     "baikonur-cosmodrome": {
       "category": "interesting-things",
@@ -575,6 +633,16 @@
       "id": "beauharnois-power-plant-interpretation-center",
       "name": "Beauharnois Power Plant - Interpretation Center"
     },
+    "beckton-sewage-treatment-works": {
+      "category": "interesting-things",
+      "coordinates": [
+        0.0888008,
+        51.5182595
+      ],
+      "description": "Often open during Open House",
+      "id": "beckton-sewage-treatment-works",
+      "name": "Beckton Sewage Treatment Works"
+    },
     "beer-quarry-caves": {
       "category": "museums-attractions",
       "coordinates": [
@@ -603,6 +671,15 @@
       "description": "RNLI lifeboat station, with boat launched down a slipway. Station open regularly, and they allow visitors in to watch their practice launches once a week.\n\nhttps://bembridgelifeboat.org.uk/",
       "id": "bembridge-lifeboat-station",
       "name": "Bembridge Lifeboat Station"
+    },
+    "beneath-the-streets": {
+      "category": "para-infrastructural-cultural",
+      "coordinates": [
+        -122.3340931,
+        47.6028497
+      ],
+      "id": "beneath-the-streets",
+      "name": "Beneath the Streets"
     },
     "bennerley-viaduct": {
       "category": "interesting-things",
@@ -640,6 +717,16 @@
       "description": "Berlin's largest teaching hospital also has an excellent medical history museum. The museum houses an extensive spirit collection alongside exhibits on the medical treatments the hospital has developed over three centuries. Refreshingly it is open to the general public.",
       "id": "berlin-museum-of-medical-history-of-the-charit",
       "name": "Berlin Museum of Medical History of the Charit\u00e9"
+    },
+    "berry-head-lighthouse": {
+      "category": "interesting-things",
+      "coordinates": [
+        -3.4835574,
+        50.3995632
+      ],
+      "description": "The UK's shortest, but also highest lighthouse. The light is barely above ground level, but the lighthouse is one of the highest above sea level.\n\nSee https://en.wikipedia.org/wiki/Berry_Head_Lighthouse",
+      "id": "berry-head-lighthouse",
+      "name": "Berry Head Lighthouse"
     },
     "bethany-reservoir": {
       "category": "interesting-things",
@@ -803,6 +890,15 @@
       "id": "borax-visitor-center",
       "name": "Borax Visitor Center"
     },
+    "boscombe-down-aviation-collection": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -1.7854731,
+        51.0999835
+      ],
+      "id": "boscombe-down-aviation-collection",
+      "name": "Boscombe Down Aviation Collection"
+    },
     "boston-lodge-works-ffestiniog-railway": {
       "category": "not-open-to-public",
       "coordinates": [
@@ -861,6 +957,16 @@
       "description": "Includes Dad's Army museum!",
       "id": "bressingham-steam-museum-gardens",
       "name": "Bressingham Steam Museum & Gardens"
+    },
+    "bridge-of-balgownie": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        -2.0985536,
+        57.1772839
+      ],
+      "description": "Built in 1320, rebuilt in 1605. Originally the main route north from Aberdeen. Superseded in 1830 by the downstream Bridge of Don. https://en.wikipedia.org/wiki/Brig_o%27_Balgownie",
+      "id": "bridge-of-balgownie",
+      "name": "Bridge of Balgownie"
     },
     "bridge-of-the-americas": {
       "category": "interesting-things",
@@ -939,6 +1045,16 @@
         "./data/images/812cee3fd4c0b3d17d4f4207f12d061f44fab5d4bd0a32e0e76029cbd5dcb816.png"
       ],
       "name": "British Waterways Kerr Cup Pile Driving Competition Prize Length of Piling 1959"
+    },
+    "brixham-battery": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -3.5214305,
+        50.4010194
+      ],
+      "description": "Restored gun enplacements, with museum and tunnels etc.",
+      "id": "brixham-battery",
+      "name": "Brixham Battery"
     },
     "brooklands-museum": {
       "category": "museums-attractions",
@@ -1118,6 +1234,20 @@
       ],
       "id": "cape-canaveral-space-force-station",
       "name": "Cape Canaveral Space Force Station"
+    },
+    "carting-lane-sewer-gas-destructor-lamp": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -0.1210497,
+        51.5100773
+      ],
+      "description": "The last sewer gas destructor lamp https://www.historic-uk.com/HistoryMagazine/DestinationsUK/Farting-Lane/",
+      "id": "carting-lane-sewer-gas-destructor-lamp",
+      "img": [
+        "./data/images/bebb37f5320078de288c9ca20dfdc38ea44ad502767b5a63566189078ddfd937.png",
+        "./data/images/b8e5635510608542117348b868125c9f238f895947aa06ca88632c29d0ec3c2c.png"
+      ],
+      "name": "Carting Lane Sewer Gas Destructor Lamp"
     },
     "casa-grande-ruins-national-monument": {
       "category": "historic-ruins-structures",
@@ -1392,6 +1522,16 @@
       "id": "corning-museum-of-glass",
       "name": "Corning Museum of Glass"
     },
+    "corrour-station-house": {
+      "category": "interesting-things",
+      "coordinates": [
+        -4.6903719,
+        56.7603782
+      ],
+      "description": "A station in Rannoch Moor, only accessible by rail or 20 mile walk. There is accommodation in the old signal box. https://www.corrour.co.uk/station-house/",
+      "id": "corrour-station-house",
+      "name": "Corrour Station House"
+    },
     "coventry-transport-museum": {
       "category": "museums-attractions",
       "coordinates": [
@@ -1537,6 +1677,16 @@
       "id": "csiro-parkes-observatory",
       "name": "CSIRO - Parkes Observatory"
     },
+    "cuckfield-royal-observer-corps-bunker": {
+      "category": "interesting-things",
+      "coordinates": [
+        -0.1411485,
+        51.0040372
+      ],
+      "description": "https://www.facebook.com/Cuckfieldnuclearbunker/ for details of regular open days",
+      "id": "cuckfield-royal-observer-corps-bunker",
+      "name": "Cuckfield Royal Observer Corps Bunker"
+    },
     "cypress-freeway-memorial-park": {
       "category": "para-infrastructural-cultural",
       "coordinates": [
@@ -1546,6 +1696,16 @@
       "description": "The Loma Prieta earthquake (1989) partially pancaked a two-level expressway that ran here. The local community, mostly impoverished Black people whose neighborhood the freeway had split, acted heroically, improvising ladders and other tools, pulling trapped drivers out of the wreckage, and administering first aid while EMTs were overloaded. This is one of very few memorials to peacetime community heroism in the world.",
       "id": "cypress-freeway-memorial-park",
       "name": "Cypress Freeway Memorial Park"
+    },
+    "dallas-pedestrian-network": {
+      "category": "interesting-things",
+      "coordinates": [
+        -96.7982391,
+        32.7830012
+      ],
+      "description": "A slightly abandoned network of underground and overground tunnels linking many buildings in Downtown Dallas. Cool to explore and have a creepy walk around...",
+      "id": "dallas-pedestrian-network",
+      "name": "Dallas Pedestrian Network"
     },
     "danube-tower": {
       "category": "historic-ruins-structures",
@@ -1719,12 +1879,12 @@
       "name": "Don Juan Pond"
     },
     "donside-hydro": {
-      "category": "not-open-to-public",
+      "category": "interesting-things",
       "coordinates": [
         -2.1130884,
         57.176586
       ],
-      "description": "https://acenergy.org.uk/",
+      "description": "Small community-owned hydro plant, with an archimedes screw turbine. You can also access the artificial island on the far side of the lade.\nhttps://acenergy.org.uk/",
       "id": "donside-hydro",
       "name": "Donside Hydro"
     },
@@ -2105,16 +2265,6 @@
       "id": "farnborough-air-sciences-trust-museum",
       "name": "Farnborough Air Sciences Trust Museum"
     },
-    "farting-lane-lamp": {
-      "category": "museums-attractions",
-      "coordinates": [
-        -0.1210497,
-        51.5100773
-      ],
-      "description": "The last sewer gas destructor lamp https://www.historic-uk.com/HistoryMagazine/DestinationsUK/Farting-Lane/",
-      "id": "farting-lane-lamp",
-      "name": "Farting lane lamp"
-    },
     "faslane-nuclear-submarine-base": {
       "category": "not-open-to-public",
       "coordinates": [
@@ -2194,6 +2344,16 @@
       "id": "foredown-tower",
       "name": "Foredown Tower"
     },
+    "fort-amherst-heritage-trust": {
+      "category": "museums-attractions",
+      "coordinates": [
+        0.5254248,
+        51.3873828
+      ],
+      "description": "Including tunnel tours!",
+      "id": "fort-amherst-heritage-trust",
+      "name": "Fort Amherst Heritage Trust"
+    },
     "fort-jefferson": {
       "category": "historic-ruins-structures",
       "coordinates": [
@@ -2230,9 +2390,19 @@
         -122.7663948,
         48.1413645
       ],
-      "description": "Built to control the entrance to Puget Sound; long retired as an active installation. Unusually dangerous for a place open to the public \u2013 lots of unlit underground corridors, etc.",
+      "description": "Built to control the entrance to Puget Sound; long retired as an active installation. Unusually dangerous for a place open to the public \u2013 lots of unlit underground corridors, etc.\n\nSeveral minor attractions are on the grounds, such as Copper Canyon Press (a prestigious poetry press) and a number of small museums.",
       "id": "fort-worden",
       "name": "Fort Worden"
+    },
+    "forth-bridge": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        -3.3884392,
+        56.0006491
+      ],
+      "description": "Iconic cantilever rail bridge.",
+      "id": "forth-bridge",
+      "name": "Forth Bridge"
     },
     "four-corners-monument": {
       "category": "interesting-things",
@@ -2262,6 +2432,15 @@
       ],
       "id": "foynes-flying-boat-maritime-museum",
       "name": "Foynes Flying Boat & Maritime Museum"
+    },
+    "fremont-troll": {
+      "category": "para-infrastructural-cultural",
+      "coordinates": [
+        -122.3474987,
+        47.6510628
+      ],
+      "id": "fremont-troll",
+      "name": "Fremont Troll"
     },
     "funikularea": {
       "category": "interesting-things",
@@ -2320,6 +2499,16 @@
       "id": "glen-roy-national-nature-reserve-glacial-remains",
       "name": "Glen Roy National Nature Reserve - Glacial Remains"
     },
+    "glenfinnan-viaduct": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        -5.4317589,
+        56.8762172
+      ],
+      "description": "Landmark curving train viaduct. There's a public footpath underneath.\n\nBuilt 1897-1901 in concrete.",
+      "id": "glenfinnan-viaduct",
+      "name": "Glenfinnan Viaduct"
+    },
     "glines-canyon-dam-spillway-overlook": {
       "category": "historic-ruins-structures",
       "coordinates": [
@@ -2339,6 +2528,15 @@
       "description": "A museum / collection of neon signs, located on a east London industrial park, which might make it a bit hard to find. It's not a large space, but they managed to fit a lot of signs into it. It's next to a small brewery with outside seating, if that's your cup of tea.",
       "id": "gods-own-junkyard",
       "name": "God's Own Junkyard"
+    },
+    "golden-hind-museum-ship": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -3.5128533,
+        50.3964342
+      ],
+      "id": "golden-hind-museum-ship",
+      "name": "Golden Hind Museum Ship"
     },
     "goleta-monarch-butterfly-grove-at-ellwood-mesa": {
       "category": "nature",
@@ -2774,6 +2972,7 @@
         -121.7367888,
         46.7858833
       ],
+      "description": "The place to go if you want to see Mt Rainier up close without climbing it.",
       "id": "henry-m-jackson-memorial-visitor-center",
       "name": "Henry M. Jackson Memorial Visitor Center"
     },
@@ -2804,6 +3003,16 @@
       ],
       "id": "hheiky-dam",
       "name": "H\u014dheiky\u014d Dam"
+    },
+    "high-street": {
+      "category": "nature",
+      "coordinates": [
+        -2.8653315,
+        54.4918864
+      ],
+      "description": "A mountain range with a Roman road going over it.",
+      "id": "high-street",
+      "name": "High Street"
     },
     "hills-of-mt-st-helens-ash-dredged-from-the-toutle-river-after-the-1980-eruption": {
       "category": "interesting-things",
@@ -2918,6 +3127,15 @@
       "id": "hovercraft-museum",
       "name": "Hovercraft Museum"
     },
+    "humber-bridge": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -0.449848,
+        53.70484
+      ],
+      "id": "humber-bridge",
+      "name": "Humber Bridge"
+    },
     "hunterian-museum": {
       "category": "museums-attractions",
       "coordinates": [
@@ -2927,6 +3145,16 @@
       "description": "The Hunterian Museum at the Royal College of Surgeons of England has at its heart the anatomy and pathology collections of the eighteenth-century surgeon and anatomist John Hunter.",
       "id": "hunterian-museum",
       "name": "Hunterian Museum"
+    },
+    "hunterston-jettyparc": {
+      "category": "industry",
+      "coordinates": [
+        -4.8611531,
+        55.7443275
+      ],
+      "description": "Former deepwater docking facility on the Clyde, with a future in HVDC undersea cables. https://en.wikipedia.org/wiki/Hunterston_Terminal",
+      "id": "hunterston-jettyparc",
+      "name": "Hunterston Jetty/PARC"
     },
     "hurricane-ridge-visitor-center": {
       "category": "nature",
@@ -3033,6 +3261,16 @@
       "description": "Oil wells and processing installations on islands right off the beach of Long Beach, disguised to look like a cross between a desert island (palm trees!) and generic mid-20th-century conference site (slightly angled concrete panels and structures), with a sprinkling of \"evil lair\"\n\nhttps://la.curbed.com/2018/9/28/17858248/history-long-beach-oil-islands-thums",
       "id": "island-white",
       "name": "Island White"
+    },
+    "isle-of-may-lighthouse": {
+      "category": "interesting-things",
+      "coordinates": [
+        -2.5573301,
+        56.1856862
+      ],
+      "description": "A Robert Stephenson lighthouse. Open to visitors. https://www.nlb.org.uk/lighthouses/isle-of-may/",
+      "id": "isle-of-may-lighthouse",
+      "name": "Isle of May lighthouse"
     },
     "isle-of-wight-bus-and-coach-museum": {
       "category": "museums-attractions",
@@ -3151,6 +3389,16 @@
       "id": "jules-undersea-lodge",
       "name": "Jules Undersea Lodge"
     },
+    "kapitan-man-laser-incident": {
+      "category": "para-infrastructural-cultural",
+      "coordinates": [
+        -123.4543437,
+        48.2249596
+      ],
+      "description": "Pin location not exact. https://en.wikipedia.org/wiki/Strait_of_Juan_de_Fuca_laser_incident",
+      "id": "kapitan-man-laser-incident",
+      "name": "\u201cKapitan Man\u201d laser incident"
+    },
     "karl-g-jansky-very-large-array-visitor-center": {
       "category": "interesting-things",
       "coordinates": [
@@ -3206,6 +3454,15 @@
       ],
       "id": "kennedy-space-center",
       "name": "Kennedy Space Center"
+    },
+    "kents-cavern-prehistoric-caves": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -3.5026919,
+        50.4677686
+      ],
+      "id": "kents-cavern-prehistoric-caves",
+      "name": "Kents Cavern Prehistoric Caves"
     },
     "khewra-salt-mines": {
       "category": "industry",
@@ -3324,6 +3581,16 @@
       "description": "Two villages were flooded to create the reservoirs and remains can be still be seen when the water level is low. \nDerwent Reservoir was alos used as a site for the RAF Dambusters to practice low-level flying in order to drop the bouncing bombs on German dams.",
       "id": "ladybower-reservoir",
       "name": "Ladybower Reservoir"
+    },
+    "lairig-ghru": {
+      "category": "nature",
+      "coordinates": [
+        -3.6948288,
+        57.0879655
+      ],
+      "description": "Hill pass, formerly used as drover's road or general transport between Speyside and Deeside. Now mainly a walking route.",
+      "id": "lairig-ghru",
+      "name": "Lairig Ghru"
     },
     "lake-pontchartrain-causeway": {
       "category": "museums-attractions",
@@ -3799,6 +4066,15 @@
       "id": "menai-bridge-viewpoint",
       "name": "Menai Bridge Viewpoint"
     },
+    "mersey-tunnel-tours": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -2.9941173,
+        53.4045199
+      ],
+      "id": "mersey-tunnel-tours",
+      "name": "Mersey Tunnel Tours"
+    },
     "met-office": {
       "category": "not-open-to-public",
       "coordinates": [
@@ -4217,7 +4493,7 @@
         -122.2964894,
         47.5186185
       ],
-      "description": "Very Boeing-centric for obvious reasons but well worth it.",
+      "description": "Very Boeing-centric for obvious reasons but nonetheless excellent.",
       "id": "museum-of-flight",
       "name": "Museum of Flight"
     },
@@ -4276,6 +4552,15 @@
       "description": "Eclectic collection of technological artifacts ranging from old bicycles to film projectors and from anchors to 1960s computers. Minimal labeling but great for spending a couple hours wallowing in the nerdiness of it all.",
       "id": "museum-of-science-and-technology",
       "name": "Museum of Science and Technology"
+    },
+    "museum-of-scottish-lighthouses": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -2.0057261,
+        57.6975376
+      ],
+      "id": "museum-of-scottish-lighthouses",
+      "name": "Museum Of Scottish Lighthouses"
     },
     "museum-of-the-broads": {
       "category": "museums-attractions",
@@ -4495,6 +4780,15 @@
       "id": "national-mustard-museum",
       "name": "National Mustard Museum"
     },
+    "national-neon-sign-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -121.1835323,
+        45.601025
+      ],
+      "id": "national-neon-sign-museum",
+      "name": "National Neon Sign Museum"
+    },
     "national-postal-museum": {
       "category": "museums-attractions",
       "coordinates": [
@@ -4710,6 +5004,16 @@
       "id": "niagara-power-vista",
       "name": "Niagara Power Vista"
     },
+    "nigg-waste-water-treatment-works": {
+      "category": "not-open-to-public",
+      "coordinates": [
+        -2.060587,
+        57.1315494
+      ],
+      "description": "In the 1990s it opened during Doors Open Day but unclear if it has done so recently. https://www.scottishwater.co.uk/in-your-area/investments-in-your-area/nigg-wwtw",
+      "id": "nigg-waste-water-treatment-works",
+      "name": "Nigg Waste Water Treatment Works"
+    },
     "nike-missile-site-sf-88l": {
       "category": "historic-ruins-structures",
       "coordinates": [
@@ -4859,6 +5163,25 @@
       "id": "oklo-natural-nuclear-reactor",
       "name": "Oklo natural nuclear reactor"
     },
+    "old-light": {
+      "category": "nature",
+      "coordinates": [
+        -4.6732158,
+        51.1672591
+      ],
+      "id": "old-light",
+      "name": "Old Light"
+    },
+    "old-mam-tor-road": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        -1.7969475,
+        53.3462801
+      ],
+      "description": "Formerly the main road from Sheffield to Manchester, intended to be a gentler gradient than Winnats Pass to the south. Unfortunately, it crosses an active landslide and had to be repeatedly repaired until they gave up. You can now visit the old road on foot. https://en.wikipedia.org/wiki/Mam_Tor#Landslides",
+      "id": "old-mam-tor-road",
+      "name": "Old Mam Tor Road"
+    },
     "old-plank-road": {
       "category": "historic-ruins-structures",
       "coordinates": [
@@ -4989,6 +5312,15 @@
       "id": "palomar-observatory",
       "name": "Palomar Observatory"
     },
+    "papplewick-pumping-station": {
+      "category": "interesting-things",
+      "coordinates": [
+        -1.1313799,
+        53.0631915
+      ],
+      "id": "papplewick-pumping-station",
+      "name": "Papplewick Pumping Station"
+    },
     "park-of-the-aqueducts": {
       "category": "historic-ruins-structures",
       "coordinates": [
@@ -5092,6 +5424,15 @@
       ],
       "id": "permian-basin-petroleum-museum2",
       "name": "Permian Basin Petroleum Museum"
+    },
+    "peterhead-prison-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -1.7927235,
+        57.4912436
+      ],
+      "id": "peterhead-prison-museum",
+      "name": "Peterhead Prison Museum"
     },
     "phone-box-at-the-centre-of-great-britain": {
       "category": "interesting-things",
@@ -5276,6 +5617,16 @@
       "description": "Bonkers weird town, as seen in famous film The Prisoner",
       "id": "portmeirion-north-wales",
       "name": "Portmeirion North Wales"
+    },
+    "portsmouth-to-ryde-hovercraft-terminal": {
+      "category": "interesting-things",
+      "coordinates": [
+        -1.099968,
+        50.7851587
+      ],
+      "description": "https://www.hovertravel.co.uk/",
+      "id": "portsmouth-to-ryde-hovercraft-terminal",
+      "name": "Portsmouth to Ryde hovercraft terminal"
     },
     "powells-city-of-books": {
       "category": "para-infrastructural-cultural",
@@ -6006,6 +6357,16 @@
       "id": "seacity-museum",
       "name": "SeaCity Museum"
     },
+    "seafield-waste-water-treatment-works": {
+      "category": "interesting-things",
+      "coordinates": [
+        -3.144909,
+        55.9700898
+      ],
+      "description": "Has opened on Doors Open Day in the past https://www.scottishwater.co.uk/About-Us/News-and-Views/2022/10/041022-Seafield-Doors-Open-Day",
+      "id": "seafield-waste-water-treatment-works",
+      "name": "Seafield waste water treatment works"
+    },
     "seaford-museum-of-local-history": {
       "category": "museums-attractions",
       "coordinates": [
@@ -6190,6 +6551,16 @@
       "id": "singing-ringing-tree",
       "name": "Singing Ringing Tree"
     },
+    "sinking-of-the-valencia": {
+      "category": "para-infrastructural-cultural",
+      "coordinates": [
+        -125.005833,
+        48.705556
+      ],
+      "description": "The region's most deadly shipwreck, in 1906: https://en.wikipedia.org/wiki/SS_Valencia#Final_voyage",
+      "id": "sinking-of-the-valencia",
+      "name": "Sinking of the \u201cValencia\u201d"
+    },
     "sir-john-soanes-museum": {
       "category": "museums-attractions",
       "coordinates": [
@@ -6237,6 +6608,25 @@
       "id": "skagway-museum",
       "name": "Skagway Museum"
     },
+    "skye-bridge": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        -5.7425689,
+        57.2763084
+      ],
+      "id": "skye-bridge",
+      "name": "Skye Bridge"
+    },
+    "skye-ferry": {
+      "category": "interesting-things",
+      "coordinates": [
+        -5.6651798,
+        57.2277477
+      ],
+      "description": "The last manually operated steel turntable ferry in the world.\n\nhttps://en.wikipedia.org/wiki/MV_Glenachulish",
+      "id": "skye-ferry",
+      "name": "Skye Ferry"
+    },
     "skywalker-sound": {
       "category": "not-open-to-public",
       "coordinates": [
@@ -6275,6 +6665,16 @@
       "id": "smithsonian-national-air-and-space-museum",
       "name": "Smithsonian National Air and Space Museum"
     },
+    "snowdon-mountain-railway-ticket-office": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -4.119494,
+        53.1150984
+      ],
+      "description": "Rack and pinion mountain railway https://snowdonrailway.co.uk/",
+      "id": "snowdon-mountain-railway-ticket-office",
+      "name": "Snowdon Mountain Railway ticket office"
+    },
     "solent-forts": {
       "category": "science",
       "coordinates": [
@@ -6304,6 +6704,16 @@
       "id": "solheimasandur-plane-wreck",
       "name": "Solheimasandur Plane Wreck"
     },
+    "south-east-london-combined-heat-power-ltd": {
+      "category": "interesting-things",
+      "coordinates": [
+        -0.0462238,
+        51.4854816
+      ],
+      "description": "Often open during Open House",
+      "id": "south-east-london-combined-heat-power-ltd",
+      "name": "South East London Combined Heat & Power Ltd"
+    },
     "south-wales-aviation-museum": {
       "category": "museums-attractions",
       "coordinates": [
@@ -6332,6 +6742,16 @@
       "description": "Longest pier in the UK, plus a railway running down the pier",
       "id": "southend-pier",
       "name": "Southend Pier"
+    },
+    "southwark-integrated-waste-management-facility": {
+      "category": "interesting-things",
+      "coordinates": [
+        -0.0583366,
+        51.4832153
+      ],
+      "description": "Southwark residents can book a tour. Also often open during Open House.",
+      "id": "southwark-integrated-waste-management-facility",
+      "name": "Southwark Integrated Waste Management Facility"
     },
     "space-launch-complex-8": {
       "category": "not-open-to-public",
@@ -6417,6 +6837,16 @@
       ],
       "id": "st-helens-fort",
       "name": "St Helens Fort"
+    },
+    "stack-interchange": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        -118.2488446,
+        34.0628628
+      ],
+      "description": "The first four-level stack freeway interchange, connecting the 110 and the 101. Built in 1948, a more compact replacement for a cloverleaf exchange",
+      "id": "stack-interchange",
+      "name": "Stack Interchange"
     },
     "stalham-firehouse-museum": {
       "category": "museums-attractions",
@@ -6523,6 +6953,16 @@
       "id": "stonehenge-wwi-memorial",
       "name": "Stonehenge WWI Memorial"
     },
+    "strait-of-juan-de-fuca-boundary-dispute": {
+      "category": "para-infrastructural-cultural",
+      "coordinates": [
+        -124.8544008,
+        48.4966318
+      ],
+      "description": "Despite warm relations, the US and Canada manage to dispute areas at both ends of both their borders. (See https://en.wikipedia.org/wiki/List_of_areas_disputed_by_Canada_and_the_United_States.) This is the smallest and probably least important: the countries disagree on how to draw the median line in two areas of the Exclusive Economic Zones outside the mouth of the Strait. In short, Canada includes its inland waters as contributing to the median line, while the US uses the low tide line. (See https://www.durham.ac.uk/media/durham-university/research-/research-centres/ibru-centre-for-borders-research/maps-and-databases/publications-database/boundary-amp-security-bulletins/bsb5-3_gray.pdf for a little more detail.) The total area in dispute is slightly over 50 km\u00b2 and (so far as I know) has never led to any actual incidents.",
+      "id": "strait-of-juan-de-fuca-boundary-dispute",
+      "name": "Strait of Juan de Fuca boundary dispute"
+    },
     "stuttgart-tv-tower": {
       "category": "museums-attractions",
       "coordinates": [
@@ -6616,6 +7056,16 @@
       "description": "Just another pumped storage station, but the landscape is lovely and there is a great hiking trail to reach it.",
       "id": "taum-sauk-hydroelectric-power-station",
       "name": "Taum Sauk Hydroelectric Power Station"
+    },
+    "tay-rail-bridge": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        -2.9882343,
+        56.4383034
+      ],
+      "description": "Iconic railway bridge. Also adjacent are the piers from the original Tay Rail bridge which catastrophically failed in bad weather. Both bridges feature in infamous McGonagall poems.",
+      "id": "tay-rail-bridge",
+      "name": "Tay Rail Bridge"
     },
     "technic-museum-speyer": {
       "category": "science",
@@ -6776,6 +7226,7 @@
         -123.4706261,
         48.5635765
       ],
+      "description": "Extensive and luxurious privately owned (but open) gardens.",
       "id": "the-butchart-gardens",
       "name": "The Butchart Gardens"
     },
@@ -6843,6 +7294,16 @@
       ],
       "id": "the-centre-for-computing-history",
       "name": "The Centre for Computing History"
+    },
+    "the-coffin-works": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -1.9073582,
+        52.4819641
+      ],
+      "description": "Museum of coffin - and more specifically, coffin furniture - making.",
+      "id": "the-coffin-works",
+      "name": "The Coffin Works"
     },
     "the-dalles-google-data-center": {
       "category": "museums-attractions",
@@ -7153,6 +7614,15 @@
       ],
       "id": "the-royal-yacht-britannia",
       "name": "The Royal Yacht Britannia"
+    },
+    "the-scottish-crannog-centre": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -4.0031778,
+        56.5795157
+      ],
+      "id": "the-scottish-crannog-centre",
+      "name": "The Scottish Crannog Centre"
     },
     "the-tank-museum": {
       "category": "museums-attractions",
@@ -7689,6 +8159,16 @@
       "id": "welwyn-roman-baths",
       "name": "Welwyn Roman Baths"
     },
+    "west-edmonton-mall": {
+      "category": "interesting-things",
+      "coordinates": [
+        -113.6241906,
+        53.5225151
+      ],
+      "description": "One of the largest malls in the world by various measures. In essence, they took a shopping district and put a giant building around it.",
+      "id": "west-edmonton-mall",
+      "name": "West Edmonton Mall"
+    },
     "west-kennet-long-barrow": {
       "category": "historic-ruins-structures",
       "coordinates": [
@@ -7709,6 +8189,15 @@
       "id": "west-midlands-police-museum",
       "name": "West Midlands Police Museum"
     },
+    "western-antique-aeroplane-and-automobile-museum-waaam": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -121.5412344,
+        45.6768599
+      ],
+      "id": "western-antique-aeroplane-and-automobile-museum-waaam",
+      "name": "Western Antique Aeroplane and Automobile Museum (WAAAM)"
+    },
     "western-approaches": {
       "category": "museums-attractions",
       "coordinates": [
@@ -7728,6 +8217,16 @@
       "description": "Housed in a fortified Medieval Gate House, the Westgate Museum houses a unique collection of pre-Imperial weights and measures.",
       "id": "westgate-museum",
       "name": "Westgate Museum"
+    },
+    "westray-community-wind-turbine": {
+      "category": "interesting-things",
+      "coordinates": [
+        -2.9891947,
+        59.2994577
+      ],
+      "description": "Run by Westray Renewable Energy Ltd with proceeds going to the local community. https://westraydevelopmenttrust.co.uk/westray-renewable-energy-ltd/",
+      "id": "westray-community-wind-turbine",
+      "name": "Westray Community Wind Turbine"
     },
     "wgs84-prime-meridian-picnic-spot": {
       "category": "interesting-things",

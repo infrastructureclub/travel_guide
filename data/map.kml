@@ -6132,6 +6132,15 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Train World</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.3791728,50.8777972,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>

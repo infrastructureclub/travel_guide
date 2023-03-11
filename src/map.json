@@ -13,7 +13,7 @@
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 413,
+      "count": 414,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -7768,6 +7768,15 @@
       ],
       "id": "toronto-railway-museum",
       "name": "Toronto Railway Museum"
+    },
+    "train-world": {
+      "category": "museums-attractions",
+      "coordinates": [
+        4.3791728,
+        50.8777972
+      ],
+      "id": "train-world",
+      "name": "Train World"
     },
     "transport-museum": {
       "category": "museums-attractions",

@@ -10281,6 +10281,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    174.7820894,
+                    -41.2904563,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Museum of New Zealand Te Papa Tongarewa",
+                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
+                "styleHash": "-4303c82c"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.9055879,
                     38.1671515,
                     0
@@ -10610,6 +10626,23 @@
                 "styleUrl": "#icon-1693-757575-labelson",
                 "styleHash": "-1d74371c",
                 "description": "Quarried for curling stones, among other things https://en.wikipedia.org/wiki/Ailsa_Craig#Curling_stones"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.869405,
+                    -31.956821,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Perth Mint",
+                "styleUrl": "#icon-1693-757575-labelson",
+                "styleHash": "-1d74371c",
+                "description": "Tours: https://www.perthmint.com/visit/book-a-tour/"
             }
         },
         {

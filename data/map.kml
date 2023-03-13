@@ -6141,6 +6141,15 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Museum of New Zealand Te Papa Tongarewa</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            174.7820894,-41.2904563,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>
@@ -6344,6 +6353,16 @@
         <Point>
           <coordinates>
             -5.1109026,55.2510022,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Perth Mint</name>
+        <description>Tours: https://www.perthmint.com/visit/book-a-tour/</description>
+        <styleUrl>#icon-1693-757575-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            115.869405,-31.956821,0
           </coordinates>
         </Point>
       </Placemark>
@@ -7602,7 +7621,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>Not open to public</name>
+      <name>Not open to public but visible</name>
       <Placemark>
         <name>Dungeness B Power Station</name>
         <description>No public access - can be seen from all around Dungeness</description>

@@ -5,7 +5,7 @@
       "name": "Historic / ruins / structures"
     },
     "industry": {
-      "count": 20,
+      "count": 21,
       "name": "Industry"
     },
     "interesting-things": {
@@ -13,16 +13,16 @@
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 414,
+      "count": 415,
       "name": "Museums / attractions"
     },
     "nature": {
       "count": 34,
       "name": "Nature"
     },
-    "not-open-to-public": {
+    "not-open-to-public-but-visible": {
       "count": 40,
-      "name": "Not open to public"
+      "name": "Not open to public but visible"
     },
     "para-infrastructural-cultural": {
       "count": 56,
@@ -139,7 +139,7 @@
       "name": "Airbus Factory Tours"
     },
     "airbus-uk-factory": {
-      "category": "not-open-to-public",
+      "category": "not-open-to-public-but-visible",
       "coordinates": [
         -2.9759988,
         53.1742612
@@ -168,7 +168,7 @@
       "name": "Airworld Aviation Museum"
     },
     "alameda-county-sheriffs-bomb-disposal-range": {
-      "category": "not-open-to-public",
+      "category": "not-open-to-public-but-visible",
       "coordinates": [
         -121.8814944,
         37.7207361
@@ -513,7 +513,7 @@
       "name": "Baikonur Cosmodrome"
     },
     "bangor-nuclear-arsenal": {
-      "category": "not-open-to-public",
+      "category": "not-open-to-public-but-visible",
       "coordinates": [
         -122.6991939,
         47.7187513
@@ -854,7 +854,7 @@
       "name": "Bodleian Library"
     },
     "bohemian-grove": {
-      "category": "not-open-to-public",
+      "category": "not-open-to-public-but-visible",
       "coordinates": [
         -122.999721,
         38.4662425
@@ -900,7 +900,7 @@
       "name": "Boscombe Down Aviation Collection"
     },
     "boston-lodge-works-ffestiniog-railway": {
-      "category": "not-open-to-public",
+      "category": "not-open-to-public-but-visible",
       "coordinates": [
         -4.1070031,
         52.9193957
@@ -1094,7 +1094,7 @@
       "name": "Bruny Radar"
     },
     "bt-madley-satellite-communications-centre": {
-      "category": "not-open-to-public",
+      "category": "not-open-to-public-but-visible",
       "coordinates": [
         -2.8415915,
         52.0316505
@@ -1188,7 +1188,7 @@
       "name": "Caltech Owens Valley Radio Observatory"
     },
     "camberwell-bunker": {
-      "category": "not-open-to-public",
+      "category": "not-open-to-public-but-visible",
       "coordinates": [
         -0.083435,
         51.4736098
@@ -1763,7 +1763,7 @@
       "name": "Deception Pass"
     },
     "deer-island-wastewater-treatment-plant": {
-      "category": "not-open-to-public",
+      "category": "not-open-to-public-but-visible",
       "coordinates": [
         -70.9578286,
         42.3513861
@@ -1860,7 +1860,7 @@
       "name": "Discovery Museum"
     },
     "dollands-moor-freight-yard": {
-      "category": "not-open-to-public",
+      "category": "not-open-to-public-but-visible",
       "coordinates": [
         1.0999262,
         51.0918586
@@ -1954,7 +1954,7 @@
       "name": "Dundee Science Centre"
     },
     "dungeness-a-power-station": {
-      "category": "not-open-to-public",
+      "category": "not-open-to-public-but-visible",
       "coordinates": [
         0.9620281,
         50.9139676
@@ -1964,7 +1964,7 @@
       "name": "Dungeness A Power Station"
     },
     "dungeness-b-power-station": {
-      "category": "not-open-to-public",
+      "category": "not-open-to-public-but-visible",
       "coordinates": [
         0.9596944,
         50.9138436
@@ -2190,7 +2190,7 @@
       "name": "Euro Banknote Bridges"
     },
     "evel-knievel-jump-monument": {
-      "category": "not-open-to-public",
+      "category": "not-open-to-public-but-visible",
       "coordinates": [
         -114.4546548,
         42.5985385
@@ -2248,7 +2248,7 @@
       "name": "Fantoft Stave Church"
     },
     "farallon-island-lighthouse": {
-      "category": "not-open-to-public",
+      "category": "not-open-to-public-but-visible",
       "coordinates": [
         -123.0016542,
         37.6989905
@@ -2266,7 +2266,7 @@
       "name": "Farnborough Air Sciences Trust Museum"
     },
     "faslane-nuclear-submarine-base": {
-      "category": "not-open-to-public",
+      "category": "not-open-to-public-but-visible",
       "coordinates": [
         -4.8145682,
         56.0673769
@@ -2305,7 +2305,7 @@
       "name": "Fauld Crater"
     },
     "fawley-oil-refinery": {
-      "category": "not-open-to-public",
+      "category": "not-open-to-public-but-visible",
       "coordinates": [
         -1.3719055,
         50.8361705
@@ -2315,7 +2315,7 @@
       "name": "Fawley Oil Refinery"
     },
     "fire-service-college": {
-      "category": "not-open-to-public",
+      "category": "not-open-to-public-but-visible",
       "coordinates": [
         -1.6756694,
         51.992479
@@ -2548,7 +2548,7 @@
       "name": "Goleta Monarch Butterfly Grove at Ellwood Mesa"
     },
     "goonhilly-earth-station": {
-      "category": "not-open-to-public",
+      "category": "not-open-to-public-but-visible",
       "coordinates": [
         -5.1810449,
         50.0481728
@@ -2795,7 +2795,7 @@
       "name": "Hackney Power Station"
     },
     "hackney-substation": {
-      "category": "not-open-to-public",
+      "category": "not-open-to-public-but-visible",
       "coordinates": [
         -0.0435472,
         51.5594543
@@ -2814,7 +2814,7 @@
       "name": "Haida Heritage Centre"
     },
     "hakai-institute": {
-      "category": "not-open-to-public",
+      "category": "not-open-to-public-but-visible",
       "coordinates": [
         -128.1307678,
         51.6545562
@@ -3312,7 +3312,7 @@
       "name": "Jet Age Museum"
     },
     "jim-creek-naval-radio-station": {
-      "category": "not-open-to-public",
+      "category": "not-open-to-public-but-visible",
       "coordinates": [
         -121.9167,
         48.2037
@@ -3485,7 +3485,7 @@
       "name": "Kilnsea Sound Mirror"
     },
     "king-george-v-dry-dock": {
-      "category": "not-open-to-public",
+      "category": "not-open-to-public-but-visible",
       "coordinates": [
         -1.4419592,
         50.9095563
@@ -4076,7 +4076,7 @@
       "name": "Mersey Tunnel Tours"
     },
     "met-office": {
-      "category": "not-open-to-public",
+      "category": "not-open-to-public-but-visible",
       "coordinates": [
         -3.4754149,
         50.7271881
@@ -4308,7 +4308,7 @@
       "name": "Mountfitchet Castle & Norman Village"
     },
     "mt-hymettus-antenna-farm": {
-      "category": "not-open-to-public",
+      "category": "not-open-to-public-but-visible",
       "coordinates": [
         23.8183975,
         37.9591102
@@ -4356,7 +4356,7 @@
       "name": "Muir Woods Visitor Center"
     },
     "mullard-radio-astronomy-observatory-mrao": {
-      "category": "not-open-to-public",
+      "category": "not-open-to-public-but-visible",
       "coordinates": [
         0.0329894,
         52.1675812
@@ -4525,6 +4525,15 @@
       "id": "museum-of-london-docklands",
       "name": "Museum of London Docklands"
     },
+    "museum-of-new-zealand-te-papa-tongarewa": {
+      "category": "museums-attractions",
+      "coordinates": [
+        174.7820894,
+        -41.2904563
+      ],
+      "id": "museum-of-new-zealand-te-papa-tongarewa",
+      "name": "Museum of New Zealand Te Papa Tongarewa"
+    },
     "museum-of-pop-culture": {
       "category": "para-infrastructural-cultural",
       "coordinates": [
@@ -4685,7 +4694,7 @@
       "name": "National Cryptologic Museum"
     },
     "national-defense-reserve-fleet": {
-      "category": "not-open-to-public",
+      "category": "not-open-to-public-but-visible",
       "coordinates": [
         -122.0910168,
         38.0774683
@@ -5005,7 +5014,7 @@
       "name": "Niagara Power Vista"
     },
     "nigg-waste-water-treatment-works": {
-      "category": "not-open-to-public",
+      "category": "not-open-to-public-but-visible",
       "coordinates": [
         -2.060587,
         57.1315494
@@ -5062,7 +5071,7 @@
       "name": "North Leverton Windmill"
     },
     "northam-traincare-facility": {
-      "category": "not-open-to-public",
+      "category": "not-open-to-public-but-visible",
       "coordinates": [
         -1.3910345,
         50.9134034
@@ -5146,7 +5155,7 @@
       "name": "Oil Museum of Canada"
     },
     "oil-platform-holly": {
-      "category": "not-open-to-public",
+      "category": "not-open-to-public-but-visible",
       "coordinates": [
         -119.9063867,
         34.3898587
@@ -5639,7 +5648,7 @@
       "name": "Powell's City of Books"
     },
     "power-house-2-near-snoqualmie-falls": {
-      "category": "not-open-to-public",
+      "category": "not-open-to-public-but-visible",
       "coordinates": [
         -121.841462,
         47.5443393
@@ -5746,7 +5755,7 @@
       "name": "RAF Air Defence Radar Museum"
     },
     "rafusaf-menwith-hill": {
-      "category": "not-open-to-public",
+      "category": "not-open-to-public-but-visible",
       "coordinates": [
         -1.6880052,
         54.0085273
@@ -5910,7 +5919,7 @@
       "name": "Riverside Museum"
     },
     "rnas-culdrose-public-viewing-area": {
-      "category": "not-open-to-public",
+      "category": "not-open-to-public-but-visible",
       "coordinates": [
         -5.2391049,
         50.0829334
@@ -6214,7 +6223,7 @@
       "name": "Sardinia Radio Telescope"
     },
     "satellite-control-of-network": {
-      "category": "not-open-to-public",
+      "category": "not-open-to-public-but-visible",
       "coordinates": [
         -121.8808076,
         37.7329393
@@ -6628,7 +6637,7 @@
       "name": "Skye Ferry"
     },
     "skywalker-sound": {
-      "category": "not-open-to-public",
+      "category": "not-open-to-public-but-visible",
       "coordinates": [
         -122.6463299,
         38.0644696
@@ -6754,7 +6763,7 @@
       "name": "Southwark Integrated Waste Management Facility"
     },
     "space-launch-complex-8": {
-      "category": "not-open-to-public",
+      "category": "not-open-to-public-but-visible",
       "coordinates": [
         -120.6320069,
         34.5763512
@@ -6886,7 +6895,7 @@
       "name": "STEAM - Museum of the Great Western Railway"
     },
     "steamship-shieldhall": {
-      "category": "not-open-to-public",
+      "category": "not-open-to-public-but-visible",
       "coordinates": [
         -1.442086,
         50.908194
@@ -7010,7 +7019,7 @@
       "name": "Suspension bridge over tsingy"
     },
     "svalbard-global-seed-vault": {
-      "category": "not-open-to-public",
+      "category": "not-open-to-public-but-visible",
       "coordinates": [
         15.4913248,
         78.2356772
@@ -7019,7 +7028,7 @@
       "name": "Svalbard Global Seed Vault"
     },
     "svalbard-satellite-station": {
-      "category": "not-open-to-public",
+      "category": "not-open-to-public-but-visible",
       "coordinates": [
         15.3893462,
         78.2303772
@@ -7078,7 +7087,7 @@
       "name": "Technic Museum Speyer"
     },
     "tekeze-power-station": {
-      "category": "not-open-to-public",
+      "category": "not-open-to-public-but-visible",
       "coordinates": [
         38.7406214,
         13.3493192
@@ -7135,7 +7144,7 @@
       "name": "Thames Barrier Information Centre"
     },
     "thames-valley-signalling-centre": {
-      "category": "not-open-to-public",
+      "category": "not-open-to-public-but-visible",
       "coordinates": [
         -1.2483216,
         51.6149188
@@ -7540,6 +7549,16 @@
       "id": "the-old-operating-theatre-museum-and-herb-garret",
       "name": "The Old Operating Theatre Museum and Herb Garret"
     },
+    "the-perth-mint": {
+      "category": "industry",
+      "coordinates": [
+        115.869405,
+        -31.956821
+      ],
+      "description": "Tours: https://www.perthmint.com/visit/book-a-tour/",
+      "id": "the-perth-mint",
+      "name": "The Perth Mint"
+    },
     "the-pittock-block": {
       "category": "interesting-things",
       "coordinates": [
@@ -7856,7 +7875,7 @@
       "name": "Ulster Aviation Society"
     },
     "umore-park-abandoned-munitions-plant": {
-      "category": "not-open-to-public",
+      "category": "not-open-to-public-but-visible",
       "coordinates": [
         -93.0863,
         44.7196

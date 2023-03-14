@@ -13,7 +13,7 @@
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 415,
+      "count": 416,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -5116,6 +5116,16 @@
       "description": "Filled with loads of brilliant hand made mechanical arcade machines made by Tim Hunkin (of 'Secret life of' fame). Go and play and marvel at the mechanisms.",
       "id": "novelty-automation",
       "name": "Novelty Automation"
+    },
+    "oakham-treasures": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -2.7179999,
+        51.4658623
+      ],
+      "description": "Very weird and wonderful museum of all sorts of things. Officially \"retail and farming history\" but includes a large selection of painted tractor seats (yes, really), a model railway, model Shaun the Sheeps, historic packaging, haberdashery and more. Very strange, but quite fun. Wheelchair accessible.",
+      "id": "oakham-treasures",
+      "name": "Oakham Treasures"
     },
     "oakland-museum-of-california": {
       "category": "para-infrastructural-cultural",

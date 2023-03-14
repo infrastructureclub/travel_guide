@@ -10297,6 +10297,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -2.7179999,
+                    51.4658623,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Oakham Treasures",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "description": "Very weird and wonderful museum of all sorts of things. Officially \"retail and farming history\" but includes a large selection of painted tractor seats (yes, really), a model railway, model Shaun the Sheeps, historic packaging, haberdashery and more. Very strange, but quite fun. Wheelchair accessible."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.9055879,
                     38.1671515,
                     0

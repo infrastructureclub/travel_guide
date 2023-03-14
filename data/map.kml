@@ -6150,6 +6150,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Oakham Treasures</name>
+        <description><![CDATA[Very weird and wonderful museum of all sorts of things. Officially "retail and farming history" but includes a large selection of painted tractor seats (yes, really), a model railway, model Shaun the Sheeps, historic packaging, haberdashery and more. Very strange, but quite fun. Wheelchair accessible.]]></description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -2.7179999,51.4658623,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>

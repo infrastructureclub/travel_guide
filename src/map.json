@@ -1,7 +1,7 @@
 {
   "categories": {
     "historic-ruins-structures": {
-      "count": 95,
+      "count": 96,
       "name": "Historic / ruins / structures"
     },
     "industry": {
@@ -2149,6 +2149,16 @@
       ],
       "id": "enigma-museum-for-post-telecommunications-and-communication",
       "name": "Enigma Museum for post, telecommunications and communication"
+    },
+    "epping-signalling-museum": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        0.1120711,
+        51.6916211
+      ],
+      "description": "Museum of London Underground signalling including restored signal cabin and a loco.\n\nDetails at https://www.ianvisits.co.uk/articles/a-new-railway-museum-has-opened-in-epping-61233/",
+      "id": "epping-signalling-museum",
+      "name": "Epping Signalling Museum"
     },
     "ernest-f-coe-visitor-center": {
       "category": "nature",

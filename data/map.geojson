@@ -12249,6 +12249,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    0.1120711,
+                    51.6916211,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Epping Signalling Museum",
+                "styleUrl": "#icon-1598-A52714-labelson",
+                "styleHash": "118808a5",
+                "description": "Museum of London Underground signalling including restored signal cabin and a loco.<br><br>Details at https://www.ianvisits.co.uk/articles/a-new-railway-museum-has-opened-in-epping-61233/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -122.119383,
                     42.9370052,
                     0

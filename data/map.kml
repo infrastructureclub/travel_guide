@@ -7300,6 +7300,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Epping Signalling Museum</name>
+        <description><![CDATA[Museum of London Underground signalling including restored signal cabin and a loco.<br><br>Details at https://www.ianvisits.co.uk/articles/a-new-railway-museum-has-opened-in-epping-61233/]]></description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            0.1120711,51.6916211,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Nature</name>

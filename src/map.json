@@ -1,31 +1,31 @@
 {
   "categories": {
     "historic-ruins-structures": {
-      "count": 96,
+      "count": 97,
       "name": "Historic / ruins / structures"
     },
     "industry": {
-      "count": 21,
+      "count": 22,
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 208,
+      "count": 212,
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 416,
+      "count": 423,
       "name": "Museums / attractions"
     },
     "nature": {
-      "count": 34,
+      "count": 35,
       "name": "Nature"
     },
     "not-open-to-public-but-visible": {
-      "count": 40,
+      "count": 42,
       "name": "Not open to public but visible"
     },
     "para-infrastructural-cultural": {
-      "count": 56,
+      "count": 58,
       "name": "Para-infrastructural / cultural"
     },
     "science": {
@@ -372,6 +372,16 @@
       "id": "arabia-steamboat-museum",
       "name": "Arabia Steamboat Museum"
     },
+    "arcosanti": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        -112.1005547,
+        34.3425315
+      ],
+      "description": "Wildly ambitious but never fully-built, designed as an 'arcology' - a dense space for living/working (hello \"SimCity\" fans).  The construction is from concrete panels that are cast in dirt and then tilted/lifted into position, but in much wilder shapes than modern tilt-wall buildings.\n\nFull-on sci-fi vibes when you're there - open to the public year round, and has artists in residence.\n\nWorth a stop!\n\nhttps://en.wikipedia.org/wiki/Arcosanti\nhttps://www.arcosanti.org/\n\n(Added by JT)",
+      "id": "arcosanti",
+      "name": "Arcosanti"
+    },
     "arecibo-observatory": {
       "category": "interesting-things",
       "coordinates": [
@@ -417,6 +427,16 @@
       "description": "Where the Los Angeles River and pretty much the entire LA basin watershed intersect. Totally concretized because of floods culminating in a disastrous one in 1938. Also the confluence of the 110 and 5 freeways and the Gold Line light rail track, and trains bound for Grand Central Station and the nearby cargo rail yards.",
       "id": "arroyo-seco-confluence",
       "name": "Arroyo Seco Confluence"
+    },
+    "astoria-megler-bridge": {
+      "category": "interesting-things",
+      "coordinates": [
+        -123.8622099,
+        46.2157711
+      ],
+      "description": "The longest continuous truss bridge in North America. Also interesting for being both long (6.5 km or 4 mi) and, in one section (on the southern/Astoria end), having high clearance.",
+      "id": "astoria-megler-bridge",
+      "name": "Astoria-Megler Bridge"
     },
     "atacama-large-millimeter-array-alma-radio-telescope": {
       "category": "interesting-things",
@@ -861,6 +881,15 @@
       ],
       "id": "bohemian-grove",
       "name": "Bohemian Grove"
+    },
+    "bolton-steam-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -2.4546717,
+        53.5848946
+      ],
+      "id": "bolton-steam-museum",
+      "name": "Bolton Steam Museum"
     },
     "bonneville-fish-hatchery": {
       "category": "museums-attractions",
@@ -1697,6 +1726,16 @@
       "id": "cypress-freeway-memorial-park",
       "name": "Cypress Freeway Memorial Park"
     },
+    "dakin-building": {
+      "category": "interesting-things",
+      "coordinates": [
+        -122.3842918,
+        37.6766827
+      ],
+      "description": "One of the more interesting nondescript office buildings. Its Wikipedia article's headings include \u201cRole during Glasnost\u201d and \u201cThe Star Wars saga\u201d: https://en.wikipedia.org/wiki/Dakin_Building",
+      "id": "dakin-building",
+      "name": "Dakin Building"
+    },
     "dallas-pedestrian-network": {
       "category": "interesting-things",
       "coordinates": [
@@ -1877,6 +1916,15 @@
       ],
       "id": "don-juan-pond",
       "name": "Don Juan Pond"
+    },
+    "donner-memorial-state-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -120.2321081,
+        39.3241339
+      ],
+      "id": "donner-memorial-state-museum",
+      "name": "Donner Memorial State Museum"
     },
     "donside-hydro": {
       "category": "interesting-things",
@@ -2130,6 +2178,16 @@
       "description": "Tide mill that still works and produces its own flour. Also a lovely walk around the mouth of the river - cross over the bridge going south, go through the car park and cemetery and follow the board walk around. All wheelchair accessible!",
       "id": "eling-tide-mill-experience",
       "name": "Eling Tide Mill Experience"
+    },
+    "ellsworth-storeys-tower": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -122.8311689,
+        48.6775285
+      ],
+      "description": "Stone tower with outstanding views, built by the Civilian Conservation Corps.",
+      "id": "ellsworth-storeys-tower",
+      "name": "Ellsworth Storey's Tower"
     },
     "emley-moor-tower": {
       "category": "interesting-things",
@@ -3043,6 +3101,16 @@
       "id": "hiram-m-chittenden-locks-ballard",
       "name": "Hiram M. Chittenden Locks (Ballard)"
     },
+    "historic-tulare-lake": {
+      "category": "nature",
+      "coordinates": [
+        -119.8108341,
+        36.0132699
+      ],
+      "description": "Remnant of Lake Clyde: https://en.wikipedia.org/wiki/Lake_Corcoran",
+      "id": "historic-tulare-lake",
+      "name": "Historic Tulare Lake"
+    },
     "history-of-science-museum": {
       "category": "museums-attractions",
       "coordinates": [
@@ -3641,6 +3709,15 @@
       "id": "laugharne-castle-castell-talacharn",
       "name": "Laugharne Castle/ Castell Talacharn"
     },
+    "lawrence-livermore-national-laboratory": {
+      "category": "interesting-things",
+      "coordinates": [
+        -121.7058752,
+        37.6869634
+      ],
+      "id": "lawrence-livermore-national-laboratory",
+      "name": "Lawrence Livermore National Laboratory"
+    },
     "laxey-wheel": {
       "category": "interesting-things",
       "coordinates": [
@@ -4057,6 +4134,16 @@
       "id": "mccormick-bridgehouse-chicago-river-museum",
       "name": "McCormick Bridgehouse & Chicago River Museum"
     },
+    "mcmenamins-roseburg-station-pub-brewery": {
+      "category": "interesting-things",
+      "coordinates": [
+        -123.3483547,
+        43.2091734
+      ],
+      "description": "Gastro/brewpub in a former train station, with a lot of historical photos and minor artifacts. There's a self-guided tour (http://cms.mcmenamins.com/files/History/Roseburg/history.roseburg.phototour.pdf \u2013 basically a photo key) on their site. Recommended if you're stopping in Roseburg but not worth going out of your way.",
+      "id": "mcmenamins-roseburg-station-pub-brewery",
+      "name": "McMenamins Roseburg Station Pub & Brewery"
+    },
     "menai-bridge-museum": {
       "category": "museums-attractions",
       "coordinates": [
@@ -4164,6 +4251,16 @@
       "id": "milestones-museum",
       "name": "Milestones Museum"
     },
+    "military-intelligence-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -0.366125,
+        52.0443851
+      ],
+      "description": "Museum on an active military base!",
+      "id": "military-intelligence-museum",
+      "name": "Military Intelligence Museum"
+    },
     "mill-ends-park": {
       "category": "para-infrastructural-cultural",
       "coordinates": [
@@ -4246,6 +4343,7 @@
         -121.9017919,
         36.618264
       ],
+      "description": "A good public aquarium, and, behind the scenes, highly influential in the recent history of aquariums.",
       "id": "monterey-bay-aquarium",
       "name": "Monterey Bay Aquarium"
     },
@@ -4516,6 +4614,15 @@
       "id": "museum-of-history-industry-mohai",
       "name": "Museum of History & Industry (MOHAI)"
     },
+    "museum-of-lead-mining": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -3.780787,
+        55.397403
+      ],
+      "id": "museum-of-lead-mining",
+      "name": "Museum of Lead Mining"
+    },
     "museum-of-liverpool": {
       "category": "museums-attractions",
       "coordinates": [
@@ -4534,6 +4641,15 @@
       "description": "Free and excellent museum that explores the history of the docklands, and important bit of London infrastructure for centuries.\n\nCan easily spend a couple of hours.",
       "id": "museum-of-london-docklands",
       "name": "Museum of London Docklands"
+    },
+    "museum-of-natural-and-cultural-history": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -123.0680746,
+        44.0430077
+      ],
+      "id": "museum-of-natural-and-cultural-history",
+      "name": "Museum of Natural and Cultural History"
     },
     "museum-of-new-zealand-te-papa-tongarewa": {
       "category": "museums-attractions",
@@ -5512,6 +5628,15 @@
       "id": "pitt-rivers-museum",
       "name": "Pitt Rivers Museum"
     },
+    "pittock-mansion": {
+      "category": "para-infrastructural-cultural",
+      "coordinates": [
+        -122.7162689,
+        45.5252061
+      ],
+      "id": "pittock-mansion",
+      "name": "Pittock Mansion"
+    },
     "pk-porthcurno": {
       "category": "interesting-things",
       "coordinates": [
@@ -5688,6 +5813,7 @@
         -122.4096368,
         37.7748604
       ],
+      "description": "Highly influential library and film archive.",
       "id": "prelinger-library",
       "name": "Prelinger Library"
     },
@@ -6468,6 +6594,7 @@
         -122.388899,
         37.6150141
       ],
+      "description": "The SFO Museum is a fully accredited museum whose grounds also happen to serve as the world's 24th largest airport by passenger count.",
       "id": "sfo-museum-louis-a-turpen-aviation-museum-and-library",
       "name": "SFO Museum Louis A. Turpen Aviation Museum and Library"
     },
@@ -6618,6 +6745,15 @@
       ],
       "id": "sizewell-b-visitor-centre",
       "name": "Sizewell B Visitor Centre"
+    },
+    "skaggs-island-circularly-disposed-antenna-array-cdaa": {
+      "category": "not-open-to-public-but-visible",
+      "coordinates": [
+        -122.3731484,
+        38.1690272
+      ],
+      "id": "skaggs-island-circularly-disposed-antenna-array-cdaa",
+      "name": "Skaggs Island Circularly Disposed Antenna Array (CDAA)"
     },
     "skagit-valley-tulip-festival": {
       "category": "para-infrastructural-cultural",
@@ -6800,6 +6936,16 @@
       "description": "Boat trip through underground caves.",
       "id": "speedwell-cavern",
       "name": "Speedwell Cavern"
+    },
+    "spieden-island": {
+      "category": "not-open-to-public-but-visible",
+      "coordinates": [
+        -123.1331414,
+        48.6402781
+      ],
+      "description": "Island once used as an exotic game reserve; now owned by Oakley sunglasses/RED Digital Cinema billionaire Jim Jannard. If you use the Wayback Machine on his personal site, you can find photos he took of imported animals at incredible distances on Spieden using one of Canon's few 1,200 mm lenses.",
+      "id": "spieden-island",
+      "name": "Spieden Island"
     },
     "spinnaker-tower": {
       "category": "historic-ruins-structures",
@@ -7066,6 +7212,16 @@
       "description": "A particularly interesting-looking interchange that occasionally goes viral, either for looking interesting (dusk lighting, autumn colors, etc.) or for looking scary (e.g. https://www.snopes.com/fact-check/takaosan-interchange-tokyo/).",
       "id": "takaosan-interchange",
       "name": "Takaosan interchange"
+    },
+    "take-it-or-leave-it-lopez-solid-waste": {
+      "category": "industry",
+      "coordinates": [
+        -122.9092864,
+        48.5188674
+      ],
+      "description": "Good example of a type of community exchange / reuse center common at landfills in the rural Pacific Northwest. Electronics, clothing, and household goods make up most of the inventory. https://www.lopezsolidwaste.org/take-it-or-leave-it",
+      "id": "take-it-or-leave-it-lopez-solid-waste",
+      "name": "Take It or Leave It (Lopez Solid Waste)"
     },
     "tangmere-military-aviation-museum": {
       "category": "museums-attractions",
@@ -7362,6 +7518,15 @@
       "description": "This amazing exhibition tells the story of the Greatest Munitions Factory on earth that was constructed on the Anglo-Scottish Border between Dornock in Scotland and Longtown in England.",
       "id": "the-devils-porridge",
       "name": "The Devils Porridge"
+    },
+    "the-dock-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -3.2401897,
+        54.1119073
+      ],
+      "id": "the-dock-museum",
+      "name": "The Dock Museum"
     },
     "the-dorset-cursus-northern-end": {
       "category": "historic-ruins-structures",
@@ -8128,6 +8293,16 @@
       "description": "View a RAF Vulcan bomber - in partial working order (it can taxi at least)",
       "id": "vulcan-restoration-trust",
       "name": "Vulcan Restoration Trust"
+    },
+    "wahpepahs-kitchen": {
+      "category": "para-infrastructural-cultural",
+      "coordinates": [
+        -122.2246518,
+        37.775483
+      ],
+      "description": "One of very few restaurants in the US to serve Native American food. (Almost all restaurants de facto serve some Native American food just because so much food is Native American, and many interpretive centers and historical sites serve samples; what makes this unusual is that it's a \u201cnormal\u201d restaurant whose cuisine is Native American.)",
+      "id": "wahpepahs-kitchen",
+      "name": "Wahpepah\u2019s Kitchen"
     },
     "wainhouse-tower": {
       "category": "interesting-things",

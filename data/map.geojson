@@ -3475,6 +3475,73 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -123.3483547,
+                    43.2091734,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "McMenamins Roseburg Station Pub & Brewery",
+                "styleUrl": "#icon-1899-A52714-labelson",
+                "styleHash": "2a468a2a",
+                "description": "Gastro/brewpub in a former train station, with a lot of historical photos and minor artifacts. There’s a self-guided tour (http://cms.mcmenamins.com/files/History/Roseburg/history.roseburg.phototour.pdf – basically a photo key) on their site. Recommended if you’re stopping in Roseburg but not worth going out of your way."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3842918,
+                    37.6766827,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Dakin Building",
+                "styleUrl": "#icon-1899-A52714-labelson",
+                "styleHash": "2a468a2a",
+                "description": "One of the more interesting nondescript office buildings. Its Wikipedia article’s headings include “Role during Glasnost” and “The Star Wars saga”: https://en.wikipedia.org/wiki/Dakin_Building"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.7058752,
+                    37.6869634,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lawrence Livermore National Laboratory",
+                "styleUrl": "#icon-1899-A52714-labelson-nodesc",
+                "styleHash": "-47c358db"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.8622099,
+                    46.2157711,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Astoria-Megler Bridge",
+                "styleUrl": "#icon-1899-A52714-labelson",
+                "styleHash": "2a468a2a",
+                "description": "The longest continuous truss bridge in North America. Also interesting for being both long (6.5 km or 4 mi) and, in one section (on the southern/Astoria end), having high clearance."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0
@@ -3810,8 +3877,9 @@
             },
             "properties": {
                 "name": "Monterey Bay Aquarium",
-                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
-                "styleHash": "-4303c82c"
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "description": "A good public aquarium, and, behind the scenes, highly influential in the recent history of aquariums."
             }
         },
         {
@@ -7453,8 +7521,9 @@
             },
             "properties": {
                 "name": "SFO Museum Louis A. Turpen Aviation Museum and Library",
-                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
-                "styleHash": "-4303c82c"
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "description": "The SFO Museum is a fully accredited museum whose grounds also happen to serve as the world’s 24th largest airport by passenger count."
             }
         },
         {
@@ -10314,6 +10383,120 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -0.366125,
+                    52.0443851,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Military Intelligence Museum",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "description": "Museum on an active military base!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.2401897,
+                    54.1119073,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Dock Museum",
+                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
+                "styleHash": "-4303c82c"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.4546717,
+                    53.5848946,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bolton Steam Museum",
+                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
+                "styleHash": "-4303c82c"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.780787,
+                    55.397403,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Museum of Lead Mining",
+                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
+                "styleHash": "-4303c82c"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.0680746,
+                    44.0430077,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Museum of Natural and Cultural History",
+                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
+                "styleHash": "-4303c82c"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8311689,
+                    48.6775285,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ellsworth Storey's Tower",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "description": "Stone tower with outstanding views, built by the Civilian Conservation Corps."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.2321081,
+                    39.3241339,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Donner Memorial State Museum",
+                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
+                "styleHash": "-4303c82c"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.9055879,
                     38.1671515,
                     0
@@ -10660,6 +10843,23 @@
                 "styleUrl": "#icon-1693-757575-labelson",
                 "styleHash": "-1d74371c",
                 "description": "Tours: https://www.perthmint.com/visit/book-a-tour/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9092864,
+                    48.5188674,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Take It or Leave It (Lopez Solid Waste)",
+                "styleUrl": "#icon-1693-757575-labelson",
+                "styleHash": "-1d74371c",
+                "description": "Good example of a type of community exchange / reuse center common at landfills in the rural Pacific Northwest. Electronics, clothing, and household goods make up most of the inventory. https://www.lopezsolidwaste.org/take-it-or-leave-it"
             }
         },
         {
@@ -12266,6 +12466,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -112.1005547,
+                    34.3425315,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Arcosanti",
+                "styleUrl": "#icon-1598-A52714-labelson",
+                "styleHash": "118808a5",
+                "description": "Wildly ambitious but never fully-built, designed as an 'arcology' - a dense space for living/working (hello \"SimCity\" fans).  The construction is from concrete panels that are cast in dirt and then tilted/lifted into position, but in much wilder shapes than modern tilt-wall buildings.<br><br>Full-on sci-fi vibes when you're there - open to the public year round, and has artists in residence.<br><br>Worth a stop!<br><br>https://en.wikipedia.org/wiki/Arcosanti<br>https://www.arcosanti.org/<br><br>(Added by JT)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -122.119383,
                     42.9370052,
                     0
@@ -12820,6 +13037,23 @@
                 "styleUrl": "#icon-1596-558B2F-labelson",
                 "styleHash": "638c400",
                 "description": "Hill pass, formerly used as drover's road or general transport between Speyside and Deeside. Now mainly a walking route."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.8108341,
+                    36.0132699,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Historic Tulare Lake",
+                "styleUrl": "#icon-1596-558B2F-labelson",
+                "styleHash": "638c400",
+                "description": "Remnant of Lake Clyde: https://en.wikipedia.org/wiki/Lake_Corcoran"
             }
         },
         {
@@ -13496,6 +13730,39 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -123.1331414,
+                    48.6402781,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Spieden Island\n",
+                "styleUrl": "#icon-1898-BDBDBD-labelson",
+                "styleHash": "-2f1af5a4",
+                "description": "Island once used as an exotic game reserve; now owned by Oakley sunglasses/RED Digital Cinema billionaire Jim Jannard. If you use the Wayback Machine on his personal site, you can find photos he took of imported animals at incredible distances on Spieden using one of Canon’s few 1,200 mm lenses."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3731484,
+                    38.1690272,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Skaggs Island Circularly Disposed Antenna Array (CDAA)",
+                "styleUrl": "#icon-1898-BDBDBD-labelson-nodesc",
+                "styleHash": "-4854e743"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -110.788813,
                     32.4410085,
                     0
@@ -13961,8 +14228,9 @@
             },
             "properties": {
                 "name": "Prelinger Library",
-                "styleUrl": "#icon-1608-006064-labelson-nodesc",
-                "styleHash": "672042b4"
+                "styleUrl": "#icon-1608-006064-labelson",
+                "styleHash": "1468cf8f",
+                "description": "Highly influential library and film archive."
             }
         },
         {
@@ -14732,6 +15000,39 @@
             },
             "properties": {
                 "name": "Fremont Troll",
+                "styleUrl": "#icon-1608-006064-labelson-nodesc",
+                "styleHash": "672042b4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2246518,
+                    37.775483,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wahpepah’s Kitchen",
+                "styleUrl": "#icon-1608-006064-labelson",
+                "styleHash": "1468cf8f",
+                "description": "One of very few restaurants in the US to serve Native American food. (Almost all restaurants de facto serve some Native American food just because so much food is Native American, and many interpretive centers and historical sites serve samples; what makes this unusual is that it’s a “normal” restaurant whose cuisine is Native American.)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7162689,
+                    45.5252061,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pittock Mansion",
                 "styleUrl": "#icon-1608-006064-labelson-nodesc",
                 "styleHash": "672042b4"
             }

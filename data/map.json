@@ -21,7 +21,7 @@
       "name": "Nature"
     },
     "not-open-to-public-but-visible": {
-      "count": 42,
+      "count": 43,
       "name": "Not open to public but visible"
     },
     "para-infrastructural-cultural": {
@@ -6311,6 +6311,16 @@
       "description": "Working plant that pulls the cable cars with good museum exhibits.  Take the cable car to get here!",
       "id": "san-francisco-cable-car-museum",
       "name": "San Francisco Cable Car Museum"
+    },
+    "san-francisco-city-hall": {
+      "category": "not-open-to-public-but-visible",
+      "coordinates": [
+        -122.4192417,
+        37.779275
+      ],
+      "description": "Possible to sometimes tour the main domed ceiling?\n\nhttps://twitter.com/djbaskin/status/1637607989497700352",
+      "id": "san-francisco-city-hall",
+      "name": "San Francisco City Hall"
     },
     "san-francisco-railway-museum": {
       "category": "museums-attractions",

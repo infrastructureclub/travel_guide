@@ -13763,6 +13763,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -122.4192417,
+                    37.779275,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "San Francisco City Hall",
+                "styleUrl": "#icon-1898-BDBDBD-labelson",
+                "styleHash": "-2f1af5a4",
+                "description": "Possible to sometimes tour the main domed ceiling?<br><br>https://twitter.com/djbaskin/status/1637607989497700352"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -110.788813,
                     32.4410085,
                     0

@@ -28,7 +28,7 @@ jobs:
           git add data src
           git config --global user.email "infrastructureclub-travel-guide@jonty.co.uk"
           git config --global user.name "Travel Guide Update Bot"
-          git commit -m "Automatic data update"
+          git commit -m "Automatic data update" || true
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:

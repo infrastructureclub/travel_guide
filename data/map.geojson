@@ -3542,6 +3542,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -9.1555849,
+                    38.7212149,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Amoreiras Mother of Water Reservoir",
+                "styleUrl": "#icon-1899-A52714-labelson-nodesc",
+                "styleHash": "-47c358db"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0

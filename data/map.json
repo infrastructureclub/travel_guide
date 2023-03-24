@@ -9,7 +9,7 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 212,
+      "count": 213,
       "name": "Interesting Things"
     },
     "museums-attractions": {
@@ -255,6 +255,15 @@
       "description": "Lloyd George was founder of the welfare state. This is an opportunity to dress in Victorian costume, to play with period toys and to write on slate\".",
       "id": "amgueddfa-lloyd-george-museum",
       "name": "Amgueddfa Lloyd George Museum"
+    },
+    "amoreiras-mother-of-water-reservoir": {
+      "category": "interesting-things",
+      "coordinates": [
+        -9.1555849,
+        38.7212149
+      ],
+      "id": "amoreiras-mother-of-water-reservoir",
+      "name": "Amoreiras Mother of Water Reservoir"
     },
     "amundsen-scott-south-pole-station": {
       "category": "interesting-things",

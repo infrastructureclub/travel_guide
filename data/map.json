@@ -9,7 +9,7 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 213,
+      "count": 221,
       "name": "Interesting Things"
     },
     "museums-attractions": {
@@ -156,6 +156,15 @@
       ],
       "id": "airmail-navigation-arrow",
       "name": "Airmail Navigation Arrow"
+    },
+    "airship-gulliver": {
+      "category": "interesting-things",
+      "coordinates": [
+        14.4474388,
+        50.1069756
+      ],
+      "id": "airship-gulliver",
+      "name": "Airship Gulliver"
     },
     "airworld-aviation-museum": {
       "category": "museums-attractions",
@@ -1676,6 +1685,15 @@
       "description": "There isn't much to see here - other than the door - but if you're here anyway maybe you want to say you've been here...",
       "id": "cross-channel-electricity-cable-landing-point",
       "name": "Cross Channel electricity cable landing point"
+    },
+    "cross-club": {
+      "category": "interesting-things",
+      "coordinates": [
+        14.4432664,
+        50.1082127
+      ],
+      "id": "cross-club",
+      "name": "Cross Club"
     },
     "crossness-pumping-station": {
       "category": "museums-attractions",
@@ -3281,6 +3299,15 @@
       "description": "Long pier out into Southampton Water. Has a railway running along it, and boat trips from the end to Town Quay in Southampton. Good place to watch ships leaving Southampton Docks.",
       "id": "hythe-pier",
       "name": "Hythe Pier"
+    },
+    "ikov-television-tower": {
+      "category": "interesting-things",
+      "coordinates": [
+        14.4511421,
+        50.081047
+      ],
+      "id": "ikov-television-tower",
+      "name": "\u017di\u017ekov Television Tower"
     },
     "illinois-railway-museum": {
       "category": "museums-attractions",
@@ -4969,6 +4996,15 @@
       "id": "national-space-centre",
       "name": "National Space Centre"
     },
+    "national-technical-museum": {
+      "category": "interesting-things",
+      "coordinates": [
+        14.4249052,
+        50.0973756
+      ],
+      "id": "national-technical-museum",
+      "name": "National Technical Museum"
+    },
     "national-trust-bembridge-windmill": {
       "category": "museums-attractions",
       "coordinates": [
@@ -5484,6 +5520,15 @@
       "id": "park-of-the-aqueducts",
       "name": "Park of the Aqueducts"
     },
+    "paternoster-nov-radnice-new-city-hall": {
+      "category": "interesting-things",
+      "coordinates": [
+        14.4179995,
+        50.0870408
+      ],
+      "id": "paternoster-nov-radnice-new-city-hall",
+      "name": "Paternoster Nov\u00e1 radnice (New City Hall)"
+    },
     "patriarch-grove": {
       "category": "nature",
       "coordinates": [
@@ -5587,6 +5632,24 @@
       ],
       "id": "peterhead-prison-museum",
       "name": "Peterhead Prison Museum"
+    },
+    "petn-funicular": {
+      "category": "interesting-things",
+      "coordinates": [
+        -63.086417,
+        18.0601215
+      ],
+      "id": "petn-funicular",
+      "name": "Pet\u0159\u00edn funicular"
+    },
+    "petn-funicular2": {
+      "category": "interesting-things",
+      "coordinates": [
+        14.3998338,
+        50.0823674
+      ],
+      "id": "petn-funicular2",
+      "name": "Pet\u0159\u00edn funicular"
     },
     "phone-box-at-the-centre-of-great-britain": {
       "category": "interesting-things",
@@ -5815,6 +5878,15 @@
         "./data/images/a52747ee928b3e26e1d88877591d259229f05c074c7c525bb79cc593c83af30b.png"
       ],
       "name": "Power House #2, near Snoqualmie Falls"
+    },
+    "prague-metronome": {
+      "category": "interesting-things",
+      "coordinates": [
+        14.4159406,
+        50.094744
+      ],
+      "id": "prague-metronome",
+      "name": "Prague Metronome"
     },
     "prelinger-library": {
       "category": "para-infrastructural-cultural",

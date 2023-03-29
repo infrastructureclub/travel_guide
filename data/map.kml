@@ -2257,6 +2257,78 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Prague Metronome</name>
+        <styleUrl>#icon-1899-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            14.4159406,50.094744,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Airship Gulliver</name>
+        <styleUrl>#icon-1899-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            14.4474388,50.1069756,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Petřín funicular</name>
+        <styleUrl>#icon-1899-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -63.086417,18.0601215,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Petřín funicular</name>
+        <styleUrl>#icon-1899-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            14.3998338,50.0823674,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>National Technical Museum</name>
+        <styleUrl>#icon-1899-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            14.4249052,50.0973756,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cross Club</name>
+        <styleUrl>#icon-1899-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            14.4432664,50.1082127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Žižkov Television Tower</name>
+        <styleUrl>#icon-1899-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            14.4511421,50.081047,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Paternoster Nová radnice (New City Hall)</name>
+        <styleUrl>#icon-1899-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            14.4179995,50.0870408,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>

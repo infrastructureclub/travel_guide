@@ -3558,6 +3558,134 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    14.4159406,
+                    50.094744,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Prague Metronome",
+                "styleUrl": "#icon-1899-A52714-labelson-nodesc",
+                "styleHash": "-47c358db"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4474388,
+                    50.1069756,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Airship Gulliver",
+                "styleUrl": "#icon-1899-A52714-labelson-nodesc",
+                "styleHash": "-47c358db"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.086417,
+                    18.0601215,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Petřín funicular",
+                "styleUrl": "#icon-1899-A52714-labelson-nodesc",
+                "styleHash": "-47c358db"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3998338,
+                    50.0823674,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Petřín funicular",
+                "styleUrl": "#icon-1899-A52714-labelson-nodesc",
+                "styleHash": "-47c358db"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4249052,
+                    50.0973756,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "National Technical Museum",
+                "styleUrl": "#icon-1899-A52714-labelson-nodesc",
+                "styleHash": "-47c358db"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4432664,
+                    50.1082127,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cross Club",
+                "styleUrl": "#icon-1899-A52714-labelson-nodesc",
+                "styleHash": "-47c358db"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4511421,
+                    50.081047,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Žižkov Television Tower",
+                "styleUrl": "#icon-1899-A52714-labelson-nodesc",
+                "styleHash": "-47c358db"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4179995,
+                    50.0870408,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Paternoster Nová radnice (New City Hall)",
+                "styleUrl": "#icon-1899-A52714-labelson-nodesc",
+                "styleHash": "-47c358db"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0

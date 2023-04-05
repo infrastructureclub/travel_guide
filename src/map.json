@@ -9,7 +9,7 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 221,
+      "count": 222,
       "name": "Interesting Things"
     },
     "museums-attractions": {
@@ -5287,6 +5287,16 @@
       "description": "Filled with loads of brilliant hand made mechanical arcade machines made by Tim Hunkin (of 'Secret life of' fame). Go and play and marvel at the mechanisms.",
       "id": "novelty-automation",
       "name": "Novelty Automation"
+    },
+    "null-island": {
+      "category": "interesting-things",
+      "coordinates": [
+        0.0380507,
+        0.0261956
+      ],
+      "description": "Approximate Location of Null Island. If you are looking for something that says it's here, it's probably actually not.",
+      "id": "null-island",
+      "name": "Null Island"
     },
     "oakham-treasures": {
       "category": "museums-attractions",

@@ -3686,6 +3686,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    0.0380507,
+                    0.0261956,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Null Island",
+                "styleUrl": "#icon-1899-A52714-labelson",
+                "styleHash": "2a468a2a",
+                "description": "Approximate Location of Null Island. If you are looking for something that says it's here, it's probably actually not."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0

@@ -2339,6 +2339,35 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>teamLab Planets TOKYO</name>
+        <styleUrl>#icon-1899-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.7897739,35.6491207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shinjuku Golden Gai</name>
+        <description><![CDATA[50+ microscopic bars rammed into 5 tiny alleys across multiple floors. Note that some of the bars are locals only and they won't let you in. Super fun. Expect to be in a bar the size of a small caravan with four seats where nobody speaks English.]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            139.7047611,35.6941118,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Torodo (Lantern Hall)</name>
+        <description><![CDATA[The enormous graveyard surrounding the temple of 50,000 lanterns has some very unique graves, including one that looks like a Saturn V.<br><br>https://www.japan-guide.com/e/e4901.html]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            135.6062711,34.2228176,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>
@@ -6354,6 +6383,75 @@
         <Point>
           <coordinates>
             -120.2321081,39.3241339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Osaka Aquarium Kaiyukan</name>
+        <description>The Osaka Aquarium is world-class and well worth a trip. (I mean, they have a tank with whale sharks in it!)</description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            135.4289645,34.6545182,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tokyo Sky Tree</name>
+        <description><![CDATA[Sky Tree is very touristy, but an amazing view and a neat piece of infra. Huge shopping mall at the base which isn't too western-touristy.]]></description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            139.8106698,35.7100876,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Takenaka Carpentry Tools Museum</name>
+        <description>https://www.dougukan.jp/?lang=en</description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            135.1974902,34.7068231,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Don Quijote Dotonbori</name>
+        <description><![CDATA[A night-time visit to Dotombori canal is essential. The Don Quijote in Dotonbori has the weirdest ferris wheel you'll ever see built into the facade. Some neat full-on Blade Runner views from the top.]]></description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            135.5026443,34.6692979,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The National Museum of Emerging Science and Innovation</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.7763995,35.6193359,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>National Museum of Nature and Science</name>
+        <description>They had a great exhibit about the history of traditional Japanese clocks that was very interesting, though I have no idea if it was a permanent installation or not</description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            139.7765252,35.7163059,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yokohama Tram Museum</name>
+        <description>The yokohama tram museum is small but i think worth a visit.</description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            139.6238548,35.4201833,0
           </coordinates>
         </Point>
       </Placemark>

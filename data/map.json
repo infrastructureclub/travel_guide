@@ -9,11 +9,11 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 222,
+      "count": 225,
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 423,
+      "count": 430,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -1943,6 +1943,16 @@
       ],
       "id": "don-juan-pond",
       "name": "Don Juan Pond"
+    },
+    "don-quijote-dotonbori": {
+      "category": "museums-attractions",
+      "coordinates": [
+        135.5026443,
+        34.6692979
+      ],
+      "description": "A night-time visit to Dotombori canal is essential. The Don Quijote in Dotonbori has the weirdest ferris wheel you'll ever see built into the facade. Some neat full-on Blade Runner views from the top.",
+      "id": "don-quijote-dotonbori",
+      "name": "Don Quijote Dotonbori"
     },
     "donner-memorial-state-museum": {
       "category": "museums-attractions",
@@ -4932,6 +4942,16 @@
       "id": "national-museum-of-flight",
       "name": "National Museum Of Flight"
     },
+    "national-museum-of-nature-and-science": {
+      "category": "museums-attractions",
+      "coordinates": [
+        139.7765252,
+        35.7163059
+      ],
+      "description": "They had a great exhibit about the history of traditional Japanese clocks that was very interesting, though I have no idea if it was a permanent installation or not",
+      "id": "national-museum-of-nature-and-science",
+      "name": "National Museum of Nature and Science"
+    },
     "national-museum-of-scotland": {
       "category": "museums-attractions",
       "coordinates": [
@@ -5437,6 +5457,16 @@
       ],
       "id": "oroville-dam",
       "name": "Oroville Dam"
+    },
+    "osaka-aquarium-kaiyukan": {
+      "category": "museums-attractions",
+      "coordinates": [
+        135.4289645,
+        34.6545182
+      ],
+      "description": "The Osaka Aquarium is world-class and well worth a trip. (I mean, they have a tank with whale sharks in it!)",
+      "id": "osaka-aquarium-kaiyukan",
+      "name": "Osaka Aquarium Kaiyukan"
     },
     "oso-landslide-memorial": {
       "category": "museums-attractions",
@@ -6709,6 +6739,16 @@
       "id": "sheldon-country-park-birmingham-airport-viewing-area",
       "name": "Sheldon Country Park - Birmingham Airport viewing area"
     },
+    "shinjuku-golden-gai": {
+      "category": "interesting-things",
+      "coordinates": [
+        139.7047611,
+        35.6941118
+      ],
+      "description": "50+ microscopic bars rammed into 5 tiny alleys across multiple floors. Note that some of the bars are locals only and they won't let you in. Super fun. Expect to be in a bar the size of a small caravan with four seats where nobody speaks English.",
+      "id": "shinjuku-golden-gai",
+      "name": "Shinjuku Golden Gai"
+    },
     "shoreham-airfield-dome-trainer": {
       "category": "historic-ruins-structures",
       "coordinates": [
@@ -7324,6 +7364,16 @@
       "id": "take-it-or-leave-it-lopez-solid-waste",
       "name": "Take It or Leave It (Lopez Solid Waste)"
     },
+    "takenaka-carpentry-tools-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        135.1974902,
+        34.7068231
+      ],
+      "description": "https://www.dougukan.jp/?lang=en",
+      "id": "takenaka-carpentry-tools-museum",
+      "name": "Takenaka Carpentry Tools Museum"
+    },
     "tangmere-military-aviation-museum": {
       "category": "museums-attractions",
       "coordinates": [
@@ -7352,6 +7402,15 @@
       "description": "Iconic railway bridge. Also adjacent are the piers from the original Tay Rail bridge which catastrophically failed in bad weather. Both bridges feature in infamous McGonagall poems.",
       "id": "tay-rail-bridge",
       "name": "Tay Rail Bridge"
+    },
+    "teamlab-planets-tokyo": {
+      "category": "interesting-things",
+      "coordinates": [
+        139.7897739,
+        35.6491207
+      ],
+      "id": "teamlab-planets-tokyo",
+      "name": "teamLab Planets TOKYO"
     },
     "technic-museum-speyer": {
       "category": "science",
@@ -7797,6 +7856,15 @@
       "id": "the-national-museum-of-computing",
       "name": "The National Museum of Computing"
     },
+    "the-national-museum-of-emerging-science-and-innovation": {
+      "category": "museums-attractions",
+      "coordinates": [
+        139.7763995,
+        35.6193359
+      ],
+      "id": "the-national-museum-of-emerging-science-and-innovation",
+      "name": "The National Museum of Emerging Science and Innovation"
+    },
     "the-neon-museum-las-vegas": {
       "category": "museums-attractions",
       "coordinates": [
@@ -8064,6 +8132,26 @@
       ],
       "id": "titanic-belfast",
       "name": "Titanic Belfast"
+    },
+    "tokyo-sky-tree": {
+      "category": "museums-attractions",
+      "coordinates": [
+        139.8106698,
+        35.7100876
+      ],
+      "description": "Sky Tree is very touristy, but an amazing view and a neat piece of infra. Huge shopping mall at the base which isn't too western-touristy.",
+      "id": "tokyo-sky-tree",
+      "name": "Tokyo Sky Tree"
+    },
+    "torodo-lantern-hall": {
+      "category": "interesting-things",
+      "coordinates": [
+        135.6062711,
+        34.2228176
+      ],
+      "description": "The enormous graveyard surrounding the temple of 50,000 lanterns has some very unique graves, including one that looks like a Saturn V.\n\nhttps://www.japan-guide.com/e/e4901.html",
+      "id": "torodo-lantern-hall",
+      "name": "Torodo (Lantern Hall)"
     },
     "toronto-railway-museum": {
       "category": "museums-attractions",
@@ -8762,6 +8850,16 @@
       "description": "Island/peninsula off Anglesey, with pre-cambrian pillow lavas on the beach.",
       "id": "ynys-llanddwyn",
       "name": "Ynys Llanddwyn"
+    },
+    "yokohama-tram-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        139.6238548,
+        35.4201833
+      ],
+      "description": "The yokohama tram museum is small but i think worth a visit.",
+      "id": "yokohama-tram-museum",
+      "name": "Yokohama Tram Museum"
     },
     "york-castle-museum": {
       "category": "museums-attractions",

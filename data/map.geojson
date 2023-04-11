@@ -3703,6 +3703,56 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    139.7897739,
+                    35.6491207,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "teamLab Planets TOKYO",
+                "styleUrl": "#icon-1899-A52714-labelson-nodesc",
+                "styleHash": "-47c358db"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7047611,
+                    35.6941118,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Shinjuku Golden Gai",
+                "styleUrl": "#icon-1899-A52714-labelson",
+                "styleHash": "2a468a2a",
+                "description": "50+ microscopic bars rammed into 5 tiny alleys across multiple floors. Note that some of the bars are locals only and they won't let you in. Super fun. Expect to be in a bar the size of a small caravan with four seats where nobody speaks English."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.6062711,
+                    34.2228176,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Torodo (Lantern Hall)",
+                "styleUrl": "#icon-1899-A52714-labelson",
+                "styleHash": "2a468a2a",
+                "description": "The enormous graveyard surrounding the temple of 50,000 lanterns has some very unique graves, including one that looks like a Saturn V.<br><br>https://www.japan-guide.com/e/e4901.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0
@@ -10651,6 +10701,124 @@
                 "name": "Donner Memorial State Museum",
                 "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
                 "styleHash": "-4303c82c"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.4289645,
+                    34.6545182,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Osaka Aquarium Kaiyukan",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "description": "The Osaka Aquarium is world-class and well worth a trip. (I mean, they have a tank with whale sharks in it!)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.8106698,
+                    35.7100876,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tokyo Sky Tree",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "description": "Sky Tree is very touristy, but an amazing view and a neat piece of infra. Huge shopping mall at the base which isn't too western-touristy."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.1974902,
+                    34.7068231,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Takenaka Carpentry Tools Museum",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "description": "https://www.dougukan.jp/?lang=en"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5026443,
+                    34.6692979,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Don Quijote Dotonbori",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "description": "A night-time visit to Dotombori canal is essential. The Don Quijote in Dotonbori has the weirdest ferris wheel you'll ever see built into the facade. Some neat full-on Blade Runner views from the top."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7763995,
+                    35.6193359,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The National Museum of Emerging Science and Innovation",
+                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
+                "styleHash": "-4303c82c"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7765252,
+                    35.7163059,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "National Museum of Nature and Science",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "description": "They had a great exhibit about the history of traditional Japanese clocks that was very interesting, though I have no idea if it was a permanent installation or not"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6238548,
+                    35.4201833,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Yokohama Tram Museum",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "description": "The yokohama tram museum is small but i think worth a visit."
             }
         },
         {

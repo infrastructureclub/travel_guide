@@ -1,35 +1,35 @@
 {
   "categories": {
     "historic-ruins-structures": {
-      "count": 97,
+      "count": 103,
       "name": "Historic / ruins / structures"
     },
     "industry": {
-      "count": 22,
+      "count": 24,
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 225,
+      "count": 242,
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 430,
+      "count": 455,
       "name": "Museums / attractions"
     },
     "nature": {
-      "count": 35,
+      "count": 42,
       "name": "Nature"
     },
     "not-open-to-public-but-visible": {
-      "count": 43,
+      "count": 47,
       "name": "Not open to public but visible"
     },
     "para-infrastructural-cultural": {
-      "count": 58,
+      "count": 64,
       "name": "Para-infrastructural / cultural"
     },
     "science": {
-      "count": 20,
+      "count": 21,
       "name": "Science"
     }
   },
@@ -43,15 +43,6 @@
       "description": "Windowless skyscraper containing major communication exchange points, and the likely location of an NSA intercept hub codenamed TITANPOINTE. https://en.m.wikipedia.org/wiki/33_Thomas_Street",
       "id": "33-thomas-street-long-lines-building",
       "name": "33 Thomas Street / Long Lines building"
-    },
-    "5th-shaft-metropolitan-area-outer-underground-discharge-channel": {
-      "category": "museums-attractions",
-      "coordinates": [
-        139.7471384,
-        35.9929899
-      ],
-      "id": "5th-shaft-metropolitan-area-outer-underground-discharge-channel",
-      "name": "5th shaft, Metropolitan Area Outer Underground Discharge Channel"
     },
     "abbey-pumping-station-museum": {
       "category": "museums-attractions",
@@ -157,15 +148,6 @@
       "id": "airmail-navigation-arrow",
       "name": "Airmail Navigation Arrow"
     },
-    "airship-gulliver": {
-      "category": "interesting-things",
-      "coordinates": [
-        14.4474388,
-        50.1069756
-      ],
-      "id": "airship-gulliver",
-      "name": "Airship Gulliver"
-    },
     "airworld-aviation-museum": {
       "category": "museums-attractions",
       "coordinates": [
@@ -175,6 +157,16 @@
       "description": "Located on the airfield of the former RAF Llandwrog, the museum has an impressive collection of aircraft and aviation memorabilia. The museum offers the opportunity to get close up to some historic aircraft. Set on an active airfield, the museum houses iconic machines such as the Hawker Hunter, D.H. Vampire, along with the only T2 BAe Harrier remaining worldwide.\n\nPart of the museum is devoted to the creation of the RAF Mountain Rescue Service, started here at RAF Llandwrog in 1942, whilst other sections describe the wartime airfields of North Wales",
       "id": "airworld-aviation-museum",
       "name": "Airworld Aviation Museum"
+    },
+    "alameda-beach": {
+      "category": "para-infrastructural-cultural",
+      "coordinates": [
+        -122.2505241,
+        37.7542503
+      ],
+      "description": "Good though distant views of ships across the bay, the SF skyline, planes taking off from OAK, etc. Bring binoculars.",
+      "id": "alameda-beach",
+      "name": "Alameda Beach"
     },
     "alameda-county-sheriffs-bomb-disposal-range": {
       "category": "not-open-to-public-but-visible",
@@ -341,6 +333,16 @@
       "description": "Remains of a gun battery from WW2.\n\nSee https://www.secretscotland.org.uk/index.php/Secrets/AABatteryBlantyreferme",
       "id": "anti-aircraft-battery-blantyreferme",
       "name": "Anti-Aircraft Battery Blantyreferme"
+    },
+    "anti-aircraft-gun-tower-7-l-tower-augarten": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        16.3784552,
+        48.2278172
+      ],
+      "description": "Ed: This park has 2 WWII battlements. You can't go in (I think?) but nice enough to walk around from the outside.",
+      "id": "anti-aircraft-gun-tower-7-l-tower-augarten",
+      "name": "Anti-aircraft gun tower 7, L-Tower, Augarten"
     },
     "ape-cave-interpretive-site": {
       "category": "nature",
@@ -651,6 +653,16 @@
       ],
       "id": "bay-model-visitor-center",
       "name": "Bay Model Visitor Center"
+    },
+    "bayfront-park": {
+      "category": "nature",
+      "coordinates": [
+        -122.3764138,
+        37.6049946
+      ],
+      "description": "Good for plane spotting and, at low tide, maritime birds too.",
+      "id": "bayfront-park",
+      "name": "Bayfront Park"
     },
     "bayside-canadian-railway": {
       "category": "interesting-things",
@@ -1296,6 +1308,22 @@
       ],
       "name": "Carting Lane Sewer Gas Destructor Lamp"
     },
+    "casa-da-msica": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -8.630696,
+        41.158881
+      ],
+      "description": "Ed: Contemporary music hall. Can join regular tours. Has a 'cyber' room.",
+      "id": "casa-da-msica",
+      "img": [
+        "./data/images/d083aa02d156225221c71452cae1d648232990f780e968f486b913f708c0f214.png",
+        "./data/images/38c39605f95bd2dc867dd17f39bd90459a04ee26e34b7e453b9438be046b36a6.png",
+        "./data/images/651a06d80824304ab1a5dbc31731ea4c2dece5b7bb2d2b442ad7d1c6522f045c.png",
+        "./data/images/5e77927b89a3aaa4b230ca948276bd67c1748584eac46e72e4515974d5741f49.png"
+      ],
+      "name": "Casa da M\u00fasica"
+    },
     "casa-grande-ruins-national-monument": {
       "category": "historic-ruins-structures",
       "coordinates": [
@@ -1410,6 +1438,21 @@
       ],
       "id": "churchill-war-rooms",
       "name": "Churchill War Rooms"
+    },
+    "cidade-da-cultura-de-galicia": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -8.5277057,
+        42.870396
+      ],
+      "description": "Ed: Large complex with a museum, library, and various sculptures.",
+      "id": "cidade-da-cultura-de-galicia",
+      "img": [
+        "./data/images/367a9b4e32c142e72c1273fe4952e3159284e74b03a216c843304f40b9057f14.png",
+        "./data/images/ddb050ef476b871592aacafa387afb94d513bc933c15f2b02fd8346b79886df0.png",
+        "./data/images/de1c1314847333f10a8d6cc534987a52ecd08e789b0b033d856e7be98effaa79.png"
+      ],
+      "name": "Cidade da Cultura de Galicia"
     },
     "city-museum": {
       "category": "museums-attractions",
@@ -1806,6 +1849,7 @@
         -122.4686755,
         37.771469
       ],
+      "description": "Copper-clad art museum, with free access to the viewing tower",
       "id": "de-young-museum",
       "name": "de Young Museum"
     },
@@ -1837,6 +1881,19 @@
       "description": "Sewage treatment plant. Runs occasional tours. Cool view from the egg digestors!",
       "id": "deer-island-wastewater-treatment-plant",
       "name": "Deer Island Wastewater Treatment Plant"
+    },
+    "deer-moat-pedestrian-tunnel": {
+      "category": "interesting-things",
+      "coordinates": [
+        14.3984202,
+        50.0912704
+      ],
+      "description": "Ed: Oval pedestrian tunnel as mentioned on Atlas Obscura.\n\nhttps://www.atlasobscura.com/places/pedestrian-tunnel-the-deer-moat",
+      "id": "deer-moat-pedestrian-tunnel",
+      "img": [
+        "./data/images/7234b16bc2a44112478e4386d4e2fd7665ccc5d2cdd1d380b889924ff316744b.png"
+      ],
+      "name": "Deer Moat Pedestrian Tunnel"
     },
     "derby-arboretum-arboretum-park": {
       "category": "interesting-things",
@@ -1954,6 +2011,15 @@
       "id": "don-quijote-dotonbori",
       "name": "Don Quijote Dotonbori"
     },
+    "donald-c-tillman-water-reclamation-plant": {
+      "category": "not-open-to-public-but-visible",
+      "coordinates": [
+        -118.4812791,
+        34.1817985
+      ],
+      "id": "donald-c-tillman-water-reclamation-plant",
+      "name": "Donald C Tillman Water Reclamation Plant"
+    },
     "donner-memorial-state-museum": {
       "category": "museums-attractions",
       "coordinates": [
@@ -2000,6 +2066,20 @@
       ],
       "id": "dover-transport-museum",
       "name": "Dover Transport Museum"
+    },
+    "dox-centre-for-contemporary-art": {
+      "category": "museums-attractions",
+      "coordinates": [
+        14.4478283,
+        50.1068153
+      ],
+      "description": "Ed: really nice contemporary art museum. Giant wooden airship on the roof. Best museum I visited in the city.",
+      "id": "dox-centre-for-contemporary-art",
+      "img": [
+        "./data/images/b3a228edb91d8a1dacb357c001f87db18c38c4b8631465f1a7fcc2b2bbf1d7e8.png",
+        "./data/images/39aa3f72a1ed1956fdaef0637804da86bd4c1e33810ba7f77665b4281fb9a676.png"
+      ],
+      "name": "DOX Centre for Contemporary Art"
     },
     "drammen-spiral": {
       "category": "historic-ruins-structures",
@@ -2186,6 +2266,31 @@
       ],
       "id": "el-muro-en-la-playa-tijuana",
       "name": "El Muro en la Playa, Tijuana"
+    },
+    "elblg-canal": {
+      "category": "museums-attractions",
+      "coordinates": [
+        19.5942878,
+        54.0270075
+      ],
+      "description": "Boats lifted out of water to go uphill instead of locks",
+      "id": "elblg-canal",
+      "name": "Elbl\u0105g Canal"
+    },
+    "elbphilharmonie-hamburg": {
+      "category": "museums-attractions",
+      "coordinates": [
+        9.98445,
+        53.5415754
+      ],
+      "description": "Ed: Free to go up to the viewing platform. Take a curved escalator on the way up.",
+      "id": "elbphilharmonie-hamburg",
+      "img": [
+        "./data/images/3c294fbe0085a768b0de26e59e0046195055ddde5cd323f55734fe5899819835.png",
+        "./data/images/7246b3edd320351f13a6f23e666cfa8f88ad36ccd622352f6cdb4e1fbb4d0ea2.png",
+        "./data/images/eebfe4371a0a9d5e8affb9e508c3b0b5279c90517cd7fa90643d89138f54f74b.png"
+      ],
+      "name": "Elbphilharmonie Hamburg"
     },
     "electric-brae": {
       "category": "interesting-things",
@@ -2419,6 +2524,15 @@
       "id": "fawley-oil-refinery",
       "name": "Fawley Oil Refinery"
     },
+    "ferropolis-city-of-iron": {
+      "category": "interesting-things",
+      "coordinates": [
+        12.4469521,
+        51.7585718
+      ],
+      "id": "ferropolis-city-of-iron",
+      "name": "FERROPOLIS - City of Iron"
+    },
     "fire-service-college": {
       "category": "not-open-to-public-but-visible",
       "coordinates": [
@@ -2438,6 +2552,28 @@
       "description": "Pin location is not exact \u2013 look for a small sign.",
       "id": "first-dawn-redwood-metasequoia-glyptostroboides-to-grow-in-the-western-hemisphere-in-5-million-years",
       "name": "First dawn redwood (Metasequoia glyptostroboides) to grow in the Western Hemisphere in 5+ million years"
+    },
+    "flakturm-vii-g-turm-augarten": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        16.3732687,
+        48.2259025
+      ],
+      "description": "Ed: This park has 2 WWII battlements. You can't go in (I think?) but nice enough to walk around from the outside.",
+      "id": "flakturm-vii-g-turm-augarten",
+      "img": [
+        "./data/images/a4007702501a95841fd33434d1c0490e8831540a73988b4d3142d71c7ed1fb02.png"
+      ],
+      "name": "Flakturm VII G-Turm Augarten"
+    },
+    "fonserannes-water-slope": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        3.1993631,
+        43.3300675
+      ],
+      "id": "fonserannes-water-slope",
+      "name": "Fonserannes Water Slope"
     },
     "foredown-tower": {
       "category": "interesting-things",
@@ -2538,6 +2674,16 @@
       "id": "foynes-flying-boat-maritime-museum",
       "name": "Foynes Flying Boat & Maritime Museum"
     },
+    "freeway-park": {
+      "category": "nature",
+      "coordinates": [
+        -122.330903,
+        47.609308
+      ],
+      "description": "Pioneering brutalist park built on a \"freeway lid\" in the 1970s and since extended",
+      "id": "freeway-park",
+      "name": "Freeway Park"
+    },
     "fremont-troll": {
       "category": "para-infrastructural-cultural",
       "coordinates": [
@@ -2591,7 +2737,12 @@
         13.3778846,
         52.4986982
       ],
+      "description": "",
       "id": "german-museum-of-technology",
+      "img": [
+        "./data/images/39fd5eac4fd5f0df59d157f9e7cac4205e1f390b8a5592cb4119aec79830b9b7.png",
+        "./data/images/7e7a0fde42b4cbc773b15d5fb362c2dc327169d32ac95d118667f49e7d189264.png"
+      ],
       "name": "German Museum of Technology"
     },
     "glen-roy-national-nature-reserve-glacial-remains": {
@@ -2776,6 +2927,15 @@
       "id": "great-orme-tramway-victoria-station",
       "name": "Great Orme Tramway - (Victoria, Station)"
     },
+    "great-polish-map-of-scotland": {
+      "category": "interesting-things",
+      "coordinates": [
+        -3.2165781,
+        55.7120207
+      ],
+      "id": "great-polish-map-of-scotland",
+      "name": "Great Polish Map of Scotland"
+    },
     "great-sphinx-of-giza": {
       "category": "historic-ruins-structures",
       "coordinates": [
@@ -2859,6 +3019,19 @@
       ],
       "id": "griffith-observatory",
       "name": "Griffith Observatory"
+    },
+    "grotta-gigante": {
+      "category": "nature",
+      "coordinates": [
+        13.764503,
+        45.7096311
+      ],
+      "description": "Ed: Very large cavern cave. Regular tours. Make sure to book tour in advance - good chance you won't get in if you just turn up.  It's a long winding staircase down to the main chamber, and then another up.",
+      "id": "grotta-gigante",
+      "img": [
+        "./data/images/59416218f634dcddf74fac37c1dd02e485617049fde22a49e3cbace619e30336.png"
+      ],
+      "name": "Grotta Gigante"
     },
     "guys-cliffe-house": {
       "category": "interesting-things",
@@ -3212,6 +3385,16 @@
       "id": "horsell-common-sand-pits",
       "name": "Horsell Common sand pits"
     },
+    "hotel-nh-prague-inclined-elevator": {
+      "category": "interesting-things",
+      "coordinates": [
+        14.397086,
+        50.071299
+      ],
+      "description": "The hotel has an inclined elevator that takes passengers outside the hotel and up the hill to the hotel restaurant. https://www.expats.cz/czech-news/article/take-a-ride-on-prague-secret-second-funicular",
+      "id": "hotel-nh-prague-inclined-elevator",
+      "name": "Hotel NH Prague inclined elevator"
+    },
     "house-in-the-clouds": {
       "category": "interesting-things",
       "coordinates": [
@@ -3261,6 +3444,16 @@
       "id": "hunterian-museum",
       "name": "Hunterian Museum"
     },
+    "hunters-point-gantry-crane": {
+      "category": "not-open-to-public-but-visible",
+      "coordinates": [
+        -122.3616605,
+        37.7195835
+      ],
+      "description": "Exceptionally large crane used in naval construction and for testing Polaris missiles",
+      "id": "hunters-point-gantry-crane",
+      "name": "Hunter's Point Gantry Crane"
+    },
     "hunterston-jettyparc": {
       "category": "industry",
       "coordinates": [
@@ -3299,6 +3492,15 @@
       "description": "and-built stone and turf camera obscura on the lochside. Access by foot over suspension bridge.\nhttp://www.geograph.org.uk/photo/1438241",
       "id": "hut-of-the-shaddows",
       "name": "Hut of the shaddows"
+    },
+    "hverud-aqueduct": {
+      "category": "interesting-things",
+      "coordinates": [
+        12.4105398,
+        58.8213896
+      ],
+      "id": "hverud-aqueduct",
+      "name": "H\u00e5verud Aqueduct"
     },
     "hythe-pier": {
       "category": "interesting-things",
@@ -3676,6 +3878,19 @@
       "id": "krafla-toilet",
       "name": "Krafla Toilet"
     },
+    "kritof-kintera-building-sculptures": {
+      "category": "interesting-things",
+      "coordinates": [
+        14.4090032,
+        50.0919269
+      ],
+      "description": "\"The entrance to the park at Klarov opposite Kunsthalle Praha leads not only to the park itself but also to a sculptural micro-city by the artist Kri\u0161tof Kintera, who has created works based on seven actual buildings constructed in the second half of the past century in Prague. Sensitively embedded in the uneven terrain, these concrete miniatures reflect a conventional urban environment comprised of current, demolished, and utopian buildings, including a church, bank, TV tower, shopping mall, central telecommunication building, housing estate, and a hotel.\" - https://www.kunsthallepraha.org/en/events/kristof-kintera-building-sculptures-and-girl-with-a-dove",
+      "id": "kritof-kintera-building-sculptures",
+      "img": [
+        "./data/images/2580a88a36f83b4f6ab56d74d6d54b13ebe24499a70049905d7e746acab1fa04.png"
+      ],
+      "name": "Kri\u0161tof Kintera: Building Sculptures"
+    },
     "la-coupole-centre-dhistoire-v2-bunker": {
       "category": "museums-attractions",
       "coordinates": [
@@ -3784,6 +3999,16 @@
       "id": "leeds-industrial-museum-at-armley-mills",
       "name": "Leeds Industrial Museum at Armley Mills"
     },
+    "leiria-airport": {
+      "category": "interesting-things",
+      "coordinates": [
+        -8.8200395,
+        39.7806117
+      ],
+      "description": "Public road crossing live runway",
+      "id": "leiria-airport",
+      "name": "Leiria Airport"
+    },
     "lick-observatory": {
       "category": "science",
       "coordinates": [
@@ -3841,6 +4066,16 @@
       "id": "lion-salt-works",
       "name": "Lion Salt Works"
     },
+    "little-canada": {
+      "category": "interesting-things",
+      "coordinates": [
+        -79.3808532,
+        43.6567116
+      ],
+      "description": "Inspired by Hamburg's Miniatur Wunderland, this is an HO-scale model of Canada",
+      "id": "little-canada",
+      "name": "Little Canada"
+    },
     "liverpool-maritime-museum": {
       "category": "museums-attractions",
       "coordinates": [
@@ -3858,6 +4093,16 @@
       ],
       "id": "lizard-lighthouse",
       "name": "Lizard Lighthouse"
+    },
+    "ljubljana-castle-funicular": {
+      "category": "para-infrastructural-cultural",
+      "coordinates": [
+        14.5096732,
+        46.050075
+      ],
+      "description": "Ed: Funicular to the Castle. Better to get a ticket by way of the tourist pass than paying directly.",
+      "id": "ljubljana-castle-funicular",
+      "name": "Ljubljana Castle Funicular"
     },
     "locke-chinese-school-museum": {
       "category": "para-infrastructural-cultural",
@@ -3934,6 +4179,16 @@
       "id": "london-transport-museum-depot",
       "name": "London Transport Museum Depot"
     },
+    "los-angeles-county-arboretum": {
+      "category": "nature",
+      "coordinates": [
+        -118.0534118,
+        34.1425236
+      ],
+      "description": "lovely grounds with roaming peacocks!",
+      "id": "los-angeles-county-arboretum",
+      "name": "Los Angeles County Arboretum"
+    },
     "lovell-telescope": {
       "category": "interesting-things",
       "coordinates": [
@@ -3952,6 +4207,19 @@
       "description": "A modestly sized but undeniably striking dam close to a highway: https://en.wikipedia.org/wiki/Lower_Baker_Dam",
       "id": "lower-baker-dam",
       "name": "Lower Baker Dam"
+    },
+    "lus-i-bridge": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -8.6094485,
+        41.1399589
+      ],
+      "description": "Really nice views walking over the top of this bridge.",
+      "id": "lus-i-bridge",
+      "img": [
+        "./data/images/956090b77cfce0d1c30d409085e2c456987c251dd2fd3b00a735dfb241778547.png"
+      ],
+      "name": "Lu\u00eds I Bridge"
     },
     "lynton-lynmouth-cliff-railway": {
       "category": "interesting-things",
@@ -4007,6 +4275,16 @@
       ],
       "id": "maeslantkering",
       "name": "Maeslantkering"
+    },
+    "maishima-incineration-plant": {
+      "category": "industry",
+      "coordinates": [
+        135.4066244,
+        34.6656096
+      ],
+      "description": "Does regular free tours. Must be booked in advance.\n\nhttps://www.osaka-env-paa.jp/kengaku/kojokengaku/kojin.html",
+      "id": "maishima-incineration-plant",
+      "name": "Maishima Incineration Plant"
     },
     "makah-cultural-research-center-museum": {
       "category": "para-infrastructural-cultural",
@@ -4247,6 +4525,29 @@
       "id": "methane-flare",
       "name": "Methane flare"
     },
+    "metro-center": {
+      "category": "interesting-things",
+      "coordinates": [
+        -77.0279031,
+        38.8985199
+      ],
+      "description": "A major interchange and architectural apex of the Washington Metro.",
+      "id": "metro-center",
+      "name": "Metro Center"
+    },
+    "metropolitan-area-outer-underground-discharge-channel": {
+      "category": "museums-attractions",
+      "coordinates": [
+        139.7471384,
+        35.9929899
+      ],
+      "description": "Regular tours, but need booking long in advance. You must come with a Japanese speaker.\n\nhttps://gaikaku.jp/\n\nhttps://www.atlasobscura.com/places/g-cans-worlds-largest-drain",
+      "id": "metropolitan-area-outer-underground-discharge-channel",
+      "img": [
+        "./data/images/63715e19742e4c7aa8ad50d32de4bcdc6025dac8fe9609400fb7a297d4a1cbcc.png"
+      ],
+      "name": "Metropolitan Area Outer Underground Discharge Channel"
+    },
     "mexicable": {
       "category": "museums-attractions",
       "coordinates": [
@@ -4382,6 +4683,15 @@
       ],
       "id": "monte-solaro-chair-lift",
       "name": "Monte Solaro Chair Lift"
+    },
+    "montech-water-slope": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        1.225981,
+        43.971897
+      ],
+      "id": "montech-water-slope",
+      "name": "Montech water slope"
     },
     "monterey-bay-aquarium": {
       "category": "museums-attractions",
@@ -4548,6 +4858,16 @@
       "id": "muse-aeroscopia",
       "name": "Mus\u00e9e Aeroscopia"
     },
+    "muse-du-touage-riqueval": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        3.2357876,
+        49.9513495
+      ],
+      "description": "Trolley-wire powered chain-propelled canal tunnel tugboat",
+      "id": "muse-du-touage-riqueval",
+      "name": "Mus\u00e9e du Touage Riqueval"
+    },
     "muse-mcanique": {
       "category": "para-infrastructural-cultural",
       "coordinates": [
@@ -4566,6 +4886,31 @@
       ],
       "id": "museo-della-carta",
       "name": "Museo della Carta"
+    },
+    "museo-nazionale-ferroviario-di-pietrarsa": {
+      "category": "museums-attractions",
+      "coordinates": [
+        14.3214361,
+        40.8216862
+      ],
+      "id": "museo-nazionale-ferroviario-di-pietrarsa",
+      "name": "Museo Nazionale Ferroviario di Pietrarsa"
+    },
+    "museu-de-arte-contempornea-de-serralves": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -8.659615,
+        41.1598058
+      ],
+      "description": "Ed: Nice contemporary art museum and really pleasant park filled with modern sculptures.",
+      "id": "museu-de-arte-contempornea-de-serralves",
+      "img": [
+        "./data/images/7cbd81346c797ac793512f47c0ff2767d407a43eff686be3260475f346b4cb37.png",
+        "./data/images/f6332bb1ccc40c245e20a18aebd2ba376c183455d296a476ad40d25758212489.png",
+        "./data/images/ca0475cfbe5317cfd35361bde05f8e4f73f3495045e7747ddb0adf4c95581c75.png",
+        "./data/images/5fdf1134883e98fa5c569643374bb7cd67d2e762c20c843a526b3cda8766cd63.png"
+      ],
+      "name": "Museu de Arte Contempor\u00e2nea de Serralves"
     },
     "museum-cemento-rezola": {
       "category": "museums-attractions",
@@ -4640,6 +4985,19 @@
       ],
       "id": "museum-of-cider",
       "name": "Museum of Cider"
+    },
+    "museum-of-ethnography": {
+      "category": "museums-attractions",
+      "coordinates": [
+        19.081371,
+        47.5115051
+      ],
+      "description": "Unusual curved building - climb up the sides for a good view. (Ed)",
+      "id": "museum-of-ethnography",
+      "img": [
+        "./data/images/71d1251d969b4d9558c0cb08852c7f5cb3a77b3a699d00cd9521c0c2835eb5b0.png"
+      ],
+      "name": "Museum of Ethnography"
     },
     "museum-of-flight": {
       "category": "museums-attractions",
@@ -4723,6 +5081,16 @@
       ],
       "id": "museum-of-science",
       "name": "Museum of Science"
+    },
+    "museum-of-science-and-industry-chicago": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -87.5830659,
+        41.7905726
+      ],
+      "description": "Has a 727 cut in half that you can explore.",
+      "id": "museum-of-science-and-industry-chicago",
+      "name": "Museum of Science and Industry, Chicago"
     },
     "museum-of-science-and-technology": {
       "category": "museums-attractions",
@@ -4828,6 +5196,15 @@
       "id": "museum-vrolik",
       "name": "Museum Vrolik"
     },
+    "mustafas-gemse-kebap": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        13.388024,
+        52.4939874
+      ],
+      "id": "mustafas-gemse-kebap",
+      "name": "Mustafa's Gem\u00fcse Kebap"
+    },
     "nash-point-lighthouse": {
       "category": "museums-attractions",
       "coordinates": [
@@ -4846,6 +5223,16 @@
       ],
       "id": "national-army-museum",
       "name": "National Army Museum"
+    },
+    "national-building-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -77.0176188,
+        38.8977516
+      ],
+      "description": "Small but perhaps worth a detour if you're in DC and are looking for something less obvious",
+      "id": "national-building-museum",
+      "name": "National Building Museum"
     },
     "national-cold-war-exhibition": {
       "category": "interesting-things",
@@ -4952,6 +5339,16 @@
       "id": "national-museum-of-nature-and-science",
       "name": "National Museum of Nature and Science"
     },
+    "national-museum-of-nuclear-science-history": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -106.5338919,
+        35.0659855
+      ],
+      "description": "Not massive, but interesting. I think there's a B52 parked here.",
+      "id": "national-museum-of-nuclear-science-history",
+      "name": "National Museum of Nuclear Science & History"
+    },
     "national-museum-of-scotland": {
       "category": "museums-attractions",
       "coordinates": [
@@ -4960,6 +5357,15 @@
       ],
       "id": "national-museum-of-scotland",
       "name": "National Museum of Scotland"
+    },
+    "national-museum-of-the-us-air-force": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -84.1093818,
+        39.7807961
+      ],
+      "id": "national-museum-of-the-us-air-force",
+      "name": "National Museum of the US Air Force"
     },
     "national-mustard-museum": {
       "category": "museums-attractions",
@@ -5420,6 +5826,16 @@
       "id": "omsi",
       "name": "OMSI"
     },
+    "ongar-00-datum-point-for-the-london-underground": {
+      "category": "interesting-things",
+      "coordinates": [
+        0.2443897,
+        51.7087281
+      ],
+      "description": "The point at which all distances are measured from on the London Underground",
+      "id": "ongar-00-datum-point-for-the-london-underground",
+      "name": "Ongar 0.0 Datum Point for the London Underground"
+    },
     "oregon-coast-aquarium": {
       "category": "para-infrastructural-cultural",
       "coordinates": [
@@ -5541,6 +5957,16 @@
       ],
       "id": "palomar-observatory",
       "name": "Palomar Observatory"
+    },
+    "palvolgyi-cave": {
+      "category": "nature",
+      "coordinates": [
+        19.0148821,
+        47.5335883
+      ],
+      "description": "Ed: Smallish cave you can tour. Comes free with Budapest tourist card.",
+      "id": "palvolgyi-cave",
+      "name": "Palvolgyi Cave"
     },
     "papplewick-pumping-station": {
       "category": "interesting-things",
@@ -5691,6 +6117,15 @@
       "id": "petn-funicular2",
       "name": "Pet\u0159\u00edn funicular"
     },
+    "petrin-tower": {
+      "category": "interesting-things",
+      "coordinates": [
+        14.3950838,
+        50.083527
+      ],
+      "id": "petrin-tower",
+      "name": "Petrin Tower"
+    },
     "phone-box-at-the-centre-of-great-britain": {
       "category": "interesting-things",
       "coordinates": [
@@ -5755,7 +6190,7 @@
         -5.654882,
         50.046757
       ],
-      "description": "MUSEUM OF GLOBAL COMMUNICATIONS",
+      "description": "MUSEUM OF GLOBAL COMMUNICATIONS\n\nMany transatlantic cables land here, and there's a museum in some old landing buildings.",
       "id": "pk-porthcurno",
       "name": "PK Porthcurno"
     },
@@ -5786,6 +6221,16 @@
       ],
       "id": "point-defiance-zoo-aquarium",
       "name": "Point Defiance Zoo & Aquarium"
+    },
+    "point-no-point-lighthouse": {
+      "category": "interesting-things",
+      "coordinates": [
+        -122.5268655,
+        47.9121528
+      ],
+      "description": "Open only on Saturdays, but the home of the US Lighthouse Society, and a good area to walk around",
+      "id": "point-no-point-lighthouse",
+      "name": "Point No Point Lighthouse"
     },
     "point-reyes-lighthouse": {
       "category": "interesting-things",
@@ -5834,6 +6279,20 @@
       "description": "Nice canal basin/boat yard at one end, with a little shop for ice creams etc. One of the cottages alongside the canal is a holiday cottage which is a nice place to stay.",
       "id": "pontcysyllte-aqueduct",
       "name": "Pontcysyllte Aqueduct"
+    },
+    "ponte-da-arrbida": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -8.6403156,
+        41.1473938
+      ],
+      "description": "Ed: do a tour climbing the underside of this tall bridge.",
+      "id": "ponte-da-arrbida",
+      "img": [
+        "./data/images/b7045844e3f909a50b386025b879f9d56c88c99b01519cc951e80250b5a29699.png",
+        "./data/images/ade77d03cd880f1b36c32b35d6f131651f3657d7fee3260850b2019c1e42663e.png"
+      ],
+      "name": "Ponte da Arr\u00e1bida"
     },
     "port-museum-of-dunkirk": {
       "category": "museums-attractions",
@@ -5894,6 +6353,20 @@
       "id": "portsmouth-to-ryde-hovercraft-terminal",
       "name": "Portsmouth to Ryde hovercraft terminal"
     },
+    "postojna-cave": {
+      "category": "nature",
+      "coordinates": [
+        14.2038417,
+        45.7830298
+      ],
+      "description": "Ed: Multi km cave system. Go on a mini train in to the middle and out again! It's very touristy with 100s of tourists and hour, but well recommended as a totally bizarre experience. The tours are split up so it doesn't feel too busy at any one time. Train is fun. Better to book in advance, but they seem to reserve enough capacity to serve some walk-ups. The other Vivarium wasn't worth it.",
+      "id": "postojna-cave",
+      "img": [
+        "./data/images/6b3195cba431834edbb2397ee500347cf5e0b81d469a64e592b82d991e7d8a5e.png",
+        "./data/images/620511cc71a12c505cf22a05ebcd213601a36a184e1df20b34b4196f90b02383.png"
+      ],
+      "name": "Postojna Cave"
+    },
     "powells-city-of-books": {
       "category": "para-infrastructural-cultural",
       "coordinates": [
@@ -5925,7 +6398,11 @@
         14.4159406,
         50.094744
       ],
+      "description": "",
       "id": "prague-metronome",
+      "img": [
+        "./data/images/0eb7ac938bd6c972e306d8cd8066e68e5526ce13629ab60a19956876895aed89.png"
+      ],
       "name": "Prague Metronome"
     },
     "prelinger-library": {
@@ -5944,6 +6421,7 @@
         -122.3165415,
         37.4834543
       ],
+      "description": "1930s structure and viewing pond to celebrate the completion of the Hetch Hetchy water system supplying San Francisco.",
       "id": "pulgas-water-temple",
       "name": "Pulgas Water Temple"
     },
@@ -6030,6 +6508,29 @@
       "description": "RAF/USAF listening station. Heavily linked with GCHQ and the Echelon programme. No public access, but good views of the radomes from the surrounding area. Beware of photography.\n\nSee http://en.wikipedia.org/wiki/RAF_Menwith_Hill",
       "id": "rafusaf-menwith-hill",
       "name": "RAF/USAF Menwith Hill"
+    },
+    "rahmi-ko-mzesi": {
+      "category": "museums-attractions",
+      "coordinates": [
+        28.9493263,
+        41.0417211
+      ],
+      "description": "This is an absolute *must see* museum in Istanbul. Primarily a transportation museum, and has an extensive collection of cars, train cars, a submarine, airplanes, and naval paraphenalia. There's also an entire hall of scientific instruments, and exhibits devoted to household appliances.\n\nWorth a good half-day. A bit off the beaten track, but there are direct ferries from the old city, although these can be tricky to track down.\n\n-added by jt",
+      "id": "rahmi-ko-mzesi",
+      "name": "Rahmi Ko\u00e7 M\u00fczesi"
+    },
+    "railway-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        14.5028348,
+        46.0625132
+      ],
+      "description": "Ed: By far the cooler bit is that surrounding the museum are the wrecks of a load of old trains you can just wander around.",
+      "id": "railway-museum",
+      "img": [
+        "./data/images/93da71ed7c82b6ed104223d3373f9fa77b5b4a2d8caaa797e7b845a7ffff92dd.png"
+      ],
+      "name": "Railway Museum"
     },
     "railway-museum-of-eastern-ontario": {
       "category": "museums-attractions",
@@ -6232,6 +6733,15 @@
       "description": "Lever-frame signal box and associated signals, points etc, all connected up to a simulator. Open on selected days see https://romseysignalbox.org.uk/",
       "id": "romsey-signal-box",
       "name": "Romsey Signal Box"
+    },
+    "ronald-reagan-minuteman-missile-state-historic-site": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -98.1272635,
+        47.4976388
+      ],
+      "id": "ronald-reagan-minuteman-missile-state-historic-site",
+      "name": "Ronald Reagan Minuteman Missile State Historic Site"
     },
     "roosevelt-island-tramway": {
       "category": "interesting-things",
@@ -6449,6 +6959,7 @@
         -122.3935533,
         37.7938256
       ],
+      "description": "Tiny but central and therefore worth popping in to. It's also near a stop on the F Market streetcar line, which runs a variety of PCCs and international vintage trams.",
       "id": "san-francisco-railway-museum",
       "name": "San Francisco Railway Museum"
     },
@@ -6709,6 +7220,19 @@
       "id": "sewer-museum",
       "name": "Sewer Museum"
     },
+    "sewer-tour-mann-tour": {
+      "category": "museums-attractions",
+      "coordinates": [
+        16.367617,
+        48.200877
+      ],
+      "description": "Ed: Tour a section of the Vienna sewers, as seen in the 3rd Mann film.",
+      "id": "sewer-tour-mann-tour",
+      "img": [
+        "./data/images/429d5166b0fc51b9fd1b1b2f66a04e2c82d6ea2669caa81510729672acd89620.png"
+      ],
+      "name": "Sewer tour - Mann Tour"
+    },
     "sf-bay-ferry": {
       "category": "interesting-things",
       "coordinates": [
@@ -6725,7 +7249,7 @@
         -122.388899,
         37.6150141
       ],
-      "description": "The SFO Museum is a fully accredited museum whose grounds also happen to serve as the world's 24th largest airport by passenger count.",
+      "description": "The SFO Museum is a fully accredited museum whose grounds also happen to serve as the world's 24th largest airport by passenger count. Even if you can't visit the museum proper, look out for small displays in the terminals.",
       "id": "sfo-museum-louis-a-turpen-aviation-museum-and-library",
       "name": "SFO Museum Louis A. Turpen Aviation Museum and Library"
     },
@@ -6933,6 +7457,16 @@
       "id": "skye-ferry",
       "name": "Skye Ferry"
     },
+    "skyterrace": {
+      "category": "interesting-things",
+      "coordinates": [
+        -122.3835007,
+        37.6176221
+      ],
+      "description": "Outside and landside viewpoint for plane spotting, but unfortunately it does require a quick security screening. There's also an airside viewpoint at the end of Terminal G (on Google Maps as \"SFO Outdoor Terrace\").",
+      "id": "skyterrace",
+      "name": "SkyTerrace"
+    },
     "skywalker-sound": {
       "category": "not-open-to-public-but-visible",
       "coordinates": [
@@ -6951,6 +7485,16 @@
       "description": "An early (1961) nuclear accident that was very influential on US government thinking about nuclear safety: https://en.wikipedia.org/wiki/SL-1",
       "id": "sl-1-site",
       "name": "SL-1 site"
+    },
+    "slac-national-accelerator-laboratory": {
+      "category": "not-open-to-public-but-visible",
+      "coordinates": [
+        -122.2027057,
+        37.4198517
+      ],
+      "description": "Visible from I-280 and possibly on incoming flights to San Francisco and San Jose",
+      "id": "slac-national-accelerator-laboratory",
+      "name": "SLAC National Accelerator Laboratory"
     },
     "smedley-street-ww2-resistance-hq": {
       "category": "interesting-things",
@@ -7068,6 +7612,15 @@
       "id": "space-launch-complex-8",
       "name": "Space Launch Complex 8"
     },
+    "space-shuttle-endeavour": {
+      "category": "science",
+      "coordinates": [
+        -118.2873699,
+        34.0162494
+      ],
+      "id": "space-shuttle-endeavour",
+      "name": "Space Shuttle Endeavour"
+    },
     "speedwell-cavern": {
       "category": "museums-attractions",
       "coordinates": [
@@ -7114,6 +7667,16 @@
       ],
       "id": "spitbank-fort",
       "name": "Spitbank Fort"
+    },
+    "spittelau-incinerator": {
+      "category": "industry",
+      "coordinates": [
+        16.3600557,
+        48.233484
+      ],
+      "description": "Waste incinerator given a makeover by Hundertwasser https://www.visitingvienna.com/footsteps/spittelau/",
+      "id": "spittelau-incinerator",
+      "name": "Spittelau Incinerator"
     },
     "ss-great-britain": {
       "category": "museums-attractions",
@@ -7181,6 +7744,16 @@
       ],
       "id": "standedge-tunnel-visitor-centre-canal-river-trust",
       "name": "Standedge Tunnel & Visitor Centre - Canal & River Trust"
+    },
+    "stanford-dish": {
+      "category": "interesting-things",
+      "coordinates": [
+        -122.1796028,
+        37.4085778
+      ],
+      "description": "Radio telescope set in a large field",
+      "id": "stanford-dish",
+      "name": "Stanford Dish"
     },
     "stasi-museum": {
       "category": "interesting-things",
@@ -7279,6 +7852,16 @@
       "id": "strait-of-juan-de-fuca-boundary-dispute",
       "name": "Strait of Juan de Fuca boundary dispute"
     },
+    "strpy-thieu-boat-lift": {
+      "category": "interesting-things",
+      "coordinates": [
+        4.1093346,
+        50.4774458
+      ],
+      "description": "Bloody enormous canal boat lift",
+      "id": "strpy-thieu-boat-lift",
+      "name": "Str\u00e9py-Thieu Boat Lift"
+    },
     "stuttgart-tv-tower": {
       "category": "museums-attractions",
       "coordinates": [
@@ -7325,6 +7908,16 @@
       "id": "suspension-bridge-over-tsingy",
       "name": "Suspension bridge over tsingy"
     },
+    "sutro-tower": {
+      "category": "not-open-to-public-but-visible",
+      "coordinates": [
+        -122.4527624,
+        37.7552213
+      ],
+      "description": "A 1973 TV and radio mast that's a clearly visible across a chunk of the Bay Area as long as the fog isn't between you and it. Once controversial, now a tolerated to celebrated local landmark.",
+      "id": "sutro-tower",
+      "name": "Sutro Tower"
+    },
     "svalbard-global-seed-vault": {
       "category": "not-open-to-public-but-visible",
       "coordinates": [
@@ -7343,6 +7936,16 @@
       "description": "https://en.wikipedia.org/wiki/Svalbard_Satellite_Station",
       "id": "svalbard-satellite-station",
       "name": "Svalbard Satellite Station"
+    },
+    "tacoma-dome": {
+      "category": "para-infrastructural-cultural",
+      "coordinates": [
+        -122.4268089,
+        47.2365504
+      ],
+      "description": "One of the largest wooden domes in the world, easily visible from the interstate",
+      "id": "tacoma-dome",
+      "name": "Tacoma Dome"
     },
     "takaosan-interchange": {
       "category": "interesting-things",
@@ -7421,6 +8024,26 @@
       "description": "Has the only Buran shuttle on public display, and you can go inside it!",
       "id": "technic-museum-speyer",
       "name": "Technic Museum Speyer"
+    },
+    "technical-museum-vienna": {
+      "category": "museums-attractions",
+      "coordinates": [
+        16.317879,
+        48.1906371
+      ],
+      "description": "Ed: excellent and massive museum of all sorts of science and technical things.",
+      "id": "technical-museum-vienna",
+      "name": "Technical Museum Vienna"
+    },
+    "tehachapi-loop": {
+      "category": "interesting-things",
+      "coordinates": [
+        -118.5378281,
+        35.1998125
+      ],
+      "description": "Large railway loop. Wikipedia: \"Its frequent trains and scenic setting make the Tehachapi Loop popular with railfans.\"",
+      "id": "tehachapi-loop",
+      "name": "Tehachapi Loop"
     },
     "tekeze-power-station": {
       "category": "not-open-to-public-but-visible",
@@ -7564,6 +8187,19 @@
       "description": "A big hole from diamond mining. The museum is interesting as well.",
       "id": "the-big-hole",
       "name": "The Big Hole"
+    },
+    "the-broadbalk-experiment": {
+      "category": "interesting-things",
+      "coordinates": [
+        -0.374725,
+        51.808998
+      ],
+      "description": "Started in 1843, Broadbalk is one of the oldest continuous agronomic experiments in the world. Wheat is grown every year on all or part of the experiment. Established to test the effects of various combinations of inorganic fertilizers (N, P, K, Na and Mg) and organic manures on the yield of winter wheat, many of these treatments continue today. A control strip has received no fertilizer or organic manures since 1843. It was started by Lawes and Gilbert in autumn 1843, and the first crop was harvested in summer 1844. https://www.era.rothamsted.ac.uk/Broadbalk",
+      "id": "the-broadbalk-experiment",
+      "img": [
+        "./data/images/4eca77551bf09fadd4b2fb42e7dea2415c658c024a11d3079a281649e8d453b2.png"
+      ],
+      "name": "The Broadbalk Experiment"
     },
     "the-butchart-gardens": {
       "category": "para-infrastructural-cultural",
@@ -7716,6 +8352,16 @@
       "id": "the-geothermal-energy-exhibition",
       "name": "The Geothermal Energy Exhibition"
     },
+    "the-getty": {
+      "category": "para-infrastructural-cultural",
+      "coordinates": [
+        -118.4740954,
+        34.0780358
+      ],
+      "description": "Art museum with beautiful grounds, interesting architcture and a fabulous view of the city.",
+      "id": "the-getty",
+      "name": "The Getty"
+    },
     "the-great-pyramid-of-giza": {
       "category": "historic-ruins-structures",
       "coordinates": [
@@ -7772,6 +8418,16 @@
       ],
       "id": "the-ironbridge-gorge-museum-trust-head-office",
       "name": "The Ironbridge Gorge Museum Trust Head Office"
+    },
+    "the-japanese-garden": {
+      "category": "nature",
+      "coordinates": [
+        -118.4809759,
+        34.1829524
+      ],
+      "description": "Next to water treatment plant, was the set for Starfleet Academy in Star Trek",
+      "id": "the-japanese-garden",
+      "name": "The Japanese Garden"
     },
     "the-john-and-mable-ringling-museum-of-art": {
       "category": "para-infrastructural-cultural",
@@ -7951,6 +8607,15 @@
       "description": "A small stone circle (The Kingsmen), the King Stone and a neolithic burial chamber. http://www.rollrightstones.co.uk",
       "id": "the-rollright-stones",
       "name": "The Rollright Stones"
+    },
+    "the-roman-baths": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -2.359619,
+        51.3810787
+      ],
+      "id": "the-roman-baths",
+      "name": "The Roman Baths"
     },
     "the-rotherhithe-tunnel-ventilation-shaft-3": {
       "category": "museums-attractions",
@@ -8162,6 +8827,19 @@
       "id": "toronto-railway-museum",
       "name": "Toronto Railway Museum"
     },
+    "tours-of-kranj-ww2-tunnels": {
+      "category": "museums-attractions",
+      "coordinates": [
+        14.3558735,
+        46.2394472
+      ],
+      "description": "Ed: Tour WW2 tunnels and bunkers under the town.\n\nhttps://www.visitkranj.com/en/tours-and-trips/tunnels-under-the-old-town-of-kranj/",
+      "id": "tours-of-kranj-ww2-tunnels",
+      "img": [
+        "./data/images/999dc9e12372d071ea85256e68af53fda748789a755dc24ff1eb344591894fbc.png"
+      ],
+      "name": "Tours of Kranj WW2 tunnels"
+    },
     "train-world": {
       "category": "museums-attractions",
       "coordinates": [
@@ -8196,6 +8874,7 @@
         -106.4752871,
         33.6772929
       ],
+      "description": "\"visits to the site are sponsored by [White Sands Missile Range] in April and October. The rest of the year the site is closed to the public because it lies within the impact zone for missiles\".",
       "id": "trinity-site",
       "name": "Trinity Site"
     },
@@ -8304,6 +8983,24 @@
       ],
       "id": "unwin-radar-awarua-communication-museum",
       "name": "Unwin Radar / Awarua Communication Museum"
+    },
+    "us-naval-undersea-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -122.6248933,
+        47.6999272
+      ],
+      "id": "us-naval-undersea-museum",
+      "name": "U.S. Naval Undersea Museum"
+    },
+    "us-space-rocket-center": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -86.6539363,
+        34.7111322
+      ],
+      "id": "us-space-rocket-center",
+      "name": "U.S. Space & Rocket Center"
     },
     "uss-blueback": {
       "category": "museums-attractions",
@@ -8473,6 +9170,20 @@
       "id": "vollis-simpson-whirligig-park-museum-gift-shop",
       "name": "Vollis Simpson Whirligig Park Museum & Gift Shop"
     },
+    "vtopna-railway-restaurant-wenceslas-square": {
+      "category": "museums-attractions",
+      "coordinates": [
+        14.4285602,
+        50.0802002
+      ],
+      "description": "Ed: Cool restaurant where your food and drink is delivered to you on a model train. Fun!",
+      "id": "vtopna-railway-restaurant-wenceslas-square",
+      "img": [
+        "./data/images/a5d4461cd4f39096d897b4c9971523b086e6b0dec66a81545ac52d172eb1c315.png",
+        "./data/images/2165995cce0337c440005491aa6487f3aa4212b3ec46c99e54bbddcdf041dda8.png"
+      ],
+      "name": "V\u00fdtopna Railway Restaurant - Wenceslas Square"
+    },
     "vulcan-restoration-trust": {
       "category": "museums-attractions",
       "coordinates": [
@@ -8502,6 +9213,16 @@
       "description": "Magnificent 19thC folly, tallest structure in Calderdale, and claimed to be the tallest folly in the world. \nhttp://en.wikipedia.org/wiki/Wainhouse_Tower",
       "id": "wainhouse-tower",
       "name": "Wainhouse Tower"
+    },
+    "walt-disney-concert-hall": {
+      "category": "para-infrastructural-cultural",
+      "coordinates": [
+        -118.249845,
+        34.0553454
+      ],
+      "description": "Unique architecture by Frank Gehry",
+      "id": "walt-disney-concert-hall",
+      "name": "Walt Disney Concert Hall"
     },
     "walthamstow-pumphouse-museum": {
       "category": "interesting-things",
@@ -8560,6 +9281,15 @@
       "description": "One of the deepest rail stations in the world, despite being on a rail system that's almost entirely aboveground. Small but interesting selection of interpretive material (e.g., drilled cores) in the station.",
       "id": "washington-park-zoo-max-station",
       "name": "Washington Park (Zoo) MAX station"
+    },
+    "watts-towers-arts-center": {
+      "category": "para-infrastructural-cultural",
+      "coordinates": [
+        -118.2419485,
+        33.9388608
+      ],
+      "id": "watts-towers-arts-center",
+      "name": "Watts Towers Arts Center"
     },
     "welwyn-roman-baths": {
       "category": "museums-attractions",
@@ -8668,6 +9398,16 @@
       "id": "whitechapel-bell-foundry",
       "name": "Whitechapel Bell Foundry"
     },
+    "whitechapel-fatberg-commemorative-manhole-cover": {
+      "category": "interesting-things",
+      "coordinates": [
+        -0.061131,
+        51.5188772
+      ],
+      "description": "https://londonist.com/london/secret/the-whitechapel-fatberg-has-its-own-memorial-manhole",
+      "id": "whitechapel-fatberg-commemorative-manhole-cover",
+      "name": "Whitechapel Fatberg Commemorative Manhole Cover"
+    },
     "whiteford-lighthouse": {
       "category": "historic-ruins-structures",
       "coordinates": [
@@ -8727,6 +9467,16 @@
       "description": "Website seems to be partly broken, but tours can still be booked by phone.",
       "id": "williamson-tunnels-heritage-centre",
       "name": "Williamson Tunnels Heritage Centre"
+    },
+    "willington-power-station-cooling-towers": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -1.5395501,
+        52.8543687
+      ],
+      "description": "The only thing remaining from the power station is five cooling towers, which can be ...\"visited\". http://www.crepello.net/Willington/PowerStation.htm / https://www.28dayslater.co.uk/threads/willington-june-2022-derby.133152/",
+      "id": "willington-power-station-cooling-towers",
+      "name": "Willington Power Station Cooling Towers"
     },
     "winchester-mystery-house": {
       "category": "museums-attractions",

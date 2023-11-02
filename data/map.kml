@@ -161,7 +161,8 @@
       <name>Interesting Things</name>
       <Placemark>
         <name>Pulgas Water Temple</name>
-        <styleUrl>#icon-1899-A52714-labelson-nodesc</styleUrl>
+        <description>1930s structure and viewing pond to celebrate the completion of the Hetch Hetchy water system supplying San Francisco.</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
         <Point>
           <coordinates>
             -122.3165415,37.4834543,0
@@ -556,7 +557,7 @@
       </Placemark>
       <Placemark>
         <name>PK Porthcurno</name>
-        <description>MUSEUM OF GLOBAL COMMUNICATIONS</description>
+        <description><![CDATA[MUSEUM OF GLOBAL COMMUNICATIONS<br><br>Many transatlantic cables land here, and there's a museum in some old landing buildings.]]></description>
         <styleUrl>#icon-1899-A52714-labelson</styleUrl>
         <Point>
           <coordinates>
@@ -2259,19 +2260,16 @@
       </Placemark>
       <Placemark>
         <name>Prague Metronome</name>
-        <styleUrl>#icon-1899-A52714-labelson-nodesc</styleUrl>
+        <description><![CDATA[<img src="./data/images/0eb7ac938bd6c972e306d8cd8066e68e5526ce13629ab60a19956876895aed89.png" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>./data/images/0eb7ac938bd6c972e306d8cd8066e68e5526ce13629ab60a19956876895aed89.png</value>
+          </Data>
+        </ExtendedData>
         <Point>
           <coordinates>
             14.4159406,50.094744,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Airship Gulliver</name>
-        <styleUrl>#icon-1899-A52714-labelson-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            14.4474388,50.1069756,0
           </coordinates>
         </Point>
       </Placemark>
@@ -2365,6 +2363,198 @@
         <Point>
           <coordinates>
             135.6062711,34.2228176,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ongar 0.0 Datum Point for the London Underground
+</name>
+        <description>The point at which all distances are measured from on the London Underground</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            0.2443897,51.7087281,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Petrin Tower</name>
+        <styleUrl>#icon-1899-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            14.3950838,50.083527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Krištof Kintera: Building Sculptures</name>
+        <description><![CDATA[<img src="./data/images/2580a88a36f83b4f6ab56d74d6d54b13ebe24499a70049905d7e746acab1fa04.png" height="200" width="auto" /><br><br>"The entrance to the park at Klarov opposite Kunsthalle Praha leads not only to the park itself but also to a sculptural micro-city by the artist Krištof Kintera, who has created works based on seven actual buildings constructed in the second half of the past century in Prague. Sensitively embedded in the uneven terrain, these concrete miniatures reflect a conventional urban environment comprised of current, demolished, and utopian buildings, including a church, bank, TV tower, shopping mall, central telecommunication building, housing estate, and a hotel." - https://www.kunsthallepraha.org/en/events/kristof-kintera-building-sculptures-and-girl-with-a-dove]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>./data/images/2580a88a36f83b4f6ab56d74d6d54b13ebe24499a70049905d7e746acab1fa04.png</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.4090032,50.0919269,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Whitechapel Fatberg Commemorative Manhole Cover</name>
+        <description>https://londonist.com/london/secret/the-whitechapel-fatberg-has-its-own-memorial-manhole</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -0.061131,51.5188772,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Great Polish Map of Scotland</name>
+        <styleUrl>#icon-1899-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.2165781,55.7120207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Point No Point Lighthouse</name>
+        <description>Open only on Saturdays, but the home of the US Lighthouse Society, and a good area to walk around</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.5268655,47.9121528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SkyTerrace</name>
+        <description><![CDATA[Outside and landside viewpoint for plane spotting, but unfortunately it does require a quick security screening. There's also an airside viewpoint at the end of Terminal G (on Google Maps as "SFO Outdoor Terrace").]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3835007,37.6176221,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stanford Dish</name>
+        <description>Radio telescope set in a large field</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.1796028,37.4085778,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tehachapi Loop</name>
+        <description><![CDATA[Large railway loop. Wikipedia: "Its frequent trains and scenic setting make the Tehachapi Loop popular with railfans."]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -118.5378281,35.1998125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Metro Center</name>
+        <description>A major interchange and architectural apex of the Washington Metro.</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0279031,38.8985199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hotel NH Prague inclined elevator</name>
+        <description>The hotel has an inclined elevator that takes passengers outside the hotel and up the hill to the hotel restaurant. https://www.expats.cz/czech-news/article/take-a-ride-on-prague-secret-second-funicular</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            14.397086,50.071299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Deer Moat Pedestrian Tunnel</name>
+        <description><![CDATA[<img src="./data/images/7234b16bc2a44112478e4386d4e2fd7665ccc5d2cdd1d380b889924ff316744b.png" height="200" width="auto" /><br><br>Ed: Oval pedestrian tunnel as mentioned on Atlas Obscura.<br><br>https://www.atlasobscura.com/places/pedestrian-tunnel-the-deer-moat]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>./data/images/7234b16bc2a44112478e4386d4e2fd7665ccc5d2cdd1d380b889924ff316744b.png</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.3984202,50.0912704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Little Canada</name>
+        <description><![CDATA[Inspired by Hamburg's Miniatur Wunderland, this is an HO-scale model of Canada]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -79.3808532,43.6567116,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Leiria Airport</name>
+        <description>Public road crossing live runway</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -8.8200395,39.7806117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Håverud Aqueduct</name>
+        <styleUrl>#icon-1899-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            12.4105398,58.8213896,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Strépy-Thieu Boat Lift</name>
+        <description>Bloody enormous canal boat lift</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            4.1093346,50.4774458,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FERROPOLIS - City of Iron</name>
+        <styleUrl>#icon-1899-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            12.4469521,51.7585718,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Broadbalk Experiment</name>
+        <description><![CDATA[<img src="./data/images/4eca77551bf09fadd4b2fb42e7dea2415c658c024a11d3079a281649e8d453b2.png" height="200" width="auto" /><br><br>Started in 1843, Broadbalk is one of the oldest continuous agronomic experiments in the world. Wheat is grown every year on all or part of the experiment. Established to test the effects of various combinations of inorganic fertilizers (N, P, K, Na and Mg) and organic manures on the yield of winter wheat, many of these treatments continue today. A control strip has received no fertilizer or organic manures since 1843. It was started by Lawes and Gilbert in autumn 1843, and the first crop was harvested in summer 1844. https://www.era.rothamsted.ac.uk/Broadbalk]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>./data/images/4eca77551bf09fadd4b2fb42e7dea2415c658c024a11d3079a281649e8d453b2.png</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.374725,51.808998,0
           </coordinates>
         </Point>
       </Placemark>
@@ -2894,15 +3084,6 @@
         <Point>
           <coordinates>
             -95.3760063,29.7624224,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>5th shaft, Metropolitan Area Outer Underground Discharge Channel</name>
-        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            139.7471384,35.9929899,0
           </coordinates>
         </Point>
       </Placemark>
@@ -3437,7 +3618,8 @@
       </Placemark>
       <Placemark>
         <name>San Francisco Railway Museum</name>
-        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <description><![CDATA[Tiny but central and therefore worth popping in to. It's also near a stop on the F Market streetcar line, which runs a variety of PCCs and international vintage trams.]]></description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
         <Point>
           <coordinates>
             -122.3935533,37.7938256,0
@@ -4021,7 +4203,8 @@
       </Placemark>
       <Placemark>
         <name>de Young Museum</name>
-        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <description>Copper-clad art museum, with free access to the viewing tower</description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
         <Point>
           <coordinates>
             -122.4686755,37.771469,0
@@ -4660,7 +4843,7 @@
       </Placemark>
       <Placemark>
         <name>SFO Museum Louis A. Turpen Aviation Museum and Library</name>
-        <description>The SFO Museum is a fully accredited museum whose grounds also happen to serve as the world’s 24th largest airport by passenger count.</description>
+        <description><![CDATA[The SFO Museum is a fully accredited museum whose grounds also happen to serve as the world’s 24th largest airport by passenger count. Even if you can't visit the museum proper, look out for small displays in the terminals.]]></description>
         <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
         <Point>
           <coordinates>
@@ -5631,7 +5814,13 @@
       </Placemark>
       <Placemark>
         <name>German Museum of Technology</name>
-        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <description><![CDATA[<img src="./data/images/39fd5eac4fd5f0df59d157f9e7cac4205e1f390b8a5592cb4119aec79830b9b7.png" height="200" width="auto" /><br><br><br><br><img src="./data/images/7e7a0fde42b4cbc773b15d5fb362c2dc327169d32ac95d118667f49e7d189264.png" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>./data/images/39fd5eac4fd5f0df59d157f9e7cac4205e1f390b8a5592cb4119aec79830b9b7.png ./data/images/7e7a0fde42b4cbc773b15d5fb362c2dc327169d32ac95d118667f49e7d189264.png</value>
+          </Data>
+        </ExtendedData>
         <Point>
           <coordinates>
             13.3778846,52.4986982,0
@@ -6455,6 +6644,325 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Museo Nazionale Ferroviario di Pietrarsa</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            14.3214361,40.8216862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rahmi Koç Müzesi</name>
+        <description><![CDATA[This is an absolute *must see* museum in Istanbul. Primarily a transportation museum, and has an extensive collection of cars, train cars, a submarine, airplanes, and naval paraphenalia. There's also an entire hall of scientific instruments, and exhibits devoted to household appliances.<br><br>Worth a good half-day. A bit off the beaten track, but there are direct ferries from the old city, although these can be tricky to track down.<br><br>-added by jt]]></description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            28.9493263,41.0417211,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ronald Reagan Minuteman Missile State Historic Site</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -98.1272635,47.4976388,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>U.S. Naval Undersea Museum</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.6248933,47.6999272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[National Museum of Nuclear Science & History]]></name>
+        <description><![CDATA[Not massive, but interesting. I think there's a B52 parked here.]]></description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -106.5338919,35.0659855,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[U.S. Space & Rocket Center]]></name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -86.6539363,34.7111322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>National Museum of the US Air Force</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.1093818,39.7807961,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>National Building Museum</name>
+        <description><![CDATA[Small but perhaps worth a detour if you're in DC and are looking for something less obvious]]></description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0176188,38.8977516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Museum of Science and Industry, Chicago</name>
+        <description>Has a 727 cut in half that you can explore.</description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -87.5830659,41.7905726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Roman Baths</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.359619,51.3810787,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Railway Museum</name>
+        <description><![CDATA[<img src="./data/images/93da71ed7c82b6ed104223d3373f9fa77b5b4a2d8caaa797e7b845a7ffff92dd.png" height="200" width="auto" /><br><br>Ed: By far the cooler bit is that surrounding the museum are the wrecks of a load of old trains you can just wander around.]]></description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>./data/images/93da71ed7c82b6ed104223d3373f9fa77b5b4a2d8caaa797e7b845a7ffff92dd.png</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.5028348,46.0625132,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tours of Kranj WW2 tunnels</name>
+        <description><![CDATA[<img src="./data/images/999dc9e12372d071ea85256e68af53fda748789a755dc24ff1eb344591894fbc.png" height="200" width="auto" /><br><br>Ed: Tour WW2 tunnels and bunkers under the town.<br><br>https://www.visitkranj.com/en/tours-and-trips/tunnels-under-the-old-town-of-kranj/]]></description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>./data/images/999dc9e12372d071ea85256e68af53fda748789a755dc24ff1eb344591894fbc.png</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.3558735,46.2394472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Technical Museum Vienna</name>
+        <description>Ed: excellent and massive museum of all sorts of science and technical things.</description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            16.317879,48.1906371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sewer tour - Mann Tour</name>
+        <description><![CDATA[<img src="./data/images/429d5166b0fc51b9fd1b1b2f66a04e2c82d6ea2669caa81510729672acd89620.png" height="200" width="auto" /><br><br>Ed: Tour a section of the Vienna sewers, as seen in the 3rd Mann film.]]></description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>./data/images/429d5166b0fc51b9fd1b1b2f66a04e2c82d6ea2669caa81510729672acd89620.png</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            16.367617,48.200877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Museum of Ethnography</name>
+        <description><![CDATA[<img src="./data/images/71d1251d969b4d9558c0cb08852c7f5cb3a77b3a699d00cd9521c0c2835eb5b0.png" height="200" width="auto" /><br><br>Unusual curved building - climb up the sides for a good view. (Ed)]]></description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>./data/images/71d1251d969b4d9558c0cb08852c7f5cb3a77b3a699d00cd9521c0c2835eb5b0.png</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            19.081371,47.5115051,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Výtopna Railway Restaurant - Wenceslas Square</name>
+        <description><![CDATA[<img src="./data/images/a5d4461cd4f39096d897b4c9971523b086e6b0dec66a81545ac52d172eb1c315.png" height="200" width="auto" /><br><br>Ed: Cool restaurant where your food and drink is delivered to you on a model train. Fun!<br><br><img src="./data/images/2165995cce0337c440005491aa6487f3aa4212b3ec46c99e54bbddcdf041dda8.png" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>./data/images/a5d4461cd4f39096d897b4c9971523b086e6b0dec66a81545ac52d172eb1c315.png ./data/images/2165995cce0337c440005491aa6487f3aa4212b3ec46c99e54bbddcdf041dda8.png</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.4285602,50.0802002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DOX Centre for Contemporary Art</name>
+        <description><![CDATA[<img src="./data/images/b3a228edb91d8a1dacb357c001f87db18c38c4b8631465f1a7fcc2b2bbf1d7e8.png" height="200" width="auto" /><br><br>Ed: really nice contemporary art museum. Giant wooden airship on the roof. Best museum I visited in the city.<br><br><img src="./data/images/39aa3f72a1ed1956fdaef0637804da86bd4c1e33810ba7f77665b4281fb9a676.png" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>./data/images/b3a228edb91d8a1dacb357c001f87db18c38c4b8631465f1a7fcc2b2bbf1d7e8.png ./data/images/39aa3f72a1ed1956fdaef0637804da86bd4c1e33810ba7f77665b4281fb9a676.png</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.4478283,50.1068153,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Elbphilharmonie Hamburg</name>
+        <description><![CDATA[<img src="./data/images/3c294fbe0085a768b0de26e59e0046195055ddde5cd323f55734fe5899819835.png" height="200" width="auto" /><br><br>Ed: Free to go up to the viewing platform. Take a curved escalator on the way up.<br><br><img src="./data/images/7246b3edd320351f13a6f23e666cfa8f88ad36ccd622352f6cdb4e1fbb4d0ea2.png" height="200" width="auto" /><br><br><img src="./data/images/eebfe4371a0a9d5e8affb9e508c3b0b5279c90517cd7fa90643d89138f54f74b.png" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>./data/images/3c294fbe0085a768b0de26e59e0046195055ddde5cd323f55734fe5899819835.png ./data/images/7246b3edd320351f13a6f23e666cfa8f88ad36ccd622352f6cdb4e1fbb4d0ea2.png ./data/images/eebfe4371a0a9d5e8affb9e508c3b0b5279c90517cd7fa90643d89138f54f74b.png</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            9.98445,53.5415754,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cidade da Cultura de Galicia</name>
+        <description><![CDATA[<img src="./data/images/367a9b4e32c142e72c1273fe4952e3159284e74b03a216c843304f40b9057f14.png" height="200" width="auto" /><br><br>Ed: Large complex with a museum, library, and various sculptures.<br><br><img src="./data/images/ddb050ef476b871592aacafa387afb94d513bc933c15f2b02fd8346b79886df0.png" height="200" width="auto" /><br><br><img src="./data/images/de1c1314847333f10a8d6cc534987a52ecd08e789b0b033d856e7be98effaa79.png" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>./data/images/367a9b4e32c142e72c1273fe4952e3159284e74b03a216c843304f40b9057f14.png ./data/images/ddb050ef476b871592aacafa387afb94d513bc933c15f2b02fd8346b79886df0.png ./data/images/de1c1314847333f10a8d6cc534987a52ecd08e789b0b033d856e7be98effaa79.png</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -8.5277057,42.870396,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ponte da Arrábida</name>
+        <description><![CDATA[<img src="./data/images/b7045844e3f909a50b386025b879f9d56c88c99b01519cc951e80250b5a29699.png" height="200" width="auto" /><br><br>Ed: do a tour climbing the underside of this tall bridge.<br><br><img src="./data/images/ade77d03cd880f1b36c32b35d6f131651f3657d7fee3260850b2019c1e42663e.png" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>./data/images/b7045844e3f909a50b386025b879f9d56c88c99b01519cc951e80250b5a29699.png ./data/images/ade77d03cd880f1b36c32b35d6f131651f3657d7fee3260850b2019c1e42663e.png</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -8.6403156,41.1473938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Casa da Música</name>
+        <description><![CDATA[<img src="./data/images/d083aa02d156225221c71452cae1d648232990f780e968f486b913f708c0f214.png" height="200" width="auto" /><br><br>Ed: Contemporary music hall. Can join regular tours. Has a 'cyber' room.<br><br><img src="./data/images/38c39605f95bd2dc867dd17f39bd90459a04ee26e34b7e453b9438be046b36a6.png" height="200" width="auto" /><br><br><img src="./data/images/651a06d80824304ab1a5dbc31731ea4c2dece5b7bb2d2b442ad7d1c6522f045c.png" height="200" width="auto" /><br><br><img src="./data/images/5e77927b89a3aaa4b230ca948276bd67c1748584eac46e72e4515974d5741f49.png" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>./data/images/d083aa02d156225221c71452cae1d648232990f780e968f486b913f708c0f214.png ./data/images/38c39605f95bd2dc867dd17f39bd90459a04ee26e34b7e453b9438be046b36a6.png ./data/images/651a06d80824304ab1a5dbc31731ea4c2dece5b7bb2d2b442ad7d1c6522f045c.png ./data/images/5e77927b89a3aaa4b230ca948276bd67c1748584eac46e72e4515974d5741f49.png</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -8.630696,41.158881,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Museu de Arte Contemporânea de Serralves</name>
+        <description><![CDATA[<img src="./data/images/7cbd81346c797ac793512f47c0ff2767d407a43eff686be3260475f346b4cb37.png" height="200" width="auto" /><br><br>Ed: Nice contemporary art museum and really pleasant park filled with modern sculptures.<br><br><img src="./data/images/f6332bb1ccc40c245e20a18aebd2ba376c183455d296a476ad40d25758212489.png" height="200" width="auto" /><br><br><img src="./data/images/ca0475cfbe5317cfd35361bde05f8e4f73f3495045e7747ddb0adf4c95581c75.png" height="200" width="auto" /><br><br><img src="./data/images/5fdf1134883e98fa5c569643374bb7cd67d2e762c20c843a526b3cda8766cd63.png" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>./data/images/7cbd81346c797ac793512f47c0ff2767d407a43eff686be3260475f346b4cb37.png ./data/images/f6332bb1ccc40c245e20a18aebd2ba376c183455d296a476ad40d25758212489.png ./data/images/ca0475cfbe5317cfd35361bde05f8e4f73f3495045e7747ddb0adf4c95581c75.png ./data/images/5fdf1134883e98fa5c569643374bb7cd67d2e762c20c843a526b3cda8766cd63.png</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -8.659615,41.1598058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Luís I Bridge</name>
+        <description><![CDATA[<img src="./data/images/956090b77cfce0d1c30d409085e2c456987c251dd2fd3b00a735dfb241778547.png" height="200" width="auto" /><br><br>Really nice views walking over the top of this bridge.]]></description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>./data/images/956090b77cfce0d1c30d409085e2c456987c251dd2fd3b00a735dfb241778547.png</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -8.6094485,41.1399589,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Metropolitan Area Outer Underground Discharge Channel</name>
+        <description><![CDATA[<img src="./data/images/63715e19742e4c7aa8ad50d32de4bcdc6025dac8fe9609400fb7a297d4a1cbcc.png" height="200" width="auto" /><br><br>Regular tours, but need booking long in advance. You must come with a Japanese speaker.<br><br>https://gaikaku.jp/<br><br>https://www.atlasobscura.com/places/g-cans-worlds-largest-drain]]></description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>./data/images/63715e19742e4c7aa8ad50d32de4bcdc6025dac8fe9609400fb7a297d4a1cbcc.png</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7471384,35.9929899,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Elbląg Canal</name>
+        <description>Boats lifted out of water to go uphill instead of locks</description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            19.5942878,54.0270075,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Willington Power Station Cooling Towers</name>
+        <description><![CDATA[The only thing remaining from the power station is five cooling towers, which can be ..."visited". http://www.crepello.net/Willington/PowerStation.htm / https://www.28dayslater.co.uk/threads/willington-june-2022-derby.133152/]]></description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -1.5395501,52.8543687,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>
@@ -6681,6 +7189,26 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Spittelau Incinerator</name>
+        <description>Waste incinerator given a makeover by Hundertwasser https://www.visitingvienna.com/footsteps/spittelau/</description>
+        <styleUrl>#icon-1693-757575-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            16.3600557,48.233484,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Maishima Incineration Plant</name>
+        <description><![CDATA[Does regular free tours. Must be booked in advance.<br><br>https://www.osaka-env-paa.jp/kengaku/kojokengaku/kojin.html]]></description>
+        <styleUrl>#icon-1693-757575-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            135.4066244,34.6656096,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Historic / ruins / structures</name>
@@ -6884,7 +7412,8 @@
       </Placemark>
       <Placemark>
         <name>Trinity Site</name>
-        <styleUrl>#icon-1598-A52714-labelson-nodesc</styleUrl>
+        <description><![CDATA["visits to the site are sponsored by [White Sands Missile Range] in April and October. The rest of the year the site is closed to the public because it lies within the impact zone for missiles".]]></description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
         <Point>
           <coordinates>
             -106.4752871,33.6772929,0
@@ -7625,6 +8154,68 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name><![CDATA[Mustafa's Gemüse Kebap]]></name>
+        <styleUrl>#icon-1598-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            13.388024,52.4939874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Montech water slope</name>
+        <styleUrl>#icon-1598-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.225981,43.971897,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fonserannes Water Slope</name>
+        <styleUrl>#icon-1598-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            3.1993631,43.3300675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Musée du Touage Riqueval</name>
+        <description>Trolley-wire powered chain-propelled canal tunnel tugboat</description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            3.2357876,49.9513495,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Flakturm VII G-Turm Augarten</name>
+        <description><![CDATA[<img src="./data/images/a4007702501a95841fd33434d1c0490e8831540a73988b4d3142d71c7ed1fb02.png" height="200" width="auto" /><br><br>Ed: This park has 2 WWII battlements. You can't go in (I think?) but nice enough to walk around from the outside.]]></description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>./data/images/a4007702501a95841fd33434d1c0490e8831540a73988b4d3142d71c7ed1fb02.png</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            16.3732687,48.2259025,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Anti-aircraft gun tower 7, L-Tower, Augarten</name>
+        <description><![CDATA[Ed: This park has 2 WWII battlements. You can't go in (I think?) but nice enough to walk around from the outside.]]></description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            16.3784552,48.2278172,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Nature</name>
@@ -7961,6 +8552,86 @@
         <Point>
           <coordinates>
             -119.8108341,36.0132699,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Freeway Park</name>
+        <description><![CDATA[Pioneering brutalist park built on a "freeway lid" in the 1970s and since extended]]></description>
+        <styleUrl>#icon-1596-558B2F-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.330903,47.609308,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bayfront Park</name>
+        <description>Good for plane spotting and, at low tide, maritime birds too.</description>
+        <styleUrl>#icon-1596-558B2F-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3764138,37.6049946,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Japanese Garden</name>
+        <description>Next to water treatment plant, was the set for Starfleet Academy in Star Trek</description>
+        <styleUrl>#icon-1596-558B2F-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -118.4809759,34.1829524,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Los Angeles County Arboretum</name>
+        <description>lovely grounds with roaming peacocks!</description>
+        <styleUrl>#icon-1596-558B2F-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -118.0534118,34.1425236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grotta Gigante</name>
+        <description><![CDATA[<img src="./data/images/59416218f634dcddf74fac37c1dd02e485617049fde22a49e3cbace619e30336.png" height="200" width="auto" /><br><br>Ed: Very large cavern cave. Regular tours. Make sure to book tour in advance - good chance you won't get in if you just turn up.  It's a long winding staircase down to the main chamber, and then another up.]]></description>
+        <styleUrl>#icon-1596-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>./data/images/59416218f634dcddf74fac37c1dd02e485617049fde22a49e3cbace619e30336.png</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.764503,45.7096311,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Postojna Cave</name>
+        <description><![CDATA[<img src="./data/images/6b3195cba431834edbb2397ee500347cf5e0b81d469a64e592b82d991e7d8a5e.png" height="200" width="auto" /><br><br>Ed: Multi km cave system. Go on a mini train in to the middle and out again! It's very touristy with 100s of tourists and hour, but well recommended as a totally bizarre experience. The tours are split up so it doesn't feel too busy at any one time. Train is fun. Better to book in advance, but they seem to reserve enough capacity to serve some walk-ups. The other Vivarium wasn't worth it.<br><br><img src="./data/images/620511cc71a12c505cf22a05ebcd213601a36a184e1df20b34b4196f90b02383.png" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1596-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>./data/images/6b3195cba431834edbb2397ee500347cf5e0b81d469a64e592b82d991e7d8a5e.png ./data/images/620511cc71a12c505cf22a05ebcd213601a36a184e1df20b34b4196f90b02383.png</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.2038417,45.7830298,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Palvolgyi Cave</name>
+        <description>Ed: Smallish cave you can tour. Comes free with Budapest tourist card.</description>
+        <styleUrl>#icon-1596-558B2F-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            19.0148821,47.5335883,0
           </coordinates>
         </Point>
       </Placemark>
@@ -8396,6 +9067,45 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name><![CDATA[Hunter's Point Gantry Crane]]></name>
+        <description>Exceptionally large crane used in naval construction and for testing Polaris missiles</description>
+        <styleUrl>#icon-1898-BDBDBD-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3616605,37.7195835,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SLAC National Accelerator Laboratory</name>
+        <description>Visible from I-280 and possibly on incoming flights to San Francisco and San Jose</description>
+        <styleUrl>#icon-1898-BDBDBD-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2027057,37.4198517,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sutro Tower</name>
+        <description><![CDATA[A 1973 TV and radio mast that's a clearly visible across a chunk of the Bay Area as long as the fog isn't between you and it. Once controversial, now a tolerated to celebrated local landmark. ]]></description>
+        <styleUrl>#icon-1898-BDBDBD-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.4527624,37.7552213,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Donald C Tillman Water Reclamation Plant</name>
+        <styleUrl>#icon-1898-BDBDBD-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -118.4812791,34.1817985,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Science</name>
@@ -8585,6 +9295,15 @@
         <Point>
           <coordinates>
             147.2162344,-43.3995667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Space Shuttle Endeavour</name>
+        <styleUrl>#icon-1856-0F9D58-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -118.2873699,34.0162494,0
           </coordinates>
         </Point>
       </Placemark>
@@ -9139,6 +9858,65 @@
         <Point>
           <coordinates>
             -122.7162689,45.5252061,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alameda Beach</name>
+        <description>Good though distant views of ships across the bay, the SF skyline, planes taking off from OAK, etc. Bring binoculars.</description>
+        <styleUrl>#icon-1608-006064-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2505241,37.7542503,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tacoma Dome</name>
+        <description>One of the largest wooden domes in the world, easily visible from the interstate</description>
+        <styleUrl>#icon-1608-006064-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.4268089,47.2365504,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Watts Towers Arts Center</name>
+        <styleUrl>#icon-1608-006064-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -118.2419485,33.9388608,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Getty</name>
+        <description>Art museum with beautiful grounds, interesting architcture and a fabulous view of the city.  </description>
+        <styleUrl>#icon-1608-006064-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -118.4740954,34.0780358,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Walt Disney Concert Hall</name>
+        <description>Unique architecture by Frank Gehry</description>
+        <styleUrl>#icon-1608-006064-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -118.249845,34.0553454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ljubljana Castle Funicular</name>
+        <description>Ed: Funicular to the Castle. Better to get a ticket by way of the tourist pass than paying directly.</description>
+        <styleUrl>#icon-1608-006064-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            14.5096732,46.050075,0
           </coordinates>
         </Point>
       </Placemark>

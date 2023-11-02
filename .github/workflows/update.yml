@@ -1,5 +1,7 @@
 name: Update data
-on: 
+on:
+  schedule:
+    - cron: '0 3 * * *'
   push:
     branches: ["main"]
   workflow_dispatch:

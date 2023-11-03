@@ -2558,6 +2558,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Disused massive electricity pylons</name>
+        <description>Publicly climbable</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            15.6509256,38.2658488,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>
@@ -6963,6 +6973,26 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Sousse Archaeological Museum</name>
+        <description><![CDATA[A museum and ancient structure in one!<br><br>This museum is part of the UNESCO-listed Sousse Medina, and is built into the Sousse Kasbah in a very tasteful and architecturally interesting way.<br><br>It is mostly devoted to Roman/Byzantine mosaics, and the Byzantine baptismal font is worth a visit alone.<br><br>Sadly, you can't see much of the kasbah itself, rather than admiring it from the outside (it's beautifully lit at night, with a functioning lighthouse). If you want to explore a similar structure, head to the Sousse Ribat on the other side of the medina. (The mosque isn't worth a visit, sadly).<br><br>Allow an hour or two for a visit. The parking is free, and at the time of writing (2023) was also the best place for overnight parking for the medina.<br><br>Added by grajohnt]]></description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            10.6353131,35.8230114,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Great Mosque of Kairouan</name>
+        <description><![CDATA[Fascinating mosque on its surface, just for the history, but look deeper and it's even more interesting. It is considered a masterpiece of Islamic architecture, but lacks the adornments common in later buildings. The 'uncountable' columns that hold up the vaulted ceilings are clearly reused Roman/Byzantine columns with a wild assortment of capitals and materials. Each one is a bit different in height, so they made up the difference with bricks before building the brick vaulted ceilings. There is carved Latin text (some upside-down) on the courtyard side of the minaret that clearly demonstrates the reuse of older material.<br><br>The whole courtyard is a rainwater collection system, and there are circular wells on the north end of the courtyard where you can peek down into the massive cisterns built underneath.<br><br>The little staircase in the middle of the courtyard leads to a sundial, which is also worth a look.<br><br>Worth at least half an hour to look around - more if you're really into Roman columns.<br><br>Added by grajohnt]]></description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            10.1041651,35.6813693,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>
@@ -8213,6 +8243,76 @@
         <Point>
           <coordinates>
             16.3784552,48.2278172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Carthage (in general)</name>
+        <description><![CDATA[The ruins of Carthage are generally a disappointment, even if you're a Roman history buff. For the most part, they're in poor condition and poorly curated/explained. The various ruins are also pretty spread out. Still walkable, but you end up spending a lot of time getting from one slightly disappointing ruin to another.<br><br>The Carthage Museum is currently closed, and isn't scheduled to reopen until 2025 (?).<br><br>You probably still *have* to go see Carthage if you're in Tunis, so save yourself some time and hit the Baths of Antoninus. There's at least a bit of explaination there, and it's fun to scramble around a bit in the ruins.<br><br>Added by grajohnt]]></description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            10.3334693,36.8548214,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cisterns of La Malga</name>
+        <description><![CDATA[Far and away the most 'infrastructure-y' part of the ruins of Carthage, these are interesting for their size and scope, if not their beauty.<br><br>The cisterns are in pretty good shape, with one that has clearly undergone some modern restoration work. However, the aqueduct itself is very much in ruins, and it takes some imagination to see what it might have looked like.<br><br>There is no interpretation/explanation here, so read up in advance!<br><br>Worth a quick stop, but that's about it.]]></description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            10.3187431,36.859336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Monastir Ribat</name>
+        <description><![CDATA[A really interesting structure in a fairly spectacular location. Lots of opportunity to explore the structure, including climbing to the top of the watch tower for a beautiful view of the beach, ocean, cemetary, and city. With several narrow, unrailed and uneven staircases, and the low ramparts on top of the tower, this probably isn't the place for those that are afraid of heights.<br><br>The museum doesn't hold much noteworthy, except for a few interesting coins.<br><br>Allow at least an hour or so to explore the whole ruin.<br><br>Added by grajohnt]]></description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            10.8330383,35.7762108,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Amphitheater of El Jem</name>
+        <description><![CDATA[El Jem's Amphitheater and museum more than make up for the disappointment of Carthage, and it is well worth a special trip to see them.<br><br>The amphitheater is huge (3rd largest in the world), and at least has a little interpretation. You can climb all the way up to the highest levels and look down on the floor (and the town), and also explore the underground levels.<br><br>Honestly, it's better than the Roman Colosseum in many ways. Beautiful photography opportunities abound.<br><br>A 15 minute walk takes you to the museum, which is chock full of huge (room-sized) intact Roman mosaics. One of the best collections I've ever seen.<br><br>Worth at least an hour, two plus if you include the museum. A half day in El Jem is not out of order.<br><br>Added by grajohnt]]></description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            10.7069003,35.2964821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Historic Village Chebika</name>
+        <description><![CDATA[This is IMHO the best of the 'mountain oases' around Tozeur, and if you're short on time or deep interest, you can skip the others. Well worth the walk up the path to the spring/waterfall, and there's also stairs that go up to the hilltop above the village for a nice view.<br><br>Well worth a stop, allow at least an hour.<br><br>Added by grajohnt]]></description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            7.9389246,34.3215522,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mides Canyon / Oasis</name>
+        <description><![CDATA[A modestly pretty little canyon next to a bog-standard date palm oasis.<br><br>You can walk around the very end of the canyon from here, and if you walk up the hill a bit, you can get a view of an Algeria border post across the oasis to the north.<br><br>Not really worth a stop unless you're really keen on getting right up on the Algerian border. You can *probably* just walk across it here, but that's not necessarily a good idea.<br><br>Added by grajohnt]]></description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            7.916965,34.407096,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Basins of Aghlabides</name>
+        <description><![CDATA[An essential part of the water infrastructure of Kairouan, remarkable for their preservation and antiquity (date back to 862 AD).<br><br>Unfortunately, they're hardly worth a visit. Stop by the Tourist Information Center (this pin) to buy a ticket that gets you into both here and the Great Mosque, pop up to the roof to get a photo, and leave. Spend your time at the Great Mosque instead.<br><br>It's also possible to walk around the site, but sadly the basins aren't that interesting to see and there's no interpretation.]]></description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            10.0970143,35.6865667,0
           </coordinates>
         </Point>
       </Placemark>
@@ -9917,6 +10017,16 @@
         <Point>
           <coordinates>
             14.5096732,46.050075,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Star Wars: Mos Espa</name>
+        <description><![CDATA[You will never find a more wretch hive of touts and degraded Hollywood sets.<br><br>Look, I get it, you're in Tunisia, and you want to see Star Wars stuff. If you're in Touzeur, it's pretty easy to visit this spot, and hopefully it will get it out of your system.<br><br>Absolutely filled with touts offering camel tours and 4-wheeler excursions across the dunes, plus a smattering of shops with the same stuff you can find anywhere else.<br><br>You can walk around in the ruins of the Berber village and see some of the set additions made for Star Wars. These were clearly just barely good enough to work for a set, and are starting to get somewhat decrepit.<br><br>The drive out there is across the desert on a road that must be regularly 'plowed' to remove blowing sand. You will spend more time getting there than you do visiting, so enjoy this part!<br><br>Added by grajohnt]]></description>
+        <styleUrl>#icon-1608-006064-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            7.8428328,33.9941716,0
           </coordinates>
         </Point>
       </Placemark>

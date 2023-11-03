@@ -1,7 +1,7 @@
 {
   "categories": {
     "historic-ruins-structures": {
-      "count": 103,
+      "count": 110,
       "name": "Historic / ruins / structures"
     },
     "industry": {
@@ -9,11 +9,11 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 242,
+      "count": 243,
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 455,
+      "count": 457,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -25,7 +25,7 @@
       "name": "Not open to public but visible"
     },
     "para-infrastructural-cultural": {
-      "count": 64,
+      "count": 65,
       "name": "Para-infrastructural / cultural"
     },
     "science": {
@@ -265,6 +265,16 @@
       ],
       "id": "amoreiras-mother-of-water-reservoir",
       "name": "Amoreiras Mother of Water Reservoir"
+    },
+    "amphitheater-of-el-jem": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        10.7069003,
+        35.2964821
+      ],
+      "description": "El Jem's Amphitheater and museum more than make up for the disappointment of Carthage, and it is well worth a special trip to see them.\n\nThe amphitheater is huge (3rd largest in the world), and at least has a little interpretation. You can climb all the way up to the highest levels and look down on the floor (and the town), and also explore the underground levels.\n\nHonestly, it's better than the Roman Colosseum in many ways. Beautiful photography opportunities abound.\n\nA 15 minute walk takes you to the museum, which is chock full of huge (room-sized) intact Roman mosaics. One of the best collections I've ever seen.\n\nWorth at least an hour, two plus if you include the museum. A half day in El Jem is not out of order.\n\nAdded by grajohnt",
+      "id": "amphitheater-of-el-jem",
+      "name": "Amphitheater of El Jem"
     },
     "amundsen-scott-south-pole-station": {
       "category": "interesting-things",
@@ -608,6 +618,16 @@
       ],
       "id": "barton-house-railway",
       "name": "Barton House Railway"
+    },
+    "basins-of-aghlabides": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        10.0970143,
+        35.6865667
+      ],
+      "description": "An essential part of the water infrastructure of Kairouan, remarkable for their preservation and antiquity (date back to 862 AD).\n\nUnfortunately, they're hardly worth a visit. Stop by the Tourist Information Center (this pin) to buy a ticket that gets you into both here and the Great Mosque, pop up to the roof to get a photo, and leave. Spend your time at the Great Mosque instead.\n\nIt's also possible to walk around the site, but sadly the basins aren't that interesting to see and there's no interpretation.",
+      "id": "basins-of-aghlabides",
+      "name": "Basins of Aghlabides"
     },
     "bate-collection-of-musical-instruments": {
       "category": "museums-attractions",
@@ -1294,6 +1314,16 @@
       "id": "cape-canaveral-space-force-station",
       "name": "Cape Canaveral Space Force Station"
     },
+    "carthage-in-general": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        10.3334693,
+        36.8548214
+      ],
+      "description": "The ruins of Carthage are generally a disappointment, even if you're a Roman history buff. For the most part, they're in poor condition and poorly curated/explained. The various ruins are also pretty spread out. Still walkable, but you end up spending a lot of time getting from one slightly disappointing ruin to another.\n\nThe Carthage Museum is currently closed, and isn't scheduled to reopen until 2025 (?).\n\nYou probably still *have* to go see Carthage if you're in Tunis, so save yourself some time and hit the Baths of Antoninus. There's at least a bit of explaination there, and it's fun to scramble around a bit in the ruins.\n\nAdded by grajohnt",
+      "id": "carthage-in-general",
+      "name": "Carthage (in general)"
+    },
     "carting-lane-sewer-gas-destructor-lamp": {
       "category": "museums-attractions",
       "coordinates": [
@@ -1453,6 +1483,16 @@
         "./data/images/de1c1314847333f10a8d6cc534987a52ecd08e789b0b033d856e7be98effaa79.png"
       ],
       "name": "Cidade da Cultura de Galicia"
+    },
+    "cisterns-of-la-malga": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        10.3187431,
+        36.859336
+      ],
+      "description": "Far and away the most 'infrastructure-y' part of the ruins of Carthage, these are interesting for their size and scope, if not their beauty.\n\nThe cisterns are in pretty good shape, with one that has clearly undergone some modern restoration work. However, the aqueduct itself is very much in ruins, and it takes some imagination to see what it might have looked like.\n\nThere is no interpretation/explanation here, so read up in advance!\n\nWorth a quick stop, but that's about it.",
+      "id": "cisterns-of-la-malga",
+      "name": "Cisterns of La Malga"
     },
     "city-museum": {
       "category": "museums-attractions",
@@ -1981,6 +2021,16 @@
       "description": "Super awesome world's first steam turbine driven & fastest ship (c1894) in the Discovery Museum in Newcastle.",
       "id": "discovery-museum",
       "name": "Discovery Museum"
+    },
+    "disused-massive-electricity-pylons": {
+      "category": "interesting-things",
+      "coordinates": [
+        15.6509256,
+        38.2658488
+      ],
+      "description": "Publicly climbable",
+      "id": "disused-massive-electricity-pylons",
+      "name": "Disused massive electricity pylons"
     },
     "dollands-moor-freight-yard": {
       "category": "not-open-to-public-but-visible",
@@ -2909,6 +2959,16 @@
       "id": "great-cockcrow-railway",
       "name": "Great Cockcrow Railway"
     },
+    "great-mosque-of-kairouan": {
+      "category": "museums-attractions",
+      "coordinates": [
+        10.1041651,
+        35.6813693
+      ],
+      "description": "Fascinating mosque on its surface, just for the history, but look deeper and it's even more interesting. It is considered a masterpiece of Islamic architecture, but lacks the adornments common in later buildings. The 'uncountable' columns that hold up the vaulted ceilings are clearly reused Roman/Byzantine columns with a wild assortment of capitals and materials. Each one is a bit different in height, so they made up the difference with bricks before building the brick vaulted ceilings. There is carved Latin text (some upside-down) on the courtyard side of the minaret that clearly demonstrates the reuse of older material.\n\nThe whole courtyard is a rainwater collection system, and there are circular wells on the north end of the courtyard where you can peek down into the massive cisterns built underneath.\n\nThe little staircase in the middle of the courtyard leads to a sundial, which is also worth a look.\n\nWorth at least half an hour to look around - more if you're really into Roman columns.\n\nAdded by grajohnt",
+      "id": "great-mosque-of-kairouan",
+      "name": "Great Mosque of Kairouan"
+    },
     "great-orme-cable-car": {
       "category": "interesting-things",
       "coordinates": [
@@ -3320,6 +3380,16 @@
       "description": "Remnant of Lake Clyde: https://en.wikipedia.org/wiki/Lake_Corcoran",
       "id": "historic-tulare-lake",
       "name": "Historic Tulare Lake"
+    },
+    "historic-village-chebika": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        7.9389246,
+        34.3215522
+      ],
+      "description": "This is IMHO the best of the 'mountain oases' around Tozeur, and if you're short on time or deep interest, you can skip the others. Well worth the walk up the path to the spring/waterfall, and there's also stairs that go up to the hilltop above the village for a nice view.\n\nWell worth a stop, allow at least an hour.\n\nAdded by grajohnt",
+      "id": "historic-village-chebika",
+      "name": "Historic Village Chebika"
     },
     "history-of-science-museum": {
       "category": "museums-attractions",
@@ -4588,6 +4658,16 @@
       "id": "middlesex-filter-beds-nature-reserve",
       "name": "Middlesex Filter Beds Nature Reserve"
     },
+    "mides-canyon-oasis": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        7.916965,
+        34.407096
+      ],
+      "description": "A modestly pretty little canyon next to a bog-standard date palm oasis.\n\nYou can walk around the very end of the canyon from here, and if you walk up the hill a bit, you can get a view of an Algeria border post across the oasis to the north.\n\nNot really worth a stop unless you're really keen on getting right up on the Algerian border. You can *probably* just walk across it here, but that's not necessarily a good idea.\n\nAdded by grajohnt",
+      "id": "mides-canyon-oasis",
+      "name": "Mides Canyon / Oasis"
+    },
     "milestones-museum": {
       "category": "museums-attractions",
       "coordinates": [
@@ -4674,6 +4754,16 @@
       ],
       "id": "mississippi-river-basin-model",
       "name": "Mississippi River Basin Model"
+    },
+    "monastir-ribat": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        10.8330383,
+        35.7762108
+      ],
+      "description": "A really interesting structure in a fairly spectacular location. Lots of opportunity to explore the structure, including climbing to the top of the watch tower for a beautiful view of the beach, ocean, cemetary, and city. With several narrow, unrailed and uneven staircases, and the low ramparts on top of the tower, this probably isn't the place for those that are afraid of heights.\n\nThe museum doesn't hold much noteworthy, except for a few interesting coins.\n\nAllow at least an hour or so to explore the whole ruin.\n\nAdded by grajohnt",
+      "id": "monastir-ribat",
+      "name": "Monastir Ribat"
     },
     "monte-solaro-chair-lift": {
       "category": "museums-attractions",
@@ -7554,6 +7644,16 @@
       "id": "solheimasandur-plane-wreck",
       "name": "Solheimasandur Plane Wreck"
     },
+    "sousse-archaeological-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        10.6353131,
+        35.8230114
+      ],
+      "description": "A museum and ancient structure in one!\n\nThis museum is part of the UNESCO-listed Sousse Medina, and is built into the Sousse Kasbah in a very tasteful and architecturally interesting way.\n\nIt is mostly devoted to Roman/Byzantine mosaics, and the Byzantine baptismal font is worth a visit alone.\n\nSadly, you can't see much of the kasbah itself, rather than admiring it from the outside (it's beautifully lit at night, with a functioning lighthouse). If you want to explore a similar structure, head to the Sousse Ribat on the other side of the medina. (The mosque isn't worth a visit, sadly).\n\nAllow an hour or two for a visit. The parking is free, and at the time of writing (2023) was also the best place for overnight parking for the medina.\n\nAdded by grajohnt",
+      "id": "sousse-archaeological-museum",
+      "name": "Sousse Archaeological Museum"
+    },
     "south-east-london-combined-heat-power-ltd": {
       "category": "interesting-things",
       "coordinates": [
@@ -7754,6 +7854,16 @@
       "description": "Radio telescope set in a large field",
       "id": "stanford-dish",
       "name": "Stanford Dish"
+    },
+    "star-wars-mos-espa": {
+      "category": "para-infrastructural-cultural",
+      "coordinates": [
+        7.8428328,
+        33.9941716
+      ],
+      "description": "You will never find a more wretch hive of touts and degraded Hollywood sets.\n\nLook, I get it, you're in Tunisia, and you want to see Star Wars stuff. If you're in Touzeur, it's pretty easy to visit this spot, and hopefully it will get it out of your system.\n\nAbsolutely filled with touts offering camel tours and 4-wheeler excursions across the dunes, plus a smattering of shops with the same stuff you can find anywhere else.\n\nYou can walk around in the ruins of the Berber village and see some of the set additions made for Star Wars. These were clearly just barely good enough to work for a set, and are starting to get somewhat decrepit.\n\nThe drive out there is across the desert on a road that must be regularly 'plowed' to remove blowing sand. You will spend more time getting there than you do visiting, so enjoy this part!\n\nAdded by grajohnt",
+      "id": "star-wars-mos-espa",
+      "name": "Star Wars: Mos Espa"
     },
     "stasi-museum": {
       "category": "interesting-things",

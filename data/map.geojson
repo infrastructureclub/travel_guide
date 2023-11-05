@@ -17747,6 +17747,24 @@
                 "icon": "images/icon-8.png",
                 "description": "You will never find a more wretch hive of touts and degraded Hollywood sets.<br><br>Look, I get it, you're in Tunisia, and you want to see Star Wars stuff. If you're in Touzeur, it's pretty easy to visit this spot, and hopefully it will get it out of your system.<br><br>Absolutely filled with touts offering camel tours and 4-wheeler excursions across the dunes, plus a smattering of shops with the same stuff you can find anywhere else.<br><br>You can walk around in the ruins of the Berber village and see some of the set additions made for Star Wars. These were clearly just barely good enough to work for a set, and are starting to get somewhat decrepit.<br><br>The drive out there is across the desert on a road that must be regularly 'plowed' to remove blowing sand. You will spend more time getting there than you do visiting, so enjoy this part!<br><br>Added by grajohnt"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0681202,
+                    59.3501645,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "KTH R1",
+                "styleUrl": "#icon-1608-006064-labelson",
+                "styleHash": "1468cf8f",
+                "icon": "images/icon-8.png",
+                "description": "KTH Reactor Hall<br>The research reactor R1 is an experimental stage today, a creative venue for meetings between different disciplines.<br><br>The Reactor Hall originally housed Sweden’s first nuclear reactor, research reactor R1. It was operational between 1954 and 1970, and even though the reactor itself has long since been removed, the Reactor Hall still has an aura of research and experimentation.<br><br>Today, KTH uses the Reactor Hall as a combination of museum, culture centre, seminar room, studio, lab and more. Not least for activities with artistic university colleges in Stockholm. https://www.kth.se/en/thetale/standard-avdelning/kth-reaktorhallen-1.1135540"
+            }
         }
     ]
 }

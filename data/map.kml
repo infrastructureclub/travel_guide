@@ -10030,6 +10030,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>KTH R1</name>
+        <description><![CDATA[KTH Reactor Hall<br>The research reactor R1 is an experimental stage today, a creative venue for meetings between different disciplines.<br><br>The Reactor Hall originally housed Sweden’s first nuclear reactor, research reactor R1. It was operational between 1954 and 1970, and even though the reactor itself has long since been removed, the Reactor Hall still has an aura of research and experimentation.<br><br>Today, KTH uses the Reactor Hall as a combination of museum, culture centre, seminar room, studio, lab and more. Not least for activities with artistic university colleges in Stockholm. https://www.kth.se/en/thetale/standard-avdelning/kth-reaktorhallen-1.1135540]]></description>
+        <styleUrl>#icon-1608-006064-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            18.0681202,59.3501645,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
   </Document>
 </kml>

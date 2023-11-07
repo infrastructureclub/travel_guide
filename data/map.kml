@@ -9343,7 +9343,7 @@
       </Placemark>
       <Placemark>
         <name>Barcelona Supercomputing Center</name>
-        <description>Visit the supercomputer in a church</description>
+        <description>Visit the supercomputer in a church https://www.bsc.es/discover-bsc/visit-our-supercomputer</description>
         <styleUrl>#icon-1856-0F9D58-labelson</styleUrl>
         <Point>
           <coordinates>

@@ -4305,6 +4305,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -71.4819923,
+                    41.3614278,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Seacoast Weathering Station\n",
+                "styleUrl": "#icon-1899-A52714-labelson",
+                "styleHash": "2a468a2a",
+                "icon": "images/icon-1.png",
+                "description": "https://clui.org/ludb/site/seacoast-weathering-station-point-judith"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0

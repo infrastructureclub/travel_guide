@@ -9,7 +9,7 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 243,
+      "count": 244,
       "name": "Interesting Things"
     },
     "museums-attractions": {
@@ -7253,6 +7253,16 @@
       ],
       "id": "seacity-museum",
       "name": "SeaCity Museum"
+    },
+    "seacoast-weathering-station": {
+      "category": "interesting-things",
+      "coordinates": [
+        -71.4819923,
+        41.3614278
+      ],
+      "description": "https://clui.org/ludb/site/seacoast-weathering-station-point-judith",
+      "id": "seacoast-weathering-station",
+      "name": "Seacoast Weathering Station"
     },
     "seafield-waste-water-treatment-works": {
       "category": "interesting-things",

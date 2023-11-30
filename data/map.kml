@@ -2568,6 +2568,17 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Seacoast Weathering Station
+</name>
+        <description>https://clui.org/ludb/site/seacoast-weathering-station-point-judith</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -71.4819923,41.3614278,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>

@@ -4323,6 +4323,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    47.5249782,
+                    -18.9322923,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Valala Farm and Edible Insect Lab",
+                "styleUrl": "#icon-1899-A52714-labelson",
+                "styleHash": "2a468a2a",
+                "icon": "images/icon-1.png",
+                "description": "https://www.madagascarbio.org/edible-insects.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0

@@ -2579,6 +2579,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Valala Farm and Edible Insect Lab</name>
+        <description>https://www.madagascarbio.org/edible-insects.html</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            47.5249782,-18.9322923,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>

@@ -9,7 +9,7 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 244,
+      "count": 245,
       "name": "Interesting Things"
     },
     "museums-attractions": {
@@ -9169,6 +9169,16 @@
       ],
       "id": "uta-flight-772-memorial",
       "name": "UTA Flight 772 Memorial"
+    },
+    "valala-farm-and-edible-insect-lab": {
+      "category": "interesting-things",
+      "coordinates": [
+        47.5249782,
+        -18.9322923
+      ],
+      "description": "https://www.madagascarbio.org/edible-insects.html",
+      "id": "valala-farm-and-edible-insect-lab",
+      "name": "Valala Farm and Edible Insect Lab"
     },
     "verner-panton-weg": {
       "category": "interesting-things",

@@ -3762,9 +3762,10 @@
             },
             "properties": {
                 "name": "Amoreiras Mother of Water Reservoir",
-                "styleUrl": "#icon-1899-A52714-labelson-nodesc",
-                "styleHash": "-47c358db",
-                "icon": "images/icon-1.png"
+                "styleUrl": "#icon-1899-A52714-labelson",
+                "styleHash": "2a468a2a",
+                "icon": "images/icon-1.png",
+                "description": "Recommend doing the tour of the Loreto Gallery, suggest booking in advance."
             }
         },
         {
@@ -4334,6 +4335,78 @@
                 "styleHash": "2a468a2a",
                 "icon": "images/icon-1.png",
                 "description": "https://www.madagascarbio.org/edible-insects.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.156965,
+                    38.722048,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Loreto Gallery",
+                "styleUrl": "#icon-1899-A52714-labelson",
+                "styleHash": "2a468a2a",
+                "icon": "images/icon-1.png",
+                "description": "Tour through somewhat old aqueduct tunnels organized by the water museum, I booked in advance by emailing the water museum, not sure if that is still how booking works. Entrance is at the nearby Mãe d’Água das Amoreiras, but the tours aren't very well publicized so marking this separately for visibility."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5627598,
+                    25.0330304,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Taipei 101/World Trade Center",
+                "styleUrl": "#icon-1899-A52714-labelson",
+                "styleHash": "2a468a2a",
+                "icon": "images/icon-1.png",
+                "description": "earthquake damper is worth seeing"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5149875,
+                    25.0418254,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "228 Peace Memorial Park",
+                "styleUrl": "#icon-1899-A52714-labelson",
+                "styleHash": "2a468a2a",
+                "icon": "images/icon-1.png",
+                "description": "has some old steam trains"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5756273,
+                    24.9955748,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Maokong Gondola",
+                "styleUrl": "#icon-1899-A52714-labelson",
+                "styleHash": "2a468a2a",
+                "icon": "images/icon-1.png",
+                "description": "lots of tea plantations to visit at the top"
             }
         },
         {
@@ -12342,6 +12415,58 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    121.5143695,
+                    25.043643,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Land Bank Exhibition Hall of National Taiwan Museum",
+                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
+                "styleHash": "-4303c82c",
+                "icon": "images/icon-2.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5189107,
+                    25.0386396,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Evergreen Maritime Museum",
+                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
+                "styleHash": "-4303c82c",
+                "icon": "images/icon-2.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5484925,
+                    25.1023554,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "National Palace Museum",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "icon": "images/icon-2.png",
+                "description": "has rocks that look like meat or cabbages!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.9055879,
                     38.1671515,
                     0
@@ -15457,6 +15582,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    121.6904658,
+                    25.2063972,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Yehliu Geopark",
+                "styleUrl": "#icon-1596-558B2F-labelson",
+                "styleHash": "638c400",
+                "icon": "images/icon-5.png",
+                "description": "Interesting rock formations on the coast"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     0.9596944,
                     50.9138436,
                     0
@@ -17800,6 +17943,130 @@
                 "styleHash": "1468cf8f",
                 "icon": "images/icon-8.png",
                 "description": "KTH Reactor Hall<br>The research reactor R1 is an experimental stage today, a creative venue for meetings between different disciplines.<br><br>The Reactor Hall originally housed Sweden’s first nuclear reactor, research reactor R1. It was operational between 1954 and 1970, and even though the reactor itself has long since been removed, the Reactor Hall still has an aura of research and experimentation.<br><br>Today, KTH uses the Reactor Hall as a combination of museum, culture centre, seminar room, studio, lab and more. Not least for activities with artistic university colleges in Stockholm. https://www.kth.se/en/thetale/standard-avdelning/kth-reaktorhallen-1.1135540"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3841109,
+                    52.5235298,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Boros Foundation",
+                "styleUrl": "#icon-1608-006064-labelson",
+                "styleHash": "1468cf8f",
+                "icon": "images/icon-8.png",
+                "description": "Art musem in an old bunker"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3447599,
+                    52.519921,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "BUCHSTABENMUSEUM",
+                "styleUrl": "#icon-1608-006064-labelson",
+                "styleHash": "1468cf8f",
+                "icon": "images/icon-8.png",
+                "description": "Features old signs with unique typography"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5153568,
+                    25.0562572,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ningxia Night Market",
+                "styleUrl": "#icon-1608-006064-labelson-nodesc",
+                "styleHash": "672042b4",
+                "icon": "images/icon-8.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5113064,
+                    25.0627243,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Datong District",
+                "styleUrl": "#icon-1608-006064-labelson",
+                "styleHash": "1468cf8f",
+                "icon": "images/icon-8.png",
+                "description": "for old shopping and market streets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5606383,
+                    25.0438366,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Songshan Cultural and Creative Park",
+                "styleUrl": "#icon-1608-006064-labelson-nodesc",
+                "styleHash": "672042b4",
+                "icon": "images/icon-8.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.530118,
+                    25.0335035,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Din Tai Fung Xinyi Branch",
+                "styleUrl": "#icon-1608-006064-labelson",
+                "styleHash": "1468cf8f",
+                "icon": "images/icon-8.png",
+                "description": "original branch of dumpling chaing"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6111702,
+                    25.2464241,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ju Ming Museum",
+                "styleUrl": "#icon-1608-006064-labelson",
+                "styleHash": "1468cf8f",
+                "icon": "images/icon-8.png",
+                "description": "Museum dedicated to he famous sculptor "
             }
         }
     ]

@@ -9,15 +9,15 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 245,
+      "count": 249,
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 457,
+      "count": 460,
       "name": "Museums / attractions"
     },
     "nature": {
-      "count": 42,
+      "count": 43,
       "name": "Nature"
     },
     "not-open-to-public-but-visible": {
@@ -25,7 +25,7 @@
       "name": "Not open to public but visible"
     },
     "para-infrastructural-cultural": {
-      "count": 66,
+      "count": 73,
       "name": "Para-infrastructural / cultural"
     },
     "science": {
@@ -34,6 +34,16 @@
     }
   },
   "places": {
+    "228-peace-memorial-park": {
+      "category": "interesting-things",
+      "coordinates": [
+        121.5149875,
+        25.0418254
+      ],
+      "description": "has some old steam trains",
+      "id": "228-peace-memorial-park",
+      "name": "228 Peace Memorial Park"
+    },
     "33-thomas-street-long-lines-building": {
       "category": "interesting-things",
       "coordinates": [
@@ -263,6 +273,7 @@
         -9.1555849,
         38.7212149
       ],
+      "description": "Recommend doing the tour of the Loreto Gallery, suggest booking in advance.",
       "id": "amoreiras-mother-of-water-reservoir",
       "name": "Amoreiras Mother of Water Reservoir"
     },
@@ -969,6 +980,16 @@
       "id": "borax-visitor-center",
       "name": "Borax Visitor Center"
     },
+    "boros-foundation": {
+      "category": "para-infrastructural-cultural",
+      "coordinates": [
+        13.3841109,
+        52.5235298
+      ],
+      "description": "Art musem in an old bunker",
+      "id": "boros-foundation",
+      "name": "Boros Foundation"
+    },
     "boscombe-down-aviation-collection": {
       "category": "museums-attractions",
       "coordinates": [
@@ -1180,6 +1201,16 @@
       ],
       "id": "bt-madley-satellite-communications-centre",
       "name": "BT Madley Satellite Communications Centre"
+    },
+    "buchstabenmuseum": {
+      "category": "para-infrastructural-cultural",
+      "coordinates": [
+        13.3447599,
+        52.519921
+      ],
+      "description": "Features old signs with unique typography",
+      "id": "buchstabenmuseum",
+      "name": "BUCHSTABENMUSEUM"
     },
     "buckinghamshire-railway-centre": {
       "category": "museums-attractions",
@@ -1865,6 +1896,16 @@
       "id": "danube-tower",
       "name": "Danube Tower"
     },
+    "datong-district": {
+      "category": "para-infrastructural-cultural",
+      "coordinates": [
+        121.5113064,
+        25.0627243
+      ],
+      "description": "for old shopping and market streets",
+      "id": "datong-district",
+      "name": "Datong District"
+    },
     "dawlish-sea-wall-and-railway": {
       "category": "interesting-things",
       "coordinates": [
@@ -2002,6 +2043,16 @@
       "description": "Unique cross of family theme park and plant hire. Damn good fun with JCBs. http://www.diggerland.com/",
       "id": "diggerland-kent",
       "name": "Diggerland Kent"
+    },
+    "din-tai-fung-xinyi-branch": {
+      "category": "para-infrastructural-cultural",
+      "coordinates": [
+        121.530118,
+        25.0335035
+      ],
+      "description": "original branch of dumpling chaing",
+      "id": "din-tai-fung-xinyi-branch",
+      "name": "Din Tai Fung Xinyi Branch"
     },
     "dinorwig-power-station": {
       "category": "interesting-things",
@@ -2467,6 +2518,15 @@
       "description": "Most notably, resting place of the Spruce Goose.",
       "id": "evergreen-aviation-space-museum",
       "name": "Evergreen Aviation & Space Museum"
+    },
+    "evergreen-maritime-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        121.5189107,
+        25.0386396
+      ],
+      "id": "evergreen-maritime-museum",
+      "name": "Evergreen Maritime Museum"
     },
     "evergreen-point-floating-bridge": {
       "category": "interesting-things",
@@ -3765,6 +3825,16 @@
       "id": "jorvik-viking-centre",
       "name": "JORVIK Viking Centre"
     },
+    "ju-ming-museum": {
+      "category": "para-infrastructural-cultural",
+      "coordinates": [
+        121.6111702,
+        25.2464241
+      ],
+      "description": "Museum dedicated to he famous sculptor",
+      "id": "ju-ming-museum",
+      "name": "Ju Ming Museum"
+    },
     "jubilee-tower": {
       "category": "historic-ruins-structures",
       "coordinates": [
@@ -4031,6 +4101,15 @@
       "id": "lalbagh-botanical-garden",
       "name": "Lalbagh Botanical Garden"
     },
+    "land-bank-exhibition-hall-of-national-taiwan-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        121.5143695,
+        25.043643
+      ],
+      "id": "land-bank-exhibition-hall-of-national-taiwan-museum",
+      "name": "Land Bank Exhibition Hall of National Taiwan Museum"
+    },
     "lapstone-zig-zag": {
       "category": "interesting-things",
       "coordinates": [
@@ -4259,6 +4338,16 @@
       "id": "london-transport-museum-depot",
       "name": "London Transport Museum Depot"
     },
+    "loreto-gallery": {
+      "category": "interesting-things",
+      "coordinates": [
+        -9.156965,
+        38.722048
+      ],
+      "description": "Tour through somewhat old aqueduct tunnels organized by the water museum, I booked in advance by emailing the water museum, not sure if that is still how booking works. Entrance is at the nearby M\u00e3e d'\u00c1gua das Amoreiras, but the tours aren't very well publicized so marking this separately for visibility.",
+      "id": "loreto-gallery",
+      "name": "Loreto Gallery"
+    },
     "los-angeles-county-arboretum": {
       "category": "nature",
       "coordinates": [
@@ -4422,6 +4511,16 @@
       "description": "WWII Japanese-American \u201cinternment\u201d camp",
       "id": "manzanar-national-historic-site",
       "name": "Manzanar National Historic Site"
+    },
+    "maokong-gondola": {
+      "category": "interesting-things",
+      "coordinates": [
+        121.5756273,
+        24.9955748
+      ],
+      "description": "lots of tea plantations to visit at the top",
+      "id": "maokong-gondola",
+      "name": "Maokong Gondola"
     },
     "mappa-mundi-ltd": {
       "category": "interesting-things",
@@ -5486,6 +5585,16 @@
       "id": "national-neon-sign-museum",
       "name": "National Neon Sign Museum"
     },
+    "national-palace-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        121.5484925,
+        25.1023554
+      ],
+      "description": "has rocks that look like meat or cabbages!",
+      "id": "national-palace-museum",
+      "name": "National Palace Museum"
+    },
     "national-postal-museum": {
       "category": "museums-attractions",
       "coordinates": [
@@ -5737,6 +5846,15 @@
       ],
       "id": "nikola-tesla-museum",
       "name": "Nikola Tesla Museum"
+    },
+    "ningxia-night-market": {
+      "category": "para-infrastructural-cultural",
+      "coordinates": [
+        121.5153568,
+        25.0562572
+      ],
+      "id": "ningxia-night-market",
+      "name": "Ningxia Night Market"
     },
     "norfolk-and-suffolk-aviation-museum": {
       "category": "museums-attractions",
@@ -7664,6 +7782,15 @@
       "id": "solheimasandur-plane-wreck",
       "name": "Solheimasandur Plane Wreck"
     },
+    "songshan-cultural-and-creative-park": {
+      "category": "para-infrastructural-cultural",
+      "coordinates": [
+        121.5606383,
+        25.0438366
+      ],
+      "id": "songshan-cultural-and-creative-park",
+      "name": "Songshan Cultural and Creative Park"
+    },
     "sousse-archaeological-museum": {
       "category": "museums-attractions",
       "coordinates": [
@@ -8076,6 +8203,16 @@
       "description": "One of the largest wooden domes in the world, easily visible from the interstate",
       "id": "tacoma-dome",
       "name": "Tacoma Dome"
+    },
+    "taipei-101world-trade-center": {
+      "category": "interesting-things",
+      "coordinates": [
+        121.5627598,
+        25.0330304
+      ],
+      "description": "earthquake damper is worth seeing",
+      "id": "taipei-101world-trade-center",
+      "name": "Taipei 101/World Trade Center"
     },
     "takaosan-interchange": {
       "category": "interesting-things",
@@ -9730,6 +9867,16 @@
       ],
       "id": "wroxham-miniature-worlds",
       "name": "Wroxham Miniature Worlds"
+    },
+    "yehliu-geopark": {
+      "category": "nature",
+      "coordinates": [
+        121.6904658,
+        25.2063972
+      ],
+      "description": "Interesting rock formations on the coast",
+      "id": "yehliu-geopark",
+      "name": "Yehliu Geopark"
     },
     "ynys-llanddwyn": {
       "category": "nature",

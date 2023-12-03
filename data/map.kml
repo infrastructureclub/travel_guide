@@ -2251,7 +2251,8 @@
       </Placemark>
       <Placemark>
         <name>Amoreiras Mother of Water Reservoir</name>
-        <styleUrl>#icon-1899-A52714-labelson-nodesc</styleUrl>
+        <description>Recommend doing the tour of the Loreto Gallery, suggest booking in advance.</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
         <Point>
           <coordinates>
             -9.1555849,38.7212149,0
@@ -2586,6 +2587,46 @@
         <Point>
           <coordinates>
             47.5249782,-18.9322923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Loreto Gallery</name>
+        <description><![CDATA[Tour through somewhat old aqueduct tunnels organized by the water museum, I booked in advance by emailing the water museum, not sure if that is still how booking works. Entrance is at the nearby Mãe d’Água das Amoreiras, but the tours aren't very well publicized so marking this separately for visibility.]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -9.156965,38.722048,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taipei 101/World Trade Center</name>
+        <description>earthquake damper is worth seeing</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            121.5627598,25.0330304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>228 Peace Memorial Park</name>
+        <description>has some old steam trains</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            121.5149875,25.0418254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Maokong Gondola</name>
+        <description>lots of tea plantations to visit at the top</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            121.5756273,24.9955748,0
           </coordinates>
         </Point>
       </Placemark>
@@ -7014,6 +7055,34 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Land Bank Exhibition Hall of National Taiwan Museum</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            121.5143695,25.043643,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Evergreen Maritime Museum</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            121.5189107,25.0386396,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>National Palace Museum</name>
+        <description>has rocks that look like meat or cabbages!</description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            121.5484925,25.1023554,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>
@@ -8756,6 +8825,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Yehliu Geopark</name>
+        <description>Interesting rock formations on the coast</description>
+        <styleUrl>#icon-1596-558B2F-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            121.6904658,25.2063972,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Not open to public but visible</name>
@@ -10058,6 +10137,74 @@
         <Point>
           <coordinates>
             18.0681202,59.3501645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Boros Foundation</name>
+        <description>Art musem in an old bunker</description>
+        <styleUrl>#icon-1608-006064-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            13.3841109,52.5235298,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BUCHSTABENMUSEUM</name>
+        <description>Features old signs with unique typography</description>
+        <styleUrl>#icon-1608-006064-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            13.3447599,52.519921,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ningxia Night Market</name>
+        <styleUrl>#icon-1608-006064-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            121.5153568,25.0562572,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Datong District</name>
+        <description>for old shopping and market streets</description>
+        <styleUrl>#icon-1608-006064-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            121.5113064,25.0627243,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Songshan Cultural and Creative Park</name>
+        <styleUrl>#icon-1608-006064-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            121.5606383,25.0438366,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Din Tai Fung Xinyi Branch</name>
+        <description>original branch of dumpling chaing</description>
+        <styleUrl>#icon-1608-006064-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            121.530118,25.0335035,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ju Ming Museum</name>
+        <description>Museum dedicated to he famous sculptor </description>
+        <styleUrl>#icon-1608-006064-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            121.6111702,25.2464241,0
           </coordinates>
         </Point>
       </Placemark>

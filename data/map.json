@@ -9,7 +9,7 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 249,
+      "count": 250,
       "name": "Interesting Things"
     },
     "museums-attractions": {
@@ -2460,6 +2460,16 @@
       "description": "Museum of London Underground signalling including restored signal cabin and a loco.\n\nDetails at https://www.ianvisits.co.uk/articles/a-new-railway-museum-has-opened-in-epping-61233/",
       "id": "epping-signalling-museum",
       "name": "Epping Signalling Museum"
+    },
+    "erasmusbrug": {
+      "category": "interesting-things",
+      "coordinates": [
+        4.4871227,
+        51.909004
+      ],
+      "description": "Iconic modern cable-stayed bridge",
+      "id": "erasmusbrug",
+      "name": "Erasmusbrug"
     },
     "ernest-f-coe-visitor-center": {
       "category": "nature",

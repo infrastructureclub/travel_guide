@@ -2630,6 +2630,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Erasmusbrug</name>
+        <description>Iconic modern cable-stayed bridge</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            4.4871227,51.909004,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>

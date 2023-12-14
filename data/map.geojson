@@ -4414,6 +4414,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    4.4871227,
+                    51.909004,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Erasmusbrug",
+                "styleUrl": "#icon-1899-A52714-labelson",
+                "styleHash": "2a468a2a",
+                "icon": "images/icon-1.png",
+                "description": "Iconic modern cable-stayed bridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0

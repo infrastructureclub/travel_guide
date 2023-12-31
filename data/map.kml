@@ -10218,6 +10218,24 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Museum of Neon Art</name>
+        <styleUrl>#icon-1608-006064-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -118.254718,34.1437207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Valley Relics Museum</name>
+        <styleUrl>#icon-1608-006064-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -118.4999574,34.2138769,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
   </Document>
 </kml>

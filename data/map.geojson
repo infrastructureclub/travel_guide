@@ -18086,6 +18086,40 @@
                 "icon": "images/icon-8.png",
                 "description": "Museum dedicated to he famous sculptor "
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.254718,
+                    34.1437207,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Museum of Neon Art",
+                "styleUrl": "#icon-1608-006064-labelson-nodesc",
+                "styleHash": "672042b4",
+                "icon": "images/icon-8.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.4999574,
+                    34.2138769,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Valley Relics Museum",
+                "styleUrl": "#icon-1608-006064-labelson-nodesc",
+                "styleHash": "672042b4",
+                "icon": "images/icon-8.png"
+            }
         }
     ]
 }

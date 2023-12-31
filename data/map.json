@@ -25,7 +25,7 @@
       "name": "Not open to public but visible"
     },
     "para-infrastructural-cultural": {
-      "count": 73,
+      "count": 75,
       "name": "Para-infrastructural / cultural"
     },
     "science": {
@@ -5264,6 +5264,15 @@
       "id": "museum-of-natural-and-cultural-history",
       "name": "Museum of Natural and Cultural History"
     },
+    "museum-of-neon-art": {
+      "category": "para-infrastructural-cultural",
+      "coordinates": [
+        -118.254718,
+        34.1437207
+      ],
+      "id": "museum-of-neon-art",
+      "name": "Museum of Neon Art"
+    },
     "museum-of-new-zealand-te-papa-tongarewa": {
       "category": "museums-attractions",
       "coordinates": [
@@ -9326,6 +9335,15 @@
       "description": "https://www.madagascarbio.org/edible-insects.html",
       "id": "valala-farm-and-edible-insect-lab",
       "name": "Valala Farm and Edible Insect Lab"
+    },
+    "valley-relics-museum": {
+      "category": "para-infrastructural-cultural",
+      "coordinates": [
+        -118.4999574,
+        34.2138769
+      ],
+      "id": "valley-relics-museum",
+      "name": "Valley Relics Museum"
     },
     "verner-panton-weg": {
       "category": "interesting-things",

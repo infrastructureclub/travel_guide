@@ -1,19 +1,19 @@
 {
   "categories": {
     "historic-ruins-structures": {
-      "count": 110,
+      "count": 111,
       "name": "Historic / ruins / structures"
     },
     "industry": {
-      "count": 24,
+      "count": 25,
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 250,
+      "count": 254,
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 460,
+      "count": 463,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -25,7 +25,7 @@
       "name": "Not open to public but visible"
     },
     "para-infrastructural-cultural": {
-      "count": 75,
+      "count": 78,
       "name": "Para-infrastructural / cultural"
     },
     "science": {
@@ -100,6 +100,16 @@
       "description": "A short but fun aerial tram, with good views. Unfortunately, there's not that much for a tourist to do on either end. Reasonably well connected to other transit, though.",
       "id": "aerial-tram-lower-terminal",
       "name": "Aerial tram (lower terminal)"
+    },
+    "aeroplume-flight-in-grotte-de-la-samalandre": {
+      "category": "museums-attractions",
+      "coordinates": [
+        4.3423787,
+        44.2554929
+      ],
+      "description": "Want to fly a one-person helium-filled airship inside a cave? You can.",
+      "id": "aeroplume-flight-in-grotte-de-la-samalandre",
+      "name": "Aeroplume flight in Grotte de la Samalandre"
     },
     "aerospace-bristol": {
       "category": "museums-attractions",
@@ -236,6 +246,16 @@
       "description": "Notable for being one of the first windfarms in the US.",
       "id": "altamont-pass-wind-farm",
       "name": "Altamont Pass wind farm"
+    },
+    "alter-elbtunnel": {
+      "category": "interesting-things",
+      "coordinates": [
+        9.9665878,
+        53.5458861
+      ],
+      "description": "A tunnel under the river where vehicles enter massive elevators in order to get between tunnel and surface level.",
+      "id": "alter-elbtunnel",
+      "name": "Alter Elbtunnel"
     },
     "ambatovy-nickel-mine": {
       "category": "industry",
@@ -554,6 +574,16 @@
       ],
       "id": "avro-aircraft-heritage-museum",
       "name": "Avro Aircraft Heritage Museum"
+    },
+    "baarle-nassau-baarle-hertog": {
+      "category": "interesting-things",
+      "coordinates": [
+        4.9295231,
+        51.4451366
+      ],
+      "description": "Belgian / Dutch border-drawing chaos",
+      "id": "baarle-nassau-baarle-hertog",
+      "name": "Baarle-Nassau / Baarle-Hertog"
     },
     "babbacombe-cliff-railway": {
       "category": "interesting-things",
@@ -1857,6 +1887,16 @@
       "id": "cuckfield-royal-observer-corps-bunker",
       "name": "Cuckfield Royal Observer Corps Bunker"
     },
+    "curved-elevator-at-the-old-town-hall": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        9.7359649,
+        52.3712983
+      ],
+      "description": "The elevator to the viewing gallery is curved, but not evenly; it's been rebuilt and reshaped a couple of times.",
+      "id": "curved-elevator-at-the-old-town-hall",
+      "name": "Curved elevator at the Old Town Hall"
+    },
     "cypress-freeway-memorial-park": {
       "category": "para-infrastructural-cultural",
       "coordinates": [
@@ -2200,6 +2240,16 @@
       "description": "Museum of the heritage of the Droitwich area. Particularly infrastructure-related exhibits include those on radio in the Droitwich area (the Radio 4 Long Wave transmitters are located here) and salt extraction in Droitwich.\n\nSee https://www.droitwichheritagecentre.org.uk/visit/",
       "id": "droitwich-heritage-information-centre",
       "name": "Droitwich Heritage & Information Centre"
+    },
+    "dsseldorf-airport-suspended-monorail": {
+      "category": "interesting-things",
+      "coordinates": [
+        6.7661599,
+        51.27869
+      ],
+      "description": "Home of north-west Germany's other, less famous, suspended monorail.",
+      "id": "dsseldorf-airport-suspended-monorail",
+      "name": "D\u00fcsseldorf Airport Suspended Monorail"
     },
     "dundee-museum-of-transport": {
       "category": "museums-attractions",
@@ -3230,6 +3280,16 @@
       "id": "hakai-institute",
       "name": "Hakai Institute"
     },
+    "halde-haniel": {
+      "category": "industry",
+      "coordinates": [
+        6.8766833,
+        51.5516335
+      ],
+      "description": "A reclaimed, enormous spoil tip with a commanding view from the top, complete with art and an amphitheater.",
+      "id": "halde-haniel",
+      "name": "Halde Haniel"
+    },
     "haleakal-observatory": {
       "category": "science",
       "coordinates": [
@@ -3776,6 +3836,16 @@
       "description": "Various aircraft, some of which you can get into the cockpits of.\n\nhttps://jetagemuseum.org/",
       "id": "jet-age-museum",
       "name": "Jet Age Museum"
+    },
+    "jetd-tower": {
+      "category": "para-infrastructural-cultural",
+      "coordinates": [
+        14.9846361,
+        50.7326631
+      ],
+      "description": "Incredible half-antenna, half-hotel from the 1960s.",
+      "id": "jetd-tower",
+      "name": "Je\u0161t\u011bd Tower"
     },
     "jim-creek-naval-radio-station": {
       "category": "not-open-to-public-but-visible",
@@ -8370,6 +8440,16 @@
       "id": "terminal-island",
       "name": "Terminal Island"
     },
+    "tetraeder": {
+      "category": "para-infrastructural-cultural",
+      "coordinates": [
+        6.9598255,
+        51.5273941
+      ],
+      "description": "Giant, climbable tetrahedron art on top of a spoil tip.",
+      "id": "tetraeder",
+      "name": "Tetraeder"
+    },
     "thackray-museum-of-medicine": {
       "category": "museums-attractions",
       "coordinates": [
@@ -9036,6 +9116,16 @@
       "id": "tickford-bridge",
       "name": "Tickford Bridge"
     },
+    "tiger-turtle": {
+      "category": "para-infrastructural-cultural",
+      "coordinates": [
+        6.7379532,
+        51.3756461
+      ],
+      "description": "Art on top of an old spoil tip, a somewhat-walkable roller coaster track. Alas, you can't walk the loop.",
+      "id": "tiger-turtle",
+      "name": "Tiger & Turtle"
+    },
     "tilikum-crossing-bridge": {
       "category": "interesting-things",
       "coordinates": [
@@ -9454,6 +9544,16 @@
         "./data/images/01658f18d8f97edc67316ddded96328c82ca7c96a0a39f57bd38bc281312dad5.png"
       ],
       "name": "Vitra Slide Tower"
+    },
+    "voler-en-aroplume": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -1.3808844,
+        49.4518251
+      ],
+      "description": "Want to fly in a one-person helium-filled airship inside a giant hangar? You can.",
+      "id": "voler-en-aroplume",
+      "name": "Voler en A\u00e9roplume"
     },
     "volks-electric-railway": {
       "category": "museums-attractions",
@@ -9895,6 +9995,26 @@
       ],
       "id": "wroxham-miniature-worlds",
       "name": "Wroxham Miniature Worlds"
+    },
+    "wunderland-kalkar": {
+      "category": "museums-attractions",
+      "coordinates": [
+        6.3270205,
+        51.7638658
+      ],
+      "description": "A theme park inside a never-used nuclear power plant. Ride the Star Flyer that's inside the cooling tower. Stop by the museum exhibit about the plant. French fries and ice cream are included with the price of admission.",
+      "id": "wunderland-kalkar",
+      "name": "Wunderland Kalkar"
+    },
+    "wuppertal-schwebebahn": {
+      "category": "interesting-things",
+      "coordinates": [
+        7.1890407,
+        51.2670698
+      ],
+      "description": "Old suspended monorail along a river and road",
+      "id": "wuppertal-schwebebahn",
+      "name": "Wuppertal Schwebebahn"
     },
     "yehliu-geopark": {
       "category": "nature",

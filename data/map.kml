@@ -2640,6 +2640,46 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Wuppertal Schwebebahn</name>
+        <description>Old suspended monorail along a river and road</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            7.1890407,51.2670698,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Düsseldorf Airport Suspended Monorail</name>
+        <description><![CDATA[Home of north-west Germany's other, less famous, suspended monorail.]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            6.7661599,51.27869,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Baarle-Nassau / Baarle-Hertog</name>
+        <description>Belgian / Dutch border-drawing chaos</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            4.9295231,51.4451366,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alter Elbtunnel</name>
+        <description>A tunnel under the river where vehicles enter massive elevators in order to get between tunnel and surface level.</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            9.9665878,53.5458861,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>
@@ -7093,6 +7133,36 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Wunderland Kalkar</name>
+        <description><![CDATA[A theme park inside a never-used nuclear power plant. Ride the Star Flyer that's inside the cooling tower. Stop by the museum exhibit about the plant. French fries and ice cream are included with the price of admission.]]></description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            6.3270205,51.7638658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroplume flight in Grotte de la Samalandre</name>
+        <description>Want to fly a one-person helium-filled airship inside a cave? You can.</description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            4.3423787,44.2554929,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Voler en Aéroplume</name>
+        <description>Want to fly in a one-person helium-filled airship inside a giant hangar? You can.</description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -1.3808844,49.4518251,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>
@@ -7336,6 +7406,16 @@
         <Point>
           <coordinates>
             135.4066244,34.6656096,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Halde Haniel</name>
+        <description>A reclaimed, enormous spoil tip with a commanding view from the top, complete with art and an amphitheater.</description>
+        <styleUrl>#icon-1693-757575-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            6.8766833,51.5516335,0
           </coordinates>
         </Point>
       </Placemark>
@@ -8413,6 +8493,16 @@
         <Point>
           <coordinates>
             10.0970143,35.6865667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Curved elevator at the Old Town Hall</name>
+        <description><![CDATA[The elevator to the viewing gallery is curved, but not evenly; it's been rebuilt and reshaped a couple of times.]]></description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            9.7359649,52.3712983,0
           </coordinates>
         </Point>
       </Placemark>
@@ -10233,6 +10323,36 @@
         <Point>
           <coordinates>
             -118.4999574,34.2138769,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Tiger & Turtle]]></name>
+        <description><![CDATA[Art on top of an old spoil tip, a somewhat-walkable roller coaster track. Alas, you can't walk the loop.]]></description>
+        <styleUrl>#icon-1608-006064-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            6.7379532,51.3756461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tetraeder</name>
+        <description>Giant, climbable tetrahedron art on top of a spoil tip.</description>
+        <styleUrl>#icon-1608-006064-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            6.9598255,51.5273941,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ještěd Tower</name>
+        <description>Incredible half-antenna, half-hotel from the 1960s.</description>
+        <styleUrl>#icon-1608-006064-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            14.9846361,50.7326631,0
           </coordinates>
         </Point>
       </Placemark>

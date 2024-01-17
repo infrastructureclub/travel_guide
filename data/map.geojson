@@ -4432,6 +4432,78 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    7.1890407,
+                    51.2670698,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wuppertal Schwebebahn",
+                "styleUrl": "#icon-1899-A52714-labelson",
+                "styleHash": "2a468a2a",
+                "icon": "images/icon-1.png",
+                "description": "Old suspended monorail along a river and road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.7661599,
+                    51.27869,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Düsseldorf Airport Suspended Monorail",
+                "styleUrl": "#icon-1899-A52714-labelson",
+                "styleHash": "2a468a2a",
+                "icon": "images/icon-1.png",
+                "description": "Home of north-west Germany's other, less famous, suspended monorail."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9295231,
+                    51.4451366,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Baarle-Nassau / Baarle-Hertog",
+                "styleUrl": "#icon-1899-A52714-labelson",
+                "styleHash": "2a468a2a",
+                "icon": "images/icon-1.png",
+                "description": "Belgian / Dutch border-drawing chaos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.9665878,
+                    53.5458861,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Alter Elbtunnel",
+                "styleUrl": "#icon-1899-A52714-labelson",
+                "styleHash": "2a468a2a",
+                "icon": "images/icon-1.png",
+                "description": "A tunnel under the river where vehicles enter massive elevators in order to get between tunnel and surface level."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0
@@ -12485,6 +12557,60 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    6.3270205,
+                    51.7638658,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wunderland Kalkar",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "icon": "images/icon-2.png",
+                "description": "A theme park inside a never-used nuclear power plant. Ride the Star Flyer that's inside the cooling tower. Stop by the museum exhibit about the plant. French fries and ice cream are included with the price of admission."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3423787,
+                    44.2554929,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Aeroplume flight in Grotte de la Samalandre",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "icon": "images/icon-2.png",
+                "description": "Want to fly a one-person helium-filled airship inside a cave? You can."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.3808844,
+                    49.4518251,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Voler en Aéroplume",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "icon": "images/icon-2.png",
+                "description": "Want to fly in a one-person helium-filled airship inside a giant hangar? You can."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.9055879,
                     38.1671515,
                     0
@@ -12906,6 +13032,24 @@
                 "styleHash": "-1d74371c",
                 "icon": "images/icon-3.png",
                 "description": "Does regular free tours. Must be booked in advance.<br><br>https://www.osaka-env-paa.jp/kengaku/kojokengaku/kojin.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.8766833,
+                    51.5516335,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Halde Haniel",
+                "styleUrl": "#icon-1693-757575-labelson",
+                "styleHash": "-1d74371c",
+                "icon": "images/icon-3.png",
+                "description": "A reclaimed, enormous spoil tip with a commanding view from the top, complete with art and an amphitheater."
             }
         },
         {
@@ -14852,6 +14996,24 @@
                 "styleHash": "118808a5",
                 "icon": "images/icon-4.png",
                 "description": "An essential part of the water infrastructure of Kairouan, remarkable for their preservation and antiquity (date back to 862 AD).<br><br>Unfortunately, they're hardly worth a visit. Stop by the Tourist Information Center (this pin) to buy a ticket that gets you into both here and the Great Mosque, pop up to the roof to get a photo, and leave. Spend your time at the Great Mosque instead.<br><br>It's also possible to walk around the site, but sadly the basins aren't that interesting to see and there's no interpretation."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7359649,
+                    52.3712983,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Curved elevator at the Old Town Hall",
+                "styleUrl": "#icon-1598-A52714-labelson",
+                "styleHash": "118808a5",
+                "icon": "images/icon-4.png",
+                "description": "The elevator to the viewing gallery is curved, but not evenly; it's been rebuilt and reshaped a couple of times."
             }
         },
         {
@@ -18119,6 +18281,60 @@
                 "styleUrl": "#icon-1608-006064-labelson-nodesc",
                 "styleHash": "672042b4",
                 "icon": "images/icon-8.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.7379532,
+                    51.3756461,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tiger & Turtle",
+                "styleUrl": "#icon-1608-006064-labelson",
+                "styleHash": "1468cf8f",
+                "icon": "images/icon-8.png",
+                "description": "Art on top of an old spoil tip, a somewhat-walkable roller coaster track. Alas, you can't walk the loop."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9598255,
+                    51.5273941,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tetraeder",
+                "styleUrl": "#icon-1608-006064-labelson",
+                "styleHash": "1468cf8f",
+                "icon": "images/icon-8.png",
+                "description": "Giant, climbable tetrahedron art on top of a spoil tip."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9846361,
+                    50.7326631,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ještěd Tower",
+                "styleUrl": "#icon-1608-006064-labelson",
+                "styleHash": "1468cf8f",
+                "icon": "images/icon-8.png",
+                "description": "Incredible half-antenna, half-hotel from the 1960s."
             }
         }
     ]

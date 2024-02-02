@@ -9,11 +9,11 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 254,
+      "count": 257,
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 463,
+      "count": 464,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -53,6 +53,16 @@
       "description": "Windowless skyscraper containing major communication exchange points, and the likely location of an NSA intercept hub codenamed TITANPOINTE. https://en.m.wikipedia.org/wiki/33_Thomas_Street",
       "id": "33-thomas-street-long-lines-building",
       "name": "33 Thomas Street / Long Lines building"
+    },
+    "60-hudson-street": {
+      "category": "interesting-things",
+      "coordinates": [
+        -74.0081748,
+        40.7176405
+      ],
+      "description": "Formerly known as the Western Union Building. A major colocation center.",
+      "id": "60-hudson-street",
+      "name": "60 Hudson Street"
     },
     "abbey-pumping-station-museum": {
       "category": "museums-attractions",
@@ -6887,6 +6897,16 @@
       "id": "ramsgate-tunnels",
       "name": "Ramsgate Tunnels"
     },
+    "randalls-and-ward-islands": {
+      "category": "interesting-things",
+      "coordinates": [
+        -73.9240428,
+        40.79214
+      ],
+      "description": "Great vantage points under the Triborough and Hell Gate bridges",
+      "id": "randalls-and-ward-islands",
+      "name": "Randalls and Ward Islands"
+    },
     "rc-harris-water-treatment-plant": {
       "category": "historic-ruins-structures",
       "coordinates": [
@@ -8110,6 +8130,15 @@
       "id": "stasi-museum",
       "name": "Stasi Museum"
     },
+    "staten-island-ferry": {
+      "category": "interesting-things",
+      "coordinates": [
+        -74.0130203,
+        40.7009122
+      ],
+      "id": "staten-island-ferry",
+      "name": "Staten Island Ferry"
+    },
     "steam-museum-of-the-great-western-railway": {
       "category": "museums-attractions",
       "coordinates": [
@@ -8187,6 +8216,16 @@
       ],
       "id": "stonehenge-wwi-memorial",
       "name": "Stonehenge WWI Memorial"
+    },
+    "storm-king-art-center": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -74.059384,
+        41.425063
+      ],
+      "description": "Outdoor sculpture park. Closes for winter.",
+      "id": "storm-king-art-center",
+      "name": "Storm King Art Center"
     },
     "strait-of-juan-de-fuca-boundary-dispute": {
       "category": "para-infrastructural-cultural",

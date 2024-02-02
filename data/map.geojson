@@ -4504,6 +4504,59 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -73.9240428,
+                    40.79214,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Randalls and Ward Islands",
+                "styleUrl": "#icon-1899-A52714-labelson",
+                "styleHash": "2a468a2a",
+                "icon": "images/icon-1.png",
+                "description": "Great vantage points under the Triborough and Hell Gate bridges"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0130203,
+                    40.7009122,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Staten Island Ferry",
+                "styleUrl": "#icon-1899-A52714-labelson-nodesc",
+                "styleHash": "-47c358db",
+                "icon": "images/icon-1.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0081748,
+                    40.7176405,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "60 Hudson Street",
+                "styleUrl": "#icon-1899-A52714-labelson",
+                "styleHash": "2a468a2a",
+                "icon": "images/icon-1.png",
+                "description": "Formerly known as the Western Union Building. A major colocation center."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0
@@ -12604,6 +12657,24 @@
                 "styleHash": "-73d4c685",
                 "icon": "images/icon-2.png",
                 "description": "Want to fly in a one-person helium-filled airship inside a giant hangar? You can."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.059384,
+                    41.425063,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Storm King Art Center",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "icon": "images/icon-2.png",
+                "description": "Outdoor sculpture park. Closes for winter."
             }
         },
         {

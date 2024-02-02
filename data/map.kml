@@ -2680,6 +2680,35 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Randalls and Ward Islands</name>
+        <description>Great vantage points under the Triborough and Hell Gate bridges</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.9240428,40.79214,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Staten Island Ferry</name>
+        <styleUrl>#icon-1899-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -74.0130203,40.7009122,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>60 Hudson Street</name>
+        <description>Formerly known as the Western Union Building. A major colocation center.</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -74.0081748,40.7176405,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>
@@ -7160,6 +7189,16 @@
         <Point>
           <coordinates>
             -1.3808844,49.4518251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Storm King Art Center</name>
+        <description>Outdoor sculpture park. Closes for winter.</description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -74.059384,41.425063,0
           </coordinates>
         </Point>
       </Placemark>

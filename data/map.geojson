@@ -68,7 +68,7 @@
                 "styleUrl": "#icon-1899-A52714-labelson",
                 "styleHash": "2a468a2a",
                 "icon": "images/icon-1.png",
-                "description": "Excellent views under the Bay Bridge, past the Port of Oakland, etc., depending on route. Subsidized as a disaster preparedness program in order to provide emergency transport in case bridges are damaged in a major earthquake."
+                "description": "Excellent views under the Bay Bridge, past the Port of Oakland, etc., depending on route. Subsidized as a disaster preparedness program in order to provide emergency transport in case bridges are damaged in a major earthquake. Easily the most pleasant way to cross the Bay."
             }
         },
         {
@@ -710,7 +710,7 @@
                 "styleUrl": "#icon-1899-A52714-labelson",
                 "styleHash": "2a468a2a",
                 "icon": "images/icon-1.png",
-                "description": "Origin point for surveys in a large part of California. Outstanding views – sometimes rumored to be one of the largest viewsheds in the world, although this is easily debunked. Go on the clearest day possible to maximize vistas in all directions. A fun though scary drive on cliff-hugging roads designed in an era of slower cars."
+                "description": "Origin point for surveys in a large part of California. Outstanding views – sometimes rumored to be one of the largest viewsheds in the world, although this is easily debunked. Go on the clearest day possible to maximize vistas in all directions. A fun though scary drive on cliff-hugging roads designed in an era of smaller, slower cars. Has various temporary attractions such as tarantula season (early fall)."
             }
         },
         {
@@ -3747,7 +3747,7 @@
                 "styleUrl": "#icon-1899-A52714-labelson",
                 "styleHash": "2a468a2a",
                 "icon": "images/icon-1.png",
-                "description": "The longest continuous truss bridge in North America. Also interesting for being both long (6.5 km or 4 mi) and, in one section (on the southern/Astoria end), having high clearance."
+                "description": "The longest continuous truss bridge in North America. Interesting for the unusual combination of being long (6.5 km or 4 mi) and, in one section (on the southern/Astoria end), having high clearance."
             }
         },
         {
@@ -4550,6 +4550,59 @@
                 "styleHash": "2a468a2a",
                 "icon": "images/icon-1.png",
                 "description": "Formerly known as the Western Union Building. A major colocation center."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.0065625,
+                    43.5115625,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "EBR-1 (Experimental Breeder Reactor) Museum",
+                "styleUrl": "#icon-1899-A52714-labelson",
+                "styleHash": "2a468a2a",
+                "icon": "images/icon-1.png",
+                "description": "Experimental Breeder Reactor-I is the world's first breeder reactor. There's a very interesting railway on site, with a nuclear-shielded locomotive and double-wide 4-track railcars used to haul nuclear experiments."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.9920425,
+                    40.3508287,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Big Trees Day-use Area",
+                "styleUrl": "#icon-1899-A52714-labelson",
+                "styleHash": "2a468a2a",
+                "icon": "images/icon-1.png",
+                "description": "One of many, many good places to see the redwoods."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4192342,
+                    40.7185636,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Shasta Dam",
+                "styleUrl": "#icon-1899-A52714-labelson-nodesc",
+                "styleHash": "-47c358db",
+                "icon": "images/icon-1.png"
             }
         },
         {
@@ -5423,9 +5476,10 @@
             },
             "properties": {
                 "name": "Maryhill Museum of Art",
-                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
-                "styleHash": "-4303c82c",
-                "icon": "images/icon-2.png"
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "icon": "images/icon-2.png",
+                "description": "Bizarre, wonderful place with a deeply silly history."
             }
         },
         {
@@ -5859,7 +5913,7 @@
                 "styleUrl": "#icon-1636-F9A825-labelson",
                 "styleHash": "-73d4c685",
                 "icon": "images/icon-2.png",
-                "description": "Very Boeing-centric for obvious reasons but nonetheless excellent."
+                "description": "Very Boeing-centric for obvious reasons* but nonetheless excellent.<br><br>* Boeing’s operations are based in Seattle and it’s the major patron of the museum."
             }
         },
         {
@@ -7138,9 +7192,10 @@
             },
             "properties": {
                 "name": "San Diego Zoo",
-                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
-                "styleHash": "-4303c82c",
-                "icon": "images/icon-2.png"
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "icon": "images/icon-2.png",
+                "description": "One of the first zoos to make a real effort to keep animals in humane, pseudo-natural conditions and not as if they were mere museum pieces."
             }
         },
         {
@@ -12682,6 +12737,58 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -122.002508,
+                    37.0168648,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Mystery Spot",
+                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
+                "styleHash": "-4303c82c",
+                "icon": "images/icon-2.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.1862786,
+                    19.4260032,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Museo Nacional de Antropología",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "icon": "images/icon-2.png",
+                "description": "Often ranked one of the best museums in the world."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1559585,
+                    25.6665986,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cape Florida Lighthouse",
+                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
+                "styleHash": "-4303c82c",
+                "icon": "images/icon-2.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.9055879,
                     38.1671515,
                     0
@@ -13121,6 +13228,24 @@
                 "styleHash": "-1d74371c",
                 "icon": "images/icon-3.png",
                 "description": "A reclaimed, enormous spoil tip with a commanding view from the top, complete with art and an amphitheater."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8705773,
+                    31.0601617,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ouarzazate (Noor) Solar Power Station",
+                "styleUrl": "#icon-1693-757575-labelson",
+                "styleHash": "-1d74371c",
+                "icon": "images/icon-3.png",
+                "description": "Among the largest solar power plants in the world. Not open to casual visitors, but tours can be arranged (https://www.masen.ma/en/site-visit-request) and are apparently very interesting."
             }
         },
         {
@@ -15851,6 +15976,77 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -119.5871645,
+                    37.748746,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Yosemite Valley\n",
+                "styleUrl": "#icon-1596-558B2F-labelson",
+                "styleHash": "638c400",
+                "icon": "images/icon-5.png",
+                "description": "Famous for a reason. Can be very crowded in the tourist season (spring through fall); plan and make reservations well in advance."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.1174536,
+                    45.5774878,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Multnomah Falls",
+                "styleUrl": "#icon-1596-558B2F-labelson-nodesc",
+                "styleHash": "2ebec33f",
+                "icon": "images/icon-5.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.1,
+                    36.61,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Alabama Hills",
+                "styleUrl": "#icon-1596-558B2F-labelson",
+                "styleHash": "638c400",
+                "icon": "images/icon-5.png",
+                "description": "Surreal-seeming rock formations. Beautiful and (in summer) often extremely hot."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.3143855,
+                    34.4858033,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Vasquez Rocks\n",
+                "styleUrl": "#icon-1596-558B2F-labelson",
+                "styleHash": "638c400",
+                "icon": "images/icon-5.png",
+                "description": "Famous for their use in many movies and TV shows, notably “Star Trek”."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     0.9596944,
                     50.9138436,
                     0
@@ -16677,6 +16873,42 @@
                 "styleUrl": "#icon-1898-BDBDBD-labelson-nodesc",
                 "styleHash": "-4854e743",
                 "icon": "images/icon-6.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0936374,
+                    11.2164631,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Grand Ethiopian Renaissance Dam",
+                "styleUrl": "#icon-1898-BDBDBD-labelson",
+                "styleHash": "-2f1af5a4",
+                "icon": "images/icon-6.png",
+                "description": "Highly politically controversial."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2934505,
+                    37.7914034,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hughes Mining Barge",
+                "styleUrl": "#icon-1898-BDBDBD-labelson",
+                "styleHash": "-2f1af5a4",
+                "icon": "images/icon-6.png",
+                "description": "See https://en.wikipedia.org/wiki/Hughes_Mining_Barge"
             }
         },
         {
@@ -18406,6 +18638,94 @@
                 "styleHash": "1468cf8f",
                 "icon": "images/icon-8.png",
                 "description": "Incredible half-antenna, half-hotel from the 1960s."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.7266347,
+                    48.385908,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cape Flattery Observation Deck",
+                "styleUrl": "#icon-1608-006064-labelson-nodesc",
+                "styleHash": "672042b4",
+                "icon": "images/icon-8.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.9024653,
+                    36.3725786,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bixby Bridge Vista Point",
+                "styleUrl": "#icon-1608-006064-labelson-nodesc",
+                "styleHash": "672042b4",
+                "icon": "images/icon-8.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3027315,
+                    37.7899798,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Alameda Point Antiques Faire",
+                "styleUrl": "#icon-1608-006064-labelson",
+                "styleHash": "1468cf8f",
+                "icon": "images/icon-8.png",
+                "description": "Better known as the Alameda Flea. A vast open-air market on the even vaster disused runway of a former naval airbase, with views across to the Port of Oakland. Held the first Sunday of each month, with occasional changes to avoid major holidays or for weather. There is an entry fee. Serious shoppers are wise to arrive early, but it’s an amusing stroll at any time of day."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.7110064,
+                    45.3311281,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Timberline Lodge",
+                "styleUrl": "#icon-1608-006064-labelson",
+                "styleHash": "1468cf8f",
+                "icon": "images/icon-8.png",
+                "description": "The best place to see Mt Hood without climbing it."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.5342131,
+                    33.7102973,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Santiago Peak",
+                "styleUrl": "#icon-1608-006064-labelson",
+                "styleHash": "1468cf8f",
+                "icon": "images/icon-8.png",
+                "description": "Based on one GIS analysis, this is the point in the US from which you can see the largest amount of urbanized land."
             }
         }
     ]

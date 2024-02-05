@@ -5,27 +5,27 @@
       "name": "Historic / ruins / structures"
     },
     "industry": {
-      "count": 25,
+      "count": 26,
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 257,
+      "count": 260,
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 464,
+      "count": 467,
       "name": "Museums / attractions"
     },
     "nature": {
-      "count": 43,
+      "count": 47,
       "name": "Nature"
     },
     "not-open-to-public-but-visible": {
-      "count": 47,
+      "count": 49,
       "name": "Not open to public but visible"
     },
     "para-infrastructural-cultural": {
-      "count": 78,
+      "count": 83,
       "name": "Para-infrastructural / cultural"
     },
     "science": {
@@ -188,6 +188,16 @@
       "id": "airworld-aviation-museum",
       "name": "Airworld Aviation Museum"
     },
+    "alabama-hills": {
+      "category": "nature",
+      "coordinates": [
+        -118.1,
+        36.61
+      ],
+      "description": "Surreal-seeming rock formations. Beautiful and (in summer) often extremely hot.",
+      "id": "alabama-hills",
+      "name": "Alabama Hills"
+    },
     "alameda-beach": {
       "category": "para-infrastructural-cultural",
       "coordinates": [
@@ -207,6 +217,16 @@
       "description": "You know it from \u201cMythbusters\u201d.",
       "id": "alameda-county-sheriffs-bomb-disposal-range",
       "name": "Alameda County Sheriffs Bomb Disposal Range"
+    },
+    "alameda-point-antiques-faire": {
+      "category": "para-infrastructural-cultural",
+      "coordinates": [
+        -122.3027315,
+        37.7899798
+      ],
+      "description": "Better known as the Alameda Flea. A vast open-air market on the even vaster disused runway of a former naval airbase, with views across to the Port of Oakland. Held the first Sunday of each month, with occasional changes to avoid major holidays or for weather. There is an entry fee. Serious shoppers are wise to arrive early, but it's an amusing stroll at any time of day.",
+      "id": "alameda-point-antiques-faire",
+      "name": "Alameda Point Antiques Faire"
     },
     "alan-turing-memorial": {
       "category": "interesting-things",
@@ -505,7 +525,7 @@
         -123.8622099,
         46.2157711
       ],
-      "description": "The longest continuous truss bridge in North America. Also interesting for being both long (6.5 km or 4 mi) and, in one section (on the southern/Astoria end), having high clearance.",
+      "description": "The longest continuous truss bridge in North America. Interesting for the unusual combination of being long (6.5 km or 4 mi) and, in one section (on the southern/Astoria end), having high clearance.",
       "id": "astoria-megler-bridge",
       "name": "Astoria-Megler Bridge"
     },
@@ -868,6 +888,16 @@
       "id": "big-pit-national-coal-museum",
       "name": "Big Pit National Coal Museum"
     },
+    "big-trees-day-use-area": {
+      "category": "interesting-things",
+      "coordinates": [
+        -123.9920425,
+        40.3508287
+      ],
+      "description": "One of many, many good places to see the redwoods.",
+      "id": "big-trees-day-use-area",
+      "name": "Big Trees Day-use Area"
+    },
     "bingley-five-rise-locks": {
       "category": "interesting-things",
       "coordinates": [
@@ -915,6 +945,15 @@
       "description": "One of the most important mines in the world in relation to its accessibility. Roughly 1% of global tin production comes from this one site.",
       "id": "bisie-tin-mine",
       "name": "Bisie Tin Mine"
+    },
+    "bixby-bridge-vista-point": {
+      "category": "para-infrastructural-cultural",
+      "coordinates": [
+        -121.9024653,
+        36.3725786
+      ],
+      "id": "bixby-bridge-vista-point",
+      "name": "Bixby Bridge Vista Point"
     },
     "black-country-living-museum": {
       "category": "museums-attractions",
@@ -1384,6 +1423,24 @@
       ],
       "id": "cape-canaveral-space-force-station",
       "name": "Cape Canaveral Space Force Station"
+    },
+    "cape-flattery-observation-deck": {
+      "category": "para-infrastructural-cultural",
+      "coordinates": [
+        -124.7266347,
+        48.385908
+      ],
+      "id": "cape-flattery-observation-deck",
+      "name": "Cape Flattery Observation Deck"
+    },
+    "cape-florida-lighthouse": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -80.1559585,
+        25.6665986
+      ],
+      "id": "cape-florida-lighthouse",
+      "name": "Cape Florida Lighthouse"
     },
     "carthage-in-general": {
       "category": "historic-ruins-structures",
@@ -2365,6 +2422,16 @@
       "id": "east-midlands-aeropark",
       "name": "East Midlands Aeropark"
     },
+    "ebr-1-experimental-breeder-reactor-museum": {
+      "category": "interesting-things",
+      "coordinates": [
+        -113.0065625,
+        43.5115625
+      ],
+      "description": "Experimental Breeder Reactor-I is the world's first breeder reactor. There's a very interesting railway on site, with a nuclear-shielded locomotive and double-wide 4-track railcars used to haul nuclear experiments.",
+      "id": "ebr-1-experimental-breeder-reactor-museum",
+      "name": "EBR-1 (Experimental Breeder Reactor) Museum"
+    },
     "ecola-state-park": {
       "category": "nature",
       "coordinates": [
@@ -3041,6 +3108,16 @@
       "id": "grand-coulee-dam",
       "name": "Grand Coulee Dam"
     },
+    "grand-ethiopian-renaissance-dam": {
+      "category": "not-open-to-public-but-visible",
+      "coordinates": [
+        35.0936374,
+        11.2164631
+      ],
+      "description": "Highly politically controversial.",
+      "id": "grand-ethiopian-renaissance-dam",
+      "name": "Grand Ethiopian Renaissance Dam"
+    },
     "grand-lake-theatre": {
       "category": "para-infrastructural-cultural",
       "coordinates": [
@@ -3634,6 +3711,16 @@
       "description": "The world's only museum of hovercraft. Lots of craft to view and/or go inside - including the only remaining SRN-4 - a car-carrying hovercraft that went across the channel. \n\nhttps://www.hovercraft-museum.org/",
       "id": "hovercraft-museum",
       "name": "Hovercraft Museum"
+    },
+    "hughes-mining-barge": {
+      "category": "not-open-to-public-but-visible",
+      "coordinates": [
+        -122.2934505,
+        37.7914034
+      ],
+      "description": "See https://en.wikipedia.org/wiki/Hughes_Mining_Barge",
+      "id": "hughes-mining-barge",
+      "name": "Hughes Mining Barge"
     },
     "humber-bridge": {
       "category": "museums-attractions",
@@ -4694,6 +4781,7 @@
         -120.864762,
         45.6775953
       ],
+      "description": "Bizarre, wonderful place with a deeply silly history.",
       "id": "maryhill-museum-of-art",
       "name": "Maryhill Museum of Art"
     },
@@ -5028,7 +5116,7 @@
         -121.9142302,
         37.8817969
       ],
-      "description": "Origin point for surveys in a large part of California. Outstanding views \u2013 sometimes rumored to be one of the largest viewsheds in the world, although this is easily debunked. Go on the clearest day possible to maximize vistas in all directions. A fun though scary drive on cliff-hugging roads designed in an era of slower cars.",
+      "description": "Origin point for surveys in a large part of California. Outstanding views \u2013 sometimes rumored to be one of the largest viewsheds in the world, although this is easily debunked. Go on the clearest day possible to maximize vistas in all directions. A fun though scary drive on cliff-hugging roads designed in an era of smaller, slower cars. Has various temporary attractions such as tarantula season (early fall).",
       "id": "mount-diablo-summit-museum-and-trailhead",
       "name": "Mount Diablo Summit Museum and Trailhead"
     },
@@ -5118,6 +5206,15 @@
       "id": "mullard-radio-astronomy-observatory-mrao",
       "name": "Mullard Radio Astronomy Observatory (MRAO)"
     },
+    "multnomah-falls": {
+      "category": "nature",
+      "coordinates": [
+        -122.1174536,
+        45.5774878
+      ],
+      "id": "multnomah-falls",
+      "name": "Multnomah Falls"
+    },
     "murray-star-maze": {
       "category": "interesting-things",
       "coordinates": [
@@ -5175,6 +5272,16 @@
       ],
       "id": "museo-della-carta",
       "name": "Museo della Carta"
+    },
+    "museo-nacional-de-antropologa": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -99.1862786,
+        19.4260032
+      ],
+      "description": "Often ranked one of the best museums in the world.",
+      "id": "museo-nacional-de-antropologa",
+      "name": "Museo Nacional de Antropolog\u00eda"
     },
     "museo-nazionale-ferroviario-di-pietrarsa": {
       "category": "museums-attractions",
@@ -5294,7 +5401,7 @@
         -122.2964894,
         47.5186185
       ],
-      "description": "Very Boeing-centric for obvious reasons but nonetheless excellent.",
+      "description": "Very Boeing-centric for obvious reasons* but nonetheless excellent.\n\n* Boeing's operations are based in Seattle and it's the major patron of the museum.",
       "id": "museum-of-flight",
       "name": "Museum of Flight"
     },
@@ -6219,6 +6326,16 @@
       "description": "One of only two ossuaries in the UK. See https://www.slhk.org/theossuary.htm",
       "id": "ossuary-in-the-crypt-of-st-leonards-church",
       "name": "Ossuary in the Crypt of St Leonard's church"
+    },
+    "ouarzazate-noor-solar-power-station": {
+      "category": "industry",
+      "coordinates": [
+        -6.8705773,
+        31.0601617
+      ],
+      "description": "Among the largest solar power plants in the world. Not open to casual visitors, but tours can be arranged (https://www.masen.ma/en/site-visit-request) and are apparently very interesting.",
+      "id": "ouarzazate-noor-solar-power-station",
+      "name": "Ouarzazate (Noor) Solar Power Station"
     },
     "oxford-bus-museum": {
       "category": "museums-attractions",
@@ -7257,6 +7374,7 @@
         -117.1509849,
         32.7360353
       ],
+      "description": "One of the first zoos to make a real effort to keep animals in humane, pseudo-natural conditions and not as if they were mere museum pieces.",
       "id": "san-diego-zoo",
       "name": "San Diego Zoo"
     },
@@ -7318,6 +7436,16 @@
       ],
       "id": "santa-justa-lift",
       "name": "Santa Justa Lift"
+    },
+    "santiago-peak": {
+      "category": "para-infrastructural-cultural",
+      "coordinates": [
+        -117.5342131,
+        33.7102973
+      ],
+      "description": "Based on one GIS analysis, this is the point in the US from which you can see the largest amount of urbanized land.",
+      "id": "santiago-peak",
+      "name": "Santiago Peak"
     },
     "sapporo-city-sewage-science-museum": {
       "category": "museums-attractions",
@@ -7576,7 +7704,7 @@
         -122.3893725,
         37.8089822
       ],
-      "description": "Excellent views under the Bay Bridge, past the Port of Oakland, etc., depending on route. Subsidized as a disaster preparedness program in order to provide emergency transport in case bridges are damaged in a major earthquake.",
+      "description": "Excellent views under the Bay Bridge, past the Port of Oakland, etc., depending on route. Subsidized as a disaster preparedness program in order to provide emergency transport in case bridges are damaged in a major earthquake. Easily the most pleasant way to cross the Bay.",
       "id": "sf-bay-ferry",
       "name": "SF Bay Ferry"
     },
@@ -7589,6 +7717,15 @@
       "description": "The SFO Museum is a fully accredited museum whose grounds also happen to serve as the world's 24th largest airport by passenger count. Even if you can't visit the museum proper, look out for small displays in the terminals.",
       "id": "sfo-museum-louis-a-turpen-aviation-museum-and-library",
       "name": "SFO Museum Louis A. Turpen Aviation Museum and Library"
+    },
+    "shasta-dam": {
+      "category": "interesting-things",
+      "coordinates": [
+        -122.4192342,
+        40.7185636
+      ],
+      "id": "shasta-dam",
+      "name": "Shasta Dam"
     },
     "sheldon-country-park-birmingham-airport-viewing-area": {
       "category": "interesting-things",
@@ -8908,6 +9045,15 @@
       "id": "the-musical-museum",
       "name": "The Musical Museum"
     },
+    "the-mystery-spot": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -122.002508,
+        37.0168648
+      ],
+      "id": "the-mystery-spot",
+      "name": "The Mystery Spot"
+    },
     "the-national-museum-of-computing": {
       "category": "museums-attractions",
       "coordinates": [
@@ -9195,6 +9341,16 @@
       "id": "tim-hunkins-under-pier-show-southwold-pier",
       "name": "Tim Hunkin's Under Pier Show - Southwold Pier"
     },
+    "timberline-lodge": {
+      "category": "para-infrastructural-cultural",
+      "coordinates": [
+        -121.7110064,
+        45.3311281
+      ],
+      "description": "The best place to see Mt Hood without climbing it.",
+      "id": "timberline-lodge",
+      "name": "Timberline Lodge"
+    },
     "titan-missile-museum": {
       "category": "museums-attractions",
       "coordinates": [
@@ -9473,6 +9629,16 @@
       ],
       "id": "valley-relics-museum",
       "name": "Valley Relics Museum"
+    },
+    "vasquez-rocks": {
+      "category": "nature",
+      "coordinates": [
+        -118.3143855,
+        34.4858033
+      ],
+      "description": "Famous for their use in many movies and TV shows, notably \u201cStar Trek\u201d.",
+      "id": "vasquez-rocks",
+      "name": "Vasquez Rocks"
     },
     "verner-panton-weg": {
       "category": "interesting-things",
@@ -10132,6 +10298,16 @@
       "description": "Great little museum where you can see the famous Tom Puddings - the boats which carried coal from the west yorkshire coal mines to Goole. And at weekends there's trips round Goole docks.",
       "id": "yorkshire-waterways-museum",
       "name": "Yorkshire Waterways Museum"
+    },
+    "yosemite-valley": {
+      "category": "nature",
+      "coordinates": [
+        -119.5871645,
+        37.748746
+      ],
+      "description": "Famous for a reason. Can be very crowded in the tourist season (spring through fall); plan and make reservations well in advance.",
+      "id": "yosemite-valley",
+      "name": "Yosemite Valley"
     },
     "zanja-madre": {
       "category": "historic-ruins-structures",

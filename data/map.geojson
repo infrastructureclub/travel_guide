@@ -13253,6 +13253,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -1.2139135,
+                    51.9251093,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Viridor Ardley Energy Recovery Facility\n",
+                "styleUrl": "#icon-1693-757575-labelson",
+                "styleHash": "-1d74371c",
+                "icon": "images/icon-3.png",
+                "description": "Was open on a Heritage Open Day, pre-booking was required. Very interesting!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -78.3005704,
                     44.3076708,
                     0

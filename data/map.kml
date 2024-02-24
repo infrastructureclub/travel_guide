@@ -7527,6 +7527,17 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Viridor Ardley Energy Recovery Facility
+</name>
+        <description>Was open on a Heritage Open Day, pre-booking was required. Very interesting!</description>
+        <styleUrl>#icon-1693-757575-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -1.2139135,51.9251093,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Historic / ruins / structures</name>
@@ -10573,6 +10584,9 @@
           </coordinates>
         </Point>
       </Placemark>
+    </Folder>
+    <Folder>
+      <name>Stays</name>
     </Folder>
   </Document>
 </kml>

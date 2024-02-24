@@ -5,7 +5,7 @@
       "name": "Historic / ruins / structures"
     },
     "industry": {
-      "count": 26,
+      "count": 27,
       "name": "Industry"
     },
     "interesting-things": {
@@ -31,6 +31,10 @@
     "science": {
       "count": 21,
       "name": "Science"
+    },
+    "stays": {
+      "count": 0,
+      "name": "Stays"
     }
   },
   "places": {
@@ -9718,6 +9722,16 @@
       "description": "Observation deck and rotating floor with cafe and a small museum",
       "id": "vilnius-tv-tower",
       "name": "Vilnius TV Tower"
+    },
+    "viridor-ardley-energy-recovery-facility": {
+      "category": "industry",
+      "coordinates": [
+        -1.2139135,
+        51.9251093
+      ],
+      "description": "Was open on a Heritage Open Day, pre-booking was required. Very interesting!",
+      "id": "viridor-ardley-energy-recovery-facility",
+      "name": "Viridor Ardley Energy Recovery Facility"
     },
     "vista-house": {
       "category": "para-infrastructural-cultural",

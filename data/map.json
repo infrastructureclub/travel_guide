@@ -1,7 +1,7 @@
 {
   "categories": {
     "historic-ruins-structures": {
-      "count": 111,
+      "count": 112,
       "name": "Historic / ruins / structures"
     },
     "industry": {
@@ -9,7 +9,7 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 260,
+      "count": 261,
       "name": "Interesting Things"
     },
     "museums-attractions": {
@@ -5248,6 +5248,15 @@
       "id": "muse-aeroscopia",
       "name": "Mus\u00e9e Aeroscopia"
     },
+    "muse-des-arts-et-mtiers": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        2.3556152,
+        48.8660399
+      ],
+      "id": "muse-des-arts-et-mtiers",
+      "name": "Mus\u00e9e des Arts et M\u00e9tiers"
+    },
     "muse-du-touage-riqueval": {
       "category": "historic-ruins-structures",
       "coordinates": [
@@ -6536,6 +6545,16 @@
       ],
       "id": "peterhead-prison-museum",
       "name": "Peterhead Prison Museum"
+    },
+    "petite-ceinture": {
+      "category": "interesting-things",
+      "coordinates": [
+        2.2648593,
+        48.8560956
+      ],
+      "description": "Abandoned circle rail line in various states of development\n\nhttps://www.petiteceinture-info.fr/",
+      "id": "petite-ceinture",
+      "name": "Petite Ceinture"
     },
     "petn-funicular": {
       "category": "interesting-things",

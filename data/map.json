@@ -13,7 +13,7 @@
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 467,
+      "count": 468,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -4222,6 +4222,15 @@
       "id": "kth-r1",
       "name": "KTH R1"
     },
+    "la-brea-tar-pits-and-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -118.356445,
+        34.06388
+      ],
+      "id": "la-brea-tar-pits-and-museum",
+      "name": "La Brea Tar Pits and Museum"
+    },
     "la-coupole-centre-dhistoire-v2-bunker": {
       "category": "museums-attractions",
       "coordinates": [
@@ -7447,7 +7456,7 @@
         -121.0978734,
         37.0804792
       ],
-      "description": "Good visitor center.",
+      "description": "Modest but good visitor center.",
       "id": "san-luis-reservoir",
       "name": "San Luis Reservoir"
     },

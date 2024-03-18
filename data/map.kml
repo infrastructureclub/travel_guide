@@ -7269,6 +7269,15 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>La Brea Tar Pits and Museum</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -118.356445,34.06388,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>
@@ -7315,7 +7324,7 @@
       <Placemark>
         <name>San Luis Reservoir
 </name>
-        <description>Good visitor center.</description>
+        <description>Modest but good visitor center.</description>
         <styleUrl>#icon-1693-757575-labelson</styleUrl>
         <Point>
           <coordinates>

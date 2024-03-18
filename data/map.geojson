@@ -12807,6 +12807,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -118.356445,
+                    34.06388,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "La Brea Tar Pits and Museum",
+                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
+                "styleHash": "-4303c82c",
+                "icon": "images/icon-2.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.9055879,
                     38.1671515,
                     0
@@ -12887,7 +12904,7 @@
                 "styleUrl": "#icon-1693-757575-labelson",
                 "styleHash": "-1d74371c",
                 "icon": "images/icon-3.png",
-                "description": "Good visitor center."
+                "description": "Modest but good visitor center."
             }
         },
         {

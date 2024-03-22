@@ -60,7 +60,7 @@
         <text><![CDATA[<h3>$[name]</h3>]]></text>
       </BalloonStyle>
     </Style>
-    <Style id="icon-1636-F57C00-labelson">
+    <Style id="icon-1608-F57C00-labelson">
       <IconStyle>
         <scale>1</scale>
         <Icon>
@@ -68,7 +68,7 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="icon-1636-F57C00-labelson-nodesc">
+    <Style id="icon-1608-F57C00-labelson-nodesc">
       <IconStyle>
         <scale>1</scale>
         <Icon>
@@ -2743,6 +2743,63 @@
         <Point>
           <coordinates>
             2.2648593,48.8560956,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>San Pablo Dam</name>
+        <description>Easily accessible example of a type of reservoir dam common in the region.</description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.258906,37.9449743,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KPH Marine Radio Station</name>
+        <description>https://en.wikipedia.org/wiki/KPH_(radio_station)</description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.9475082,38.0959528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Callistoga Pioneer Cemetery</name>
+        <description><![CDATA[Of no great historical or cultural importance, but extremely scenic – old gravestones, dappled light, etc.<br><br>https://www.atlasobscura.com/places/calistoga-pioneer-cemetery]]></description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.5929289,38.579478,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Corinth Canal</name>
+        <styleUrl>#icon-1598-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            22.9945051,37.9272014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aqueduct Arcos De Xochimilco</name>
+        <styleUrl>#icon-1598-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -96.7225304,17.0776021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Library</name>
+        <styleUrl>#icon-1598-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            70.2191086,-49.3490512,0
           </coordinates>
         </Point>
       </Placemark>
@@ -7278,6 +7335,135 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Library of Congress</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.004719,38.888684,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>United States National Arboretum</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -76.9657782,38.91213,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Little Red Lighthouse</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -73.946979,40.8502813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SS Moyie Sternwheeler National Historic Site</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -116.9022222,49.9116667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Norway Fisheries Museum</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            5.3216969,60.4080429,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Distillerie Parfum d Ylang N.G. Nosy Be Madagascar</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            48.2828891,-13.3603685,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Arboretum d'Antsokay]]></name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            43.7554606,-23.4141473,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Musée d'Isalo]]></name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            45.3626756,-22.6179193,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Old Train Station (rail museum)
+</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -100.7684695,20.9164389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Museo Textil de Oaxaca (textile museum)
+</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -96.722992,17.0606711,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Museo De La Filatelia / MUFI (postal museum)
+</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -96.7216671,17.0654483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Museum of Cultures of Oaxaca, Santo Domingo</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -96.723086,17.0661807,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jardín Botánico Culiacán</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -107.384967,24.82376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tate Geological Museum at Casper College</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -106.3291329,42.8259884,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>
@@ -7561,7 +7747,7 @@
       <Placemark>
         <name>Trent-Severn Waterway, Lock 21 - Peterborough Lift Lock</name>
         <description><![CDATA[For years was the tallest lift-locks in the world.  Lovely parklands around too, nice place to stop if you're in the area]]></description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             -78.3005704,44.3076708,0
@@ -7570,7 +7756,7 @@
       </Placemark>
       <Placemark>
         <name>Berkeley Pit Viewing Stand</name>
-        <styleUrl>#icon-1636-F57C00-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             -112.5183281,46.0112395,0
@@ -7579,7 +7765,7 @@
       </Placemark>
       <Placemark>
         <name>Museo della Carta</name>
-        <styleUrl>#icon-1636-F57C00-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             14.5997867,40.6396068,0
@@ -7588,7 +7774,7 @@
       </Placemark>
       <Placemark>
         <name>Cliff Palace</name>
-        <styleUrl>#icon-1636-F57C00-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             -108.473217,37.1669064,0
@@ -7598,7 +7784,7 @@
       <Placemark>
         <name>Maunsell Forts</name>
         <description><![CDATA[WWII giant iron forts in the English channel. Needs a private boat to get to them.<br><br>See https://project-redsand.com/ for info on one of the forts.]]></description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             1.0293125,51.4269375,0
@@ -7608,7 +7794,7 @@
       <Placemark>
         <name>Ruins of RAF Stoney Cross</name>
         <description>Ruins of old WW2 airfield in the New Forest. Lots of bits of taxiways and runways available (look on satellite view), old lighting structures etc. The main runway is now the suspiciously straight road. Lots of pleasant New Forest scenery, plus ice cream vans, and local ponds/lakes.</description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             -1.6625997,50.9141816,0
@@ -7618,7 +7804,7 @@
       <Placemark>
         <name>Ramsgate Hoverport Remains</name>
         <description><![CDATA[Only the tarmac left - so probably not worth visiting unless you're in the area anyway]]></description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             1.3726555,51.3265922,0
@@ -7628,7 +7814,7 @@
       <Placemark>
         <name>Manzanar National Historic Site</name>
         <description>WWII Japanese-American “internment” camp</description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             -118.1482456,36.7274747,0
@@ -7637,7 +7823,7 @@
       </Placemark>
       <Placemark>
         <name>Manhattan Project National Historical Park - B Reactor</name>
-        <styleUrl>#icon-1636-F57C00-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             -119.6473329,46.6303262,0
@@ -7646,7 +7832,7 @@
       </Placemark>
       <Placemark>
         <name>Nevada Northern Railway Museum</name>
-        <styleUrl>#icon-1636-F57C00-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             -114.8690338,39.2593307,0
@@ -7655,7 +7841,7 @@
       </Placemark>
       <Placemark>
         <name>Old Plank Road</name>
-        <styleUrl>#icon-1636-F57C00-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             -114.9222667,32.7103263,0
@@ -7665,7 +7851,7 @@
       <Placemark>
         <name>Euro Banknote Bridges</name>
         <description>The bridges shown on Euro bank notes were fictional, but in various European styles. An art project then actually built the bridges pictured.</description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             4.3405437,51.8497222,0
@@ -7674,7 +7860,7 @@
       </Placemark>
       <Placemark>
         <name>Ribblehead Viaduct</name>
-        <styleUrl>#icon-1636-F57C00-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             -2.370284,54.2106638,0
@@ -7684,7 +7870,7 @@
       <Placemark>
         <name>Dungeness Sound Mirrors</name>
         <description><![CDATA[Used before radar to hear aircraft approaching from a long way away.<br><br>Makes a great day trip.<br><br>Only open on open days a few times a year.<br><br>http://www.andrewgrantham.co.uk/soundmirrors/]]></description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             0.9540529,50.9564027,0
@@ -7693,7 +7879,7 @@
       </Placemark>
       <Placemark>
         <name>Park of the Aqueducts</name>
-        <styleUrl>#icon-1636-F57C00-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             12.5574572,41.8503929,0
@@ -7703,7 +7889,7 @@
       <Placemark>
         <name>Southend Pier</name>
         <description>Longest pier in the UK, plus a railway running down the pier</description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             0.7213401,51.5169805,0
@@ -7712,7 +7898,7 @@
       </Placemark>
       <Placemark>
         <name>Spiral Jetty</name>
-        <styleUrl>#icon-1636-F57C00-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             -112.6688659,41.4376786,0
@@ -7721,7 +7907,7 @@
       </Placemark>
       <Placemark>
         <name>Casa Grande Ruins National Monument</name>
-        <styleUrl>#icon-1636-F57C00-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             -111.5325468,32.9974176,0
@@ -7730,7 +7916,7 @@
       </Placemark>
       <Placemark>
         <name>Museum of the Canals</name>
-        <styleUrl>#icon-1636-F57C00-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             4.886253,52.3678987,0
@@ -7740,7 +7926,7 @@
       <Placemark>
         <name>REM - Restaurant | Bar | Rooftop</name>
         <description><![CDATA[A restaurant & bar on a former oil rig platform]]></description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             4.8832333,52.3987225,0
@@ -7749,7 +7935,7 @@
       </Placemark>
       <Placemark>
         <name>Ocean Star Offshore Drilling Rig and Museum</name>
-        <styleUrl>#icon-1636-F57C00-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             -94.7917377,29.3104255,0
@@ -7759,7 +7945,7 @@
       <Placemark>
         <name>Trinity Site</name>
         <description><![CDATA["visits to the site are sponsored by [White Sands Missile Range] in April and October. The rest of the year the site is closed to the public because it lies within the impact zone for missiles".]]></description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             -106.4752871,33.6772929,0
@@ -7769,7 +7955,7 @@
       <Placemark>
         <name>San Juan Island NHP, English Camp Visitor Center</name>
         <description>One of two sites documenting the Pig War, a US/UK border dispute.</description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             -123.1507405,48.5867524,0
@@ -7778,7 +7964,7 @@
       </Placemark>
       <Placemark>
         <name>Airmail Navigation Arrow</name>
-        <styleUrl>#icon-1636-F57C00-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             -115.8313412,35.3996298,0
@@ -7787,7 +7973,7 @@
       </Placemark>
       <Placemark>
         <name>Fantoft Stave Church</name>
-        <styleUrl>#icon-1636-F57C00-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             5.35329,60.3393031,0
@@ -7796,7 +7982,7 @@
       </Placemark>
       <Placemark>
         <name>Viking Ship Museum</name>
-        <styleUrl>#icon-1636-F57C00-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             10.6844075,59.9049448,0
@@ -7805,7 +7991,7 @@
       </Placemark>
       <Placemark>
         <name>Drammen Spiral</name>
-        <styleUrl>#icon-1636-F57C00-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             10.2008964,59.7521483,0
@@ -7815,7 +8001,7 @@
       <Placemark>
         <name>R.C. Harris Water Treatment Plant</name>
         <description><![CDATA[Art-deco water treatment plant on the waterfront.  Open to the public only once a year during Doors Open, but the outside is still nice if you're at the nearby beach.]]></description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             -79.2789182,43.6734074,0
@@ -7824,7 +8010,7 @@
       </Placemark>
       <Placemark>
         <name>Great Sphinx of Giza</name>
-        <styleUrl>#icon-1636-F57C00-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             31.1375674,29.9752687,0
@@ -7833,7 +8019,7 @@
       </Placemark>
       <Placemark>
         <name>The Great Pyramid of Giza</name>
-        <styleUrl>#icon-1636-F57C00-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             31.1342019,29.9792345,0
@@ -7842,7 +8028,7 @@
       </Placemark>
       <Placemark>
         <name>Spinnaker Tower</name>
-        <styleUrl>#icon-1636-F57C00-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             -1.1085171,50.7955752,0
@@ -7852,7 +8038,7 @@
       <Placemark>
         <name>Portchester Castle</name>
         <description>Great views of Portsmouth Harbour</description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             -1.1147381,50.8376105,0
@@ -7862,7 +8048,7 @@
       <Placemark>
         <name>UNESCO-Welterbe Zollverein</name>
         <description>Massive site of abandoned coal mine. Lots of rusting steel structures to explore. Take the full day!</description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             7.0439172,51.4877427,0
@@ -7872,7 +8058,7 @@
       <Placemark>
         <name>Southampton Civic Centre Clock Tower</name>
         <description>Tours usually listed on https://seacitymuseum.co.uk/whats-on/</description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             -1.4065146,50.9075829,0
@@ -7881,7 +8067,7 @@
       </Placemark>
       <Placemark>
         <name>CN Tower</name>
-        <styleUrl>#icon-1636-F57C00-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             -79.3870568,43.6425662,0
@@ -7890,7 +8076,7 @@
       </Placemark>
       <Placemark>
         <name>Danube Tower</name>
-        <styleUrl>#icon-1636-F57C00-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             16.4098739,48.2403447,0
@@ -7899,7 +8085,7 @@
       </Placemark>
       <Placemark>
         <name>Pompeii Ruins</name>
-        <styleUrl>#icon-1636-F57C00-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             14.4818328,40.7480839,0
@@ -7909,7 +8095,7 @@
       <Placemark>
         <name>Greenham Control Tower and Cafe</name>
         <description>Museum in the control tower about the history (including the peace camp), plus restored control room to look out over the airport.</description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             -1.2842648,51.3821926,0
@@ -7919,7 +8105,7 @@
       <Placemark>
         <name>Acle Bridge</name>
         <description>Exceptionally low bridge, always good fun to watch boats going through</description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             1.5676791,52.6489878,0
@@ -7928,7 +8114,7 @@
       </Placemark>
       <Placemark>
         <name>Pont de Normandie</name>
-        <styleUrl>#icon-1636-F57C00-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             0.2742406,49.4306078,0
@@ -7938,7 +8124,7 @@
       <Placemark>
         <name>York Minster</name>
         <description>Go down into the crypt and see the underpinning that they had to do to stop it sinking further into the ground. Tower tours also available.</description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             -1.0819205,53.9623292,0
@@ -7947,7 +8133,7 @@
       </Placemark>
       <Placemark>
         <name>Laugharne Castle/ Castell Talacharn</name>
-        <styleUrl>#icon-1636-F57C00-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             -4.4619368,51.7696222,0
@@ -7956,7 +8142,7 @@
       </Placemark>
       <Placemark>
         <name>Menai Bridge Viewpoint</name>
-        <styleUrl>#icon-1636-F57C00-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             -4.1836345,53.2224862,0
@@ -7966,7 +8152,7 @@
       <Placemark>
         <name>Montparnasse Tower</name>
         <description><![CDATA[Observation deck at the top of a very tall tower. Good views of the Eiffel Tower.<br><br>See https://www.tourmontparnasse56.com/fr/]]></description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             2.3219514,48.8421379,0
@@ -7976,7 +8162,7 @@
       <Placemark>
         <name>Solheimasandur Plane Wreck</name>
         <description>Instagram famous wreck of a plane. Cool to visit if you can spare the time. At least an hour walk each way.</description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             -19.364789,63.459104,0
@@ -7986,7 +8172,7 @@
       <Placemark>
         <name>Habitat 67</name>
         <description><![CDATA[Cool jenga style 60s apartment block. You can't go inside, but you can wander around the outside.]]></description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             -73.5437127,45.4998316,0
@@ -7996,7 +8182,7 @@
       <Placemark>
         <name>Pontcysyllte Aqueduct</name>
         <description>Nice canal basin/boat yard at one end, with a little shop for ice creams etc. One of the cottages alongside the canal is a holiday cottage which is a nice place to stay.</description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             -3.0877879,52.9704262,0
@@ -8006,7 +8192,7 @@
       <Placemark>
         <name>Walthamstow Pumphouse Museum</name>
         <description><![CDATA[This used to be a sewage pumping station, and is now being run as a museum by a group of (mostly elderly) hobbyist, who are more than happy to explain all the details. They do run the machines on certain days (mostly Sundays), using compressed air instead of steam. Don't expect to spent more than half an hour here, it's not very big. Last I checked they were also working on a model rail replicate of the old Walthamstow Street Station.]]></description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             -0.0349438,51.5770337,0
@@ -8016,7 +8202,7 @@
       <Placemark>
         <name>Middlesex Filter Beds Nature Reserve</name>
         <description><![CDATA[A historic sewage treatment site that has been turned into a nature reserve and park. The center-piece is a round filterbed where each side is in a different state of 're-wilding'. 1-2 hours max, can get quite busy on nice days. You can combine it with a stroll along the canal towards the Olypmic park.]]></description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             -0.0400376,51.560682,0
@@ -8027,7 +8213,7 @@
         <name>Hackney Power Station
 </name>
         <description>Historic power station, which is now a waste depot/car park. You can see one wall of what used to be a massive hall from the canal bridge, the other walls and the roof are gone. </description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             -0.0400515,51.5586709,0
@@ -8038,7 +8224,7 @@
         <name>Glines Canyon Dam Spillway Overlook
 </name>
         <description>One of the largest dam removals completed in the US, in 2011. See https://www.nps.gov/olym/learn/nature/elwha-ecosystem-restoration.htm</description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             -123.600155,48.0023681,0
@@ -8048,7 +8234,7 @@
       <Placemark>
         <name>Chicago River Boat Architecture Tours</name>
         <description>Travel on the Chicago River to view the many cool buildings, and hear about how Chicago reversed the river</description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             -87.6153955,41.890551,0
@@ -8058,7 +8244,7 @@
       <Placemark>
         <name>Shoreham Cement works</name>
         <description><![CDATA[Closed to public and not in use anymore, but the site is huge. <br><br>https://www.bcd-urbex.com/shoreham-cement-works-west-sussex/<br><br>https://www.shorehambysea.com/chalk-history-shoreham-beeding-cement-works/]]></description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             -0.2986502,50.864787,0
@@ -8067,7 +8253,7 @@
       </Placemark>
       <Placemark>
         <name>Cliffe Fort</name>
-        <styleUrl>#icon-1636-F57C00-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             0.4557958,51.4635997,0
@@ -8076,7 +8262,7 @@
       </Placemark>
       <Placemark>
         <name>Brighton West Pier</name>
-        <styleUrl>#icon-1636-F57C00-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             -0.1519598,50.8190545,0
@@ -8085,7 +8271,7 @@
       </Placemark>
       <Placemark>
         <name>Shoreham Fort</name>
-        <styleUrl>#icon-1636-F57C00-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             -0.2501366,50.8273218,0
@@ -8095,7 +8281,7 @@
       <Placemark>
         <name>Steyning Royal Observers Corp</name>
         <description>https://www.subbrit.org.uk/sites/steyning-roc-post/</description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             -0.3327873,50.880334,0
@@ -8105,7 +8291,7 @@
       <Placemark>
         <name>Shoreham airfield dome trainer</name>
         <description><![CDATA[https://www.shorehambysea.com/gunnery-training-dome/<br><br>https://ancientmonuments.uk/104043-shoreham-airfield-dome-trainer-240m-south-west-of-sussex-pad-hotel-lancing]]></description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             -0.2991146,50.8398025,0
@@ -8115,7 +8301,7 @@
       <Placemark>
         <name>Jubilee Tower</name>
         <description><![CDATA[Tower was completed in 1898 to commemorate Queen Victoria's Diamond Jubilee and also to celebrate the victory of the local people for the right to access the moor.<br><br>See https://en.wikipedia.org/wiki/Jubilee_Tower]]></description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             -2.489167,53.688889,0
@@ -8125,7 +8311,7 @@
       <Placemark>
         <name>West Kennet Long Barrow</name>
         <description><![CDATA[One of the largest, most impressive and most accessible Neolithic chambered tombs in Britain. Built in around 3650 BC, it was used for a short time as a burial chamber, nearly 50 people being buried here before the chambers were blocked. Part of the Avebury World Heritage Site. Open constantly.<br><br>See https://www.english-heritage.org.uk/visit/places/west-kennet-long-barrow/]]></description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             -1.8510514,51.4085863,0
@@ -8135,7 +8321,7 @@
       <Placemark>
         <name>Silbury Hill</name>
         <description><![CDATA[The largest artificial mound in Europe, mysterious Silbury Hill compares in height and volume to the roughly contemporary Egyptian pyramids. Probably completed in around 2400 BC, it apparently contains no burial. Though clearly important in itself, its purpose and significance remain unknown.<br><br>https://www.english-heritage.org.uk/visit/places/silbury-hill/]]></description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             -1.8574235,51.4157321,0
@@ -8145,7 +8331,7 @@
       <Placemark>
         <name>Avebury Stone Circles</name>
         <description><![CDATA[Avebury henge and stone circles are one of the greatest marvels of prehistoric Britain. Built and much altered during the Neolithic period, roughly between 2850 BC and 2200 BC, the henge survives as a huge circular bank and ditch, encircling an area that includes part of Avebury village. Within the henge is the largest stone circle in Britain - originally of about 100 stones - which in turn encloses two smaller stone circles.<br><br>See https://www.english-heritage.org.uk/visit/places/avebury/]]></description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             -1.8548908,51.4289196,0
@@ -8155,7 +8341,7 @@
       <Placemark>
         <name>Whiteford Lighthouse</name>
         <description><![CDATA[Lighthouse just off-shore. No public access but can be seen from beaches etc.<br><br>Lots of information at https://en.wikipedia.org/wiki/Whiteford_Lighthouse]]></description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             -4.2510708,51.6525766,0
@@ -8165,7 +8351,7 @@
       <Placemark>
         <name>Zanja Madre</name>
         <description><![CDATA[Visible section of the brick pipe that was Los Angeles' first underground water distribution network, after the replacement of the ditch-like Zanja network.]]></description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             -118.2332811,34.0685697,0
@@ -8175,7 +8361,7 @@
       <Placemark>
         <name>Stockport Viaduct</name>
         <description><![CDATA[The railway line between Stockport and Manchester passes over the supposed largest brick structure in Europe.<br><br>http://en.wikipedia.org/wiki/Stockport_Viaduct<br><br>Newspaper articles about it from the time line the corridor to the toilets in the nearby Crown Inn.]]></description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             -2.1662306,53.4100134,0
@@ -8185,7 +8371,7 @@
       <Placemark>
         <name>Tempelhof Airport</name>
         <description>Guided tours in English - definitely recommended! https://www.thf-berlin.de/ihr-besuch/fuehrungen/english-guided-tour#/</description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             13.3891911,52.4821151,0
@@ -8196,7 +8382,7 @@
         <name>Grain Tower
 </name>
         <description>Accessible on foot via low tide only! Be careful of the tides! You legally cannot enter the tower, only observe it from the ground. https://en.wikipedia.org/wiki/Grain_Tower</description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             0.7311666,51.451521,0
@@ -8206,7 +8392,7 @@
       <Placemark>
         <name>Fort Jefferson</name>
         <description>Largest brick masonry structure in the Western Hemisphere.</description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             -82.8731853,24.6287053,0
@@ -8216,7 +8402,7 @@
       <Placemark>
         <name>Point Bonita Lighthouse</name>
         <description>Not the most interesting of the region’s lighthouses, but still pretty great, and very accessible from the inner Bay Area.</description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             -122.5295301,37.8156282,0
@@ -8225,7 +8411,7 @@
       </Placemark>
       <Placemark>
         <name>Nike Missile Site SF-88L</name>
-        <styleUrl>#icon-1636-F57C00-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             -122.5274177,37.8271142,0
@@ -8235,7 +8421,7 @@
       <Placemark>
         <name>Mt. Tamalpais Gravity Car Barn</name>
         <description>The Mt Tam summit in general has spectacular views of the entire Bay Area, various big antennas and radars, and a number of minor but pleasant infrastructural attractions such as this.</description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             -122.5790203,37.9281767,0
@@ -8244,7 +8430,7 @@
       </Placemark>
       <Placemark>
         <name>Stonehenge WWI Memorial</name>
-        <styleUrl>#icon-1636-F57C00-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             -120.8060161,45.6943755,0
@@ -8253,7 +8439,7 @@
       </Placemark>
       <Placemark>
         <name>Mississippi River Basin Model</name>
-        <styleUrl>#icon-1636-F57C00-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             -90.3188858,32.305972,0
@@ -8263,7 +8449,7 @@
       <Placemark>
         <name>Crescent Wood Tunnel (North portal)</name>
         <description>Part of the old Crystal Palace High Level railway line. Now closed to public as bats are living there.</description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             -0.0685834,51.4345274,0
@@ -8273,7 +8459,7 @@
       <Placemark>
         <name>Warragamba Dam</name>
         <description>A great big dam. Enough said really. Enjoy.</description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             150.5955903,-33.88303,0
@@ -8283,7 +8469,7 @@
       <Placemark>
         <name>Sea Cliff Bridge</name>
         <description>http://en.wikipedia.org/wiki/Sea_Cliff_Bridge</description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             150.9732719,-34.2550542,0
@@ -8293,7 +8479,7 @@
       <Placemark>
         <name>Castle Hill</name>
         <description>https://en.wikipedia.org/wiki/Castle_Hill,_Huddersfield</description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             -1.770899,53.623043,0
@@ -8303,7 +8489,7 @@
       <Placemark>
         <name>Ladybower Reservoir</name>
         <description><![CDATA[Two villages were flooded to create the reservoirs and remains can be still be seen when the water level is low. <br>Derwent Reservoir was alos used as a site for the RAF Dambusters to practice low-level flying in order to drop the bouncing bombs on German dams.]]></description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             -1.700359,53.3690785,0
@@ -8313,7 +8499,7 @@
       <Placemark>
         <name>Fauld Crater</name>
         <description><![CDATA[This huge crater - the site of the world's biggest non nuclear explosion, was formed when an ammunition dump exploded in 1944<br><br>Walk guide at https://www.staffordshire.gov.uk/environment/RightsofWay/PromotedRoutes/Documents/Hanbury-Walks.pdf]]></description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             -1.7310038,52.8475167,0
@@ -8323,7 +8509,7 @@
       <Placemark>
         <name>Bartlow Hills</name>
         <description>Roman barrows cemetery, with the largest round barrows in Britain (up to 45ft tall).</description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             0.3136319,52.0796547,0
@@ -8333,7 +8519,7 @@
       <Placemark>
         <name>The Dorset Cursus, Northern End</name>
         <description><![CDATA[10km long neolithic earthwork, this area is Longbarrow Central.<br><br>See https://www.megalithic.co.uk/article.php?sid=1377]]></description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             -1.9443407,50.9721144,0
@@ -8343,7 +8529,7 @@
       <Placemark>
         <name>Pompocali Earthworks</name>
         <description>Well preserved Roman earthworks</description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             -1.4293864,53.8742331,0
@@ -8353,7 +8539,7 @@
       <Placemark>
         <name>Wandlebury Ring</name>
         <description>An Iron Age hill fort, also the site of some archaeological controversies. Claimed to be the true site of ancient Troy by some.</description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             0.1813441,52.1579758,0
@@ -8364,7 +8550,7 @@
         <name>SL-1 site
 </name>
         <description>An early (1961) nuclear accident that was very influential on US government thinking about nuclear safety: https://en.wikipedia.org/wiki/SL-1</description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             -112.8237,43.5182,0
@@ -8374,7 +8560,7 @@
       <Placemark>
         <name>The Astoria Column</name>
         <description>Spectacular views – bring a camera, binoculars, etc. Claustrophobia-inducing climb. Unsurprisingly racist mural (heroically depicting settlement) spiraling up its outside.</description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             -123.8175132,46.1813205,0
@@ -8384,7 +8570,7 @@
       <Placemark>
         <name>Approximate impact site of CNEOS 2014-01-08</name>
         <description>An interstellar object: https://en.wikipedia.org/wiki/CNEOS_2014-01-08</description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             147.6,-1.3,0
@@ -8394,7 +8580,7 @@
       <Placemark>
         <name>Stack Interchange</name>
         <description>The first four-level stack freeway interchange, connecting the 110 and the 101. Built in 1948, a more compact replacement for a cloverleaf exchange </description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             -118.2488446,34.0628628,0
@@ -8404,7 +8590,7 @@
       <Placemark>
         <name>Angels Flight Railway</name>
         <description>Funicular railway moved from its original location, now connecting the subway, Grand Central Market, and the ritzy office district of Bunker Hill.</description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             -118.2506142,34.0516174,0
@@ -8414,7 +8600,7 @@
       <Placemark>
         <name>Arroyo Seco Confluence</name>
         <description>Where the Los Angeles River and pretty much the entire LA basin watershed intersect. Totally concretized because of floods culminating in a disastrous one in 1938. Also the confluence of the 110 and 5 freeways and the Gold Line light rail track, and trains bound for Grand Central Station and the nearby cargo rail yards.</description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             -118.2259552,34.0794755,0
@@ -8424,7 +8610,7 @@
       <Placemark>
         <name>Bridge of Balgownie</name>
         <description>Built in 1320, rebuilt in 1605. Originally the main route north from Aberdeen. Superseded in 1830 by the downstream Bridge of Don. https://en.wikipedia.org/wiki/Brig_o%27_Balgownie</description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             -2.0985536,57.1772839,0
@@ -8434,7 +8620,7 @@
       <Placemark>
         <name>Forth Bridge</name>
         <description>Iconic cantilever rail bridge.</description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             -3.3884392,56.0006491,0
@@ -8444,7 +8630,7 @@
       <Placemark>
         <name>Tay Rail Bridge</name>
         <description>Iconic railway bridge. Also adjacent are the piers from the original Tay Rail bridge which catastrophically failed in bad weather. Both bridges feature in infamous McGonagall poems.</description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             -2.9882343,56.4383034,0
@@ -8454,7 +8640,7 @@
       <Placemark>
         <name>Glenfinnan Viaduct</name>
         <description><![CDATA[Landmark curving train viaduct. There's a public footpath underneath.<br><br>Built 1897-1901 in concrete.]]></description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             -5.4317589,56.8762172,0
@@ -8463,7 +8649,7 @@
       </Placemark>
       <Placemark>
         <name>Skye Bridge</name>
-        <styleUrl>#icon-1636-F57C00-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             -5.7425689,57.2763084,0
@@ -8473,7 +8659,7 @@
       <Placemark>
         <name>Old Mam Tor Road</name>
         <description>Formerly the main road from Sheffield to Manchester, intended to be a gentler gradient than Winnats Pass to the south. Unfortunately, it crosses an active landslide and had to be repeatedly repaired until they gave up. You can now visit the old road on foot. https://en.wikipedia.org/wiki/Mam_Tor#Landslides</description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             -1.7969475,53.3462801,0
@@ -8483,7 +8669,7 @@
       <Placemark>
         <name>Epping Signalling Museum</name>
         <description><![CDATA[Museum of London Underground signalling including restored signal cabin and a loco.<br><br>Details at https://www.ianvisits.co.uk/articles/a-new-railway-museum-has-opened-in-epping-61233/]]></description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             0.1120711,51.6916211,0
@@ -8493,7 +8679,7 @@
       <Placemark>
         <name>Arcosanti</name>
         <description><![CDATA[Wildly ambitious but never fully-built, designed as an 'arcology' - a dense space for living/working (hello "SimCity" fans).  The construction is from concrete panels that are cast in dirt and then tilted/lifted into position, but in much wilder shapes than modern tilt-wall buildings.<br><br>Full-on sci-fi vibes when you're there - open to the public year round, and has artists in residence.<br><br>Worth a stop!<br><br>https://en.wikipedia.org/wiki/Arcosanti<br>https://www.arcosanti.org/<br><br>(Added by JT)]]></description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             -112.1005547,34.3425315,0
@@ -8502,7 +8688,7 @@
       </Placemark>
       <Placemark>
         <name><![CDATA[Mustafa's Gemüse Kebap]]></name>
-        <styleUrl>#icon-1636-F57C00-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             13.388024,52.4939874,0
@@ -8511,7 +8697,7 @@
       </Placemark>
       <Placemark>
         <name>Montech water slope</name>
-        <styleUrl>#icon-1636-F57C00-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             1.225981,43.971897,0
@@ -8520,7 +8706,7 @@
       </Placemark>
       <Placemark>
         <name>Fonserannes Water Slope</name>
-        <styleUrl>#icon-1636-F57C00-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             3.1993631,43.3300675,0
@@ -8530,7 +8716,7 @@
       <Placemark>
         <name>Musée du Touage Riqueval</name>
         <description>Trolley-wire powered chain-propelled canal tunnel tugboat</description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             3.2357876,49.9513495,0
@@ -8540,7 +8726,7 @@
       <Placemark>
         <name>Flakturm VII G-Turm Augarten</name>
         <description><![CDATA[<img src="./data/images/a4007702501a95841fd33434d1c0490e8831540a73988b4d3142d71c7ed1fb02.png" height="200" width="auto" /><br><br>Ed: This park has 2 WWII battlements. You can't go in (I think?) but nice enough to walk around from the outside.]]></description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
             <value>./data/images/a4007702501a95841fd33434d1c0490e8831540a73988b4d3142d71c7ed1fb02.png</value>
@@ -8555,7 +8741,7 @@
       <Placemark>
         <name>Anti-aircraft gun tower 7, L-Tower, Augarten</name>
         <description><![CDATA[Ed: This park has 2 WWII battlements. You can't go in (I think?) but nice enough to walk around from the outside.]]></description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             16.3784552,48.2278172,0
@@ -8565,7 +8751,7 @@
       <Placemark>
         <name>Carthage (in general)</name>
         <description><![CDATA[The ruins of Carthage are generally a disappointment, even if you're a Roman history buff. For the most part, they're in poor condition and poorly curated/explained. The various ruins are also pretty spread out. Still walkable, but you end up spending a lot of time getting from one slightly disappointing ruin to another.<br><br>The Carthage Museum is currently closed, and isn't scheduled to reopen until 2025 (?).<br><br>You probably still *have* to go see Carthage if you're in Tunis, so save yourself some time and hit the Baths of Antoninus. There's at least a bit of explaination there, and it's fun to scramble around a bit in the ruins.<br><br>Added by grajohnt]]></description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             10.3334693,36.8548214,0
@@ -8575,7 +8761,7 @@
       <Placemark>
         <name>Cisterns of La Malga</name>
         <description><![CDATA[Far and away the most 'infrastructure-y' part of the ruins of Carthage, these are interesting for their size and scope, if not their beauty.<br><br>The cisterns are in pretty good shape, with one that has clearly undergone some modern restoration work. However, the aqueduct itself is very much in ruins, and it takes some imagination to see what it might have looked like.<br><br>There is no interpretation/explanation here, so read up in advance!<br><br>Worth a quick stop, but that's about it.]]></description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             10.3187431,36.859336,0
@@ -8585,7 +8771,7 @@
       <Placemark>
         <name>Monastir Ribat</name>
         <description><![CDATA[A really interesting structure in a fairly spectacular location. Lots of opportunity to explore the structure, including climbing to the top of the watch tower for a beautiful view of the beach, ocean, cemetary, and city. With several narrow, unrailed and uneven staircases, and the low ramparts on top of the tower, this probably isn't the place for those that are afraid of heights.<br><br>The museum doesn't hold much noteworthy, except for a few interesting coins.<br><br>Allow at least an hour or so to explore the whole ruin.<br><br>Added by grajohnt]]></description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             10.8330383,35.7762108,0
@@ -8595,7 +8781,7 @@
       <Placemark>
         <name>Amphitheater of El Jem</name>
         <description><![CDATA[El Jem's Amphitheater and museum more than make up for the disappointment of Carthage, and it is well worth a special trip to see them.<br><br>The amphitheater is huge (3rd largest in the world), and at least has a little interpretation. You can climb all the way up to the highest levels and look down on the floor (and the town), and also explore the underground levels.<br><br>Honestly, it's better than the Roman Colosseum in many ways. Beautiful photography opportunities abound.<br><br>A 15 minute walk takes you to the museum, which is chock full of huge (room-sized) intact Roman mosaics. One of the best collections I've ever seen.<br><br>Worth at least an hour, two plus if you include the museum. A half day in El Jem is not out of order.<br><br>Added by grajohnt]]></description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             10.7069003,35.2964821,0
@@ -8605,7 +8791,7 @@
       <Placemark>
         <name>Historic Village Chebika</name>
         <description><![CDATA[This is IMHO the best of the 'mountain oases' around Tozeur, and if you're short on time or deep interest, you can skip the others. Well worth the walk up the path to the spring/waterfall, and there's also stairs that go up to the hilltop above the village for a nice view.<br><br>Well worth a stop, allow at least an hour.<br><br>Added by grajohnt]]></description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             7.9389246,34.3215522,0
@@ -8615,7 +8801,7 @@
       <Placemark>
         <name>Mides Canyon / Oasis</name>
         <description><![CDATA[A modestly pretty little canyon next to a bog-standard date palm oasis.<br><br>You can walk around the very end of the canyon from here, and if you walk up the hill a bit, you can get a view of an Algeria border post across the oasis to the north.<br><br>Not really worth a stop unless you're really keen on getting right up on the Algerian border. You can *probably* just walk across it here, but that's not necessarily a good idea.<br><br>Added by grajohnt]]></description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             7.916965,34.407096,0
@@ -8625,7 +8811,7 @@
       <Placemark>
         <name>Basins of Aghlabides</name>
         <description><![CDATA[An essential part of the water infrastructure of Kairouan, remarkable for their preservation and antiquity (date back to 862 AD).<br><br>Unfortunately, they're hardly worth a visit. Stop by the Tourist Information Center (this pin) to buy a ticket that gets you into both here and the Great Mosque, pop up to the roof to get a photo, and leave. Spend your time at the Great Mosque instead.<br><br>It's also possible to walk around the site, but sadly the basins aren't that interesting to see and there's no interpretation.]]></description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             10.0970143,35.6865667,0
@@ -8635,7 +8821,7 @@
       <Placemark>
         <name>Curved elevator at the Old Town Hall</name>
         <description><![CDATA[The elevator to the viewing gallery is curved, but not evenly; it's been rebuilt and reshaped a couple of times.]]></description>
-        <styleUrl>#icon-1636-F57C00-labelson</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             9.7359649,52.3712983,0
@@ -8644,10 +8830,19 @@
       </Placemark>
       <Placemark>
         <name>Musée des Arts et Métiers</name>
-        <styleUrl>#icon-1636-F57C00-labelson-nodesc</styleUrl>
+        <styleUrl>#icon-1608-F57C00-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
             2.3556152,48.8660399,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fortaleza De Pungo-Andongo</name>
+        <styleUrl>#icon-1608-F57C00-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            15.597395,-9.6640806,0
           </coordinates>
         </Point>
       </Placemark>
@@ -9121,6 +9316,97 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Canyon de Chelly
+</name>
+        <description><![CDATA[The various Canyon de Chelly overlooks are among the most beautiful vistas that this author has ever seen. A must-see if you’re on Highway 191.<br><br>De Chelly rhymes with “the play”.]]></description>
+        <styleUrl>#icon-1596-558B2F-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -109.4418501,36.1564038,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bears Ears Visitor Center</name>
+        <styleUrl>#icon-1596-558B2F-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -109.5691091,37.2811465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ruby Beach</name>
+        <description>Representative of many similar beaches on this stretch of coast. Old-growth temperate rainforest grows up to the beach, which is broad (at low tide) and mostly sandy, with huge driftwood. A significant fraction of visible litter is from China and Japan and has crossed the Pacific over several years.</description>
+        <styleUrl>#icon-1596-558B2F-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -124.4154024,47.7108733,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>San Joaquin River National Wildlife Refuge</name>
+        <description>One of very few remaining spots in the Central Valley that gives a reasonable impression of what the pre-Columbian landscape looked like.</description>
+        <styleUrl>#icon-1596-558B2F-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.2124864,37.6162945,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>San Andreas Fault plaque
+</name>
+        <description><![CDATA[https://en.wikipedia.org/wiki/San_Andreas_Fault#/media/File:San_Andreas_Fault_San_Mateo.jpg<br><br>The fault is named after the valley, not the other way around. (At the time of its identification, geologists did not yet understand how long it was; if they had, presumably it would have been named something like the California Coastal Fault.)]]></description>
+        <styleUrl>#icon-1596-558B2F-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.4104123,37.5804509,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>San Andreas Fault Observatory at Depth
+</name>
+        <description>https://earthquake.usgs.gov/learn/parkfield/safod_pbo.php</description>
+        <styleUrl>#icon-1596-558B2F-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -120.552141,35.974204,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>North Kelly Farm Trailhead</name>
+        <description>A nice hike in Laguna del Santa Rosa, one of the best-preserved wetlands in the region. (Not very well preserved, but still.) Excellent birding and other ecology. May be prohibitively muddy after rains.</description>
+        <styleUrl>#icon-1596-558B2F-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.8103319,38.4228558,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mawmluh Cave Office</name>
+        <description><![CDATA[These caves contain the stalagmites that define the beginning of the geological stage we are presently in (pending consensus about the anthropocene).<br><br>https://en.wikipedia.org/wiki/Meghalayan#Origins]]></description>
+        <styleUrl>#icon-1596-558B2F-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            91.7069632,25.2570856,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mulanje Mountain</name>
+        <styleUrl>#icon-1596-558B2F-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            35.5928865,-15.9551444,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Not open to public but visible</name>
@@ -9370,7 +9656,8 @@
       </Placemark>
       <Placemark>
         <name>Satellite Control Of Network</name>
-        <styleUrl>#icon-1898-BDBDBD-labelson-nodesc</styleUrl>
+        <description>For the fans of huge parabolic dishes.</description>
+        <styleUrl>#icon-1898-BDBDBD-labelson</styleUrl>
         <Point>
           <coordinates>
             -121.8808076,37.7329393,0
@@ -9609,6 +9896,35 @@
         <Point>
           <coordinates>
             -122.2934505,37.7914034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Area 51</name>
+        <styleUrl>#icon-1898-BDBDBD-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -115.7930198,37.2430548,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[C&H Sugar]]></name>
+        <description>Historically important sugar refinery. A striking sight as you cross the Vallejo bridge. No factory tour so far as I know. https://en.wikipedia.org/wiki/California_and_Hawaiian_Sugar_Company</description>
+        <styleUrl>#icon-1898-BDBDBD-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2227478,38.0573501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>مطار. اك الملح‎</name>
+        <description>www.wired.com/dangerroom/2013/02/secret-drone-base-2/</description>
+        <styleUrl>#icon-1898-BDBDBD-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            50.1267026,19.1137973,0
           </coordinates>
         </Point>
       </Placemark>
@@ -10015,7 +10331,8 @@
       </Placemark>
       <Placemark>
         <name>Nez Perce National Historical Park Visitor Center</name>
-        <styleUrl>#icon-1608-006064-labelson-nodesc</styleUrl>
+        <description>When I visited, there was a masterfully understated display explaining what a binding treaty is.</description>
+        <styleUrl>#icon-1608-006064-labelson</styleUrl>
         <Point>
           <coordinates>
             -116.8227368,46.4475305,0
@@ -10147,7 +10464,7 @@
       </Placemark>
       <Placemark>
         <name>Fort Ross</name>
-        <description>As far south as the Russians came.</description>
+        <description>Remnant of tsarist Russia’s halfhearted colonization of the West Coast. (Sitka, Alaska, is the other site most closely associated with this legacy.)</description>
         <styleUrl>#icon-1608-006064-labelson</styleUrl>
         <Point>
           <coordinates>
@@ -10607,6 +10924,33 @@
         <Point>
           <coordinates>
             -117.5342131,33.7102973,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sutro Baths</name>
+        <styleUrl>#icon-1608-006064-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.51365,37.7804444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Museum of Qvevri and Qvevri Wine</name>
+        <styleUrl>#icon-1608-006064-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            45.5033867,42.039464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fabrica la Aurora</name>
+        <styleUrl>#icon-1608-006064-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -100.7403281,20.9233049,0
           </coordinates>
         </Point>
       </Placemark>

@@ -1,7 +1,7 @@
 {
   "categories": {
     "historic-ruins-structures": {
-      "count": 112,
+      "count": 113,
       "name": "Historic / ruins / structures"
     },
     "industry": {
@@ -9,23 +9,23 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 261,
+      "count": 267,
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 468,
+      "count": 482,
       "name": "Museums / attractions"
     },
     "nature": {
-      "count": 47,
+      "count": 56,
       "name": "Nature"
     },
     "not-open-to-public-but-visible": {
-      "count": 49,
+      "count": 52,
       "name": "Not open to public but visible"
     },
     "para-infrastructural-cultural": {
-      "count": 83,
+      "count": 86,
       "name": "Para-infrastructural / cultural"
     },
     "science": {
@@ -38,6 +38,16 @@
     }
   },
   "places": {
+    "-": {
+      "category": "not-open-to-public-but-visible",
+      "coordinates": [
+        50.1267026,
+        19.1137973
+      ],
+      "description": "www.wired.com/dangerroom/2013/02/secret-drone-base-2/",
+      "id": "-",
+      "name": "\u0645\u0637\u0627\u0631. \u0627\u0643 \u0627\u0644\u0645\u0644\u062d\u200e"
+    },
     "228-peace-memorial-park": {
       "category": "interesting-things",
       "coordinates": [
@@ -449,6 +459,15 @@
       "id": "aquarius-reef-base",
       "name": "Aquarius Reef Base"
     },
+    "aqueduct-arcos-de-xochimilco": {
+      "category": "interesting-things",
+      "coordinates": [
+        -96.7225304,
+        17.0776021
+      ],
+      "id": "aqueduct-arcos-de-xochimilco",
+      "name": "Aqueduct Arcos De Xochimilco"
+    },
     "aqueduto-das-guas-livres": {
       "category": "interesting-things",
       "coordinates": [
@@ -467,6 +486,15 @@
       "id": "arabia-steamboat-museum",
       "name": "Arabia Steamboat Museum"
     },
+    "arboretum-dantsokay": {
+      "category": "museums-attractions",
+      "coordinates": [
+        43.7554606,
+        -23.4141473
+      ],
+      "id": "arboretum-dantsokay",
+      "name": "Arboretum d'Antsokay"
+    },
     "arcosanti": {
       "category": "historic-ruins-structures",
       "coordinates": [
@@ -476,6 +504,15 @@
       "description": "Wildly ambitious but never fully-built, designed as an 'arcology' - a dense space for living/working (hello \"SimCity\" fans).  The construction is from concrete panels that are cast in dirt and then tilted/lifted into position, but in much wilder shapes than modern tilt-wall buildings.\n\nFull-on sci-fi vibes when you're there - open to the public year round, and has artists in residence.\n\nWorth a stop!\n\nhttps://en.wikipedia.org/wiki/Arcosanti\nhttps://www.arcosanti.org/\n\n(Added by JT)",
       "id": "arcosanti",
       "name": "Arcosanti"
+    },
+    "area-51": {
+      "category": "not-open-to-public-but-visible",
+      "coordinates": [
+        -115.7930198,
+        37.2430548
+      ],
+      "id": "area-51",
+      "name": "Area 51"
     },
     "arecibo-observatory": {
       "category": "interesting-things",
@@ -768,6 +805,15 @@
       "description": "A 70 meter long railway created in an attempt to create a legal loophole in the Jones Act Third Provisio",
       "id": "bayside-canadian-railway",
       "name": "Bayside Canadian Railway"
+    },
+    "bears-ears-visitor-center": {
+      "category": "nature",
+      "coordinates": [
+        -109.5691091,
+        37.2811465
+      ],
+      "id": "bears-ears-visitor-center",
+      "name": "Bears Ears Visitor Center"
     },
     "beauharnois-power-plant-interpretation-center": {
       "category": "museums-attractions",
@@ -1361,6 +1407,16 @@
       "id": "california-academy-of-sciences",
       "name": "California Academy of Sciences"
     },
+    "callistoga-pioneer-cemetery": {
+      "category": "interesting-things",
+      "coordinates": [
+        -122.5929289,
+        38.579478
+      ],
+      "description": "Of no great historical or cultural importance, but extremely scenic \u2013 old gravestones, dappled light, etc.\n\nhttps://www.atlasobscura.com/places/calistoga-pioneer-cemetery",
+      "id": "callistoga-pioneer-cemetery",
+      "name": "Callistoga Pioneer Cemetery"
+    },
     "calshot-spit": {
       "category": "interesting-things",
       "coordinates": [
@@ -1418,6 +1474,16 @@
       ],
       "id": "canadian-railway-museum",
       "name": "Canadian Railway Museum"
+    },
+    "canyon-de-chelly": {
+      "category": "nature",
+      "coordinates": [
+        -109.4418501,
+        36.1564038
+      ],
+      "description": "The various Canyon de Chelly overlooks are among the most beautiful vistas that this author has ever seen. A must-see if you're on Highway 191.\n\nDe Chelly rhymes with \u201cthe play\u201d.",
+      "id": "canyon-de-chelly",
+      "name": "Canyon de Chelly"
     },
     "cape-canaveral-space-force-station": {
       "category": "interesting-things",
@@ -1552,6 +1618,16 @@
       "description": "Science education centre, with science events etc in a real-life scientific laboratory. \nhttps://www.centreofthecell.org/",
       "id": "centre-of-the-cell",
       "name": "Centre of the Cell"
+    },
+    "ch-sugar": {
+      "category": "not-open-to-public-but-visible",
+      "coordinates": [
+        -122.2227478,
+        38.0573501
+      ],
+      "description": "Historically important sugar refinery. A striking sight as you cross the Vallejo bridge. No factory tour so far as I know. https://en.wikipedia.org/wiki/California_and_Hawaiian_Sugar_Company",
+      "id": "ch-sugar",
+      "name": "C&H Sugar"
     },
     "chabot-space-science-center": {
       "category": "museums-attractions",
@@ -1774,6 +1850,15 @@
       ],
       "id": "connections-museum",
       "name": "Connections Museum"
+    },
+    "corinth-canal": {
+      "category": "interesting-things",
+      "coordinates": [
+        22.9945051,
+        37.9272014
+      ],
+      "id": "corinth-canal",
+      "name": "Corinth Canal"
     },
     "corning-museum-of-glass": {
       "category": "museums-attractions",
@@ -2183,6 +2268,15 @@
       "description": "Super awesome world's first steam turbine driven & fastest ship (c1894) in the Discovery Museum in Newcastle.",
       "id": "discovery-museum",
       "name": "Discovery Museum"
+    },
+    "distillerie-parfum-d-ylang-ng-nosy-be-madagascar": {
+      "category": "museums-attractions",
+      "coordinates": [
+        48.2828891,
+        -13.3603685
+      ],
+      "id": "distillerie-parfum-d-ylang-ng-nosy-be-madagascar",
+      "name": "Distillerie Parfum d Ylang N.G. Nosy Be Madagascar"
     },
     "disused-massive-electricity-pylons": {
       "category": "interesting-things",
@@ -2699,6 +2793,15 @@
       "id": "eyam-museum",
       "name": "Eyam Museum"
     },
+    "fabrica-la-aurora": {
+      "category": "para-infrastructural-cultural",
+      "coordinates": [
+        -100.7403281,
+        20.9233049
+      ],
+      "id": "fabrica-la-aurora",
+      "name": "Fabrica la Aurora"
+    },
     "fantoft-stave-church": {
       "category": "historic-ruins-structures",
       "coordinates": [
@@ -2872,7 +2975,7 @@
         -123.2435574,
         38.5142596
       ],
-      "description": "As far south as the Russians came.",
+      "description": "Remnant of tsarist Russia's halfhearted colonization of the West Coast. (Sitka, Alaska, is the other site most closely associated with this legacy.)",
       "id": "fort-ross",
       "name": "Fort Ross"
     },
@@ -2885,6 +2988,15 @@
       "description": "Built to control the entrance to Puget Sound; long retired as an active installation. Unusually dangerous for a place open to the public \u2013 lots of unlit underground corridors, etc.\n\nSeveral minor attractions are on the grounds, such as Copper Canyon Press (a prestigious poetry press) and a number of small museums.",
       "id": "fort-worden",
       "name": "Fort Worden"
+    },
+    "fortaleza-de-pungo-andongo": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        15.597395,
+        -9.6640806
+      ],
+      "id": "fortaleza-de-pungo-andongo",
+      "name": "Fortaleza De Pungo-Andongo"
     },
     "forth-bridge": {
       "category": "historic-ruins-structures",
@@ -3928,6 +4040,15 @@
       "id": "jannis-chimney",
       "name": "Janni\u2019s Chimney"
     },
+    "jardn-botnico-culiacn": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -107.384967,
+        24.82376
+      ],
+      "id": "jardn-botnico-culiacn",
+      "name": "Jard\u00edn Bot\u00e1nico Culiac\u00e1n"
+    },
     "jet-age-museum": {
       "category": "museums-attractions",
       "coordinates": [
@@ -4170,6 +4291,16 @@
       "id": "klondike-gold-rush-national-historical-park",
       "name": "Klondike Gold Rush National Historical Park"
     },
+    "kph-marine-radio-station": {
+      "category": "interesting-things",
+      "coordinates": [
+        -122.9475082,
+        38.0959528
+      ],
+      "description": "https://en.wikipedia.org/wiki/KPH_(radio_station)",
+      "id": "kph-marine-radio-station",
+      "name": "KPH Marine Radio Station"
+    },
     "kr-flower-market": {
       "category": "interesting-things",
       "coordinates": [
@@ -4357,6 +4488,24 @@
       "description": "Public road crossing live runway",
       "id": "leiria-airport",
       "name": "Leiria Airport"
+    },
+    "library": {
+      "category": "interesting-things",
+      "coordinates": [
+        70.2191086,
+        -49.3490512
+      ],
+      "id": "library",
+      "name": "Library"
+    },
+    "library-of-congress": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -77.004719,
+        38.888684
+      ],
+      "id": "library-of-congress",
+      "name": "Library of Congress"
     },
     "lick-observatory": {
       "category": "science",
@@ -4818,6 +4967,16 @@
       "id": "maunsell-forts",
       "name": "Maunsell Forts"
     },
+    "mawmluh-cave-office": {
+      "category": "nature",
+      "coordinates": [
+        91.7069632,
+        25.2570856
+      ],
+      "description": "These caves contain the stalagmites that define the beginning of the geological stage we are presently in (pending consensus about the anthropocene).\n\nhttps://en.wikipedia.org/wiki/Meghalayan#Origins",
+      "id": "mawmluh-cave-office",
+      "name": "Mawmluh Cave Office"
+    },
     "mccormick-bridgehouse-chicago-river-museum": {
       "category": "museums-attractions",
       "coordinates": [
@@ -5209,6 +5368,15 @@
       "id": "muir-woods-visitor-center",
       "name": "Muir Woods Visitor Center"
     },
+    "mulanje-mountain": {
+      "category": "nature",
+      "coordinates": [
+        35.5928865,
+        -15.9551444
+      ],
+      "id": "mulanje-mountain",
+      "name": "Mulanje Mountain"
+    },
     "mullard-radio-astronomy-observatory-mrao": {
       "category": "not-open-to-public-but-visible",
       "coordinates": [
@@ -5266,6 +5434,15 @@
       "id": "muse-des-arts-et-mtiers",
       "name": "Mus\u00e9e des Arts et M\u00e9tiers"
     },
+    "muse-disalo": {
+      "category": "museums-attractions",
+      "coordinates": [
+        45.3626756,
+        -22.6179193
+      ],
+      "id": "muse-disalo",
+      "name": "Mus\u00e9e d'Isalo"
+    },
     "muse-du-touage-riqueval": {
       "category": "historic-ruins-structures",
       "coordinates": [
@@ -5285,6 +5462,15 @@
       "description": "Collection of automata in a large arcade., worth an hour poking around at the machines despite being in a very touristy area.",
       "id": "muse-mcanique",
       "name": "Mus\u00e9e M\u00e9canique"
+    },
+    "museo-de-la-filatelia-mufi-postal-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -96.7216671,
+        17.0654483
+      ],
+      "id": "museo-de-la-filatelia-mufi-postal-museum",
+      "name": "Museo De La Filatelia / MUFI (postal museum)"
     },
     "museo-della-carta": {
       "category": "historic-ruins-structures",
@@ -5313,6 +5499,15 @@
       ],
       "id": "museo-nazionale-ferroviario-di-pietrarsa",
       "name": "Museo Nazionale Ferroviario di Pietrarsa"
+    },
+    "museo-textil-de-oaxaca-textile-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -96.722992,
+        17.0606711
+      ],
+      "id": "museo-textil-de-oaxaca-textile-museum",
+      "name": "Museo Textil de Oaxaca (textile museum)"
     },
     "museu-de-arte-contempornea-de-serralves": {
       "category": "museums-attractions",
@@ -5403,6 +5598,15 @@
       ],
       "id": "museum-of-cider",
       "name": "Museum of Cider"
+    },
+    "museum-of-cultures-of-oaxaca-santo-domingo": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -96.723086,
+        17.0661807
+      ],
+      "id": "museum-of-cultures-of-oaxaca-santo-domingo",
+      "name": "Museum of Cultures of Oaxaca, Santo Domingo"
     },
     "museum-of-ethnography": {
       "category": "museums-attractions",
@@ -5499,6 +5703,15 @@
       ],
       "id": "museum-of-pop-culture",
       "name": "Museum of Pop Culture"
+    },
+    "museum-of-qvevri-and-qvevri-wine": {
+      "category": "para-infrastructural-cultural",
+      "coordinates": [
+        45.5033867,
+        42.039464
+      ],
+      "id": "museum-of-qvevri-and-qvevri-wine",
+      "name": "Museum of Qvevri and Qvevri Wine"
     },
     "museum-of-science": {
       "category": "museums-attractions",
@@ -6015,6 +6228,7 @@
         -116.8227368,
         46.4475305
       ],
+      "description": "When I visited, there was a masterfully understated display explaining what a binding treaty is.",
       "id": "nez-perce-national-historical-park-visitor-center",
       "name": "Nez Perce National Historical Park Visitor Center"
     },
@@ -6103,6 +6317,16 @@
       "id": "norman-lockyer-observatory",
       "name": "Norman Lockyer Observatory"
     },
+    "north-kelly-farm-trailhead": {
+      "category": "nature",
+      "coordinates": [
+        -122.8103319,
+        38.4228558
+      ],
+      "description": "A nice hike in Laguna del Santa Rosa, one of the best-preserved wetlands in the region. (Not very well preserved, but still.) Excellent birding and other ecology. May be prohibitively muddy after rains.",
+      "id": "north-kelly-farm-trailhead",
+      "name": "North Kelly Farm Trailhead"
+    },
     "north-leverton-windmill": {
       "category": "museums-attractions",
       "coordinates": [
@@ -6131,6 +6355,15 @@
       ],
       "id": "norton-museum-of-art",
       "name": "Norton Museum of Art"
+    },
+    "norway-fisheries-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        5.3216969,
+        60.4080429
+      ],
+      "id": "norway-fisheries-museum",
+      "name": "Norway Fisheries Museum"
     },
     "norwegian-canning-museum": {
       "category": "museums-attractions",
@@ -6262,6 +6495,15 @@
       ],
       "id": "old-plank-road",
       "name": "Old Plank Road"
+    },
+    "old-train-station-rail-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -100.7684695,
+        20.9164389
+      ],
+      "id": "old-train-station-rail-museum",
+      "name": "Old Train Station (rail museum)"
     },
     "omsi": {
       "category": "para-infrastructural-cultural",
@@ -7361,6 +7603,16 @@
       "id": "royal-victoria-country-park-and-historic-hospital",
       "name": "Royal Victoria Country Park and Historic Hospital"
     },
+    "ruby-beach": {
+      "category": "nature",
+      "coordinates": [
+        -124.4154024,
+        47.7108733
+      ],
+      "description": "Representative of many similar beaches on this stretch of coast. Old-growth temperate rainforest grows up to the beach, which is broad (at low tide) and mostly sandy, with huge driftwood. A significant fraction of visible litter is from China and Japan and has crossed the Pacific over several years.",
+      "id": "ruby-beach",
+      "name": "Ruby Beach"
+    },
     "ruins-of-raf-stoney-cross": {
       "category": "historic-ruins-structures",
       "coordinates": [
@@ -7399,6 +7651,26 @@
       "description": "This stretch of 1, between Pt Reyes Station and Woodville, runs almost exactly along the San Andreas Fault. At any given moment the left wheels of your car might be on the Pacific Plate and the right wheels on the North American Plane.",
       "id": "san-andreas-fault",
       "name": "San Andreas Fault"
+    },
+    "san-andreas-fault-observatory-at-depth": {
+      "category": "nature",
+      "coordinates": [
+        -120.552141,
+        35.974204
+      ],
+      "description": "https://earthquake.usgs.gov/learn/parkfield/safod_pbo.php",
+      "id": "san-andreas-fault-observatory-at-depth",
+      "name": "San Andreas Fault Observatory at Depth"
+    },
+    "san-andreas-fault-plaque": {
+      "category": "nature",
+      "coordinates": [
+        -122.4104123,
+        37.5804509
+      ],
+      "description": "https://en.wikipedia.org/wiki/San_Andreas_Fault#/media/File:San_Andreas_Fault_San_Mateo.jpg\n\nThe fault is named after the valley, not the other way around. (At the time of its identification, geologists did not yet understand how long it was; if they had, presumably it would have been named something like the California Coastal Fault.)",
+      "id": "san-andreas-fault-plaque",
+      "name": "San Andreas Fault plaque"
     },
     "san-diego-zoo": {
       "category": "museums-attractions",
@@ -7440,6 +7712,16 @@
       "id": "san-francisco-railway-museum",
       "name": "San Francisco Railway Museum"
     },
+    "san-joaquin-river-national-wildlife-refuge": {
+      "category": "nature",
+      "coordinates": [
+        -121.2124864,
+        37.6162945
+      ],
+      "description": "One of very few remaining spots in the Central Valley that gives a reasonable impression of what the pre-Columbian landscape looked like.",
+      "id": "san-joaquin-river-national-wildlife-refuge",
+      "name": "San Joaquin River National Wildlife Refuge"
+    },
     "san-juan-island-nhp-english-camp-visitor-center": {
       "category": "historic-ruins-structures",
       "coordinates": [
@@ -7459,6 +7741,16 @@
       "description": "Modest but good visitor center.",
       "id": "san-luis-reservoir",
       "name": "San Luis Reservoir"
+    },
+    "san-pablo-dam": {
+      "category": "interesting-things",
+      "coordinates": [
+        -122.258906,
+        37.9449743
+      ],
+      "description": "Easily accessible example of a type of reservoir dam common in the region.",
+      "id": "san-pablo-dam",
+      "name": "San Pablo Dam"
     },
     "santa-justa-lift": {
       "category": "interesting-things",
@@ -7503,6 +7795,7 @@
         -121.8808076,
         37.7329393
       ],
+      "description": "For the fans of huge parabolic dishes.",
       "id": "satellite-control-of-network",
       "name": "Satellite Control Of Network"
     },
@@ -8213,6 +8506,15 @@
       "id": "ss-great-britain",
       "name": "SS Great Britain"
     },
+    "ss-moyie-sternwheeler-national-historic-site": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -116.9022222,
+        49.9116667
+      ],
+      "id": "ss-moyie-sternwheeler-national-historic-site",
+      "name": "SS Moyie Sternwheeler National Historic Site"
+    },
     "st-aldhelms-chapel": {
       "category": "interesting-things",
       "coordinates": [
@@ -8462,6 +8764,15 @@
       "id": "suspension-bridge-over-tsingy",
       "name": "Suspension bridge over tsingy"
     },
+    "sutro-baths": {
+      "category": "para-infrastructural-cultural",
+      "coordinates": [
+        -122.51365,
+        37.7804444
+      ],
+      "id": "sutro-baths",
+      "name": "Sutro Baths"
+    },
     "sutro-tower": {
       "category": "not-open-to-public-but-visible",
       "coordinates": [
@@ -8549,6 +8860,15 @@
       ],
       "id": "tangmere-military-aviation-museum",
       "name": "Tangmere Military & Aviation Museum"
+    },
+    "tate-geological-museum-at-casper-college": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -106.3291329,
+        42.8259884
+      ],
+      "id": "tate-geological-museum-at-casper-college",
+      "name": "Tate Geological Museum at Casper College"
     },
     "taum-sauk-hydroelectric-power-station": {
       "category": "nature",
@@ -9011,6 +9331,15 @@
       ],
       "id": "the-john-and-mable-ringling-museum-of-art",
       "name": "The John and Mable Ringling Museum of Art"
+    },
+    "the-little-red-lighthouse": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -73.946979,
+        40.8502813
+      ],
+      "id": "the-little-red-lighthouse",
+      "name": "The Little Red Lighthouse"
     },
     "the-mad-museum": {
       "category": "museums-attractions",
@@ -9558,6 +9887,15 @@
       "description": "Massive site of abandoned coal mine. Lots of rusting steel structures to explore. Take the full day!",
       "id": "unesco-welterbe-zollverein",
       "name": "UNESCO-Welterbe Zollverein"
+    },
+    "united-states-national-arboretum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -76.9657782,
+        38.91213
+      ],
+      "id": "united-states-national-arboretum",
+      "name": "United States National Arboretum"
     },
     "university-of-california-botanical-garden": {
       "category": "para-infrastructural-cultural",

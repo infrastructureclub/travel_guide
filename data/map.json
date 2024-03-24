@@ -9,7 +9,7 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 267,
+      "count": 268,
       "name": "Interesting Things"
     },
     "museums-attractions": {
@@ -2344,6 +2344,16 @@
       "description": "Small community-owned hydro plant, with an archimedes screw turbine. You can also access the artificial island on the far side of the lade.\nhttps://acenergy.org.uk/",
       "id": "donside-hydro",
       "name": "Donside Hydro"
+    },
+    "dordoy-bazaar": {
+      "category": "interesting-things",
+      "coordinates": [
+        74.6206932,
+        42.9340179
+      ],
+      "description": "Vast market built mostly out of shipping containers. https://en.wikipedia.org/wiki/Dordoy_Bazaar",
+      "id": "dordoy-bazaar",
+      "name": "Dordoy Bazaar"
     },
     "dounreay-nuclear-power-station-viewing-platform": {
       "category": "interesting-things",

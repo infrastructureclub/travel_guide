@@ -4733,6 +4733,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    74.6206932,
+                    42.9340179,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Dordoy Bazaar\n",
+                "styleUrl": "#icon-1598-A52714-labelson",
+                "styleHash": "-835978",
+                "icon": "images/icon-1.png",
+                "description": "Vast market built mostly out of shipping containers. https://en.wikipedia.org/wiki/Dordoy_Bazaar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0

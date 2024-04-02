@@ -4751,6 +4751,235 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -67.9815469,
+                    -31.7352479,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Vallecito / Difunta Correa",
+                "styleUrl": "#icon-1598-A52714-labelson",
+                "styleHash": "-835978",
+                "icon": "images/icon-1.png",
+                "description": "A quirky town, known for https://en.wikipedia.org/wiki/Difunta_Correa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4411545,
+                    23.4791464,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Alishan Forest Railway (Chiayi Station)",
+                "styleUrl": "#icon-1598-A52714-labelson",
+                "styleHash": "-835978",
+                "icon": "images/icon-1.png",
+                "description": "The Alishan Forest Railway was originally constructed by occupying Japanese forces to facilitate logging; it’s now a famously beautiful forest tour."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.8701533,
+                    43.6137191,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kaiyodai Observatory",
+                "styleUrl": "#icon-1598-A52714-labelson",
+                "styleHash": "-835978",
+                "icon": "images/icon-1.png",
+                "description": "“Observatory” is perhaps better translated as “overlook” or “viewpoint”."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.244223,
+                    51.4167172,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lake Agnes Tea House",
+                "styleUrl": "#icon-1598-A52714-labelson",
+                "styleHash": "-835978",
+                "icon": "images/icon-1.png",
+                "description": "Remote and beloved: https://www.bbc.com/travel/article/20231203-tea-house-hike-a-tiny-tasty-secret-deep-in-the-canadian-rockies"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.2727765,
+                    51.3935843,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Plain of Six Glaciers Teahouse",
+                "styleUrl": "#icon-1598-A52714-labelson-nodesc",
+                "styleHash": "-505f2c1",
+                "icon": "images/icon-1.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -135.3352778,
+                    57.05,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "St. Michael the Archangel Orthodox Cathedral",
+                "styleUrl": "#icon-1598-A52714-labelson-nodesc",
+                "styleHash": "-505f2c1",
+                "icon": "images/icon-1.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7052508,
+                    45.5189397,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "International Rose Test Garden\n",
+                "styleUrl": "#icon-1598-A52714-labelson-nodesc",
+                "styleHash": "-505f2c1",
+                "icon": "images/icon-1.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.698332,
+                    45.5263939,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Smith Teamaker",
+                "styleUrl": "#icon-1598-A52714-labelson",
+                "styleHash": "-835978",
+                "icon": "images/icon-1.png",
+                "description": "Final tea project of the man who founded and sold Stash, then founded and sold Tazo: https://en.wikipedia.org/wiki/Steven_Smith_(teamaker)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9941925,
+                    45.6563467,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bamboo Garden",
+                "styleUrl": "#icon-1598-A52714-labelson",
+                "styleHash": "-835978",
+                "icon": "images/icon-1.png",
+                "description": "With more than 300 species. Slightly surreal in a lowkey way."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4321667,
+                    37.8066031,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Interval at Long Now",
+                "styleUrl": "#icon-1598-A52714-labelson-nodesc",
+                "styleHash": "-505f2c1",
+                "icon": "images/icon-1.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.482977,
+                    37.7689203,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Golden Gate Park",
+                "styleUrl": "#icon-1598-A52714-labelson",
+                "styleHash": "-835978",
+                "icon": "images/icon-1.png",
+                "description": "Large urban park, crowded with memorials, historic trees, and other minor but interesting landmarks. Often compared to Central Park."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.326793,
+                    47.5968209,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Uwajimaya Seattle",
+                "styleUrl": "#icon-1598-A52714-labelson",
+                "styleHash": "-835978",
+                "icon": "images/icon-1.png",
+                "description": "East Asian, primarily Japanese, supermarket that often wows visitors. (Has another location in Seattle and one in Portland.)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.2986406,
+                    45.9438125,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Scenic View McNary Dam",
+                "styleUrl": "#icon-1598-A52714-labelson-nodesc",
+                "styleHash": "-505f2c1",
+                "icon": "images/icon-1.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0
@@ -5620,7 +5849,7 @@
                 "styleUrl": "#icon-1636-F9A825-labelson",
                 "styleHash": "-73d4c685",
                 "icon": "images/icon-2.png",
-                "description": "Bizarre, wonderful place with a deeply silly history."
+                "description": "A perfectly good mid-sized art museum, in the absolutely middle of absolute nowhere, on the lip of a river gorge, with a deeply silly history. Difficult to fully describe without words like unique, bizarre, and surreal. A must-see if you’re in the area."
             }
         },
         {
@@ -7111,7 +7340,7 @@
                 "styleUrl": "#icon-1636-F9A825-labelson",
                 "styleHash": "-73d4c685",
                 "icon": "images/icon-2.png",
-                "description": "A very small museum. One of the more interesting things in a rather over-touristy area."
+                "description": "A very small museum. One of the more interesting things in a rather over-touristy neighborhood."
             }
         },
         {
@@ -13185,6 +13414,212 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    106.8215901,
+                    -6.1764021,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "National Museum of Indonesia",
+                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
+                "styleHash": "-4303c82c",
+                "icon": "images/icon-2.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.8485091,
+                    1.296613,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "National Museum of Singapore",
+                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
+                "styleHash": "-4303c82c",
+                "icon": "images/icon-2.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9258252,
+                    35.5832997,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Yamanashi Prefectural Maglev Exhibition Center",
+                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
+                "styleHash": "-4303c82c",
+                "icon": "images/icon-2.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.4531578,
+                    34.3915027,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hiroshima Peace Memorial Museum",
+                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
+                "styleHash": "-4303c82c",
+                "icon": "images/icon-2.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -134.4156397,
+                    58.2999241,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Alaska State Museum",
+                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
+                "styleHash": "-4303c82c",
+                "icon": "images/icon-2.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.0921528,
+                    44.0564145,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Shelton McMurphey Johnson House",
+                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
+                "styleHash": "-4303c82c",
+                "icon": "images/icon-2.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2336269,
+                    45.4284766,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bull Run Powerhouse",
+                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
+                "styleHash": "-4303c82c",
+                "icon": "images/icon-2.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8744624,
+                    38.2035213,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Western Railway Museum",
+                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
+                "styleHash": "-4303c82c",
+                "icon": "images/icon-2.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.6623574,
+                    47.5948804,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Leavenworth Nutcracker Museum",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "icon": "images/icon-2.png",
+                "description": "The town of Leavenworth is basically one big Bavarian LARP."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.3419191,
+                    43.9661759,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "High Desert Museum",
+                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
+                "styleHash": "-4303c82c",
+                "icon": "images/icon-2.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3321837,
+                    47.6066621,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Seattle Central Library",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "icon": "images/icon-2.png",
+                "description": "Notable for its architecture."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3429559,
+                    47.6074002,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Seattle Aquarium",
+                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
+                "styleHash": "-4303c82c",
+                "icon": "images/icon-2.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.9055879,
                     38.1671515,
                     0
@@ -14923,9 +15358,10 @@
             },
             "properties": {
                 "name": "Stonehenge WWI Memorial",
-                "styleUrl": "#icon-1608-F57C00-labelson-nodesc",
-                "styleHash": "50e5e3ed",
-                "icon": "images/icon-4.png"
+                "styleUrl": "#icon-1608-F57C00-labelson",
+                "styleHash": "-57e30630",
+                "icon": "images/icon-4.png",
+                "description": "More deeply tasteless yet somehow honestly impressive work from the same guy responsible for the Maryhill Art Museum."
             }
         },
         {
@@ -15658,6 +16094,78 @@
                 "styleUrl": "#icon-1608-F57C00-labelson-nodesc",
                 "styleHash": "50e5e3ed",
                 "icon": "images/icon-4.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.5504873,
+                    20.6610199,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ik Kil Cenote\n",
+                "styleUrl": "#icon-1608-F57C00-labelson",
+                "styleHash": "-57e30630",
+                "icon": "images/icon-4.png",
+                "description": "The central and northern Yucatán is made of such porous rock that, despite fairly plentiful rainfall, it has essentially no rivers or natural lakes – other than the cenotes. Among other things, this made cenotes hugely culturally important to the Classical Maya civilization."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7645286,
+                    45.5853347,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "St. Johns Bridge",
+                "styleUrl": "#icon-1608-F57C00-labelson",
+                "styleHash": "-57e30630",
+                "icon": "images/icon-4.png",
+                "description": "Beautiful, locally beloved bridge. Longest suspension bridge west of the Mississippi at the time of construction."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.686356,
+                    45.5981584,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Vanport Marker",
+                "styleUrl": "#icon-1608-F57C00-labelson",
+                "styleHash": "-57e30630",
+                "icon": "images/icon-4.png",
+                "description": "Housing for migrant workers, particularly Black people in the Great Migration, was built in this floodplain during WWII. When it inevitably flooded, the effort to recover was an epochal community-making event and a turning point in Oregon’s racial politics. Led more or less directly to Northeast being Portland’s Blackest quadrant, and to the establishment of Portland State University, just for two.<br><br>Little remains to be seen onsite, though people sometimes leave flowers and such."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5003986,
+                    45.5224067,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Flight 173 Memorial",
+                "styleUrl": "#icon-1608-F57C00-labelson",
+                "styleHash": "-57e30630",
+                "icon": "images/icon-4.png",
+                "description": "A crash caused in large part by poor communication and lack of shared situational awareness among the flight crew. (They ran out of fuel while focusing on a landing gear malfunction.) The NTSB report contained recommendations that contributed heavily to the development of modern crew resource management (CRM) communications procedures.<br><br>Little is visible at the site, but given that it’s just a few blocks from a MAX stop, it’s a relatively easy pilgrimage for people interested in these things."
             }
         },
         {
@@ -16655,6 +17163,59 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -111.1936733,
+                    33.475515,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wi:kchsawa / Superstition Mountains",
+                "styleUrl": "#icon-1596-558B2F-labelson",
+                "styleHash": "638c400",
+                "icon": "images/icon-5.png",
+                "description": "Beautiful mountains, but notoriously dangerous. The heat is often extreme, the trails are exposed and exhausting (people forget they’re at elevation when they’re hot!), and the brush is deceptively thick, making it easy to get lost and take a step off a cliff. A truly alarming number of hikers have died here, and their remains often go unfound in the dense scrub and many tiny canyons.<br><br>Also the site of the folkloric lost Dutchman’s gold (https://en.wikipedia.org/wiki/Lost_Dutchman%27s_Gold_Mine), one of the more interesting and culturally important buried treasure stories of the West. In some versions, it’s a small but very rich gold seam; in others, it’s a cache of conquistador-looted gold hidden in a rock cleft by Apaches; presumably some people think it’s aliens. Over the last century or more, large numbers of treasure hunters have, unsurprisingly, died while offtrail in this exceptionally dangerous landscape. This has only fed the legends of curses and increased the perceived value of the gold. There are entire (fairly entertaining) books just about the histories of the various expeditions.<br><br>Arizona State Parks advises you to plan your hike carefully, particularly as regards your water supply, and to stay strictly on marked trails. This is good advice."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.5166667,
+                    21.4,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chicxulub crater",
+                "styleUrl": "#icon-1596-558B2F-labelson",
+                "styleHash": "638c400",
+                "icon": "images/icon-5.png",
+                "description": "Approximate centerpoint of the crater of the impact that killed the non-avian dinosaurs. I don’t know exactly how it got the name of Chicxulub – clearly there was some initial estimate that that town was near the crater centerpoint, but I don’t know who made that first guess or precisely when."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.2236495,
+                    46.6634052,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Palouse Falls",
+                "styleUrl": "#icon-1596-558B2F-labelson-nodesc",
+                "styleHash": "2ebec33f",
+                "icon": "images/icon-5.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     0.9596944,
                     50.9138436,
                     0
@@ -17571,6 +18132,24 @@
                 "styleHash": "-2f1af5a4",
                 "icon": "images/icon-6.png",
                 "description": "www.wired.com/dangerroom/2013/02/secret-drone-base-2/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.6783266,
+                    21.3469267,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Progreso Pier\n",
+                "styleUrl": "#icon-1898-BDBDBD-labelson",
+                "styleHash": "-2f1af5a4",
+                "icon": "images/icon-6.png",
+                "description": "The longest in the world by some measures. Most of its length is closed to the public except when going to or from a cruise ship docked here. Still an impressive sight from shore."
             }
         },
         {
@@ -19440,6 +20019,77 @@
                 "styleUrl": "#icon-1608-006064-labelson-nodesc",
                 "styleHash": "672042b4",
                 "icon": "images/icon-8.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5735354,
+                    45.5532151,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Grotto",
+                "styleUrl": "#icon-1608-006064-labelson",
+                "styleHash": "1468cf8f",
+                "icon": "images/icon-8.png",
+                "description": "Touching and kitschy by turns."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.8057111,
+                    46.9841799,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kurt Cobain Under the Bridge Memorial",
+                "styleUrl": "#icon-1608-006064-labelson-nodesc",
+                "styleHash": "672042b4",
+                "icon": "images/icon-8.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.6850723,
+                    37.6047501,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "“The Lookout”\n",
+                "styleUrl": "#icon-1608-006064-labelson",
+                "styleHash": "1468cf8f",
+                "icon": "images/icon-8.png",
+                "description": "A stretch of road with good parking, clear views to the north and east, and relatively little light pollution for its accessibility. During naked-eye astronomical events (comets, eclipses, meteor showers), locals come here after dark to watch together."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3299086,
+                    47.5983889,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "King Street Station",
+                "styleUrl": "#icon-1608-006064-labelson",
+                "styleHash": "1468cf8f",
+                "icon": "images/icon-8.png",
+                "description": "Train station with a rich history and interesting architecture."
             }
         }
     ]

@@ -1,7 +1,7 @@
 {
   "categories": {
     "historic-ruins-structures": {
-      "count": 113,
+      "count": 117,
       "name": "Historic / ruins / structures"
     },
     "industry": {
@@ -9,23 +9,23 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 268,
+      "count": 281,
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 482,
+      "count": 494,
       "name": "Museums / attractions"
     },
     "nature": {
-      "count": 56,
+      "count": 59,
       "name": "Nature"
     },
     "not-open-to-public-but-visible": {
-      "count": 52,
+      "count": 53,
       "name": "Not open to public but visible"
     },
     "para-infrastructural-cultural": {
-      "count": 86,
+      "count": 90,
       "name": "Para-infrastructural / cultural"
     },
     "science": {
@@ -262,6 +262,15 @@
       "id": "alang-ship-scrap-yard",
       "name": "Alang Ship Scrap Yard"
     },
+    "alaska-state-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -134.4156397,
+        58.2999241
+      ],
+      "id": "alaska-state-museum",
+      "name": "Alaska State Museum"
+    },
     "alcatraz-island": {
       "category": "museums-attractions",
       "coordinates": [
@@ -280,6 +289,16 @@
       "description": "A very slow-moving landslide in 1998\u201399 that caused ~$100 million in damage. See https://en.wikipedia.org/wiki/Aldercrest-Banyon_landslide",
       "id": "aldercrest-banyon-landslide-site",
       "name": "Aldercrest-Banyon landslide site"
+    },
+    "alishan-forest-railway-chiayi-station": {
+      "category": "interesting-things",
+      "coordinates": [
+        120.4411545,
+        23.4791464
+      ],
+      "description": "The Alishan Forest Railway was originally constructed by occupying Japanese forces to facilitate logging; it's now a famously beautiful forest tour.",
+      "id": "alishan-forest-railway-chiayi-station",
+      "name": "Alishan Forest Railway (Chiayi Station)"
     },
     "altamont-pass-wind-farm": {
       "category": "interesting-things",
@@ -673,6 +692,16 @@
       ],
       "id": "baikonur-cosmodrome",
       "name": "Baikonur Cosmodrome"
+    },
+    "bamboo-garden": {
+      "category": "interesting-things",
+      "coordinates": [
+        -122.9941925,
+        45.6563467
+      ],
+      "description": "With more than 300 species. Slightly surreal in a lowkey way.",
+      "id": "bamboo-garden",
+      "name": "Bamboo Garden"
     },
     "bangor-nuclear-arsenal": {
       "category": "not-open-to-public-but-visible",
@@ -1359,6 +1388,15 @@
       "id": "buffalo-bayou-park-cistern",
       "name": "Buffalo Bayou Park Cistern"
     },
+    "bull-run-powerhouse": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -122.2336269,
+        45.4284766
+      ],
+      "id": "bull-run-powerhouse",
+      "name": "Bull Run Powerhouse"
+    },
     "burke-museum-of-natural-history-and-culture": {
       "category": "para-infrastructural-cultural",
       "coordinates": [
@@ -1657,6 +1695,16 @@
       "description": "Travel on the Chicago River to view the many cool buildings, and hear about how Chicago reversed the river",
       "id": "chicago-river-boat-architecture-tours",
       "name": "Chicago River Boat Architecture Tours"
+    },
+    "chicxulub-crater": {
+      "category": "nature",
+      "coordinates": [
+        -89.5166667,
+        21.4
+      ],
+      "description": "Approximate centerpoint of the crater of the impact that killed the non-avian dinosaurs. I don't know exactly how it got the name of Chicxulub \u2013 clearly there was some initial estimate that that town was near the crater centerpoint, but I don't know who made that first guess or precisely when.",
+      "id": "chicxulub-crater",
+      "name": "Chicxulub crater"
     },
     "chislehurst-caves": {
       "category": "museums-attractions",
@@ -2930,6 +2978,16 @@
       ],
       "name": "Flakturm VII G-Turm Augarten"
     },
+    "flight-173-memorial": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        -122.5003986,
+        45.5224067
+      ],
+      "description": "A crash caused in large part by poor communication and lack of shared situational awareness among the flight crew. (They ran out of fuel while focusing on a landing gear malfunction.) The NTSB report contained recommendations that contributed heavily to the development of modern crew resource management (CRM) communications procedures.\n\nLittle is visible at the site, but given that it's just a few blocks from a MAX stop, it's a relatively easy pilgrimage for people interested in these things.",
+      "id": "flight-173-memorial",
+      "name": "Flight 173 Memorial"
+    },
     "fonserannes-water-slope": {
       "category": "historic-ruins-structures",
       "coordinates": [
@@ -3157,6 +3215,16 @@
       "description": "A museum / collection of neon signs, located on a east London industrial park, which might make it a bit hard to find. It's not a large space, but they managed to fit a lot of signs into it. It's next to a small brewery with outside seating, if that's your cup of tea.",
       "id": "gods-own-junkyard",
       "name": "God's Own Junkyard"
+    },
+    "golden-gate-park": {
+      "category": "interesting-things",
+      "coordinates": [
+        -122.482977,
+        37.7689203
+      ],
+      "description": "Large urban park, crowded with memorials, historic trees, and other minor but interesting landmarks. Often compared to Central Park.",
+      "id": "golden-gate-park",
+      "name": "Golden Gate Park"
     },
     "golden-hind-museum-ship": {
       "category": "museums-attractions",
@@ -3685,6 +3753,15 @@
       "id": "hheiky-dam",
       "name": "H\u014dheiky\u014d Dam"
     },
+    "high-desert-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -121.3419191,
+        43.9661759
+      ],
+      "id": "high-desert-museum",
+      "name": "High Desert Museum"
+    },
     "high-street": {
       "category": "nature",
       "coordinates": [
@@ -3713,6 +3790,15 @@
       ],
       "id": "hiram-m-chittenden-locks-ballard",
       "name": "Hiram M. Chittenden Locks (Ballard)"
+    },
+    "hiroshima-peace-memorial-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        132.4531578,
+        34.3915027
+      ],
+      "id": "hiroshima-peace-memorial-museum",
+      "name": "Hiroshima Peace Memorial Museum"
     },
     "historic-tulare-lake": {
       "category": "nature",
@@ -3935,6 +4021,16 @@
       "id": "hythe-pier",
       "name": "Hythe Pier"
     },
+    "ik-kil-cenote": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        -88.5504873,
+        20.6610199
+      ],
+      "description": "The central and northern Yucat\u00e1n is made of such porous rock that, despite fairly plentiful rainfall, it has essentially no rivers or natural lakes \u2013 other than the cenotes. Among other things, this made cenotes hugely culturally important to the Classical Maya civilization.",
+      "id": "ik-kil-cenote",
+      "name": "Ik Kil Cenote"
+    },
     "ikov-television-tower": {
       "category": "interesting-things",
       "coordinates": [
@@ -3991,6 +4087,15 @@
       ],
       "id": "inigo-jones-slate-works",
       "name": "Inigo Jones Slate Works"
+    },
+    "international-rose-test-garden": {
+      "category": "interesting-things",
+      "coordinates": [
+        -122.7052508,
+        45.5189397
+      ],
+      "id": "international-rose-test-garden",
+      "name": "International Rose Test Garden"
     },
     "intrepid-sea-air-space-museum": {
       "category": "museums-attractions",
@@ -4167,6 +4272,16 @@
       "id": "jules-undersea-lodge",
       "name": "Jules Undersea Lodge"
     },
+    "kaiyodai-observatory": {
+      "category": "interesting-things",
+      "coordinates": [
+        144.8701533,
+        43.6137191
+      ],
+      "description": "\u201cObservatory\u201d is perhaps better translated as \u201coverlook\u201d or \u201cviewpoint\u201d.",
+      "id": "kaiyodai-observatory",
+      "name": "Kaiyodai Observatory"
+    },
     "kapitan-man-laser-incident": {
       "category": "para-infrastructural-cultural",
       "coordinates": [
@@ -4272,6 +4387,16 @@
       "id": "king-george-v-dry-dock",
       "name": "King George V Dry Dock"
     },
+    "king-street-station": {
+      "category": "para-infrastructural-cultural",
+      "coordinates": [
+        -122.3299086,
+        47.5983889
+      ],
+      "description": "Train station with a rich history and interesting architecture.",
+      "id": "king-street-station",
+      "name": "King Street Station"
+    },
     "kirkaldys-testing-works": {
       "category": "interesting-things",
       "coordinates": [
@@ -4363,6 +4488,15 @@
       "id": "kth-r1",
       "name": "KTH R1"
     },
+    "kurt-cobain-under-the-bridge-memorial": {
+      "category": "para-infrastructural-cultural",
+      "coordinates": [
+        -123.8057111,
+        46.9841799
+      ],
+      "id": "kurt-cobain-under-the-bridge-memorial",
+      "name": "Kurt Cobain Under the Bridge Memorial"
+    },
     "la-brea-tar-pits-and-museum": {
       "category": "museums-attractions",
       "coordinates": [
@@ -4411,6 +4545,16 @@
       "description": "Hill pass, formerly used as drover's road or general transport between Speyside and Deeside. Now mainly a walking route.",
       "id": "lairig-ghru",
       "name": "Lairig Ghru"
+    },
+    "lake-agnes-tea-house": {
+      "category": "interesting-things",
+      "coordinates": [
+        -116.244223,
+        51.4167172
+      ],
+      "description": "Remote and beloved: https://www.bbc.com/travel/article/20231203-tea-house-hike-a-tiny-tasty-secret-deep-in-the-canadian-rockies",
+      "id": "lake-agnes-tea-house",
+      "name": "Lake Agnes Tea House"
     },
     "lake-pontchartrain-causeway": {
       "category": "museums-attractions",
@@ -4478,6 +4622,16 @@
       "description": "http://en.wikipedia.org/wiki/Laxey_Wheel",
       "id": "laxey-wheel",
       "name": "Laxey Wheel"
+    },
+    "leavenworth-nutcracker-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -120.6623574,
+        47.5948804
+      ],
+      "description": "The town of Leavenworth is basically one big Bavarian LARP.",
+      "id": "leavenworth-nutcracker-museum",
+      "name": "Leavenworth Nutcracker Museum"
     },
     "leeds-industrial-museum-at-armley-mills": {
       "category": "museums-attractions",
@@ -4905,7 +5059,7 @@
         -122.4238931,
         37.8063433
       ],
-      "description": "A very small museum. One of the more interesting things in a rather over-touristy area.",
+      "description": "A very small museum. One of the more interesting things in a rather over-touristy neighborhood.",
       "id": "maritime-museum",
       "name": "Maritime Museum"
     },
@@ -4953,7 +5107,7 @@
         -120.864762,
         45.6775953
       ],
-      "description": "Bizarre, wonderful place with a deeply silly history.",
+      "description": "A perfectly good mid-sized art museum, in the absolutely middle of absolute nowhere, on the lip of a river gorge, with a deeply silly history. Difficult to fully describe without words like unique, bizarre, and surreal. A must-see if you're in the area.",
       "id": "maryhill-museum-of-art",
       "name": "Maryhill Museum of Art"
     },
@@ -5979,6 +6133,15 @@
       "id": "national-museum-of-flight",
       "name": "National Museum Of Flight"
     },
+    "national-museum-of-indonesia": {
+      "category": "museums-attractions",
+      "coordinates": [
+        106.8215901,
+        -6.1764021
+      ],
+      "id": "national-museum-of-indonesia",
+      "name": "National Museum of Indonesia"
+    },
     "national-museum-of-nature-and-science": {
       "category": "museums-attractions",
       "coordinates": [
@@ -6007,6 +6170,15 @@
       ],
       "id": "national-museum-of-scotland",
       "name": "National Museum of Scotland"
+    },
+    "national-museum-of-singapore": {
+      "category": "museums-attractions",
+      "coordinates": [
+        103.8485091,
+        1.296613
+      ],
+      "id": "national-museum-of-singapore",
+      "name": "National Museum of Singapore"
     },
     "national-museum-of-the-us-air-force": {
       "category": "museums-attractions",
@@ -6666,6 +6838,15 @@
       "id": "palomar-observatory",
       "name": "Palomar Observatory"
     },
+    "palouse-falls": {
+      "category": "nature",
+      "coordinates": [
+        -118.2236495,
+        46.6634052
+      ],
+      "id": "palouse-falls",
+      "name": "Palouse Falls"
+    },
     "palvolgyi-cave": {
       "category": "nature",
       "coordinates": [
@@ -6912,6 +7093,15 @@
       "id": "pk-porthcurno",
       "name": "PK Porthcurno"
     },
+    "plain-of-six-glaciers-teahouse": {
+      "category": "interesting-things",
+      "coordinates": [
+        -116.2727765,
+        51.3935843
+      ],
+      "id": "plain-of-six-glaciers-teahouse",
+      "name": "Plain of Six Glaciers Teahouse"
+    },
     "planta-solar-10": {
       "category": "interesting-things",
       "coordinates": [
@@ -7132,6 +7322,16 @@
       "description": "Highly influential library and film archive.",
       "id": "prelinger-library",
       "name": "Prelinger Library"
+    },
+    "progreso-pier": {
+      "category": "not-open-to-public-but-visible",
+      "coordinates": [
+        -89.6783266,
+        21.3469267
+      ],
+      "description": "The longest in the world by some measures. Most of its length is closed to the public except when going to or from a cruise ship docked here. Still an impressive sight from shore.",
+      "id": "progreso-pier",
+      "name": "Progreso Pier"
     },
     "pulgas-water-temple": {
       "category": "interesting-things",
@@ -7828,6 +8028,15 @@
       "id": "scapa-flow-museum",
       "name": "Scapa Flow Museum"
     },
+    "scenic-view-mcnary-dam": {
+      "category": "interesting-things",
+      "coordinates": [
+        -119.2986406,
+        45.9438125
+      ],
+      "id": "scenic-view-mcnary-dam",
+      "name": "Scenic View McNary Dam"
+    },
     "schiehallion": {
       "category": "nature",
       "coordinates": [
@@ -7983,6 +8192,25 @@
       "id": "seaton-tramway",
       "name": "Seaton Tramway"
     },
+    "seattle-aquarium": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -122.3429559,
+        47.6074002
+      ],
+      "id": "seattle-aquarium",
+      "name": "Seattle Aquarium"
+    },
+    "seattle-central-library": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -122.3321837,
+        47.6066621
+      ],
+      "description": "Notable for its architecture.",
+      "id": "seattle-central-library",
+      "name": "Seattle Central Library"
+    },
     "seattle-pinball-museum": {
       "category": "para-infrastructural-cultural",
       "coordinates": [
@@ -8071,6 +8299,15 @@
       "description": "Seats at the end of the runway of Birmingham Airport. Park at Marston Green Railway Station, take a picnic and watch the planes.",
       "id": "sheldon-country-park-birmingham-airport-viewing-area",
       "name": "Sheldon Country Park - Birmingham Airport viewing area"
+    },
+    "shelton-mcmurphey-johnson-house": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -123.0921528,
+        44.0564145
+      ],
+      "id": "shelton-mcmurphey-johnson-house",
+      "name": "Shelton McMurphey Johnson House"
     },
     "shinjuku-golden-gai": {
       "category": "interesting-things",
@@ -8315,6 +8552,16 @@
       "id": "smedley-street-ww2-resistance-hq",
       "name": "Smedley Street WW2 Resistance HQ"
     },
+    "smith-teamaker": {
+      "category": "interesting-things",
+      "coordinates": [
+        -122.698332,
+        45.5263939
+      ],
+      "description": "Final tea project of the man who founded and sold Stash, then founded and sold Tazo: https://en.wikipedia.org/wiki/Steven_Smith_(teamaker)",
+      "id": "smith-teamaker",
+      "name": "Smith Teamaker"
+    },
     "smithsonian-national-air-and-space-museum": {
       "category": "museums-attractions",
       "coordinates": [
@@ -8554,6 +8801,25 @@
       "id": "st-helens-fort",
       "name": "St Helens Fort"
     },
+    "st-johns-bridge": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        -122.7645286,
+        45.5853347
+      ],
+      "description": "Beautiful, locally beloved bridge. Longest suspension bridge west of the Mississippi at the time of construction.",
+      "id": "st-johns-bridge",
+      "name": "St. Johns Bridge"
+    },
+    "st-michael-the-archangel-orthodox-cathedral": {
+      "category": "interesting-things",
+      "coordinates": [
+        -135.3352778,
+        57.05
+      ],
+      "id": "st-michael-the-archangel-orthodox-cathedral",
+      "name": "St. Michael the Archangel Orthodox Cathedral"
+    },
     "stack-interchange": {
       "category": "historic-ruins-structures",
       "coordinates": [
@@ -8695,6 +8961,7 @@
         -120.8060161,
         45.6943755
       ],
+      "description": "More deeply tasteless yet somehow honestly impressive work from the same guy responsible for the Maryhill Art Museum.",
       "id": "stonehenge-wwi-memorial",
       "name": "Stonehenge WWI Memorial"
     },
@@ -9275,6 +9542,16 @@
       "id": "the-great-pyramid-of-giza",
       "name": "The Great Pyramid of Giza"
     },
+    "the-grotto": {
+      "category": "para-infrastructural-cultural",
+      "coordinates": [
+        -122.5735354,
+        45.5532151
+      ],
+      "description": "Touching and kitschy by turns.",
+      "id": "the-grotto",
+      "name": "The Grotto"
+    },
     "the-harvard-museum-of-natural-history": {
       "category": "museums-attractions",
       "coordinates": [
@@ -9314,6 +9591,15 @@
       "id": "the-historic-dockyard-chatham",
       "name": "The Historic Dockyard Chatham"
     },
+    "the-interval-at-long-now": {
+      "category": "interesting-things",
+      "coordinates": [
+        -122.4321667,
+        37.8066031
+      ],
+      "id": "the-interval-at-long-now",
+      "name": "The Interval at Long Now"
+    },
     "the-ironbridge-gorge-museum-trust-head-office": {
       "category": "museums-attractions",
       "coordinates": [
@@ -9350,6 +9636,16 @@
       ],
       "id": "the-little-red-lighthouse",
       "name": "The Little Red Lighthouse"
+    },
+    "the-lookout": {
+      "category": "para-infrastructural-cultural",
+      "coordinates": [
+        -121.6850723,
+        37.6047501
+      ],
+      "description": "A stretch of road with good parking, clear views to the north and east, and relatively little light pollution for its accessibility. During naked-eye astronomical events (comets, eclipses, meteor showers), locals come here after dark to watch together.",
+      "id": "the-lookout",
+      "name": "\u201cThe Lookout\u201d"
     },
     "the-mad-museum": {
       "category": "museums-attractions",
@@ -9991,6 +10287,16 @@
       "id": "uta-flight-772-memorial",
       "name": "UTA Flight 772 Memorial"
     },
+    "uwajimaya-seattle": {
+      "category": "interesting-things",
+      "coordinates": [
+        -122.326793,
+        47.5968209
+      ],
+      "description": "East Asian, primarily Japanese, supermarket that often wows visitors. (Has another location in Seattle and one in Portland.)",
+      "id": "uwajimaya-seattle",
+      "name": "Uwajimaya Seattle"
+    },
     "valala-farm-and-edible-insect-lab": {
       "category": "interesting-things",
       "coordinates": [
@@ -10001,6 +10307,16 @@
       "id": "valala-farm-and-edible-insect-lab",
       "name": "Valala Farm and Edible Insect Lab"
     },
+    "vallecito-difunta-correa": {
+      "category": "interesting-things",
+      "coordinates": [
+        -67.9815469,
+        -31.7352479
+      ],
+      "description": "A quirky town, known for https://en.wikipedia.org/wiki/Difunta_Correa",
+      "id": "vallecito-difunta-correa",
+      "name": "Vallecito / Difunta Correa"
+    },
     "valley-relics-museum": {
       "category": "para-infrastructural-cultural",
       "coordinates": [
@@ -10009,6 +10325,16 @@
       ],
       "id": "valley-relics-museum",
       "name": "Valley Relics Museum"
+    },
+    "vanport-marker": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        -122.686356,
+        45.5981584
+      ],
+      "description": "Housing for migrant workers, particularly Black people in the Great Migration, was built in this floodplain during WWII. When it inevitably flooded, the effort to recover was an epochal community-making event and a turning point in Oregon's racial politics. Led more or less directly to Northeast being Portland's Blackest quadrant, and to the establishment of Portland State University, just for two.\n\nLittle remains to be seen onsite, though people sometimes leave flowers and such.",
+      "id": "vanport-marker",
+      "name": "Vanport Marker"
     },
     "vasquez-rocks": {
       "category": "nature",
@@ -10350,6 +10676,15 @@
       "id": "western-approaches",
       "name": "Western Approaches"
     },
+    "western-railway-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -121.8744624,
+        38.2035213
+      ],
+      "id": "western-railway-museum",
+      "name": "Western Railway Museum"
+    },
     "westgate-museum": {
       "category": "museums-attractions",
       "coordinates": [
@@ -10437,6 +10772,16 @@
       "description": "Aviation museum with various aircraft and related exhibits. Includes a Blue Streak missile, flight simulator connected to an actual aircraft etc. Cafe and lots of private plane flying.\n\nhttps://wightaviationmuseum.org.uk/",
       "id": "wight-aviation-museum",
       "name": "Wight Aviation Museum"
+    },
+    "wikchsawa-superstition-mountains": {
+      "category": "nature",
+      "coordinates": [
+        -111.1936733,
+        33.475515
+      ],
+      "description": "Beautiful mountains, but notoriously dangerous. The heat is often extreme, the trails are exposed and exhausting (people forget they're at elevation when they're hot!), and the brush is deceptively thick, making it easy to get lost and take a step off a cliff. A truly alarming number of hikers have died here, and their remains often go unfound in the dense scrub and many tiny canyons.\n\nAlso the site of the folkloric lost Dutchman's gold (https://en.wikipedia.org/wiki/Lost_Dutchman%27s_Gold_Mine), one of the more interesting and culturally important buried treasure stories of the West. In some versions, it's a small but very rich gold seam; in others, it's a cache of conquistador-looted gold hidden in a rock cleft by Apaches; presumably some people think it's aliens. Over the last century or more, large numbers of treasure hunters have, unsurprisingly, died while offtrail in this exceptionally dangerous landscape. This has only fed the legends of curses and increased the perceived value of the gold. There are entire (fairly entertaining) books just about the histories of the various expeditions.\n\nArizona State Parks advises you to plan your hike carefully, particularly as regards your water supply, and to stay strictly on marked trails. This is good advice.",
+      "id": "wikchsawa-superstition-mountains",
+      "name": "Wi:kchsawa / Superstition Mountains"
     },
     "willamette-falls-scenic-viewpoint": {
       "category": "interesting-things",
@@ -10610,6 +10955,15 @@
       "description": "Old suspended monorail along a river and road",
       "id": "wuppertal-schwebebahn",
       "name": "Wuppertal Schwebebahn"
+    },
+    "yamanashi-prefectural-maglev-exhibition-center": {
+      "category": "museums-attractions",
+      "coordinates": [
+        138.9258252,
+        35.5832997
+      ],
+      "id": "yamanashi-prefectural-maglev-exhibition-center",
+      "name": "Yamanashi Prefectural Maglev Exhibition Center"
     },
     "yehliu-geopark": {
       "category": "nature",

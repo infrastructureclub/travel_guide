@@ -2814,6 +2814,132 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Vallecito / Difunta Correa</name>
+        <description>A quirky town, known for https://en.wikipedia.org/wiki/Difunta_Correa</description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -67.9815469,-31.7352479,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alishan Forest Railway (Chiayi Station)</name>
+        <description>The Alishan Forest Railway was originally constructed by occupying Japanese forces to facilitate logging; it’s now a famously beautiful forest tour.</description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            120.4411545,23.4791464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kaiyodai Observatory</name>
+        <description>“Observatory” is perhaps better translated as “overlook” or “viewpoint”.</description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            144.8701533,43.6137191,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lake Agnes Tea House</name>
+        <description>Remote and beloved: https://www.bbc.com/travel/article/20231203-tea-house-hike-a-tiny-tasty-secret-deep-in-the-canadian-rockies</description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -116.244223,51.4167172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plain of Six Glaciers Teahouse</name>
+        <styleUrl>#icon-1598-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -116.2727765,51.3935843,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St. Michael the Archangel Orthodox Cathedral</name>
+        <styleUrl>#icon-1598-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -135.3352778,57.05,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>International Rose Test Garden
+</name>
+        <styleUrl>#icon-1598-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.7052508,45.5189397,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Smith Teamaker</name>
+        <description>Final tea project of the man who founded and sold Stash, then founded and sold Tazo: https://en.wikipedia.org/wiki/Steven_Smith_(teamaker)</description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.698332,45.5263939,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bamboo Garden</name>
+        <description>With more than 300 species. Slightly surreal in a lowkey way.</description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.9941925,45.6563467,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Interval at Long Now</name>
+        <styleUrl>#icon-1598-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.4321667,37.8066031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Golden Gate Park</name>
+        <description>Large urban park, crowded with memorials, historic trees, and other minor but interesting landmarks. Often compared to Central Park.</description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.482977,37.7689203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Uwajimaya Seattle</name>
+        <description>East Asian, primarily Japanese, supermarket that often wows visitors. (Has another location in Seattle and one in Portland.)</description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.326793,47.5968209,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Scenic View McNary Dam</name>
+        <styleUrl>#icon-1598-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -119.2986406,45.9438125,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>
@@ -3288,7 +3414,7 @@
       </Placemark>
       <Placemark>
         <name>Maryhill Museum of Art</name>
-        <description>Bizarre, wonderful place with a deeply silly history.</description>
+        <description>A perfectly good mid-sized art museum, in the absolutely middle of absolute nowhere, on the lip of a river gorge, with a deeply silly history. Difficult to fully describe without words like unique, bizarre, and surreal. A must-see if you’re in the area.</description>
         <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
         <Point>
           <coordinates>
@@ -4099,7 +4225,7 @@
       </Placemark>
       <Placemark>
         <name>Maritime Museum</name>
-        <description>A very small museum. One of the more interesting things in a rather over-touristy area.</description>
+        <description>A very small museum. One of the more interesting things in a rather over-touristy neighborhood.</description>
         <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
         <Point>
           <coordinates>
@@ -7475,6 +7601,116 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>National Museum of Indonesia</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.8215901,-6.1764021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>National Museum of Singapore</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.8485091,1.296613,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yamanashi Prefectural Maglev Exhibition Center</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            138.9258252,35.5832997,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hiroshima Peace Memorial Museum</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            132.4531578,34.3915027,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alaska State Museum</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -134.4156397,58.2999241,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shelton McMurphey Johnson House</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -123.0921528,44.0564145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bull Run Powerhouse</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2336269,45.4284766,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Western Railway Museum</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -121.8744624,38.2035213,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Leavenworth Nutcracker Museum</name>
+        <description>The town of Leavenworth is basically one big Bavarian LARP.</description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -120.6623574,47.5948804,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>High Desert Museum</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -121.3419191,43.9661759,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seattle Central Library</name>
+        <description>Notable for its architecture.</description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3321837,47.6066621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seattle Aquarium</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3429559,47.6074002,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>
@@ -8441,7 +8677,8 @@
       </Placemark>
       <Placemark>
         <name>Stonehenge WWI Memorial</name>
-        <styleUrl>#icon-1608-F57C00-labelson-nodesc</styleUrl>
+        <description>More deeply tasteless yet somehow honestly impressive work from the same guy responsible for the Maryhill Art Museum.</description>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>
             -120.8060161,45.6943755,0
@@ -8854,6 +9091,47 @@
         <Point>
           <coordinates>
             15.597395,-9.6640806,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ik Kil Cenote
+</name>
+        <description>The central and northern Yucatán is made of such porous rock that, despite fairly plentiful rainfall, it has essentially no rivers or natural lakes – other than the cenotes. Among other things, this made cenotes hugely culturally important to the Classical Maya civilization.</description>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -88.5504873,20.6610199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St. Johns Bridge</name>
+        <description>Beautiful, locally beloved bridge. Longest suspension bridge west of the Mississippi at the time of construction.</description>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.7645286,45.5853347,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vanport Marker</name>
+        <description><![CDATA[Housing for migrant workers, particularly Black people in the Great Migration, was built in this floodplain during WWII. When it inevitably flooded, the effort to recover was an epochal community-making event and a turning point in Oregon’s racial politics. Led more or less directly to Northeast being Portland’s Blackest quadrant, and to the establishment of Portland State University, just for two.<br><br>Little remains to be seen onsite, though people sometimes leave flowers and such.]]></description>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.686356,45.5981584,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Flight 173 Memorial</name>
+        <description><![CDATA[A crash caused in large part by poor communication and lack of shared situational awareness among the flight crew. (They ran out of fuel while focusing on a landing gear malfunction.) The NTSB report contained recommendations that contributed heavily to the development of modern crew resource management (CRM) communications procedures.<br><br>Little is visible at the site, but given that it’s just a few blocks from a MAX stop, it’s a relatively easy pilgrimage for people interested in these things.]]></description>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.5003986,45.5224067,0
           </coordinates>
         </Point>
       </Placemark>
@@ -9418,6 +9696,35 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Wi:kchsawa / Superstition Mountains</name>
+        <description><![CDATA[Beautiful mountains, but notoriously dangerous. The heat is often extreme, the trails are exposed and exhausting (people forget they’re at elevation when they’re hot!), and the brush is deceptively thick, making it easy to get lost and take a step off a cliff. A truly alarming number of hikers have died here, and their remains often go unfound in the dense scrub and many tiny canyons.<br><br>Also the site of the folkloric lost Dutchman’s gold (https://en.wikipedia.org/wiki/Lost_Dutchman%27s_Gold_Mine), one of the more interesting and culturally important buried treasure stories of the West. In some versions, it’s a small but very rich gold seam; in others, it’s a cache of conquistador-looted gold hidden in a rock cleft by Apaches; presumably some people think it’s aliens. Over the last century or more, large numbers of treasure hunters have, unsurprisingly, died while offtrail in this exceptionally dangerous landscape. This has only fed the legends of curses and increased the perceived value of the gold. There are entire (fairly entertaining) books just about the histories of the various expeditions.<br><br>Arizona State Parks advises you to plan your hike carefully, particularly as regards your water supply, and to stay strictly on marked trails. This is good advice.]]></description>
+        <styleUrl>#icon-1596-558B2F-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -111.1936733,33.475515,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chicxulub crater</name>
+        <description>Approximate centerpoint of the crater of the impact that killed the non-avian dinosaurs. I don’t know exactly how it got the name of Chicxulub – clearly there was some initial estimate that that town was near the crater centerpoint, but I don’t know who made that first guess or precisely when.</description>
+        <styleUrl>#icon-1596-558B2F-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -89.5166667,21.4,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Palouse Falls</name>
+        <styleUrl>#icon-1596-558B2F-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -118.2236495,46.6634052,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Not open to public but visible</name>
@@ -9936,6 +10243,17 @@
         <Point>
           <coordinates>
             50.1267026,19.1137973,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Progreso Pier
+</name>
+        <description>The longest in the world by some measures. Most of its length is closed to the public except when going to or from a cruise ship docked here. Still an impressive sight from shore.</description>
+        <styleUrl>#icon-1898-BDBDBD-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -89.6783266,21.3469267,0
           </coordinates>
         </Point>
       </Placemark>
@@ -10962,6 +11280,46 @@
         <Point>
           <coordinates>
             -100.7403281,20.9233049,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Grotto</name>
+        <description>Touching and kitschy by turns.</description>
+        <styleUrl>#icon-1608-006064-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.5735354,45.5532151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kurt Cobain Under the Bridge Memorial</name>
+        <styleUrl>#icon-1608-006064-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -123.8057111,46.9841799,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>“The Lookout”
+</name>
+        <description>A stretch of road with good parking, clear views to the north and east, and relatively little light pollution for its accessibility. During naked-eye astronomical events (comets, eclipses, meteor showers), locals come here after dark to watch together.</description>
+        <styleUrl>#icon-1608-006064-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.6850723,37.6047501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>King Street Station</name>
+        <description>Train station with a rich history and interesting architecture.</description>
+        <styleUrl>#icon-1608-006064-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3299086,47.5983889,0
           </coordinates>
         </Point>
       </Placemark>

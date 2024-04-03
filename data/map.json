@@ -13,15 +13,15 @@
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 494,
+      "count": 495,
       "name": "Museums / attractions"
     },
     "nature": {
-      "count": 59,
+      "count": 60,
       "name": "Nature"
     },
     "not-open-to-public-but-visible": {
-      "count": 53,
+      "count": 54,
       "name": "Not open to public but visible"
     },
     "para-infrastructural-cultural": {
@@ -2107,7 +2107,7 @@
         -122.2921431,
         37.8104377
       ],
-      "description": "The Loma Prieta earthquake (1989) partially pancaked a two-level expressway that ran here. The local community, mostly impoverished Black people whose neighborhood the freeway had split, acted heroically, improvising ladders and other tools, pulling trapped drivers out of the wreckage, and administering first aid while EMTs were overloaded. This is one of very few memorials to peacetime community heroism in the world.",
+      "description": "The Loma Prieta earthquake (1989) partially collapsed a two-level expressway that ran here. The local community, mostly impoverished Black people whose neighborhood the freeway had split, acted heroically, improvising ladders and other tools, pulling trapped drivers out of the wreckage, and administering first aid while EMTs were overloaded. This is one of very few memorials to peacetime community heroism in the world.\n\nThe route of the expressway is now Mandela Parkway, a more modest street with a long linear park in the median.",
       "id": "cypress-freeway-memorial-park",
       "name": "Cypress Freeway Memorial Park"
     },
@@ -3692,7 +3692,7 @@
         -122.2274768,
         37.8440834
       ],
-      "description": "If you're visiting the Bay Area and want to see some realtime effects of the spicy geology, the cracks in the asphalt near the bathroom entrances here come from the fault moving since it was laid down.",
+      "description": "If you're visiting the Bay Area and want to see some non-ruin effects of the spicy geology, the cracks in the asphalt near the bathroom entrances here come from the fault moving since it was laid down.",
       "id": "hayward-fault-creep",
       "name": "Hayward Fault creep"
     },
@@ -10116,6 +10116,16 @@
       "id": "trinity-site",
       "name": "Trinity Site"
     },
+    "triple-divide-peak": {
+      "category": "nature",
+      "coordinates": [
+        -113.5168764,
+        48.5730042
+      ],
+      "description": "Meeting point of the watersheds of Hudson Bay, the Gulf of Mexico, and the Pacific.",
+      "id": "triple-divide-peak",
+      "name": "Triple Divide Peak"
+    },
     "twa-terminal": {
       "category": "museums-attractions",
       "coordinates": [
@@ -10203,12 +10213,22 @@
       "id": "united-states-national-arboretum",
       "name": "United States National Arboretum"
     },
+    "united-states-naval-observatory": {
+      "category": "not-open-to-public-but-visible",
+      "coordinates": [
+        -77.0670419,
+        38.9209619
+      ],
+      "id": "united-states-naval-observatory",
+      "name": "United States Naval Observatory"
+    },
     "university-of-california-botanical-garden": {
       "category": "para-infrastructural-cultural",
       "coordinates": [
         -122.2387194,
         37.875145
       ],
+      "description": "A relatively small institution, but dense with interesting plants.",
       "id": "university-of-california-botanical-garden",
       "name": "University of California Botanical Garden"
     },
@@ -10258,6 +10278,15 @@
       "description": "Submarine tour. There's a daily 45 minute tour and a twice-monthly multi-hour technical tour. Part of OMSI (the family-oriented science museum); check omsi.edu for schedule and tickets.",
       "id": "uss-blueback",
       "name": "USS Blueback"
+    },
+    "uss-hornet-sea-air-and-space-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -122.3025322,
+        37.7726482
+      ],
+      "id": "uss-hornet-sea-air-and-space-museum",
+      "name": "USS Hornet - Sea, Air and Space Museum"
     },
     "uss-midway-museum": {
       "category": "museums-attractions",

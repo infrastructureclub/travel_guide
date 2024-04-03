@@ -8722,7 +8722,7 @@
                 "styleUrl": "#icon-1636-F9A825-labelson",
                 "styleHash": "-73d4c685",
                 "icon": "images/icon-2.png",
-                "description": "If you’re visiting the Bay Area and want to see some realtime effects of the spicy geology, the cracks in the asphalt near the bathroom entrances here come from the fault moving since it was laid down."
+                "description": "If you’re visiting the Bay Area and want to see some non-ruin effects of the spicy geology, the cracks in the asphalt near the bathroom entrances here come from the fault moving since it was laid down."
             }
         },
         {
@@ -13620,6 +13620,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -122.3025322,
+                    37.7726482,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "USS Hornet - Sea, Air and Space Museum",
+                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
+                "styleHash": "-4303c82c",
+                "icon": "images/icon-2.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.9055879,
                     38.1671515,
                     0
@@ -17216,6 +17233,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -113.5168764,
+                    48.5730042,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Triple Divide Peak",
+                "styleUrl": "#icon-1596-558B2F-labelson",
+                "styleHash": "638c400",
+                "icon": "images/icon-5.png",
+                "description": "Meeting point of the watersheds of Hudson Bay, the Gulf of Mexico, and the Pacific."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     0.9596944,
                     50.9138436,
                     0
@@ -18157,6 +18192,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -77.0670419,
+                    38.9209619,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "United States Naval Observatory",
+                "styleUrl": "#icon-1898-BDBDBD-labelson-nodesc",
+                "styleHash": "-4854e743",
+                "icon": "images/icon-6.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -110.788813,
                     32.4410085,
                     0
@@ -18703,9 +18755,10 @@
             },
             "properties": {
                 "name": "University of California Botanical Garden",
-                "styleUrl": "#icon-1608-006064-labelson-nodesc",
-                "styleHash": "672042b4",
-                "icon": "images/icon-8.png"
+                "styleUrl": "#icon-1608-006064-labelson",
+                "styleHash": "1468cf8f",
+                "icon": "images/icon-8.png",
+                "description": "A relatively small institution, but dense with interesting plants."
             }
         },
         {
@@ -19071,7 +19124,7 @@
                 "styleUrl": "#icon-1608-006064-labelson",
                 "styleHash": "1468cf8f",
                 "icon": "images/icon-8.png",
-                "description": "The Loma Prieta earthquake (1989) partially pancaked a two-level expressway that ran here. The local community, mostly impoverished Black people whose neighborhood the freeway had split, acted heroically, improvising ladders and other tools, pulling trapped drivers out of the wreckage, and administering first aid while EMTs were overloaded. This is one of very few memorials to peacetime community heroism in the world."
+                "description": "The Loma Prieta earthquake (1989) partially collapsed a two-level expressway that ran here. The local community, mostly impoverished Black people whose neighborhood the freeway had split, acted heroically, improvising ladders and other tools, pulling trapped drivers out of the wreckage, and administering first aid while EMTs were overloaded. This is one of very few memorials to peacetime community heroism in the world.<br><br>The route of the expressway is now Mandela Parkway, a more modest street with a long linear park in the median."
             }
         },
         {

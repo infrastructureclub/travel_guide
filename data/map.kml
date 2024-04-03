@@ -4969,7 +4969,7 @@
       <Placemark>
         <name>Hayward Fault creep
 </name>
-        <description>If you’re visiting the Bay Area and want to see some realtime effects of the spicy geology, the cracks in the asphalt near the bathroom entrances here come from the fault moving since it was laid down.</description>
+        <description>If you’re visiting the Bay Area and want to see some non-ruin effects of the spicy geology, the cracks in the asphalt near the bathroom entrances here come from the fault moving since it was laid down.</description>
         <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
         <Point>
           <coordinates>
@@ -7711,6 +7711,15 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>USS Hornet - Sea, Air and Space Museum</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3025322,37.7726482,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>
@@ -9725,6 +9734,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Triple Divide Peak</name>
+        <description>Meeting point of the watersheds of Hudson Bay, the Gulf of Mexico, and the Pacific.</description>
+        <styleUrl>#icon-1596-558B2F-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -113.5168764,48.5730042,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Not open to public but visible</name>
@@ -10257,6 +10276,15 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>United States Naval Observatory</name>
+        <styleUrl>#icon-1898-BDBDBD-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0670419,38.9209619,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Science</name>
@@ -10558,7 +10586,8 @@
       </Placemark>
       <Placemark>
         <name>University of California Botanical Garden</name>
-        <styleUrl>#icon-1608-006064-labelson-nodesc</styleUrl>
+        <description>A relatively small institution, but dense with interesting plants.</description>
+        <styleUrl>#icon-1608-006064-labelson</styleUrl>
         <Point>
           <coordinates>
             -122.2387194,37.875145,0
@@ -10755,7 +10784,7 @@
       </Placemark>
       <Placemark>
         <name>Cypress Freeway Memorial Park</name>
-        <description>The Loma Prieta earthquake (1989) partially pancaked a two-level expressway that ran here. The local community, mostly impoverished Black people whose neighborhood the freeway had split, acted heroically, improvising ladders and other tools, pulling trapped drivers out of the wreckage, and administering first aid while EMTs were overloaded. This is one of very few memorials to peacetime community heroism in the world.</description>
+        <description><![CDATA[The Loma Prieta earthquake (1989) partially collapsed a two-level expressway that ran here. The local community, mostly impoverished Black people whose neighborhood the freeway had split, acted heroically, improvising ladders and other tools, pulling trapped drivers out of the wreckage, and administering first aid while EMTs were overloaded. This is one of very few memorials to peacetime community heroism in the world.<br><br>The route of the expressway is now Mandela Parkway, a more modest street with a long linear park in the median.]]></description>
         <styleUrl>#icon-1608-006064-labelson</styleUrl>
         <Point>
           <coordinates>

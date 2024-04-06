@@ -14119,6 +14119,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -0.247768,
+                    52.5680737,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Railworld Wildlife Haven",
+                "styleUrl": "#icon-1693-757575-labelson",
+                "styleHash": "-1d74371c",
+                "icon": "images/icon-3.png",
+                "description": "The only place to go if you want to see a Tracked Hovercraft (aka Hovertrain)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -78.3005704,
                     44.3076708,
                     0

@@ -7997,6 +7997,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Railworld Wildlife Haven</name>
+        <description>The only place to go if you want to see a Tracked Hovercraft (aka Hovertrain)</description>
+        <styleUrl>#icon-1693-757575-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -0.247768,52.5680737,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Historic / ruins / structures</name>

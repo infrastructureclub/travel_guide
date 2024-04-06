@@ -5,7 +5,7 @@
       "name": "Historic / ruins / structures"
     },
     "industry": {
-      "count": 27,
+      "count": 28,
       "name": "Industry"
     },
     "interesting-things": {
@@ -7468,6 +7468,16 @@
       "description": "Status unclear as of Feb 2023 https://ose.gr/%CF%80%CE%BF%CE%BB%CE%B9%CF%84%CE%B9%CF%83%CE%BC%CF%8C%CF%82/%CE%BC%CE%BF%CF%85%CF%83%CE%B5%CE%B9%CE%B1%CE%BA%CF%8C-%CF%85%CE%BB%CE%B9%CE%BA%CF%8C/",
       "id": "railways-museum",
       "name": "Railways Museum"
+    },
+    "railworld-wildlife-haven": {
+      "category": "industry",
+      "coordinates": [
+        -0.247768,
+        52.5680737
+      ],
+      "description": "The only place to go if you want to see a Tracked Hovercraft (aka Hovertrain)",
+      "id": "railworld-wildlife-haven",
+      "name": "Railworld Wildlife Haven"
     },
     "rampion-wind-farm": {
       "category": "industry",

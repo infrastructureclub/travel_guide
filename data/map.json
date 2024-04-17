@@ -5,7 +5,7 @@
       "name": "Historic / ruins / structures"
     },
     "industry": {
-      "count": 28,
+      "count": 29,
       "name": "Industry"
     },
     "interesting-things": {
@@ -4840,6 +4840,15 @@
       "description": "Open occasionally",
       "id": "london-transport-museum-depot",
       "name": "London Transport Museum Depot"
+    },
+    "lookout-jackerath-garzweiler-skywalk": {
+      "category": "industry",
+      "coordinates": [
+        6.4644831,
+        51.0455976
+      ],
+      "id": "lookout-jackerath-garzweiler-skywalk",
+      "name": "Lookout Jackerath Garzweiler Skywalk"
     },
     "loreto-gallery": {
       "category": "interesting-things",

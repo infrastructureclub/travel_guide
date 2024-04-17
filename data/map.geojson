@@ -14137,6 +14137,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    6.4644831,
+                    51.0455976,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lookout Jackerath Garzweiler Skywalk",
+                "styleUrl": "#icon-1693-757575-labelson-nodesc",
+                "styleHash": "25b72bdf",
+                "icon": "images/icon-3.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -78.3005704,
                     44.3076708,
                     0

@@ -8007,6 +8007,15 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Lookout Jackerath Garzweiler Skywalk</name>
+        <styleUrl>#icon-1693-757575-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.4644831,51.0455976,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Historic / ruins / structures</name>

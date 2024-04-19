@@ -8016,6 +8016,15 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Norwegian Industrial Workers Museum</name>
+        <styleUrl>#icon-1693-757575-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            8.4913651,59.8713075,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Historic / ruins / structures</name>

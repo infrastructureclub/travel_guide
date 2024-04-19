@@ -5,7 +5,7 @@
       "name": "Historic / ruins / structures"
     },
     "industry": {
-      "count": 29,
+      "count": 30,
       "name": "Industry"
     },
     "interesting-things": {
@@ -6564,6 +6564,15 @@
       ],
       "id": "norwegian-canning-museum",
       "name": "Norwegian Canning Museum"
+    },
+    "norwegian-industrial-workers-museum": {
+      "category": "industry",
+      "coordinates": [
+        8.4913651,
+        59.8713075
+      ],
+      "id": "norwegian-industrial-workers-museum",
+      "name": "Norwegian Industrial Workers Museum"
     },
     "norwegian-petroleum-museum": {
       "category": "museums-attractions",

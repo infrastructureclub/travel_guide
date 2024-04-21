@@ -1,19 +1,19 @@
 {
   "categories": {
     "historic-ruins-structures": {
-      "count": 117,
+      "count": 118,
       "name": "Historic / ruins / structures"
     },
     "industry": {
-      "count": 30,
+      "count": 31,
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 281,
+      "count": 280,
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 495,
+      "count": 496,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -824,16 +824,6 @@
       "description": "Good for plane spotting and, at low tide, maritime birds too.",
       "id": "bayfront-park",
       "name": "Bayfront Park"
-    },
-    "bayside-canadian-railway": {
-      "category": "interesting-things",
-      "coordinates": [
-        -67.1396707,
-        45.1586153
-      ],
-      "description": "A 70 meter long railway created in an attempt to create a legal loophole in the Jones Act Third Provisio",
-      "id": "bayside-canadian-railway",
-      "name": "Bayside Canadian Railway"
     },
     "bears-ears-visitor-center": {
       "category": "nature",
@@ -2965,6 +2955,16 @@
       "id": "first-dawn-redwood-metasequoia-glyptostroboides-to-grow-in-the-western-hemisphere-in-5-million-years",
       "name": "First dawn redwood (Metasequoia glyptostroboides) to grow in the Western Hemisphere in 5+ million years"
     },
+    "fisheries-museum-of-the-atlantic": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -64.3125391,
+        44.3761339
+      ],
+      "description": "Interesting museum of fishing industry",
+      "id": "fisheries-museum-of-the-atlantic",
+      "name": "Fisheries Museum of the Atlantic"
+    },
     "flakturm-vii-g-turm-augarten": {
       "category": "historic-ruins-structures",
       "coordinates": [
@@ -3579,6 +3579,15 @@
       ],
       "id": "haleakal-observatory",
       "name": "Haleakal\u0101 Observatory"
+    },
+    "halifax-citadel-national-historic-site": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        -63.5796045,
+        44.6474888
+      ],
+      "id": "halifax-citadel-national-historic-site",
+      "name": "Halifax Citadel National Historic Site"
     },
     "halton-county-radial-railway-museum": {
       "category": "museums-attractions",
@@ -10596,6 +10605,16 @@
       "description": "Magnificent 19thC folly, tallest structure in Calderdale, and claimed to be the tallest folly in the world. \nhttp://en.wikipedia.org/wiki/Wainhouse_Tower",
       "id": "wainhouse-tower",
       "name": "Wainhouse Tower"
+    },
+    "walkway-next-to-port": {
+      "category": "industry",
+      "coordinates": [
+        -63.5616052,
+        44.6258633
+      ],
+      "description": "This is a good spot to see the port and ocean",
+      "id": "walkway-next-to-port",
+      "name": "Walkway next to port"
     },
     "walt-disney-concert-hall": {
       "category": "para-infrastructural-cultural",

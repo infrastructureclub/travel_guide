@@ -2219,24 +2219,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -67.1396707,
-                    45.1586153,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Bayside Canadian Railway",
-                "styleUrl": "#icon-1598-A52714-labelson",
-                "styleHash": "-835978",
-                "icon": "images/icon-1.png",
-                "description": "A 70 meter long railway created in an attempt to create a legal loophole in the Jones Act Third Provisio"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     24.7585312,
                     -28.7391027,
                     0
@@ -13637,6 +13619,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -64.3125391,
+                    44.3761339,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fisheries Museum of the Atlantic",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "icon": "images/icon-2.png",
+                "description": "Interesting museum of fishing industry"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.9055879,
                     38.1671515,
                     0
@@ -14164,6 +14164,24 @@
                 "styleUrl": "#icon-1693-757575-labelson-nodesc",
                 "styleHash": "25b72bdf",
                 "icon": "images/icon-3.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.5616052,
+                    44.6258633,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Walkway next to port\n",
+                "styleUrl": "#icon-1693-757575-labelson",
+                "styleHash": "-1d74371c",
+                "icon": "images/icon-3.png",
+                "description": "This is a good spot to see the port and ocean"
             }
         },
         {
@@ -16235,6 +16253,23 @@
                 "styleHash": "-57e30630",
                 "icon": "images/icon-4.png",
                 "description": "A crash caused in large part by poor communication and lack of shared situational awareness among the flight crew. (They ran out of fuel while focusing on a landing gear malfunction.) The NTSB report contained recommendations that contributed heavily to the development of modern crew resource management (CRM) communications procedures.<br><br>Little is visible at the site, but given that it’s just a few blocks from a MAX stop, it’s a relatively easy pilgrimage for people interested in these things."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.5796045,
+                    44.6474888,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Halifax Citadel National Historic Site",
+                "styleUrl": "#icon-1608-F57C00-labelson-nodesc",
+                "styleHash": "50e5e3ed",
+                "icon": "images/icon-4.png"
             }
         },
         {

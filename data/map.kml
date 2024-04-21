@@ -1388,16 +1388,6 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Bayside Canadian Railway</name>
-        <description>A 70 meter long railway created in an attempt to create a legal loophole in the Jones Act Third Provisio</description>
-        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
-        <Point>
-          <coordinates>
-            -67.1396707,45.1586153,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>The Big Hole</name>
         <description>A big hole from diamond mining. The museum is interesting as well.</description>
         <styleUrl>#icon-1598-A52714-labelson</styleUrl>
@@ -7720,6 +7710,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Fisheries Museum of the Atlantic</name>
+        <description>Interesting museum of fishing industry</description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -64.3125391,44.3761339,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>
@@ -8022,6 +8022,17 @@
         <Point>
           <coordinates>
             8.4913651,59.8713075,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Walkway next to port
+</name>
+        <description>This is a good spot to see the port and ocean</description>
+        <styleUrl>#icon-1693-757575-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -63.5616052,44.6258633,0
           </coordinates>
         </Point>
       </Placemark>
@@ -9169,6 +9180,15 @@
         <Point>
           <coordinates>
             -122.5003986,45.5224067,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Halifax Citadel National Historic Site</name>
+        <styleUrl>#icon-1608-F57C00-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -63.5796045,44.6474888,0
           </coordinates>
         </Point>
       </Placemark>

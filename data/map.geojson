@@ -4962,6 +4962,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -74.0593206,
+                    40.1857425,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "InfoAge Science and History Museums",
+                "styleUrl": "#icon-1598-A52714-labelson-nodesc",
+                "styleHash": "-505f2c1",
+                "icon": "images/icon-1.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0

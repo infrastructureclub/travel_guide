@@ -2930,6 +2930,15 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>InfoAge Science and History Museums</name>
+        <styleUrl>#icon-1598-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -74.0593206,40.1857425,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>

@@ -9,7 +9,7 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 280,
+      "count": 281,
       "name": "Interesting Things"
     },
     "museums-attractions": {
@@ -4087,6 +4087,15 @@
       ],
       "id": "industrial-gas-museum",
       "name": "Industrial Gas Museum"
+    },
+    "infoage-science-and-history-museums": {
+      "category": "interesting-things",
+      "coordinates": [
+        -74.0593206,
+        40.1857425
+      ],
+      "id": "infoage-science-and-history-museums",
+      "name": "InfoAge Science and History Museums"
     },
     "inigo-jones-slate-works": {
       "category": "museums-attractions",

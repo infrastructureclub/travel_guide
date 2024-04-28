@@ -4979,6 +4979,164 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    139.7478462,
+                    35.6771964,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Japanese Geodetic Origin Point",
+                "styleUrl": "#icon-1598-A52714-labelson-nodesc",
+                "styleHash": "-505f2c1",
+                "icon": "images/icon-1.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7654768,
+                    35.6815604,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tokyo Station: Marunouchi side",
+                "styleUrl": "#icon-1598-A52714-labelson",
+                "styleHash": "-835978",
+                "icon": "images/icon-1.png",
+                "description": "The old part of the station built in 1914"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7005596,
+                    35.659482,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Shibuya Scramble Crossing",
+                "styleUrl": "#icon-1598-A52714-labelson-nodesc",
+                "styleHash": "-505f2c1",
+                "icon": "images/icon-1.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7454329,
+                    35.6585805,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tokyo Tower",
+                "styleUrl": "#icon-1598-A52714-labelson-nodesc",
+                "styleHash": "-505f2c1",
+                "icon": "images/icon-1.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1133591,
+                    35.6131339,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiba Urban Monorail\n",
+                "styleUrl": "#icon-1598-A52714-labelson",
+                "styleHash": "-835978",
+                "icon": "images/icon-1.png",
+                "description": "One of the few suspended monorails. You can transfer here at Chiba station from the major intercity rail lines"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7564142,
+                    35.654742,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Uchū no mise (Space Store)\n",
+                "styleUrl": "#icon-1598-A52714-labelson",
+                "styleHash": "-835978",
+                "icon": "images/icon-1.png",
+                "description": "Take elevator to 5th floor. Small store specializing in space memorabilia (mission patches, rocket models, etc.)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6316808,
+                    35.6886002,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Suginami Children's Traffic Park",
+                "styleUrl": "#icon-1598-A52714-labelson-nodesc",
+                "styleHash": "-505f2c1",
+                "icon": "images/icon-1.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7890061,
+                    35.5511675,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "HND Observation Deck",
+                "styleUrl": "#icon-1598-A52714-labelson",
+                "styleHash": "-835978",
+                "icon": "images/icon-1.png",
+                "description": "Free, and outside the secure area. Go to the top floor of Terminal 2 there is a huge outdoor deck overlooking the runways. Lots of plan-spotters and photographers here."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7655156,
+                    35.699817,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hijiri Bridge (train photo spot)\n",
+                "styleUrl": "#icon-1598-A52714-labelson",
+                "styleHash": "-835978",
+                "icon": "images/icon-1.png",
+                "description": "This is a famous train photo spot where multiple lines intersect which a bridge, and tunnel and though service all passing at once."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0
@@ -13654,6 +13812,161 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    139.647481,
+                    35.6488124,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Gōtokuji Temple",
+                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
+                "styleHash": "-4303c82c",
+                "icon": "images/icon-2.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6993259,
+                    35.6763976,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Meiji Jingu",
+                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
+                "styleHash": "-4303c82c",
+                "icon": "images/icon-2.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7734312,
+                    35.7147557,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ueno Park",
+                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
+                "styleHash": "-4303c82c",
+                "icon": "images/icon-2.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3900858,
+                    35.452937,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Romancecar Museum",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "icon": "images/icon-2.png",
+                "description": "The Odakyu lines operate very nice \"romance car\" train service out to the area just outside Mt. Fuji. Called this because instead of bench seating like most commuter trains they have very nice forward facing seating (loveseats, like the furniture) for a comfortable long journey.<br><br>This museum covers the history of the special service and rolling stock. It also has a spectacular massive diorama of the whole train line"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7716826,
+                    35.6854615,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bank of Japan Currency Museum",
+                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
+                "styleHash": "-4303c82c",
+                "icon": "images/icon-2.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.8734375,
+                    35.6635668,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tokyo Metro Museum",
+                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
+                "styleHash": "-4303c82c",
+                "icon": "images/icon-2.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6388669,
+                    35.4554755,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cup Noodles Museum Yokohama",
+                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
+                "styleHash": "-4303c82c",
+                "icon": "images/icon-2.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6179197,
+                    35.9214247,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Railway Museum",
+                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
+                "styleHash": "-4303c82c",
+                "icon": "images/icon-2.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3947041,
+                    35.5589162,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "JAXA Sagamihara campus and museum\n",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "icon": "images/icon-2.png",
+                "description": "Home of ISAS (the science-focused predecessor to JAXA). They have a small rocket museum."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.9055879,
                     38.1671515,
                     0
@@ -17348,6 +17661,23 @@
                 "styleHash": "638c400",
                 "icon": "images/icon-5.png",
                 "description": "Meeting point of the watersheds of Hudson Bay, the Gulf of Mexico, and the Pacific."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.2551495,
+                    35.62995,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mt Takao Monkey Park & Wildflower Garden",
+                "styleUrl": "#icon-1596-558B2F-labelson-nodesc",
+                "styleHash": "2ebec33f",
+                "icon": "images/icon-5.png"
             }
         },
         {

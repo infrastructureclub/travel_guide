@@ -9,15 +9,15 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 281,
+      "count": 290,
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 496,
+      "count": 505,
       "name": "Museums / attractions"
     },
     "nature": {
-      "count": 60,
+      "count": 61,
       "name": "Nature"
     },
     "not-open-to-public-but-visible": {
@@ -721,6 +721,15 @@
       ],
       "id": "bank-of-england-museum",
       "name": "Bank of England Museum"
+    },
+    "bank-of-japan-currency-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        139.7716826,
+        35.6854615
+      ],
+      "id": "bank-of-japan-currency-museum",
+      "name": "Bank of Japan Currency Museum"
     },
     "barcelona-supercomputing-center": {
       "category": "science",
@@ -1676,6 +1685,16 @@
       "id": "charleston-tea-garden",
       "name": "Charleston Tea Garden"
     },
+    "chiba-urban-monorail": {
+      "category": "interesting-things",
+      "coordinates": [
+        140.1133591,
+        35.6131339
+      ],
+      "description": "One of the few suspended monorails. You can transfer here at Chiba station from the major intercity rail lines",
+      "id": "chiba-urban-monorail",
+      "name": "Chiba Urban Monorail"
+    },
     "chicago-river-boat-architecture-tours": {
       "category": "historic-ruins-structures",
       "coordinates": [
@@ -2080,6 +2099,15 @@
       "description": "https://www.facebook.com/Cuckfieldnuclearbunker/ for details of regular open days",
       "id": "cuckfield-royal-observer-corps-bunker",
       "name": "Cuckfield Royal Observer Corps Bunker"
+    },
+    "cup-noodles-museum-yokohama": {
+      "category": "museums-attractions",
+      "coordinates": [
+        139.6388669,
+        35.4554755
+      ],
+      "id": "cup-noodles-museum-yokohama",
+      "name": "Cup Noodles Museum Yokohama"
     },
     "curved-elevator-at-the-old-town-hall": {
       "category": "historic-ruins-structures",
@@ -3494,6 +3522,15 @@
       ],
       "name": "Grotta Gigante"
     },
+    "gtokuji-temple": {
+      "category": "museums-attractions",
+      "coordinates": [
+        139.647481,
+        35.6488124
+      ],
+      "id": "gtokuji-temple",
+      "name": "G\u014dtokuji Temple"
+    },
     "guys-cliffe-house": {
       "category": "interesting-things",
       "coordinates": [
@@ -3781,6 +3818,16 @@
       "id": "high-street",
       "name": "High Street"
     },
+    "hijiri-bridge-train-photo-spot": {
+      "category": "interesting-things",
+      "coordinates": [
+        139.7655156,
+        35.699817
+      ],
+      "description": "This is a famous train photo spot where multiple lines intersect which a bridge, and tunnel and though service all passing at once.",
+      "id": "hijiri-bridge-train-photo-spot",
+      "name": "Hijiri Bridge (train photo spot)"
+    },
     "hills-of-mt-st-helens-ash-dredged-from-the-toutle-river-after-the-1980-eruption": {
       "category": "interesting-things",
       "coordinates": [
@@ -3846,6 +3893,16 @@
       ],
       "id": "hms-belfast",
       "name": "HMS Belfast"
+    },
+    "hnd-observation-deck": {
+      "category": "interesting-things",
+      "coordinates": [
+        139.7890061,
+        35.5511675
+      ],
+      "description": "Free, and outside the secure area. Go to the top floor of Terminal 2 there is a huge outdoor deck overlooking the runways. Lots of plan-spotters and photographers here.",
+      "id": "hnd-observation-deck",
+      "name": "HND Observation Deck"
     },
     "hoh-rain-forest-visitor-center": {
       "category": "nature",
@@ -4173,6 +4230,15 @@
       "id": "jannis-chimney",
       "name": "Janni\u2019s Chimney"
     },
+    "japanese-geodetic-origin-point": {
+      "category": "interesting-things",
+      "coordinates": [
+        139.7478462,
+        35.6771964
+      ],
+      "id": "japanese-geodetic-origin-point",
+      "name": "Japanese Geodetic Origin Point"
+    },
     "jardn-botnico-culiacn": {
       "category": "museums-attractions",
       "coordinates": [
@@ -4181,6 +4247,16 @@
       ],
       "id": "jardn-botnico-culiacn",
       "name": "Jard\u00edn Bot\u00e1nico Culiac\u00e1n"
+    },
+    "jaxa-sagamihara-campus-and-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        139.3947041,
+        35.5589162
+      ],
+      "description": "Home of ISAS (the science-focused predecessor to JAXA). They have a small rocket museum.",
+      "id": "jaxa-sagamihara-campus-and-museum",
+      "name": "JAXA Sagamihara campus and museum"
     },
     "jet-age-museum": {
       "category": "museums-attractions",
@@ -5188,6 +5264,15 @@
       "id": "mcmenamins-roseburg-station-pub-brewery",
       "name": "McMenamins Roseburg Station Pub & Brewery"
     },
+    "meiji-jingu": {
+      "category": "museums-attractions",
+      "coordinates": [
+        139.6993259,
+        35.6763976
+      ],
+      "id": "meiji-jingu",
+      "name": "Meiji Jingu"
+    },
     "menai-bridge-museum": {
       "category": "museums-attractions",
       "coordinates": [
@@ -5538,6 +5623,15 @@
       "description": "No interpretive installations, but an interesting walk. Mt Tabor is geologically interesting \u2013 it's a volcano, part of the Boring Lava Field.",
       "id": "mt-tabor-reservoirs",
       "name": "Mt Tabor reservoirs"
+    },
+    "mt-takao-monkey-park-wildflower-garden": {
+      "category": "nature",
+      "coordinates": [
+        139.2551495,
+        35.62995
+      ],
+      "id": "mt-takao-monkey-park-wildflower-garden",
+      "name": "Mt Takao Monkey Park & Wildflower Garden"
     },
     "mt-tamalpais-gravity-car-barn": {
       "category": "historic-ruins-structures",
@@ -7688,6 +7782,16 @@
       "id": "rnli-henry-blogg-museum",
       "name": "RNLI Henry Blogg Museum"
     },
+    "romancecar-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        139.3900858,
+        35.452937
+      ],
+      "description": "The Odakyu lines operate very nice \"romance car\" train service out to the area just outside Mt. Fuji. Called this because instead of bench seating like most commuter trains they have very nice forward facing seating (loveseats, like the furniture) for a comfortable long journey.\n\nThis museum covers the history of the special service and rolling stock. It also has a spectacular massive diorama of the whole train line",
+      "id": "romancecar-museum",
+      "name": "Romancecar Museum"
+    },
     "romney-hythe-dymchurch-railway": {
       "category": "interesting-things",
       "coordinates": [
@@ -8354,6 +8458,15 @@
       ],
       "id": "shelton-mcmurphey-johnson-house",
       "name": "Shelton McMurphey Johnson House"
+    },
+    "shibuya-scramble-crossing": {
+      "category": "interesting-things",
+      "coordinates": [
+        139.7005596,
+        35.659482
+      ],
+      "id": "shibuya-scramble-crossing",
+      "name": "Shibuya Scramble Crossing"
     },
     "shinjuku-golden-gai": {
       "category": "interesting-things",
@@ -9049,6 +9162,15 @@
       ],
       "id": "stuttgart-tv-tower",
       "name": "Stuttgart TV Tower"
+    },
+    "suginami-childrens-traffic-park": {
+      "category": "interesting-things",
+      "coordinates": [
+        139.6316808,
+        35.6886002
+      ],
+      "id": "suginami-childrens-traffic-park",
+      "name": "Suginami Children's Traffic Park"
     },
     "sunol-water-temple": {
       "category": "interesting-things",
@@ -9862,6 +9984,15 @@
       "id": "the-postal-museum",
       "name": "The Postal Museum"
     },
+    "the-railway-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        139.6179197,
+        35.9214247
+      ],
+      "id": "the-railway-museum",
+      "name": "The Railway Museum"
+    },
     "the-rollright-stones": {
       "category": "interesting-things",
       "coordinates": [
@@ -10082,6 +10213,15 @@
       "id": "titanic-belfast",
       "name": "Titanic Belfast"
     },
+    "tokyo-metro-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        139.8734375,
+        35.6635668
+      ],
+      "id": "tokyo-metro-museum",
+      "name": "Tokyo Metro Museum"
+    },
     "tokyo-sky-tree": {
       "category": "museums-attractions",
       "coordinates": [
@@ -10091,6 +10231,25 @@
       "description": "Sky Tree is very touristy, but an amazing view and a neat piece of infra. Huge shopping mall at the base which isn't too western-touristy.",
       "id": "tokyo-sky-tree",
       "name": "Tokyo Sky Tree"
+    },
+    "tokyo-station-marunouchi-side": {
+      "category": "interesting-things",
+      "coordinates": [
+        139.7654768,
+        35.6815604
+      ],
+      "description": "The old part of the station built in 1914",
+      "id": "tokyo-station-marunouchi-side",
+      "name": "Tokyo Station: Marunouchi side"
+    },
+    "tokyo-tower": {
+      "category": "interesting-things",
+      "coordinates": [
+        139.7454329,
+        35.6585805
+      ],
+      "id": "tokyo-tower",
+      "name": "Tokyo Tower"
     },
     "torodo-lantern-hall": {
       "category": "interesting-things",
@@ -10202,6 +10361,16 @@
       "id": "tyneham-village",
       "name": "Tyneham Village"
     },
+    "uch-no-mise-space-store": {
+      "category": "interesting-things",
+      "coordinates": [
+        139.7564142,
+        35.654742
+      ],
+      "description": "Take elevator to 5th floor. Small store specializing in space memorabilia (mission patches, rocket models, etc.)",
+      "id": "uch-no-mise-space-store",
+      "name": "Uch\u016b no mise (Space Store)"
+    },
     "udvar-hazy-national-air-space-museum": {
       "category": "museums-attractions",
       "coordinates": [
@@ -10211,6 +10380,15 @@
       "description": "Top-tier aviation museum. Many docents were engineers on the exhibits.",
       "id": "udvar-hazy-national-air-space-museum",
       "name": "Udvar-Hazy (National Air & Space Museum)"
+    },
+    "ueno-park": {
+      "category": "museums-attractions",
+      "coordinates": [
+        139.7734312,
+        35.7147557
+      ],
+      "id": "ueno-park",
+      "name": "Ueno Park"
     },
     "ulster-aviation-society": {
       "category": "museums-attractions",

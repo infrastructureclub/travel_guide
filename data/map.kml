@@ -2939,6 +2939,95 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Japanese Geodetic Origin Point</name>
+        <styleUrl>#icon-1598-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.7478462,35.6771964,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tokyo Station: Marunouchi side</name>
+        <description>The old part of the station built in 1914</description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            139.7654768,35.6815604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shibuya Scramble Crossing</name>
+        <styleUrl>#icon-1598-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.7005596,35.659482,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tokyo Tower</name>
+        <styleUrl>#icon-1598-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.7454329,35.6585805,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chiba Urban Monorail
+</name>
+        <description>One of the few suspended monorails. You can transfer here at Chiba station from the major intercity rail lines</description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            140.1133591,35.6131339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Uchū no mise (Space Store)
+</name>
+        <description>Take elevator to 5th floor. Small store specializing in space memorabilia (mission patches, rocket models, etc.)</description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            139.7564142,35.654742,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Suginami Children's Traffic Park]]></name>
+        <styleUrl>#icon-1598-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.6316808,35.6886002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HND Observation Deck</name>
+        <description>Free, and outside the secure area. Go to the top floor of Terminal 2 there is a huge outdoor deck overlooking the runways. Lots of plan-spotters and photographers here.</description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            139.7890061,35.5511675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hijiri Bridge (train photo spot)
+</name>
+        <description>This is a famous train photo spot where multiple lines intersect which a bridge, and tunnel and though service all passing at once.</description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            139.7655156,35.699817,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>
@@ -7729,6 +7818,90 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Gōtokuji Temple</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.647481,35.6488124,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Meiji Jingu</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.6993259,35.6763976,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ueno Park</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.7734312,35.7147557,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Romancecar Museum</name>
+        <description><![CDATA[The Odakyu lines operate very nice "romance car" train service out to the area just outside Mt. Fuji. Called this because instead of bench seating like most commuter trains they have very nice forward facing seating (loveseats, like the furniture) for a comfortable long journey.<br><br>This museum covers the history of the special service and rolling stock. It also has a spectacular massive diorama of the whole train line]]></description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            139.3900858,35.452937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bank of Japan Currency Museum</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.7716826,35.6854615,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tokyo Metro Museum</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.8734375,35.6635668,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cup Noodles Museum Yokohama</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.6388669,35.4554755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Railway Museum</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.6179197,35.9214247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JAXA Sagamihara campus and museum
+</name>
+        <description>Home of ISAS (the science-focused predecessor to JAXA). They have a small rocket museum.</description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            139.3947041,35.5589162,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>
@@ -9798,6 +9971,15 @@
         <Point>
           <coordinates>
             -113.5168764,48.5730042,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Mt Takao Monkey Park & Wildflower Garden]]></name>
+        <styleUrl>#icon-1596-558B2F-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.2551495,35.62995,0
           </coordinates>
         </Point>
       </Placemark>

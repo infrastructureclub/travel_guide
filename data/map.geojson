@@ -13967,6 +13967,59 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -76.6633369,
+                    39.4859788,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "System Source Computer Museum",
+                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
+                "styleHash": "-4303c82c",
+                "icon": "images/icon-2.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.8127667,
+                    51.5122405,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Science Museum National Collections Centre",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "icon": "images/icon-2.png",
+                "description": "Public tours to start \"late 2024\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4170023,
+                    51.3357012,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "This Museum Is (Not) Obsolete",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "icon": "images/icon-2.png",
+                "description": "Old computing/telephone/music things.<br>Run by Sam of Look Mum No Computer."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.9055879,
                     38.1671515,
                     0
@@ -18633,6 +18686,40 @@
             },
             "properties": {
                 "name": "United States Naval Observatory",
+                "styleUrl": "#icon-1898-BDBDBD-labelson-nodesc",
+                "styleHash": "-4854e743",
+                "icon": "images/icon-6.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.7722173,
+                    60.8173228,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "SaxaVord Spaceport",
+                "styleUrl": "#icon-1898-BDBDBD-labelson-nodesc",
+                "styleHash": "-4854e743",
+                "icon": "images/icon-6.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.8413451,
+                    60.8229056,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Saxa Vord Radar Station",
                 "styleUrl": "#icon-1898-BDBDBD-labelson-nodesc",
                 "styleHash": "-4854e743",
                 "icon": "images/icon-6.png"

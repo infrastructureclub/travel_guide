@@ -7902,6 +7902,35 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>System Source Computer Museum</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -76.6633369,39.4859788,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Science Museum National Collections Centre</name>
+        <description><![CDATA[Public tours to start "late 2024"]]></description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -1.8127667,51.5122405,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>This Museum Is (Not) Obsolete</name>
+        <description><![CDATA[Old computing/telephone/music things.<br>Run by Sam of Look Mum No Computer.]]></description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            1.4170023,51.3357012,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>
@@ -10521,6 +10550,24 @@
         <Point>
           <coordinates>
             -77.0670419,38.9209619,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SaxaVord Spaceport</name>
+        <styleUrl>#icon-1898-BDBDBD-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.7722173,60.8173228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saxa Vord Radar Station</name>
+        <styleUrl>#icon-1898-BDBDBD-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.8413451,60.8229056,0
           </coordinates>
         </Point>
       </Placemark>

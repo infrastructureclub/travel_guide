@@ -13,7 +13,7 @@
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 505,
+      "count": 508,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -21,7 +21,7 @@
       "name": "Nature"
     },
     "not-open-to-public-but-visible": {
-      "count": 54,
+      "count": 56,
       "name": "Not open to public but visible"
     },
     "para-infrastructural-cultural": {
@@ -8159,6 +8159,24 @@
       "id": "satellite-control-of-network",
       "name": "Satellite Control Of Network"
     },
+    "saxa-vord-radar-station": {
+      "category": "not-open-to-public-but-visible",
+      "coordinates": [
+        -0.8413451,
+        60.8229056
+      ],
+      "id": "saxa-vord-radar-station",
+      "name": "Saxa Vord Radar Station"
+    },
+    "saxavord-spaceport": {
+      "category": "not-open-to-public-but-visible",
+      "coordinates": [
+        -0.7722173,
+        60.8173228
+      ],
+      "id": "saxavord-spaceport",
+      "name": "SaxaVord Spaceport"
+    },
     "saxman-tribal-house": {
       "category": "para-infrastructural-cultural",
       "coordinates": [
@@ -8215,6 +8233,16 @@
       ],
       "id": "science-gallery-london",
       "name": "Science Gallery London"
+    },
+    "science-museum-national-collections-centre": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -1.8127667,
+        51.5122405
+      ],
+      "description": "Public tours to start \"late 2024\"",
+      "id": "science-museum-national-collections-centre",
+      "name": "Science Museum National Collections Centre"
     },
     "science-oxford-centre": {
       "category": "museums-attractions",
@@ -9247,6 +9275,15 @@
       "id": "svalbard-satellite-station",
       "name": "Svalbard Satellite Station"
     },
+    "system-source-computer-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -76.6633369,
+        39.4859788
+      ],
+      "id": "system-source-computer-museum",
+      "name": "System Source Computer Museum"
+    },
     "tacoma-dome": {
       "category": "para-infrastructural-cultural",
       "coordinates": [
@@ -10114,6 +10151,16 @@
       "description": "It's a museum about whales.",
       "id": "the-whale-museum",
       "name": "The Whale Museum"
+    },
+    "this-museum-is-not-obsolete": {
+      "category": "museums-attractions",
+      "coordinates": [
+        1.4170023,
+        51.3357012
+      ],
+      "description": "Old computing/telephone/music things.\nRun by Sam of Look Mum No Computer.",
+      "id": "this-museum-is-not-obsolete",
+      "name": "This Museum Is (Not) Obsolete"
     },
     "thuy-tien-lake-abandoned-water-park": {
       "category": "museums-attractions",

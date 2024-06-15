@@ -9,7 +9,7 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 290,
+      "count": 291,
       "name": "Interesting Things"
     },
     "museums-attractions": {
@@ -1072,6 +1072,16 @@
       "description": "WWII codebreaking site and museum.",
       "id": "bletchley-park",
       "name": "Bletchley Park"
+    },
+    "bloomfield-bridge": {
+      "category": "interesting-things",
+      "coordinates": [
+        -93.274404,
+        44.861685
+      ],
+      "description": "Footbridge across i-494 which was the subject of the historical investigation at https://tylervigen.com/the-mystery-of-the-bloomfield-bridge",
+      "id": "bloomfield-bridge",
+      "name": "Bloomfield Bridge"
     },
     "blue-john-cavern": {
       "category": "museums-attractions",

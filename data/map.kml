@@ -7941,6 +7941,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Kyoto Railway Museum</name>
+        <description>Excellent railway museum with views of nearby rail line</description>
+        <styleUrl>#icon-1833-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            135.7422732,34.9870986,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>

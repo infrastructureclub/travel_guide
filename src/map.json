@@ -13,7 +13,7 @@
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 508,
+      "count": 509,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -4600,6 +4600,16 @@
       ],
       "id": "kurt-cobain-under-the-bridge-memorial",
       "name": "Kurt Cobain Under the Bridge Memorial"
+    },
+    "kyoto-railway-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        135.7422732,
+        34.9870986
+      ],
+      "description": "Excellent railway museum with views of nearby rail line",
+      "id": "kyoto-railway-museum",
+      "name": "Kyoto Railway Museum"
     },
     "la-brea-tar-pits-and-museum": {
       "category": "museums-attractions",

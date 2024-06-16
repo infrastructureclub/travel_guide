@@ -14038,6 +14038,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    135.7422732,
+                    34.9870986,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kyoto Railway Museum",
+                "styleUrl": "#icon-1833-F9A825-labelson",
+                "styleHash": "-393d6d86",
+                "icon": "images/icon-2.png",
+                "description": "Excellent railway museum with views of nearby rail line"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.9055879,
                     38.1671515,
                     0

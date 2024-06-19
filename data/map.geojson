@@ -5155,6 +5155,110 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    22.0470527,
+                    37.5831437,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Open air Hydrokinesis (water power) Museum",
+                "styleUrl": "#icon-1598-A52714-labelson-nodesc",
+                "styleHash": "-505f2c1",
+                "icon": "images/icon-1.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.043676,
+                    37.6409156,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Μουσείο Μαρμαροτεχνίας",
+                "styleUrl": "#icon-1598-A52714-labelson-nodesc",
+                "styleHash": "-505f2c1",
+                "icon": "images/icon-1.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0091643,
+                    37.6751998,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Green marble quarry Tinos (πράσινο λατομείο τηνος)",
+                "styleUrl": "#icon-1598-A52714-labelson-nodesc",
+                "styleHash": "-505f2c1",
+                "icon": "images/icon-1.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6715812,
+                    37.9512879,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Old PPC Steam-Electric Power Plant",
+                "styleUrl": "#icon-1598-A52714-labelson-nodesc",
+                "styleHash": "-505f2c1",
+                "icon": "images/icon-1.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.4870441,
+                    40.1705992,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Archaeological Museum of Dion",
+                "styleUrl": "#icon-1598-A52714-labelson",
+                "styleHash": "-835978",
+                "icon": "images/icon-1.png",
+                "description": "World's oldest pipe organ https://en.wikipedia.org/wiki/Hydraulis_of_Dion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9559678,
+                    40.6354703,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Πολυχώρος Πολιτισμού \"Ισλαχανέ\"",
+                "styleUrl": "#icon-1598-A52714-labelson",
+                "styleHash": "-835978",
+                "icon": "images/icon-1.png",
+                "description": "Old technical museum. Lovely stuff."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0

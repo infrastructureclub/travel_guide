@@ -3038,6 +3038,62 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Open air Hydrokinesis (water power) Museum</name>
+        <styleUrl>#icon-1598-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            22.0470527,37.5831437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Μουσείο Μαρμαροτεχνίας</name>
+        <styleUrl>#icon-1598-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            25.043676,37.6409156,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Green marble quarry Tinos (πράσινο λατομείο τηνος)</name>
+        <styleUrl>#icon-1598-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            25.0091643,37.6751998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Old PPC Steam-Electric Power Plant</name>
+        <styleUrl>#icon-1598-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.6715812,37.9512879,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Archaeological Museum of Dion</name>
+        <description><![CDATA[World's oldest pipe organ https://en.wikipedia.org/wiki/Hydraulis_of_Dion]]></description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            22.4870441,40.1705992,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Πολυχώρος Πολιτισμού "Ισλαχανέ"]]></name>
+        <description>Old technical museum. Lovely stuff.</description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            22.9559678,40.6354703,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>

@@ -3094,6 +3094,26 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>AOP visitor center (Amsterdam Ordnance Datum)</name>
+        <description><![CDATA[The original "sea level"]]></description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            4.9020497,52.3677286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hudde’s stones</name>
+        <description><![CDATA[Original "survey marker" for AOD (NAP), the original sea level reference for Europe]]></description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            4.8894495,52.3815205,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>
@@ -8004,6 +8024,15 @@
         <Point>
           <coordinates>
             135.7422732,34.9870986,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Micropia</name>
+        <styleUrl>#icon-1833-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.9128242,52.3669735,0
           </coordinates>
         </Point>
       </Placemark>

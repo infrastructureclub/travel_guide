@@ -9,11 +9,11 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 297,
+      "count": 299,
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 509,
+      "count": 510,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -466,6 +466,16 @@
       "description": "Ed: This park has 2 WWII battlements. You can't go in (I think?) but nice enough to walk around from the outside.",
       "id": "anti-aircraft-gun-tower-7-l-tower-augarten",
       "name": "Anti-aircraft gun tower 7, L-Tower, Augarten"
+    },
+    "aop-visitor-center-amsterdam-ordnance-datum": {
+      "category": "interesting-things",
+      "coordinates": [
+        4.9020497,
+        52.3677286
+      ],
+      "description": "The original \"sea level\"",
+      "id": "aop-visitor-center-amsterdam-ordnance-datum",
+      "name": "AOP visitor center (Amsterdam Ordnance Datum)"
     },
     "ape-cave-interpretive-site": {
       "category": "nature",
@@ -4038,6 +4048,16 @@
       "id": "hovercraft-museum",
       "name": "Hovercraft Museum"
     },
+    "huddes-stones": {
+      "category": "interesting-things",
+      "coordinates": [
+        4.8894495,
+        52.3815205
+      ],
+      "description": "Original \"survey marker\" for AOD (NAP), the original sea level reference for Europe",
+      "id": "huddes-stones",
+      "name": "Hudde\u2019s stones"
+    },
     "hughes-mining-barge": {
       "category": "not-open-to-public-but-visible",
       "coordinates": [
@@ -5420,6 +5440,15 @@
       "description": "Aerial tramway.",
       "id": "mexicable",
       "name": "Mexicable"
+    },
+    "micropia": {
+      "category": "museums-attractions",
+      "coordinates": [
+        4.9128242,
+        52.3669735
+      ],
+      "id": "micropia",
+      "name": "Micropia"
     },
     "middle-harbor": {
       "category": "interesting-things",

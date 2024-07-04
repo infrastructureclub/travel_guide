@@ -5259,6 +5259,42 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    4.9020497,
+                    52.3677286,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "AOP visitor center (Amsterdam Ordnance Datum)",
+                "styleUrl": "#icon-1598-A52714-labelson",
+                "styleHash": "-835978",
+                "icon": "images/icon-1.png",
+                "description": "The original \"sea level\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8894495,
+                    52.3815205,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hudde’s stones",
+                "styleUrl": "#icon-1598-A52714-labelson",
+                "styleHash": "-835978",
+                "icon": "images/icon-1.png",
+                "description": "Original \"survey marker\" for AOD (NAP), the original sea level reference for Europe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0
@@ -14153,6 +14189,23 @@
                 "styleHash": "-393d6d86",
                 "icon": "images/icon-2.png",
                 "description": "Excellent railway museum with views of nearby rail line"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9128242,
+                    52.3669735,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Micropia",
+                "styleUrl": "#icon-1833-F9A825-labelson-nodesc",
+                "styleHash": "1447c553",
+                "icon": "images/icon-2.png"
             }
         },
         {

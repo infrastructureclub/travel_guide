@@ -8036,6 +8036,15 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Pueblo Railway Museum</name>
+        <styleUrl>#icon-1833-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -104.6178395,38.2633451,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>

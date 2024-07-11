@@ -13,7 +13,7 @@
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 510,
+      "count": 511,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -7567,6 +7567,15 @@
       "description": "The longest in the world by some measures. Most of its length is closed to the public except when going to or from a cruise ship docked here. Still an impressive sight from shore.",
       "id": "progreso-pier",
       "name": "Progreso Pier"
+    },
+    "pueblo-railway-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -104.6178395,
+        38.2633451
+      ],
+      "id": "pueblo-railway-museum",
+      "name": "Pueblo Railway Museum"
     },
     "pulgas-water-temple": {
       "category": "interesting-things",

@@ -10850,7 +10850,8 @@
       </Placemark>
       <Placemark>
         <name>Lick Observatory</name>
-        <styleUrl>#icon-1856-0F9D58-labelson-nodesc</styleUrl>
+        <description>A long, winding drive through rural hills. Well worth the unpretentious, unpatronizing museum. As well as the retired telescope dome, find many smaller remarkable things such as a precision pendulum clock that provided reference time for a large part of the US telegraph network for some years.</description>
+        <styleUrl>#icon-1856-0F9D58-labelson</styleUrl>
         <Point>
           <coordinates>
             -121.6429102,37.341413,0

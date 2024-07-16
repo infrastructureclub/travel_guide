@@ -19243,9 +19243,10 @@
             },
             "properties": {
                 "name": "Lick Observatory",
-                "styleUrl": "#icon-1856-0F9D58-labelson-nodesc",
-                "styleHash": "339c8022",
-                "icon": "images/icon-7.png"
+                "styleUrl": "#icon-1856-0F9D58-labelson",
+                "styleHash": "4c97821f",
+                "icon": "images/icon-7.png",
+                "description": "A long, winding drive through rural hills. Well worth the unpretentious, unpatronizing museum. As well as the retired telescope dome, find many smaller remarkable things such as a precision pendulum clock that provided reference time for a large part of the US telegraph network for some years."
             }
         },
         {

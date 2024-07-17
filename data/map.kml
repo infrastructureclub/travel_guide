@@ -3114,6 +3114,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Newtown Creek Wastewater Treatment Plant</name>
+        <description>You can schedule a tour the digesters and plant.</description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.9470036,40.7333068,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>

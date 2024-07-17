@@ -5295,6 +5295,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -73.9470036,
+                    40.7333068,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Newtown Creek Wastewater Treatment Plant",
+                "styleUrl": "#icon-1598-A52714-labelson",
+                "styleHash": "-835978",
+                "icon": "images/icon-1.png",
+                "description": "You can schedule a tour the digesters and plant."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0

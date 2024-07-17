@@ -9,7 +9,7 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 299,
+      "count": 300,
       "name": "Interesting Things"
     },
     "museums-attractions": {
@@ -6612,6 +6612,16 @@
       "description": "Currently closed until 2024. See https://www.newport.gov.uk/heritage/en/Transporter-Bridge/Transporter-Bridge.aspx for details.",
       "id": "newport-transporter-bridge-visitor-centre",
       "name": "Newport Transporter Bridge Visitor Centre"
+    },
+    "newtown-creek-wastewater-treatment-plant": {
+      "category": "interesting-things",
+      "coordinates": [
+        -73.9470036,
+        40.7333068
+      ],
+      "description": "You can schedule a tour the digesters and plant.",
+      "id": "newtown-creek-wastewater-treatment-plant",
+      "name": "Newtown Creek Wastewater Treatment Plant"
     },
     "nez-perce-national-historical-park-visitor-center": {
       "category": "para-infrastructural-cultural",

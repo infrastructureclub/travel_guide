@@ -14800,6 +14800,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -3.199151,
+                    54.5111696,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Honister Slate Mine",
+                "styleUrl": "#icon-1693-757575-labelson",
+                "styleHash": "-1d74371c",
+                "icon": "images/icon-3.png",
+                "description": "There are a variety of activities at the mine, but the Cathedral Working Mine Tours are unique behind the scenes tour of a more rarely seen part of the working mine that can be arranged for groups of 4 or more..  The website says it is only on Fridays, but you can contact them and arrange an alternate time with a bit of notice.  https://honister.com/product/cathedral-working-mine-tour/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -78.3005704,
                     44.3076708,
                     0

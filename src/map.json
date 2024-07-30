@@ -13,7 +13,7 @@
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 511,
+      "count": 512,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -6198,6 +6198,15 @@
       ],
       "id": "museum-ship-averof",
       "name": "Museum Ship Averof"
+    },
+    "museum-telekom-historik": {
+      "category": "museums-attractions",
+      "coordinates": [
+        7.2445595,
+        51.4893695
+      ],
+      "id": "museum-telekom-historik",
+      "name": "Museum Telekom-Historik"
     },
     "museum-tinguely": {
       "category": "museums-attractions",

@@ -14248,6 +14248,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    7.2445595,
+                    51.4893695,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Museum Telekom-Historik",
+                "styleUrl": "#icon-1833-F9A825-labelson-nodesc",
+                "styleHash": "1447c553",
+                "icon": "images/icon-2.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.9055879,
                     38.1671515,
                     0

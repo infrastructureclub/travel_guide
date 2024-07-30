@@ -8055,6 +8055,15 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Museum Telekom-Historik</name>
+        <styleUrl>#icon-1833-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.2445595,51.4893695,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>

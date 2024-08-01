@@ -6637,8 +6637,9 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Norwegian Canning Museum</name>
-        <styleUrl>#icon-1833-F9A825-labelson-nodesc</styleUrl>
+        <name>Norwegian Print and Canning Museum</name>
+        <description><![CDATA[Old canning factory with working machines. If you're lucky they will demonstrate some of them.]]></description>
+        <styleUrl>#icon-1833-F9A825-labelson</styleUrl>
         <Point>
           <coordinates>
             5.7251337,58.9723904,0

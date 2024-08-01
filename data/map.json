@@ -6785,15 +6785,6 @@
       "id": "norway-fisheries-museum",
       "name": "Norway Fisheries Museum"
     },
-    "norwegian-canning-museum": {
-      "category": "museums-attractions",
-      "coordinates": [
-        5.7251337,
-        58.9723904
-      ],
-      "id": "norwegian-canning-museum",
-      "name": "Norwegian Canning Museum"
-    },
     "norwegian-industrial-workers-museum": {
       "category": "industry",
       "coordinates": [
@@ -6811,6 +6802,16 @@
       ],
       "id": "norwegian-petroleum-museum",
       "name": "Norwegian Petroleum Museum"
+    },
+    "norwegian-print-and-canning-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        5.7251337,
+        58.9723904
+      ],
+      "description": "Old canning factory with working machines. If you're lucky they will demonstrate some of them.",
+      "id": "norwegian-print-and-canning-museum",
+      "name": "Norwegian Print and Canning Museum"
     },
     "novelty-automation": {
       "category": "museums-attractions",

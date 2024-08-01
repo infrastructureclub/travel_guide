@@ -11739,10 +11739,11 @@
                 ]
             },
             "properties": {
-                "name": "Norwegian Canning Museum",
-                "styleUrl": "#icon-1833-F9A825-labelson-nodesc",
-                "styleHash": "1447c553",
-                "icon": "images/icon-2.png"
+                "name": "Norwegian Print and Canning Museum",
+                "styleUrl": "#icon-1833-F9A825-labelson",
+                "styleHash": "-393d6d86",
+                "icon": "images/icon-2.png",
+                "description": "Old canning factory with working machines. If you're lucky they will demonstrate some of them."
             }
         },
         {

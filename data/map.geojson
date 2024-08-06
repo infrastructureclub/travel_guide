@@ -16551,23 +16551,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.388024,
-                    52.4939874,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Mustafa's Gemüse Kebap",
-                "styleUrl": "#icon-1608-F57C00-labelson-nodesc",
-                "styleHash": "50e5e3ed",
-                "icon": "images/icon-4.png"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     1.225981,
                     43.971897,
                     0
@@ -20929,6 +20912,24 @@
                 "styleHash": "1468cf8f",
                 "icon": "images/icon-8.png",
                 "description": "Train station with a rich history and interesting architecture."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.388024,
+                    52.4939874,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mustafa's Gemüse Kebap",
+                "styleUrl": "#icon-1608-006064-labelson",
+                "styleHash": "1468cf8f",
+                "icon": "images/icon-8.png",
+                "description": "Some people say this is the best Kebap place in Berlin, usually a queue."
             }
         }
     ]

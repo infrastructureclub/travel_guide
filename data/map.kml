@@ -9338,15 +9338,6 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name><![CDATA[Mustafa's Gemüse Kebap]]></name>
-        <styleUrl>#icon-1608-F57C00-labelson-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            13.388024,52.4939874,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>Montech water slope</name>
         <styleUrl>#icon-1608-F57C00-labelson-nodesc</styleUrl>
         <Point>
@@ -11780,6 +11771,16 @@
         <Point>
           <coordinates>
             -122.3299086,47.5983889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Mustafa's Gemüse Kebap]]></name>
+        <description>Some people say this is the best Kebap place in Berlin, usually a queue.</description>
+        <styleUrl>#icon-1608-006064-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            13.388024,52.4939874,0
           </coordinates>
         </Point>
       </Placemark>

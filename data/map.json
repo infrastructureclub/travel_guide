@@ -1,7 +1,7 @@
 {
   "categories": {
     "historic-ruins-structures": {
-      "count": 118,
+      "count": 117,
       "name": "Historic / ruins / structures"
     },
     "industry": {
@@ -25,7 +25,7 @@
       "name": "Not open to public but visible"
     },
     "para-infrastructural-cultural": {
-      "count": 90,
+      "count": 91,
       "name": "Para-infrastructural / cultural"
     },
     "science": {
@@ -6229,11 +6229,12 @@
       "name": "Museum Vrolik"
     },
     "mustafas-gemse-kebap": {
-      "category": "historic-ruins-structures",
+      "category": "para-infrastructural-cultural",
       "coordinates": [
         13.388024,
         52.4939874
       ],
+      "description": "Some people say this is the best Kebap place in Berlin, usually a queue.",
       "id": "mustafas-gemse-kebap",
       "name": "Mustafa's Gem\u00fcse Kebap"
     },

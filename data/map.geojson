@@ -14266,6 +14266,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    6.7837894,
+                    51.4806122,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Landschaftspark Duisburg-Nord",
+                "styleUrl": "#icon-1833-F9A825-labelson-nodesc",
+                "styleHash": "1447c553",
+                "icon": "images/icon-2.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.9055879,
                     38.1671515,
                     0

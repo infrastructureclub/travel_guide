@@ -8065,6 +8065,15 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Landschaftspark Duisburg-Nord</name>
+        <styleUrl>#icon-1833-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.7837894,51.4806122,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>

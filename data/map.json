@@ -13,7 +13,7 @@
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 512,
+      "count": 513,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -4766,6 +4766,15 @@
       ],
       "id": "land-bank-exhibition-hall-of-national-taiwan-museum",
       "name": "Land Bank Exhibition Hall of National Taiwan Museum"
+    },
+    "landschaftspark-duisburg-nord": {
+      "category": "museums-attractions",
+      "coordinates": [
+        6.7837894,
+        51.4806122
+      ],
+      "id": "landschaftspark-duisburg-nord",
+      "name": "Landschaftspark Duisburg-Nord"
     },
     "lapstone-zig-zag": {
       "category": "interesting-things",

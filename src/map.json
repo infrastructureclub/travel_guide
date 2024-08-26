@@ -1,7 +1,7 @@
 {
   "categories": {
     "historic-ruins-structures": {
-      "count": 117,
+      "count": 118,
       "name": "Historic / ruins / structures"
     },
     "industry": {
@@ -9614,6 +9614,15 @@
       "description": "Giant, climbable tetrahedron art on top of a spoil tip.",
       "id": "tetraeder",
       "name": "Tetraeder"
+    },
+    "teufelsberg": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        13.2396787,
+        52.4971524
+      ],
+      "id": "teufelsberg",
+      "name": "Teufelsberg"
     },
     "thackray-museum-of-medicine": {
       "category": "museums-attractions",

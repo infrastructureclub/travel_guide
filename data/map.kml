@@ -9547,6 +9547,15 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Teufelsberg</name>
+        <styleUrl>#icon-1608-F57C00-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            13.2396787,52.4971524,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Nature</name>

@@ -16924,6 +16924,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    13.2396787,
+                    52.4971524,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Teufelsberg",
+                "styleUrl": "#icon-1608-F57C00-labelson-nodesc",
+                "styleHash": "50e5e3ed",
+                "icon": "images/icon-4.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -122.119383,
                     42.9370052,
                     0

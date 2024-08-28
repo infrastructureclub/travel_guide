@@ -13,7 +13,7 @@
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 513,
+      "count": 514,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -10257,6 +10257,15 @@
       ],
       "id": "the-scottish-crannog-centre",
       "name": "The Scottish Crannog Centre"
+    },
+    "the-spaceguard-centre": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -3.0189228,
+        52.325006
+      ],
+      "id": "the-spaceguard-centre",
+      "name": "The Spaceguard Centre"
     },
     "the-tank-museum": {
       "category": "museums-attractions",

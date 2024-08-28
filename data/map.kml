@@ -8074,6 +8074,15 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>The Spaceguard Centre</name>
+        <styleUrl>#icon-1833-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.0189228,52.325006,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>

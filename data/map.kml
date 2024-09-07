@@ -3124,6 +3124,15 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Tetraeder</name>
+        <styleUrl>#icon-1598-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.9598255,51.5273941,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>

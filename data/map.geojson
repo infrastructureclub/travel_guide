@@ -5313,6 +5313,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    6.9598255,
+                    51.5273941,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tetraeder",
+                "styleUrl": "#icon-1598-A52714-labelson-nodesc",
+                "styleHash": "-505f2c1",
+                "icon": "images/icon-1.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0

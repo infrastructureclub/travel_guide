@@ -9,7 +9,7 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 300,
+      "count": 301,
       "name": "Interesting Things"
     },
     "museums-attractions": {
@@ -9606,13 +9606,22 @@
       "name": "Terminal Island"
     },
     "tetraeder": {
+      "category": "interesting-things",
+      "coordinates": [
+        6.9598255,
+        51.5273941
+      ],
+      "id": "tetraeder",
+      "name": "Tetraeder"
+    },
+    "tetraeder2": {
       "category": "para-infrastructural-cultural",
       "coordinates": [
         6.9598255,
         51.5273941
       ],
       "description": "Giant, climbable tetrahedron art on top of a spoil tip.",
-      "id": "tetraeder",
+      "id": "tetraeder2",
       "name": "Tetraeder"
     },
     "teufelsberg": {

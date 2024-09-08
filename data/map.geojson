@@ -7178,24 +7178,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -4.3062062,
-                    55.865103,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Riverside Museum",
-                "styleUrl": "#icon-1833-F9A825-labelson",
-                "styleHash": "-393d6d86",
-                "icon": "images/icon-2.png",
-                "description": "Transport and other things museum. Has a wall of cars that looks like they are toy cars, but they're actually real!"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -3.1772521,
                     55.9821554,
                     0

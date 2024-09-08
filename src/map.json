@@ -13,7 +13,7 @@
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 514,
+      "count": 513,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -7898,16 +7898,6 @@
       ],
       "id": "ripple-rock-site",
       "name": "Ripple Rock site"
-    },
-    "riverside-museum": {
-      "category": "museums-attractions",
-      "coordinates": [
-        -4.3062062,
-        55.865103
-      ],
-      "description": "Transport and other things museum. Has a wall of cars that looks like they are toy cars, but they're actually real!",
-      "id": "riverside-museum",
-      "name": "Riverside Museum"
     },
     "rnas-culdrose-public-viewing-area": {
       "category": "not-open-to-public-but-visible",

@@ -4146,16 +4146,6 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Riverside Museum</name>
-        <description><![CDATA[Transport and other things museum. Has a wall of cars that looks like they are toy cars, but they're actually real!]]></description>
-        <styleUrl>#icon-1833-F9A825-labelson</styleUrl>
-        <Point>
-          <coordinates>
-            -4.3062062,55.865103,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>The Royal Yacht Britannia</name>
         <styleUrl>#icon-1833-F9A825-labelson-nodesc</styleUrl>
         <Point>

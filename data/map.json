@@ -29,7 +29,7 @@
       "name": "Para-infrastructural / cultural"
     },
     "science": {
-      "count": 21,
+      "count": 22,
       "name": "Science"
     },
     "stays": {
@@ -10501,6 +10501,16 @@
         "./data/images/8789072a68bcdaeb546fac6d1b2bf73136a437b089968814b7b0034196bf68b9.png"
       ],
       "name": "Tours of Kranj WW2 tunnels"
+    },
+    "trail-through-time": {
+      "category": "science",
+      "coordinates": [
+        -109.0200701,
+        39.1935696
+      ],
+      "description": "Absolute non-descript area immediately off of I-70 that has a short (~1.5km) trail that takes you through an area chock full of dinosaur fossils.\n\nWorth a stop for even just a few minutes, as one of the first signposted stops just a few minutes walk allows you to see (and touch!) an in situ dinosaur spine.\n\nThe full trail has a couple of these, and is a nice break to stretch your legs, if it's not too baking hot.\n\nAlso has unadvertised vault toilets just a few minutes up the trail, so makes a reasonable rest stop for that as well.",
+      "id": "trail-through-time",
+      "name": "Trail Through Time"
     },
     "train-world": {
       "category": "museums-attractions",

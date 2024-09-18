@@ -10934,6 +10934,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Trail Through Time</name>
+        <description><![CDATA[Absolute non-descript area immediately off of I-70 that has a short (~1.5km) trail that takes you through an area chock full of dinosaur fossils.<br><br>Worth a stop for even just a few minutes, as one of the first signposted stops just a few minutes walk allows you to see (and touch!) an in situ dinosaur spine.<br><br>The full trail has a couple of these, and is a nice break to stretch your legs, if it's not too baking hot.<br><br>Also has unadvertised vault toilets just a few minutes up the trail, so makes a reasonable rest stop for that as well.]]></description>
+        <styleUrl>#icon-1856-0F9D58-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -109.0200701,39.1935696,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Para-infrastructural / cultural</name>

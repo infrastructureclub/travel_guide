@@ -8082,6 +8082,15 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Museum of History In Granite</name>
+        <styleUrl>#icon-1833-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -114.7654936,32.7530165,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>

@@ -14299,6 +14299,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -114.7654936,
+                    32.7530165,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Museum of History In Granite",
+                "styleUrl": "#icon-1833-F9A825-labelson-nodesc",
+                "styleHash": "1447c553",
+                "icon": "images/icon-2.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.9055879,
                     38.1671515,
                     0

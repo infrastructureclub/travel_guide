@@ -13,7 +13,7 @@
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 513,
+      "count": 514,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -6022,6 +6022,15 @@
       "description": "Very Boeing-centric for obvious reasons* but nonetheless excellent.\n\n* Boeing's operations are based in Seattle and it's the major patron of the museum.",
       "id": "museum-of-flight",
       "name": "Museum of Flight"
+    },
+    "museum-of-history-in-granite": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -114.7654936,
+        32.7530165
+      ],
+      "id": "museum-of-history-in-granite",
+      "name": "Museum of History In Granite"
     },
     "museum-of-history-industry-mohai": {
       "category": "museums-attractions",

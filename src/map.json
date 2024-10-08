@@ -9,7 +9,7 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 301,
+      "count": 302,
       "name": "Interesting Things"
     },
     "museums-attractions": {
@@ -7850,6 +7850,16 @@
       ],
       "id": "redwood-valley-railway-tilden-steam-train",
       "name": "Redwood Valley Railway (Tilden Steam Train)"
+    },
+    "refugi-307": {
+      "category": "interesting-things",
+      "coordinates": [
+        2.1667099,
+        41.3714665
+      ],
+      "description": "Need to book tour in advance, English tours available https://www.barcelona.cat/museuhistoria/en/heritages/els-espais-del-muhba/muhba-refugi-307",
+      "id": "refugi-307",
+      "name": "Refugi 307"
     },
     "reigate-caves": {
       "category": "interesting-things",

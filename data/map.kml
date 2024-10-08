@@ -3133,6 +3133,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Refugi 307</name>
+        <description>Need to book tour in advance, English tours available https://www.barcelona.cat/museuhistoria/en/heritages/els-espais-del-muhba/muhba-refugi-307</description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            2.1667099,41.3714665,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>

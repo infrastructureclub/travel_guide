@@ -9,7 +9,7 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 302,
+      "count": 304,
       "name": "Interesting Things"
     },
     "museums-attractions": {
@@ -25,7 +25,7 @@
       "name": "Not open to public but visible"
     },
     "para-infrastructural-cultural": {
-      "count": 91,
+      "count": 92,
       "name": "Para-infrastructural / cultural"
     },
     "science": {
@@ -5390,6 +5390,16 @@
       "id": "menai-bridge-viewpoint",
       "name": "Menai Bridge Viewpoint"
     },
+    "meridian-hill-park-malcolm-x-park": {
+      "category": "para-infrastructural-cultural",
+      "coordinates": [
+        -77.0358109,
+        38.9210639
+      ],
+      "description": "Where Jefferson tried to establish the origin of longitudes in the US.",
+      "id": "meridian-hill-park-malcolm-x-park",
+      "name": "Meridian Hill Park (Malcolm X Park)"
+    },
     "mersey-tunnel-tours": {
       "category": "museums-attractions",
       "coordinates": [
@@ -7559,6 +7569,15 @@
         "./data/images/05346cc147862b18135d893ec632728d2d84c717d6dd4e7722771f254567994b.png"
       ],
       "name": "Postojna Cave"
+    },
+    "potash-ponds": {
+      "category": "interesting-things",
+      "coordinates": [
+        -109.6816035,
+        38.4791709
+      ],
+      "id": "potash-ponds",
+      "name": "Potash Ponds"
     },
     "powells-city-of-books": {
       "category": "para-infrastructural-cultural",
@@ -10433,6 +10452,16 @@
       "id": "timberline-lodge",
       "name": "Timberline Lodge"
     },
+    "tingly-bridge": {
+      "category": "interesting-things",
+      "coordinates": [
+        -93.4507689,
+        45.1340701
+      ],
+      "description": "Cycle bridge that has the infamous warning sign about tingling sensations: https://digipres.club/@vxo/113299916807130203",
+      "id": "tingly-bridge",
+      "name": "Tingly Bridge"
+    },
     "titan-missile-museum": {
       "category": "museums-attractions",
       "coordinates": [
@@ -10682,6 +10711,7 @@
         -76.9657782,
         38.91213
       ],
+      "description": "Many interesting sub-attractions, such as a quite good bonsai museum.",
       "id": "united-states-national-arboretum",
       "name": "United States National Arboretum"
     },

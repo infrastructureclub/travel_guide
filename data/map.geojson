@@ -5348,6 +5348,41 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -109.6816035,
+                    38.4791709,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Potash Ponds",
+                "styleUrl": "#icon-1598-A52714-labelson-nodesc",
+                "styleHash": "-505f2c1",
+                "icon": "images/icon-1.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.4507689,
+                    45.1340701,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tingly Bridge",
+                "styleUrl": "#icon-1598-A52714-labelson",
+                "styleHash": "-835978",
+                "icon": "images/icon-1.png",
+                "description": "Cycle bridge that has the infamous warning sign about tingling sensations: https://digipres.club/@vxo/113299916807130203"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0
@@ -13551,9 +13586,10 @@
             },
             "properties": {
                 "name": "United States National Arboretum",
-                "styleUrl": "#icon-1833-F9A825-labelson-nodesc",
-                "styleHash": "1447c553",
-                "icon": "images/icon-2.png"
+                "styleUrl": "#icon-1833-F9A825-labelson",
+                "styleHash": "-393d6d86",
+                "icon": "images/icon-2.png",
+                "description": "Many interesting sub-attractions, such as a quite good bonsai museum."
             }
         },
         {
@@ -21033,6 +21069,24 @@
                 "styleHash": "1468cf8f",
                 "icon": "images/icon-8.png",
                 "description": "Some people say this is the best Kebap place in Berlin, usually a queue."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.0358109,
+                    38.9210639,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Meridian Hill Park (Malcolm X Park)\n",
+                "styleUrl": "#icon-1608-006064-labelson",
+                "styleHash": "1468cf8f",
+                "icon": "images/icon-8.png",
+                "description": "Where Jefferson tried to establish the origin of longitudes in the US."
             }
         }
     ]

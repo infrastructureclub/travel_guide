@@ -3143,6 +3143,25 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Potash Ponds</name>
+        <styleUrl>#icon-1598-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -109.6816035,38.4791709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tingly Bridge</name>
+        <description>Cycle bridge that has the infamous warning sign about tingling sensations: https://digipres.club/@vxo/113299916807130203</description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -93.4507689,45.1340701,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>
@@ -7677,7 +7696,8 @@
       </Placemark>
       <Placemark>
         <name>United States National Arboretum</name>
-        <styleUrl>#icon-1833-F9A825-labelson-nodesc</styleUrl>
+        <description>Many interesting sub-attractions, such as a quite good bonsai museum.</description>
+        <styleUrl>#icon-1833-F9A825-labelson</styleUrl>
         <Point>
           <coordinates>
             -76.9657782,38.91213,0
@@ -11836,6 +11856,17 @@
         <Point>
           <coordinates>
             13.388024,52.4939874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Meridian Hill Park (Malcolm X Park)
+</name>
+        <description>Where Jefferson tried to establish the origin of longitudes in the US.</description>
+        <styleUrl>#icon-1608-006064-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0358109,38.9210639,0
           </coordinates>
         </Point>
       </Placemark>

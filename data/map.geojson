@@ -17028,6 +17028,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -73.8914154,
+                    40.8908917,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Grand Central Stones",
+                "styleUrl": "#icon-1608-F57C00-labelson",
+                "styleHash": "-57e30630",
+                "icon": "images/icon-4.png",
+                "description": "In November 1905, the New York Central Railroad placed a series of stone samples in the open air on property the railroad controlled within Van Cortlandt Park. The purpose was to assess the effects of a New York winter on the samples of granite, limestone, and marble that the railroad and its architects, Reed & Stem and Warren & Wetmore, were considering for the exterior curtain wall of the head house of the new Grand Central Terminal, then under construction in midtown Manhattan."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -122.119383,
                     42.9370052,
                     0

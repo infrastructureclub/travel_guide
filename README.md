@@ -1,8 +1,8 @@
 # Infrastructure Club Travel Guide 
 A daily updated archive of things that the Infrastructure Club members think are worth seeing.
 
-https://infrastructureclub.co.uk
+https://infrastructureclub.org/
 
-http://infrastructureclub.co.uk/travel_guide/
+http://infrastructureclub.org/travel_guide/
 
 

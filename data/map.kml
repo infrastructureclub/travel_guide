@@ -2758,7 +2758,7 @@
       </Placemark>
       <Placemark>
         <name>Callistoga Pioneer Cemetery</name>
-        <description><![CDATA[Of no great historical or cultural importance, but extremely scenic – old gravestones, dappled light, etc.<br><br>https://www.atlasobscura.com/places/calistoga-pioneer-cemetery]]></description>
+        <description><![CDATA[Of no great historical or cultural importance, but extremely scenic – old gravestones, dappled light, etc. Worth the stop if you happen to be in the area.<br><br>https://www.atlasobscura.com/places/calistoga-pioneer-cemetery]]></description>
         <styleUrl>#icon-1598-A52714-labelson</styleUrl>
         <Point>
           <coordinates>
@@ -3159,6 +3159,25 @@
         <Point>
           <coordinates>
             -93.4507689,45.1340701,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>City (by Michael Heizer)</name>
+        <description>It’s entirely debatable whether The City is good art or a good thing in general, but it’s certainly notable.</description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -115.4394229,38.0315086,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lavender Pit</name>
+        <styleUrl>#icon-1598-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -109.9003306,31.435765,0
           </coordinates>
         </Point>
       </Placemark>
@@ -6857,7 +6876,7 @@
       </Placemark>
       <Placemark>
         <name>Atomic Museum</name>
-        <description>Interesting local museum showcasing the local atomic historical connections to the local desert area</description>
+        <description>Interesting museum showcasing the atomic historical connections to the local desert area</description>
         <styleUrl>#icon-1833-F9A825-labelson</styleUrl>
         <Point>
           <coordinates>
@@ -8118,6 +8137,33 @@
         <Point>
           <coordinates>
             -114.7654936,32.7530165,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Marin Museum of Bicycling</name>
+        <styleUrl>#icon-1833-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.5897493,37.9877477,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lewis and Clark National Historical Park</name>
+        <styleUrl>#icon-1833-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -123.8803086,46.1344995,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Osmotheque - International Archives of Perfumes</name>
+        <styleUrl>#icon-1833-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.1418656,48.8167207,0
           </coordinates>
         </Point>
       </Placemark>
@@ -9618,7 +9664,7 @@
       <name>Nature</name>
       <Placemark>
         <name>Crater Lake</name>
-        <description>Rightly famous for its spectacular, panoramic view of an extremely deep volcanic lake at elevation. Well worth the trip if you’re in the area.</description>
+        <description>Rightly famous for its spectacular, panoramic view of an extremely deep volcanic lake at elevation. Well worth the trip if you’re in the area. Read up on its geology beforehand to fully appreciate it (although the on-site interpretive material is good).</description>
         <styleUrl>#icon-1596-558B2F-labelson</styleUrl>
         <Point>
           <coordinates>
@@ -10778,6 +10824,15 @@
         <Point>
           <coordinates>
             -0.8413451,60.8229056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sutter Buttes</name>
+        <styleUrl>#icon-1898-BDBDBD-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -121.8164115,39.2242538,0
           </coordinates>
         </Point>
       </Placemark>

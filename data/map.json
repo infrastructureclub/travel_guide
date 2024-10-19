@@ -9,11 +9,11 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 304,
+      "count": 306,
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 514,
+      "count": 517,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -21,7 +21,7 @@
       "name": "Nature"
     },
     "not-open-to-public-but-visible": {
-      "count": 56,
+      "count": 57,
       "name": "Not open to public but visible"
     },
     "para-infrastructural-cultural": {
@@ -643,7 +643,7 @@
         -115.1483743,
         36.1141247
       ],
-      "description": "Interesting local museum showcasing the local atomic historical connections to the local desert area",
+      "description": "Interesting museum showcasing the atomic historical connections to the local desert area",
       "id": "atomic-museum",
       "name": "Atomic Museum"
     },
@@ -1499,7 +1499,7 @@
         -122.5929289,
         38.579478
       ],
-      "description": "Of no great historical or cultural importance, but extremely scenic \u2013 old gravestones, dappled light, etc.\n\nhttps://www.atlasobscura.com/places/calistoga-pioneer-cemetery",
+      "description": "Of no great historical or cultural importance, but extremely scenic \u2013 old gravestones, dappled light, etc. Worth the stop if you happen to be in the area.\n\nhttps://www.atlasobscura.com/places/calistoga-pioneer-cemetery",
       "id": "callistoga-pioneer-cemetery",
       "name": "Callistoga Pioneer Cemetery"
     },
@@ -1808,6 +1808,16 @@
       "id": "cisterns-of-la-malga",
       "name": "Cisterns of La Malga"
     },
+    "city-by-michael-heizer": {
+      "category": "interesting-things",
+      "coordinates": [
+        -115.4394229,
+        38.0315086
+      ],
+      "description": "It's entirely debatable whether The City is good art or a good thing in general, but it's certainly notable.",
+      "id": "city-by-michael-heizer",
+      "name": "City (by Michael Heizer)"
+    },
     "city-museum": {
       "category": "museums-attractions",
       "coordinates": [
@@ -2010,7 +2020,7 @@
         -122.119383,
         42.9370052
       ],
-      "description": "Rightly famous for its spectacular, panoramic view of an extremely deep volcanic lake at elevation. Well worth the trip if you're in the area.",
+      "description": "Rightly famous for its spectacular, panoramic view of an extremely deep volcanic lake at elevation. Well worth the trip if you're in the area. Read up on its geology beforehand to fully appreciate it (although the on-site interpretive material is good).",
       "id": "crater-lake",
       "name": "Crater Lake"
     },
@@ -4805,6 +4815,15 @@
       "id": "laugharne-castle-castell-talacharn",
       "name": "Laugharne Castle/ Castell Talacharn"
     },
+    "lavender-pit": {
+      "category": "interesting-things",
+      "coordinates": [
+        -109.9003306,
+        31.435765
+      ],
+      "id": "lavender-pit",
+      "name": "Lavender Pit"
+    },
     "lawrence-livermore-national-laboratory": {
       "category": "interesting-things",
       "coordinates": [
@@ -4853,6 +4872,15 @@
       "description": "Public road crossing live runway",
       "id": "leiria-airport",
       "name": "Leiria Airport"
+    },
+    "lewis-and-clark-national-historical-park": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -123.8803086,
+        46.1344995
+      ],
+      "id": "lewis-and-clark-national-historical-park",
+      "name": "Lewis and Clark National Historical Park"
     },
     "library": {
       "category": "interesting-things",
@@ -5263,6 +5291,15 @@
       "description": "A small town that has become a magnet for arts, culture, and eccentricity. A popular road trip stop. Good place to see an art car.",
       "id": "marfa-texas",
       "name": "Marfa, Texas"
+    },
+    "marin-museum-of-bicycling": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -122.5897493,
+        37.9877477
+      ],
+      "id": "marin-museum-of-bicycling",
+      "name": "Marin Museum of Bicycling"
     },
     "maritime-museum": {
       "category": "museums-attractions",
@@ -7058,6 +7095,15 @@
       "description": "The Osaka Aquarium is world-class and well worth a trip. (I mean, they have a tank with whale sharks in it!)",
       "id": "osaka-aquarium-kaiyukan",
       "name": "Osaka Aquarium Kaiyukan"
+    },
+    "osmotheque-international-archives-of-perfumes": {
+      "category": "museums-attractions",
+      "coordinates": [
+        2.1418656,
+        48.8167207
+      ],
+      "id": "osmotheque-international-archives-of-perfumes",
+      "name": "Osmotheque - International Archives of Perfumes"
     },
     "oso-landslide-memorial": {
       "category": "museums-attractions",
@@ -9448,6 +9494,15 @@
       "description": "A 1973 TV and radio mast that's a clearly visible across a chunk of the Bay Area as long as the fog isn't between you and it. Once controversial, now a tolerated to celebrated local landmark.",
       "id": "sutro-tower",
       "name": "Sutro Tower"
+    },
+    "sutter-buttes": {
+      "category": "not-open-to-public-but-visible",
+      "coordinates": [
+        -121.8164115,
+        39.2242538
+      ],
+      "id": "sutter-buttes",
+      "name": "Sutter Buttes"
     },
     "svalbard-global-seed-vault": {
       "category": "not-open-to-public-but-visible",

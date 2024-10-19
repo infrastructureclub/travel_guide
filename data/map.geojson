@@ -4656,7 +4656,7 @@
                 "styleUrl": "#icon-1598-A52714-labelson",
                 "styleHash": "-835978",
                 "icon": "images/icon-1.png",
-                "description": "Of no great historical or cultural importance, but extremely scenic – old gravestones, dappled light, etc.<br><br>https://www.atlasobscura.com/places/calistoga-pioneer-cemetery"
+                "description": "Of no great historical or cultural importance, but extremely scenic – old gravestones, dappled light, etc. Worth the stop if you happen to be in the area.<br><br>https://www.atlasobscura.com/places/calistoga-pioneer-cemetery"
             }
         },
         {
@@ -5376,6 +5376,41 @@
                 "styleHash": "-835978",
                 "icon": "images/icon-1.png",
                 "description": "Cycle bridge that has the infamous warning sign about tingling sensations: https://digipres.club/@vxo/113299916807130203"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.4394229,
+                    38.0315086,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "City (by Michael Heizer)",
+                "styleUrl": "#icon-1598-A52714-labelson",
+                "styleHash": "-835978",
+                "icon": "images/icon-1.png",
+                "description": "It’s entirely debatable whether The City is good art or a good thing in general, but it’s certainly notable."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.9003306,
+                    31.435765,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lavender Pit",
+                "styleUrl": "#icon-1598-A52714-labelson-nodesc",
+                "styleHash": "-505f2c1",
+                "icon": "images/icon-1.png"
             }
         },
         {
@@ -12154,7 +12189,7 @@
                 "styleUrl": "#icon-1833-F9A825-labelson",
                 "styleHash": "-393d6d86",
                 "icon": "images/icon-2.png",
-                "description": "Interesting local museum showcasing the local atomic historical connections to the local desert area"
+                "description": "Interesting museum showcasing the atomic historical connections to the local desert area"
             }
         },
         {
@@ -14360,6 +14395,57 @@
             },
             "properties": {
                 "name": "Museum of History In Granite",
+                "styleUrl": "#icon-1833-F9A825-labelson-nodesc",
+                "styleHash": "1447c553",
+                "icon": "images/icon-2.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5897493,
+                    37.9877477,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Marin Museum of Bicycling",
+                "styleUrl": "#icon-1833-F9A825-labelson-nodesc",
+                "styleHash": "1447c553",
+                "icon": "images/icon-2.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.8803086,
+                    46.1344995,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lewis and Clark National Historical Park",
+                "styleUrl": "#icon-1833-F9A825-labelson-nodesc",
+                "styleHash": "1447c553",
+                "icon": "images/icon-2.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1418656,
+                    48.8167207,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Osmotheque - International Archives of Perfumes",
                 "styleUrl": "#icon-1833-F9A825-labelson-nodesc",
                 "styleHash": "1447c553",
                 "icon": "images/icon-2.png"
@@ -17056,7 +17142,7 @@
                 "styleUrl": "#icon-1596-558B2F-labelson",
                 "styleHash": "638c400",
                 "icon": "images/icon-5.png",
-                "description": "Rightly famous for its spectacular, panoramic view of an extremely deep volcanic lake at elevation. Well worth the trip if you’re in the area."
+                "description": "Rightly famous for its spectacular, panoramic view of an extremely deep volcanic lake at elevation. Well worth the trip if you’re in the area. Read up on its geology beforehand to fully appreciate it (although the on-site interpretive material is good)."
             }
         },
         {
@@ -19106,6 +19192,23 @@
             },
             "properties": {
                 "name": "Saxa Vord Radar Station",
+                "styleUrl": "#icon-1898-BDBDBD-labelson-nodesc",
+                "styleHash": "-4854e743",
+                "icon": "images/icon-6.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8164115,
+                    39.2242538,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sutter Buttes",
                 "styleUrl": "#icon-1898-BDBDBD-labelson-nodesc",
                 "styleHash": "-4854e743",
                 "icon": "images/icon-6.png"

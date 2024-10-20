@@ -8167,6 +8167,17 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Marienborn Memorial to Divided Germany
+</name>
+        <description>Former border crossing point between West and East Germany and the start of the road transit corridor to West Berlin.</description>
+        <styleUrl>#icon-1833-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            11.0828089,52.2148136,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>

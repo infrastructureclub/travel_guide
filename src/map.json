@@ -13,7 +13,7 @@
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 517,
+      "count": 518,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -5291,6 +5291,16 @@
       "description": "A small town that has become a magnet for arts, culture, and eccentricity. A popular road trip stop. Good place to see an art car.",
       "id": "marfa-texas",
       "name": "Marfa, Texas"
+    },
+    "marienborn-memorial-to-divided-germany": {
+      "category": "museums-attractions",
+      "coordinates": [
+        11.0828089,
+        52.2148136
+      ],
+      "description": "Former border crossing point between West and East Germany and the start of the road transit corridor to West Berlin.",
+      "id": "marienborn-memorial-to-divided-germany",
+      "name": "Marienborn Memorial to Divided Germany"
     },
     "marin-museum-of-bicycling": {
       "category": "museums-attractions",

@@ -14456,6 +14456,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    11.0828089,
+                    52.2148136,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Marienborn Memorial to Divided Germany\n",
+                "styleUrl": "#icon-1833-F9A825-labelson",
+                "styleHash": "-393d6d86",
+                "icon": "images/icon-2.png",
+                "description": "Former border crossing point between West and East Germany and the start of the road transit corridor to West Berlin."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.9055879,
                     38.1671515,
                     0

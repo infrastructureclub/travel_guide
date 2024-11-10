@@ -5418,6 +5418,74 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    0.0082562,
+                    51.5076585,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Trinity Buoy Lighthouse",
+                "styleUrl": "#icon-1598-A52714-labelson-nodesc",
+                "styleHash": "-505f2c1",
+                "icon": "images/icon-1.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0005941,
+                    51.5012701,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pylon",
+                "styleUrl": "#icon-1598-A52714-labelson-nodesc",
+                "styleHash": "-505f2c1",
+                "icon": "images/icon-1.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0105344,
+                    51.5068301,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Traffic Light Tree",
+                "styleUrl": "#icon-1598-A52714-labelson-nodesc",
+                "styleHash": "-505f2c1",
+                "icon": "images/icon-1.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.673213,
+                    40.7935018,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bell Telephone phone pole testing site",
+                "styleUrl": "#icon-1598-A52714-labelson-nodesc",
+                "styleHash": "-505f2c1",
+                "icon": "images/icon-1.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0

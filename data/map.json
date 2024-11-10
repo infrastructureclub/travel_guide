@@ -9,7 +9,7 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 306,
+      "count": 310,
       "name": "Interesting Things"
     },
     "museums-attractions": {
@@ -919,6 +919,15 @@
       "description": "Has a full size signal box, with a mini electrical lever frame",
       "id": "bekonscot-model-village-railway",
       "name": "Bekonscot Model Village & Railway"
+    },
+    "bell-telephone-phone-pole-testing-site": {
+      "category": "interesting-things",
+      "coordinates": [
+        -74.673213,
+        40.7935018
+      ],
+      "id": "bell-telephone-phone-pole-testing-site",
+      "name": "Bell Telephone phone pole testing site"
     },
     "bembridge-lifeboat-station": {
       "category": "museums-attractions",
@@ -7751,6 +7760,15 @@
       "id": "puzzling-world",
       "name": "Puzzling World"
     },
+    "pylon": {
+      "category": "interesting-things",
+      "coordinates": [
+        -0.0005941,
+        51.5012701
+      ],
+      "id": "pylon",
+      "name": "Pylon"
+    },
     "pylon-lookout": {
       "category": "interesting-things",
       "coordinates": [
@@ -10625,6 +10643,15 @@
       ],
       "name": "Tours of Kranj WW2 tunnels"
     },
+    "traffic-light-tree": {
+      "category": "interesting-things",
+      "coordinates": [
+        -0.0105344,
+        51.5068301
+      ],
+      "id": "traffic-light-tree",
+      "name": "Traffic Light Tree"
+    },
     "trail-through-time": {
       "category": "science",
       "coordinates": [
@@ -10662,6 +10689,15 @@
       "description": "For years was the tallest lift-locks in the world.  Lovely parklands around too, nice place to stop if you're in the area",
       "id": "trent-severn-waterway-lock-21-peterborough-lift-lock",
       "name": "Trent-Severn Waterway, Lock 21 - Peterborough Lift Lock"
+    },
+    "trinity-buoy-lighthouse": {
+      "category": "interesting-things",
+      "coordinates": [
+        0.0082562,
+        51.5076585
+      ],
+      "id": "trinity-buoy-lighthouse",
+      "name": "Trinity Buoy Lighthouse"
     },
     "trinity-site": {
       "category": "historic-ruins-structures",

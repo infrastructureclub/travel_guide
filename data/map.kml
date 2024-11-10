@@ -3181,6 +3181,42 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Trinity Buoy Lighthouse</name>
+        <styleUrl>#icon-1598-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.0082562,51.5076585,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pylon</name>
+        <styleUrl>#icon-1598-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.0005941,51.5012701,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Traffic Light Tree</name>
+        <styleUrl>#icon-1598-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.0105344,51.5068301,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bell Telephone phone pole testing site</name>
+        <styleUrl>#icon-1598-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -74.673213,40.7935018,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>

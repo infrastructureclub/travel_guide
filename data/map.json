@@ -13,7 +13,7 @@
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 518,
+      "count": 519,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -4626,6 +4626,16 @@
       "description": "Seattle was the main departure point for people looking for gold in Alaska. This museum therefore gets into the supply chains, etc.",
       "id": "klondike-gold-rush-national-historical-park",
       "name": "Klondike Gold Rush National Historical Park"
+    },
+    "knipex-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        7.14361,
+        51.21054
+      ],
+      "description": "\"open to the general public once per year as part of the Wuppertal-24h-live event and to groups year-round by appointment\"\n\nhttps://en.wikipedia.org/wiki/Knipex#Knipex_museum\nhttps://www.knipex.com/company/knipex-museum",
+      "id": "knipex-museum",
+      "name": "KNIPEX Museum"
     },
     "kph-marine-radio-station": {
       "category": "interesting-things",

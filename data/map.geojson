@@ -14542,6 +14542,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    7.14361,
+                    51.21054,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "KNIPEX Museum\n",
+                "styleUrl": "#icon-1833-F9A825-labelson",
+                "styleHash": "-393d6d86",
+                "icon": "images/icon-2.png",
+                "description": "\"open to the general public once per year as part of the Wuppertal-24h-live event and to groups year-round by appointment\"<br><br>https://en.wikipedia.org/wiki/Knipex#Knipex_museum<br>https://www.knipex.com/company/knipex-museum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.9055879,
                     38.1671515,
                     0

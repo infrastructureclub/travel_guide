@@ -8214,6 +8214,17 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>KNIPEX Museum
+</name>
+        <description><![CDATA["open to the general public once per year as part of the Wuppertal-24h-live event and to groups year-round by appointment"<br><br>https://en.wikipedia.org/wiki/Knipex#Knipex_museum<br>https://www.knipex.com/company/knipex-museum]]></description>
+        <styleUrl>#icon-1833-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            7.14361,51.21054,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>

@@ -5486,6 +5486,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -68.8037802,
+                    44.5605306,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Penobscot Narrows Bridge Observatory",
+                "styleUrl": "#icon-1598-A52714-labelson",
+                "styleHash": "-835978",
+                "icon": "images/icon-1.png",
+                "description": "Not visited, but apparently the 'highest bridge observatory in the world'!<br><br>added by jt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0

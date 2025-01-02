@@ -9,7 +9,7 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 310,
+      "count": 311,
       "name": "Interesting Things"
     },
     "museums-attractions": {
@@ -7330,6 +7330,16 @@
       "description": "A glimpse of English rural life around 1930 through extraordinary dioramas featuring models of railways, villages and landscapes.",
       "id": "pendon-museum",
       "name": "Pendon Museum"
+    },
+    "penobscot-narrows-bridge-observatory": {
+      "category": "interesting-things",
+      "coordinates": [
+        -68.8037802,
+        44.5605306
+      ],
+      "description": "Not visited, but apparently the 'highest bridge observatory in the world'!\n\nadded by jt",
+      "id": "penobscot-narrows-bridge-observatory",
+      "name": "Penobscot Narrows Bridge Observatory"
     },
     "pentrich-revolution-trail": {
       "category": "interesting-things",

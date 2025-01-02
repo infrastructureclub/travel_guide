@@ -3217,6 +3217,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Penobscot Narrows Bridge Observatory</name>
+        <description><![CDATA[Not visited, but apparently the 'highest bridge observatory in the world'!<br><br>added by jt]]></description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -68.8037802,44.5605306,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>

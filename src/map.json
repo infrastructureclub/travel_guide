@@ -13,7 +13,7 @@
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 519,
+      "count": 521,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -10593,6 +10593,15 @@
       "id": "titanic-belfast",
       "name": "Titanic Belfast"
     },
+    "tokoname-pottery-footpath": {
+      "category": "museums-attractions",
+      "coordinates": [
+        136.8396705,
+        34.8875305
+      ],
+      "id": "tokoname-pottery-footpath",
+      "name": "Tokoname Pottery Footpath"
+    },
     "tokyo-metro-museum": {
       "category": "museums-attractions",
       "coordinates": [
@@ -10662,6 +10671,15 @@
         "./data/images/8789072a68bcdaeb546fac6d1b2bf73136a437b089968814b7b0034196bf68b9.png"
       ],
       "name": "Tours of Kranj WW2 tunnels"
+    },
+    "toyota-commemorative-museum-of-industry-and-technology": {
+      "category": "museums-attractions",
+      "coordinates": [
+        136.8759846,
+        35.182564
+      ],
+      "id": "toyota-commemorative-museum-of-industry-and-technology",
+      "name": "Toyota Commemorative Museum of Industry and Technology"
     },
     "traffic-light-tree": {
       "category": "interesting-things",

@@ -8235,6 +8235,24 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Tokoname Pottery Footpath</name>
+        <styleUrl>#icon-1833-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            136.8396705,34.8875305,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Toyota Commemorative Museum of Industry and Technology</name>
+        <styleUrl>#icon-1833-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            136.8759846,35.182564,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>

@@ -14578,6 +14578,40 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    136.8396705,
+                    34.8875305,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tokoname Pottery Footpath",
+                "styleUrl": "#icon-1833-F9A825-labelson-nodesc",
+                "styleHash": "1447c553",
+                "icon": "images/icon-2.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.8759846,
+                    35.182564,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Toyota Commemorative Museum of Industry and Technology",
+                "styleUrl": "#icon-1833-F9A825-labelson-nodesc",
+                "styleHash": "1447c553",
+                "icon": "images/icon-2.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.9055879,
                     38.1671515,
                     0

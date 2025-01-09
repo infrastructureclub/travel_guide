@@ -527,7 +527,8 @@
       </Placemark>
       <Placemark>
         <name>Dinorwig Power Station</name>
-        <styleUrl>#icon-1598-A52714-labelson-nodesc</styleUrl>
+        <description>Formerly offered tours but no longer does.</description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
         <Point>
           <coordinates>
             -4.113889,53.118611,0
@@ -3227,6 +3228,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name><![CDATA[Ffestiniog & Welsh Highland Railways]]></name>
+        <description>Heritage railway with good views</description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -4.126935,52.9239876,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>
@@ -4577,8 +4588,10 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Sizewell B Visitor Centre</name>
-        <styleUrl>#icon-1833-F9A825-labelson-nodesc</styleUrl>
+        <name>Sizewell B Nuclear Power Station
+</name>
+        <description><![CDATA[Tours available via EDF (must book 4 weeks in advance)<br><br>https://www.edfenergy.com/energy/power-stations/sizewell-b]]></description>
+        <styleUrl>#icon-1833-F9A825-labelson</styleUrl>
         <Point>
           <coordinates>
             1.616333,52.2175733,0
@@ -8253,6 +8266,26 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Heysham Nuclear Power Station</name>
+        <description><![CDATA[Tours available via EDF (must book at least 4 weeks in advance)<br><br>https://www.edfenergy.com/energy/power-stations/heysham-2]]></description>
+        <styleUrl>#icon-1833-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9153037,54.0301526,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Torness Nuclear Power Station</name>
+        <description><![CDATA[Tours available via EDF (must book 4 weeks in advance)<br><br>https://www.edfenergy.com/energy/power-stations/torness]]></description>
+        <styleUrl>#icon-1833-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -2.4066617,55.9691929,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>
@@ -10919,6 +10952,85 @@
         <Point>
           <coordinates>
             -121.8164115,39.2242538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Trawsfynydd Nuclear Power Station (decommissioning)
+</name>
+        <styleUrl>#icon-1898-BDBDBD-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.9494514,52.9249424,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ffestiniog Power Station</name>
+        <description>Pumped storage power station</description>
+        <styleUrl>#icon-1898-BDBDBD-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -3.9685669,52.9807998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stack Rock Fort</name>
+        <styleUrl>#icon-1898-BDBDBD-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.0920937,51.7024667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wylfa Nuclear Power Station (decommissioning)
+</name>
+        <styleUrl>#icon-1898-BDBDBD-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.4815304,53.4157012,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oldbury Nuclear Power Station (decommissioning)
+</name>
+        <styleUrl>#icon-1898-BDBDBD-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.5707366,51.6485932,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sutherland Spaceport</name>
+        <styleUrl>#icon-1898-BDBDBD-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.5010585,58.5043369,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hinkley Point Nuclear Power Stations
+</name>
+        <description>Not currently doing tours.</description>
+        <styleUrl>#icon-1898-BDBDBD-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -3.1370599,51.2061672,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pass of Brander stone signals</name>
+        <description>https://en.wikipedia.org/wiki/Pass_of_Brander_stone_signals</description>
+        <styleUrl>#icon-1898-BDBDBD-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -5.1536272,56.4031392,0
           </coordinates>
         </Point>
       </Placemark>

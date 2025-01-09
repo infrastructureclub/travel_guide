@@ -9,11 +9,11 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 311,
+      "count": 312,
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 521,
+      "count": 523,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -21,7 +21,7 @@
       "name": "Nature"
     },
     "not-open-to-public-but-visible": {
-      "count": 57,
+      "count": 65,
       "name": "Not open to public but visible"
     },
     "para-infrastructural-cultural": {
@@ -2390,6 +2390,7 @@
         -4.113889,
         53.118611
       ],
+      "description": "Formerly offered tours but no longer does.",
       "id": "dinorwig-power-station",
       "name": "Dinorwig Power Station"
     },
@@ -3030,6 +3031,26 @@
       ],
       "id": "ferropolis-city-of-iron",
       "name": "FERROPOLIS - City of Iron"
+    },
+    "ffestiniog-power-station": {
+      "category": "not-open-to-public-but-visible",
+      "coordinates": [
+        -3.9685669,
+        52.9807998
+      ],
+      "description": "Pumped storage power station",
+      "id": "ffestiniog-power-station",
+      "name": "Ffestiniog Power Station"
+    },
+    "ffestiniog-welsh-highland-railways": {
+      "category": "interesting-things",
+      "coordinates": [
+        -4.126935,
+        52.9239876
+      ],
+      "description": "Heritage railway with good views",
+      "id": "ffestiniog-welsh-highland-railways",
+      "name": "Ffestiniog & Welsh Highland Railways"
     },
     "fire-service-college": {
       "category": "not-open-to-public-but-visible",
@@ -3877,6 +3898,16 @@
       "id": "herschel-museum-of-astronomy",
       "name": "Herschel Museum of Astronomy"
     },
+    "heysham-nuclear-power-station": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -2.9153037,
+        54.0301526
+      ],
+      "description": "Tours available via EDF (must book at least 4 weeks in advance)\n\nhttps://www.edfenergy.com/energy/power-stations/heysham-2",
+      "id": "heysham-nuclear-power-station",
+      "name": "Heysham Nuclear Power Station"
+    },
     "hheiky-dam": {
       "category": "museums-attractions",
       "coordinates": [
@@ -3924,6 +3955,16 @@
       "description": "You can buy souvenir vials of Mt St Helens ash in the area for $15 or something, as my father would always point out when we drove past these.",
       "id": "hills-of-mt-st-helens-ash-dredged-from-the-toutle-river-after-the-1980-eruption",
       "name": "Hills of Mt St Helens ash dredged from the Toutle River after the 1980 eruption"
+    },
+    "hinkley-point-nuclear-power-stations": {
+      "category": "not-open-to-public-but-visible",
+      "coordinates": [
+        -3.1370599,
+        51.2061672
+      ],
+      "description": "Not currently doing tours.",
+      "id": "hinkley-point-nuclear-power-stations",
+      "name": "Hinkley Point Nuclear Power Stations"
     },
     "hiram-m-chittenden-locks-ballard": {
       "category": "museums-attractions",
@@ -7049,6 +7090,15 @@
       "id": "old-train-station-rail-museum",
       "name": "Old Train Station (rail museum)"
     },
+    "oldbury-nuclear-power-station-decommissioning": {
+      "category": "not-open-to-public-but-visible",
+      "coordinates": [
+        -2.5707366,
+        51.6485932
+      ],
+      "id": "oldbury-nuclear-power-station-decommissioning",
+      "name": "Oldbury Nuclear Power Station (decommissioning)"
+    },
     "omsi": {
       "category": "para-infrastructural-cultural",
       "coordinates": [
@@ -7254,6 +7304,16 @@
       ],
       "id": "park-of-the-aqueducts",
       "name": "Park of the Aqueducts"
+    },
+    "pass-of-brander-stone-signals": {
+      "category": "not-open-to-public-but-visible",
+      "coordinates": [
+        -5.1536272,
+        56.4031392
+      ],
+      "description": "https://en.wikipedia.org/wiki/Pass_of_Brander_stone_signals",
+      "id": "pass-of-brander-stone-signals",
+      "name": "Pass of Brander stone signals"
     },
     "paternoster-nov-radnice-new-city-hall": {
       "category": "interesting-things",
@@ -8922,14 +8982,15 @@
       "id": "site-of-morning-mist-rock-island-bend-franklin-river",
       "name": "Site of \u201cMorning Mist, Rock Island Bend, Franklin River\u201d"
     },
-    "sizewell-b-visitor-centre": {
+    "sizewell-b-nuclear-power-station": {
       "category": "museums-attractions",
       "coordinates": [
         1.616333,
         52.2175733
       ],
-      "id": "sizewell-b-visitor-centre",
-      "name": "Sizewell B Visitor Centre"
+      "description": "Tours available via EDF (must book 4 weeks in advance)\n\nhttps://www.edfenergy.com/energy/power-stations/sizewell-b",
+      "id": "sizewell-b-nuclear-power-station",
+      "name": "Sizewell B Nuclear Power Station"
     },
     "skaggs-island-circularly-disposed-antenna-array-cdaa": {
       "category": "not-open-to-public-but-visible",
@@ -9304,6 +9365,15 @@
       "id": "stack-interchange",
       "name": "Stack Interchange"
     },
+    "stack-rock-fort": {
+      "category": "not-open-to-public-but-visible",
+      "coordinates": [
+        -5.0920937,
+        51.7024667
+      ],
+      "id": "stack-rock-fort",
+      "name": "Stack Rock Fort"
+    },
     "stalham-firehouse-museum": {
       "category": "museums-attractions",
       "coordinates": [
@@ -9523,6 +9593,15 @@
       ],
       "id": "suspension-bridge-over-tsingy",
       "name": "Suspension bridge over tsingy"
+    },
+    "sutherland-spaceport": {
+      "category": "not-open-to-public-but-visible",
+      "coordinates": [
+        -4.5010585,
+        58.5043369
+      ],
+      "id": "sutherland-spaceport",
+      "name": "Sutherland Spaceport"
     },
     "sutro-baths": {
       "category": "para-infrastructural-cultural",
@@ -10640,6 +10719,16 @@
       "id": "tokyo-tower",
       "name": "Tokyo Tower"
     },
+    "torness-nuclear-power-station": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -2.4066617,
+        55.9691929
+      ],
+      "description": "Tours available via EDF (must book 4 weeks in advance)\n\nhttps://www.edfenergy.com/energy/power-stations/torness",
+      "id": "torness-nuclear-power-station",
+      "name": "Torness Nuclear Power Station"
+    },
     "torodo-lantern-hall": {
       "category": "interesting-things",
       "coordinates": [
@@ -10717,6 +10806,15 @@
       ],
       "id": "transport-museum",
       "name": "Transport Museum"
+    },
+    "trawsfynydd-nuclear-power-station-decommissioning": {
+      "category": "not-open-to-public-but-visible",
+      "coordinates": [
+        -3.9494514,
+        52.9249424
+      ],
+      "id": "trawsfynydd-nuclear-power-station-decommissioning",
+      "name": "Trawsfynydd Nuclear Power Station (decommissioning)"
     },
     "trent-severn-waterway-lock-21-peterborough-lift-lock": {
       "category": "historic-ruins-structures",
@@ -11645,6 +11743,15 @@
       "description": "Old suspended monorail along a river and road",
       "id": "wuppertal-schwebebahn",
       "name": "Wuppertal Schwebebahn"
+    },
+    "wylfa-nuclear-power-station-decommissioning": {
+      "category": "not-open-to-public-but-visible",
+      "coordinates": [
+        -4.4815304,
+        53.4157012
+      ],
+      "id": "wylfa-nuclear-power-station-decommissioning",
+      "name": "Wylfa Nuclear Power Station (decommissioning)"
     },
     "yamanashi-prefectural-maglev-exhibition-center": {
       "category": "museums-attractions",

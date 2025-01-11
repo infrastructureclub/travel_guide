@@ -9778,6 +9778,21 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Purdown Gun Battery</name>
+        <description><![CDATA[<img src="./data/images/7cf80e63a398ef1788be4f2a185a39f72f1a0defdf19dc76e182ed48667b6c8b.png" height="200" width="auto" /><br><br>Graffitied ruins of anti-aircraft gun batteries. Now home to goats and spectacular views of Bristol.]]></description>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>./data/images/7cf80e63a398ef1788be4f2a185a39f72f1a0defdf19dc76e182ed48667b6c8b.png</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.5609888,51.485717,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Nature</name>
@@ -11031,6 +11046,21 @@
         <Point>
           <coordinates>
             -5.1536272,56.4031392,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Purdown BT Tower</name>
+        <description><![CDATA[<img src="./data/images/dd4d52f16480d66904bba3431e8d41c4a52ed9bf77057a6e00d765759f29767b.png" height="200" width="auto" /><br><br>A large communications tower, visible from large parts of Bristol]]></description>
+        <styleUrl>#icon-1898-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>./data/images/dd4d52f16480d66904bba3431e8d41c4a52ed9bf77057a6e00d765759f29767b.png</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.5627806,51.4857905,0
           </coordinates>
         </Point>
       </Placemark>

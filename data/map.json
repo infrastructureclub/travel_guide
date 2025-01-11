@@ -1,7 +1,7 @@
 {
   "categories": {
     "historic-ruins-structures": {
-      "count": 119,
+      "count": 120,
       "name": "Historic / ruins / structures"
     },
     "industry": {
@@ -21,7 +21,7 @@
       "name": "Nature"
     },
     "not-open-to-public-but-visible": {
-      "count": 65,
+      "count": 66,
       "name": "Not open to public but visible"
     },
     "para-infrastructural-cultural": {
@@ -7819,6 +7819,32 @@
       ],
       "id": "pumpkin-park",
       "name": "Pumpkin Park"
+    },
+    "purdown-bt-tower": {
+      "category": "not-open-to-public-but-visible",
+      "coordinates": [
+        -2.5627806,
+        51.4857905
+      ],
+      "description": "A large communications tower, visible from large parts of Bristol",
+      "id": "purdown-bt-tower",
+      "img": [
+        "./data/images/dd4d52f16480d66904bba3431e8d41c4a52ed9bf77057a6e00d765759f29767b.png"
+      ],
+      "name": "Purdown BT Tower"
+    },
+    "purdown-gun-battery": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        -2.5609888,
+        51.485717
+      ],
+      "description": "Graffitied ruins of anti-aircraft gun batteries. Now home to goats and spectacular views of Bristol.",
+      "id": "purdown-gun-battery",
+      "img": [
+        "./data/images/7cf80e63a398ef1788be4f2a185a39f72f1a0defdf19dc76e182ed48667b6c8b.png"
+      ],
+      "name": "Purdown Gun Battery"
     },
     "purton-ship-graveyard": {
       "category": "interesting-things",

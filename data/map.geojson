@@ -17344,6 +17344,25 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -2.5609888,
+                    51.485717,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Purdown Gun Battery",
+                "styleUrl": "#icon-1608-F57C00-labelson",
+                "styleHash": "-57e30630",
+                "icon": "images/icon-4.png",
+                "description": "<img src=\"./data/images/7cf80e63a398ef1788be4f2a185a39f72f1a0defdf19dc76e182ed48667b6c8b.png\" height=\"200\" width=\"auto\" /><br><br>Graffitied ruins of anti-aircraft gun batteries. Now home to goats and spectacular views of Bristol.",
+                "gx_media_links": "./data/images/7cf80e63a398ef1788be4f2a185a39f72f1a0defdf19dc76e182ed48667b6c8b.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -122.119383,
                     42.9370052,
                     0
@@ -19563,6 +19582,25 @@
                 "styleHash": "-2f1af5a4",
                 "icon": "images/icon-6.png",
                 "description": "https://en.wikipedia.org/wiki/Pass_of_Brander_stone_signals"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.5627806,
+                    51.4857905,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Purdown BT Tower",
+                "styleUrl": "#icon-1898-BDBDBD-labelson",
+                "styleHash": "-2f1af5a4",
+                "icon": "images/icon-6.png",
+                "description": "<img src=\"./data/images/dd4d52f16480d66904bba3431e8d41c4a52ed9bf77057a6e00d765759f29767b.png\" height=\"200\" width=\"auto\" /><br><br>A large communications tower, visible from large parts of Bristol",
+                "gx_media_links": "./data/images/dd4d52f16480d66904bba3431e8d41c4a52ed9bf77057a6e00d765759f29767b.png"
             }
         },
         {

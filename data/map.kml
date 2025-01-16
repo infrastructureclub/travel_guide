@@ -3238,6 +3238,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Button Museum</name>
+        <description>https://buttonmuseum.org/about</description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -87.712313,41.917148,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>

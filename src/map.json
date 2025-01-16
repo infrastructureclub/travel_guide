@@ -9,7 +9,7 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 312,
+      "count": 313,
       "name": "Interesting Things"
     },
     "museums-attractions": {
@@ -1472,6 +1472,16 @@
       "description": "Historic brickworks museum. Has multiple narrow gauge/miniature railways, and has steam open days where traction engines etc visit.\n\nhttps://thebrickworksmuseum.org/",
       "id": "bursledon-brickworks-museum",
       "name": "Bursledon Brickworks Museum"
+    },
+    "button-museum": {
+      "category": "interesting-things",
+      "coordinates": [
+        -87.712313,
+        41.917148
+      ],
+      "description": "https://buttonmuseum.org/about",
+      "id": "button-museum",
+      "name": "Button Museum"
     },
     "cairngorm-mountain-railway": {
       "category": "museums-attractions",

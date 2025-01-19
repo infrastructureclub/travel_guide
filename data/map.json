@@ -9,7 +9,7 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 313,
+      "count": 316,
       "name": "Interesting Things"
     },
     "museums-attractions": {
@@ -1761,6 +1761,26 @@
       ],
       "description": "One of the few suspended monorails. You can transfer here at Chiba station from the major intercity rail lines",
       "id": "chiba-urban-monorail",
+      "name": "Chiba Urban Monorail"
+    },
+    "chiba-urban-monorail2": {
+      "category": "interesting-things",
+      "coordinates": [
+        140.1020259,
+        35.6078508
+      ],
+      "description": "Hanging Monorail",
+      "id": "chiba-urban-monorail2",
+      "name": "Chiba Urban Monorail"
+    },
+    "chiba-urban-monorail3": {
+      "category": "interesting-things",
+      "coordinates": [
+        140.116323,
+        35.6131602
+      ],
+      "description": "Hanging Monorail",
+      "id": "chiba-urban-monorail3",
       "name": "Chiba Urban Monorail"
     },
     "chicago-river-boat-architecture-tours": {
@@ -8888,6 +8908,16 @@
       "description": "50+ microscopic bars rammed into 5 tiny alleys across multiple floors. Note that some of the bars are locals only and they won't let you in. Super fun. Expect to be in a bar the size of a small caravan with four seats where nobody speaks English.",
       "id": "shinjuku-golden-gai",
       "name": "Shinjuku Golden Gai"
+    },
+    "shonan-monorail": {
+      "category": "interesting-things",
+      "coordinates": [
+        139.4879549,
+        35.3119797
+      ],
+      "description": "Hanging monorail line",
+      "id": "shonan-monorail",
+      "name": "Shonan Monorail"
     },
     "shoreham-airfield-dome-trainer": {
       "category": "historic-ruins-structures",

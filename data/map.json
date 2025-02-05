@@ -13,7 +13,7 @@
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 523,
+      "count": 524,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -3280,6 +3280,16 @@
       "description": "Take the funicular up for a great view over San Sebastian",
       "id": "funikularea",
       "name": "Funikularea"
+    },
+    "gas-science-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        139.792461,
+        35.6518383
+      ],
+      "description": "Probably not worth a special trip, but well worth it if you're going to TeamLab.\n\nCharming FREE museum all about natural gas, mainly aimed at elementary-school-aged children. Mostly in Japanese, which is part of the charm. Lots of interactive exhibits and an endearing staff.\n\nDomed grass roof terrace is worth a trip to the top for some quite nice views.\n\nAdded by JT",
+      "id": "gas-science-museum",
+      "name": "Gas Science Museum"
     },
     "gas-works-park": {
       "category": "interesting-things",

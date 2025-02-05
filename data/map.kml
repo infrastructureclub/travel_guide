@@ -8553,6 +8553,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Gas Science Museum</name>
+        <description><![CDATA[Probably not worth a special trip, but well worth it if you're going to TeamLab.<br><br>Charming FREE museum all about natural gas, mainly aimed at elementary-school-aged children. Mostly in Japanese, which is part of the charm. Lots of interactive exhibits and an endearing staff.<br><br>Domed grass roof terrace is worth a trip to the top for some quite nice views.<br><br>Added by JT]]></description>
+        <styleUrl>#icon-1833-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            139.792461,35.6518383,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>

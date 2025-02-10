@@ -1,7 +1,7 @@
 {
   "categories": {
     "historic-ruins-structures": {
-      "count": 120,
+      "count": 122,
       "name": "Historic / ruins / structures"
     },
     "industry": {
@@ -9,15 +9,15 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 316,
+      "count": 317,
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 524,
+      "count": 525,
       "name": "Museums / attractions"
     },
     "nature": {
-      "count": 61,
+      "count": 62,
       "name": "Nature"
     },
     "not-open-to-public-but-visible": {
@@ -1704,6 +1704,16 @@
       ],
       "id": "central-tramway",
       "name": "Central Tramway"
+    },
+    "centralia": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        -76.3405035,
+        40.8042541
+      ],
+      "description": "Abandoned ghost town due to terrifying background coal mine fire: https://en.wikipedia.org/wiki/Centralia,_Pennsylvania",
+      "id": "centralia",
+      "name": "Centralia"
     },
     "centre-for-alternative-technology": {
       "category": "museums-attractions",
@@ -5152,6 +5162,16 @@
       "id": "london-museum-of-water-steam",
       "name": "London Museum of Water & Steam"
     },
+    "london-necropolis-railway-terminal": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        -0.1135618,
+        51.4993323
+      ],
+      "description": "Just a disused station-front now. See https://en.wikipedia.org/wiki/London_Necropolis_Railway",
+      "id": "london-necropolis-railway-terminal",
+      "name": "London Necropolis Railway Terminal"
+    },
     "london-transport-museum": {
       "category": "museums-attractions",
       "coordinates": [
@@ -5860,6 +5880,16 @@
       "description": "Only \u201cdiscovered\u201d by satellite: https://www.theguardian.com/world/2018/jun/17/mozambique-mount-lico-rainforest-new-species",
       "id": "mount-lico",
       "name": "Mount Lico"
+    },
+    "mount-yasur-active-volcano": {
+      "category": "nature",
+      "coordinates": [
+        169.4471825,
+        -19.5288302
+      ],
+      "description": "Remarkably accessible / summit-able actively erupting volcano. Also has a post box on it, because Vanuatu is into novelty post boxes.",
+      "id": "mount-yasur-active-volcano",
+      "name": "Mount Yasur (Active Volcano)"
     },
     "mountfitchet-castle-norman-village": {
       "category": "museums-attractions",
@@ -10188,6 +10218,15 @@
       "id": "the-falkirk-wheel",
       "name": "The Falkirk Wheel"
     },
+    "the-fram-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        10.699729,
+        59.9033813
+      ],
+      "id": "the-fram-museum",
+      "name": "The Fram Museum"
+    },
     "the-geothermal-energy-exhibition": {
       "category": "interesting-things",
       "coordinates": [
@@ -11017,6 +11056,15 @@
       ],
       "id": "underground-passages",
       "name": "Underground Passages"
+    },
+    "underwater-post-office": {
+      "category": "interesting-things",
+      "coordinates": [
+        168.2630053,
+        -17.6959547
+      ],
+      "id": "underwater-post-office",
+      "name": "Underwater Post Office"
     },
     "unesco-welterbe-zollverein": {
       "category": "historic-ruins-structures",

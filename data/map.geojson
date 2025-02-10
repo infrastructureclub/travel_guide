@@ -6614,6 +6614,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    168.2630053,
+                    -17.6959547,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Underwater Post Office",
+                "styleUrl": "#icon-1598-A52714-labelson-nodesc",
+                "styleHash": "-505f2c1",
+                "icon": "images/icon-1.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0
@@ -15777,6 +15794,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    10.699729,
+                    59.9033813,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Fram Museum",
+                "styleUrl": "#icon-1833-F9A825-labelson-nodesc",
+                "styleHash": "1447c553",
+                "icon": "images/icon-2.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.9055879,
                     38.1671515,
                     0
@@ -18472,6 +18506,42 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -76.3405035,
+                    40.8042541,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Centralia",
+                "styleUrl": "#icon-1608-F57C00-labelson",
+                "styleHash": "-57e30630",
+                "icon": "images/icon-4.png",
+                "description": "Abandoned ghost town due to terrifying background coal mine fire: https://en.wikipedia.org/wiki/Centralia,_Pennsylvania"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1135618,
+                    51.4993323,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "London Necropolis Railway Terminal",
+                "styleUrl": "#icon-1608-F57C00-labelson",
+                "styleHash": "-57e30630",
+                "icon": "images/icon-4.png",
+                "description": "Just a disused station-front now. See https://en.wikipedia.org/wiki/London_Necropolis_Railway"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -122.119383,
                     42.9370052,
                     0
@@ -19543,6 +19613,24 @@
                 "styleUrl": "#icon-1596-558B2F-labelson-nodesc",
                 "styleHash": "2ebec33f",
                 "icon": "images/icon-5.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.4471825,
+                    -19.5288302,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mount Yasur (Active Volcano)",
+                "styleUrl": "#icon-1596-558B2F-labelson",
+                "styleHash": "638c400",
+                "icon": "images/icon-5.png",
+                "description": "Remarkably accessible / summit-able actively erupting volcano. Also has a post box on it, because Vanuatu is into novelty post boxes."
             }
         },
         {

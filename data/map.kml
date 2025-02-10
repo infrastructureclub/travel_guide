@@ -3505,6 +3505,15 @@
           </coordinates>
         </LineString>
       </Placemark>
+      <Placemark>
+        <name>Underwater Post Office</name>
+        <styleUrl>#icon-1598-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            168.2630053,-17.6959547,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>
@@ -8563,6 +8572,15 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>The Fram Museum</name>
+        <styleUrl>#icon-1833-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.699729,59.9033813,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>
@@ -10070,6 +10088,26 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Centralia</name>
+        <description>Abandoned ghost town due to terrifying background coal mine fire: https://en.wikipedia.org/wiki/Centralia,_Pennsylvania</description>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -76.3405035,40.8042541,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>London Necropolis Railway Terminal</name>
+        <description>Just a disused station-front now. See https://en.wikipedia.org/wiki/London_Necropolis_Railway</description>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -0.1135618,51.4993323,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Nature</name>
@@ -10676,6 +10714,16 @@
         <Point>
           <coordinates>
             139.2551495,35.62995,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mount Yasur (Active Volcano)</name>
+        <description>Remarkably accessible / summit-able actively erupting volcano. Also has a post box on it, because Vanuatu is into novelty post boxes.</description>
+        <styleUrl>#icon-1596-558B2F-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            169.4471825,-19.5288302,0
           </coordinates>
         </Point>
       </Placemark>

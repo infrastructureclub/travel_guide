@@ -14537,7 +14537,7 @@
                 "styleUrl": "#icon-1833-F9A825-labelson",
                 "styleHash": "-393d6d86",
                 "icon": "images/icon-2.png",
-                "description": "<img src=\"./data/images/57b21b60ba969a705ad106b4eba1f69128b406117fc88a1e70a77a19d146cbaf.png\" height=\"200\" width=\"auto\" /><br><br>Regular tours, but need booking long in advance. You must come with a Japanese speaker.<br><br>https://gaikaku.jp/<br><br>https://www.atlasobscura.com/places/g-cans-worlds-largest-drain",
+                "description": "<img src=\"./data/images/57b21b60ba969a705ad106b4eba1f69128b406117fc88a1e70a77a19d146cbaf.png\" height=\"200\" width=\"auto\" /><br><br>Regular tours, but need booking long in advance. You must come with a Japanese speaker.<br><br>https://gaikaku.jp/<br><br>https://www.atlasobscura.com/places/g-cans-worlds-largest-drain<br><br>Ed visited this",
                 "gx_media_links": "./data/images/57b21b60ba969a705ad106b4eba1f69128b406117fc88a1e70a77a19d146cbaf.png"
             }
         },
@@ -15811,6 +15811,25 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    139.3544959,
+                    35.6586526,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Shimada Electric Manufacturing Company",
+                "styleUrl": "#icon-1833-F9A825-labelson",
+                "styleHash": "-393d6d86",
+                "icon": "images/icon-2.png",
+                "description": "<img src=\"./data/images/1b17bafa877b22c1438fc6e21eb80ac1e1fd17a19791bcc788f331d59040eeb2.png\" height=\"200\" width=\"auto\" /><br><br>Elevator button factory",
+                "gx_media_links": "./data/images/1b17bafa877b22c1438fc6e21eb80ac1e1fd17a19791bcc788f331d59040eeb2.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.9055879,
                     38.1671515,
                     0
@@ -16231,7 +16250,7 @@
                 "styleUrl": "#icon-1693-757575-labelson",
                 "styleHash": "-1d74371c",
                 "icon": "images/icon-3.png",
-                "description": "Does regular free tours. Must be booked in advance.<br><br>https://www.osaka-env-paa.jp/kengaku/kojokengaku/kojin.html"
+                "description": "Does regular free tours. Must be booked in advance. Needs a Japanese interpreter sadly.<br><br>https://www.osaka-env-paa.jp/kengaku/kojokengaku/kojin.html"
             }
         },
         {

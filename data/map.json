@@ -13,7 +13,7 @@
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 525,
+      "count": 526,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -5313,7 +5313,7 @@
         135.4066244,
         34.6656096
       ],
-      "description": "Does regular free tours. Must be booked in advance.\n\nhttps://www.osaka-env-paa.jp/kengaku/kojokengaku/kojin.html",
+      "description": "Does regular free tours. Must be booked in advance. Needs a Japanese interpreter sadly.\n\nhttps://www.osaka-env-paa.jp/kengaku/kojokengaku/kojin.html",
       "id": "maishima-incineration-plant",
       "name": "Maishima Incineration Plant"
     },
@@ -5631,7 +5631,7 @@
         139.7471384,
         35.9929899
       ],
-      "description": "Regular tours, but need booking long in advance. You must come with a Japanese speaker.\n\nhttps://gaikaku.jp/\n\nhttps://www.atlasobscura.com/places/g-cans-worlds-largest-drain",
+      "description": "Regular tours, but need booking long in advance. You must come with a Japanese speaker.\n\nhttps://gaikaku.jp/\n\nhttps://www.atlasobscura.com/places/g-cans-worlds-largest-drain\n\nEd visited this",
       "id": "metropolitan-area-outer-underground-discharge-channel",
       "img": [
         "./data/images/57b21b60ba969a705ad106b4eba1f69128b406117fc88a1e70a77a19d146cbaf.png"
@@ -8938,6 +8938,19 @@
       ],
       "id": "shibuya-scramble-crossing",
       "name": "Shibuya Scramble Crossing"
+    },
+    "shimada-electric-manufacturing-company": {
+      "category": "museums-attractions",
+      "coordinates": [
+        139.3544959,
+        35.6586526
+      ],
+      "description": "Elevator button factory",
+      "id": "shimada-electric-manufacturing-company",
+      "img": [
+        "./data/images/1b17bafa877b22c1438fc6e21eb80ac1e1fd17a19791bcc788f331d59040eeb2.png"
+      ],
+      "name": "Shimada Electric Manufacturing Company"
     },
     "shinjuku-golden-gai": {
       "category": "interesting-things",

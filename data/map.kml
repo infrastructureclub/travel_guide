@@ -7881,7 +7881,7 @@
       </Placemark>
       <Placemark>
         <name>Metropolitan Area Outer Underground Discharge Channel</name>
-        <description><![CDATA[<img src="./data/images/57b21b60ba969a705ad106b4eba1f69128b406117fc88a1e70a77a19d146cbaf.png" height="200" width="auto" /><br><br>Regular tours, but need booking long in advance. You must come with a Japanese speaker.<br><br>https://gaikaku.jp/<br><br>https://www.atlasobscura.com/places/g-cans-worlds-largest-drain]]></description>
+        <description><![CDATA[<img src="./data/images/57b21b60ba969a705ad106b4eba1f69128b406117fc88a1e70a77a19d146cbaf.png" height="200" width="auto" /><br><br>Regular tours, but need booking long in advance. You must come with a Japanese speaker.<br><br>https://gaikaku.jp/<br><br>https://www.atlasobscura.com/places/g-cans-worlds-largest-drain<br><br>Ed visited this]]></description>
         <styleUrl>#icon-1833-F9A825-labelson</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
@@ -8581,6 +8581,21 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Shimada Electric Manufacturing Company</name>
+        <description><![CDATA[<img src="./data/images/1b17bafa877b22c1438fc6e21eb80ac1e1fd17a19791bcc788f331d59040eeb2.png" height="200" width="auto" /><br><br>Elevator button factory]]></description>
+        <styleUrl>#icon-1833-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>./data/images/1b17bafa877b22c1438fc6e21eb80ac1e1fd17a19791bcc788f331d59040eeb2.png</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3544959,35.6586526,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>
@@ -8819,7 +8834,7 @@
       </Placemark>
       <Placemark>
         <name>Maishima Incineration Plant</name>
-        <description><![CDATA[Does regular free tours. Must be booked in advance.<br><br>https://www.osaka-env-paa.jp/kengaku/kojokengaku/kojin.html]]></description>
+        <description><![CDATA[Does regular free tours. Must be booked in advance. Needs a Japanese interpreter sadly.<br><br>https://www.osaka-env-paa.jp/kengaku/kojokengaku/kojin.html]]></description>
         <styleUrl>#icon-1693-757575-labelson</styleUrl>
         <Point>
           <coordinates>

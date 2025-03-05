@@ -1004,7 +1004,8 @@
       </Placemark>
       <Placemark>
         <name>Redwood Valley Railway (Tilden Steam Train)</name>
-        <styleUrl>#icon-1598-A52714-labelson-nodesc</styleUrl>
+        <description>Ride a miniature train on a loop through a pleasant forest for about 12 minutes. Designed for families, but pleasant for unaccompanied adults too. The sort of attraction that feels like a holdover from an earlier generation – when it goes, we’ll all be amazed it lasted as long as it did. Many kindly elderly volunteers in overalls. A bargain at $4/person as of this writing.</description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
         <Point>
           <coordinates>
             -122.2217674,37.8796359,0
@@ -10032,7 +10033,7 @@
       </Placemark>
       <Placemark>
         <name>St. Johns Bridge</name>
-        <description>Beautiful, locally beloved bridge. Longest suspension bridge west of the Mississippi at the time of construction.</description>
+        <description>Beautiful, locally beloved bridge. Longest suspension bridge west of the Mississippi at the time of construction. Other than the bridge itself (which can be crossed on foot), Cathedral Park, under it, is very pleasant of a summer evening.</description>
         <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
         <Point>
           <coordinates>

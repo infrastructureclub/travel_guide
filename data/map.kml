@@ -3515,6 +3515,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>John .. Mossman Lock Collection</name>
+        <description><![CDATA[At the General Society of Mechanics & Tradesmen of The City of New York. Open 12pm-4pm, by appointment only. https://generalsociety.org/mossman-lock-collection/]]></description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.9812086,40.7552134,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>

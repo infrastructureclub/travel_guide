@@ -9,7 +9,7 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 317,
+      "count": 318,
       "name": "Interesting Things"
     },
     "museums-attractions": {
@@ -4495,6 +4495,16 @@
       "description": "Large radio telescope, plus smaller telescopes. Visitors centre and museum.\n\nhttps://www.jodrellbank.net/",
       "id": "jodrell-bank",
       "name": "Jodrell Bank"
+    },
+    "john-mossman-lock-collection": {
+      "category": "interesting-things",
+      "coordinates": [
+        -73.9812086,
+        40.7552134
+      ],
+      "description": "At the General Society of Mechanics & Tradesmen of The City of New York. Open 12pm-4pm, by appointment only. https://generalsociety.org/mossman-lock-collection/",
+      "id": "john-mossman-lock-collection",
+      "name": "John .. Mossman Lock Collection"
     },
     "john-snow-water-pump": {
       "category": "interesting-things",

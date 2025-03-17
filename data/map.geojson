@@ -6632,6 +6632,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -73.9812086,
+                    40.7552134,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "John .. Mossman Lock Collection",
+                "styleUrl": "#icon-1598-A52714-labelson",
+                "styleHash": "-835978",
+                "icon": "images/icon-1.png",
+                "description": "At the General Society of Mechanics & Tradesmen of The City of New York. Open 12pm-4pm, by appointment only. https://generalsociety.org/mossman-lock-collection/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0

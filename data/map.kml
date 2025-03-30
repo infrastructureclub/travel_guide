@@ -8725,7 +8725,7 @@
       </Placemark>
       <Placemark>
         <name>Rampion wind farm</name>
-        <description>https://en.wikipedia.org/wiki/Rampion_Wind_Farm</description>
+        <description><![CDATA[Several operators do boat trips from Brighton Marina.<br><br>https://en.wikipedia.org/wiki/Rampion_Wind_Farm]]></description>
         <styleUrl>#icon-1693-757575-labelson</styleUrl>
         <Point>
           <coordinates>

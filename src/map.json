@@ -1,5 +1,9 @@
 {
   "categories": {
+    "directions-from-house-in-the-clouds-to-bawdsey-radar-transmitter-block": {
+      "count": 3,
+      "name": "Directions from House in the Clouds to Bawdsey Radar Transmitter Block"
+    },
     "historic-ruins-structures": {
       "count": 122,
       "name": "Historic / ruins / structures"
@@ -852,6 +856,15 @@
         51.9936896
       ],
       "id": "bawdsey-radar-transmitter-block",
+      "name": "Bawdsey Radar Transmitter Block"
+    },
+    "bawdsey-radar-transmitter-block2": {
+      "category": "directions-from-house-in-the-clouds-to-bawdsey-radar-transmitter-block",
+      "coordinates": [
+        1.4088638,
+        51.9937651
+      ],
+      "id": "bawdsey-radar-transmitter-block2",
       "name": "Bawdsey Radar Transmitter Block"
     },
     "bay-model-visitor-center": {
@@ -2433,6 +2446,15 @@
       "description": "Formerly offered tours but no longer does.",
       "id": "dinorwig-power-station",
       "name": "Dinorwig Power Station"
+    },
+    "directions-from-house-in-the-clouds-to-bawdsey-radar-transmitter-block": {
+      "category": "directions-from-house-in-the-clouds-to-bawdsey-radar-transmitter-block",
+      "coordinates": [
+        1.60937,
+        52.18155
+      ],
+      "id": "directions-from-house-in-the-clouds-to-bawdsey-radar-transmitter-block",
+      "name": "Directions from House in the Clouds to Bawdsey Radar Transmitter Block"
     },
     "discovery-museum": {
       "category": "museums-attractions",
@@ -4156,6 +4178,15 @@
       ],
       "description": "Built as a folley come water tower, the House in the Clouds is a landmark in Thorpeness. Also available as holiday accommodation.",
       "id": "house-in-the-clouds",
+      "name": "House in the Clouds"
+    },
+    "house-in-the-clouds2": {
+      "category": "directions-from-house-in-the-clouds-to-bawdsey-radar-transmitter-block",
+      "coordinates": [
+        1.6093661,
+        52.1815499
+      ],
+      "id": "house-in-the-clouds2",
       "name": "House in the Clouds"
     },
     "houston-ship-channel-boat-tour": {

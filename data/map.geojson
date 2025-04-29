@@ -6650,6 +6650,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -2.2546817,
+                    53.4752003,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "National Trust - Castlefield Viaduct",
+                "styleUrl": "#icon-1598-A52714-labelson-nodesc",
+                "styleHash": "-505f2c1",
+                "icon": "images/icon-1.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0

@@ -13,7 +13,7 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 318,
+      "count": 319,
       "name": "Interesting Things"
     },
     "museums-attractions": {
@@ -6756,6 +6756,15 @@
       ],
       "id": "national-trust-bembridge-windmill",
       "name": "National Trust - Bembridge Windmill"
+    },
+    "national-trust-castlefield-viaduct": {
+      "category": "interesting-things",
+      "coordinates": [
+        -2.2546817,
+        53.4752003
+      ],
+      "id": "national-trust-castlefield-viaduct",
+      "name": "National Trust - Castlefield Viaduct"
     },
     "national-trust-south-foreland-lighthouse": {
       "category": "museums-attractions",

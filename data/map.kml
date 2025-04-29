@@ -3629,6 +3629,15 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>National Trust - Castlefield Viaduct</name>
+        <styleUrl>#icon-1598-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.2546817,53.4752003,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>

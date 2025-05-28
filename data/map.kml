@@ -8720,6 +8720,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Asheville Radio Museum</name>
+        <description>Only open 1-3pm on Saturdays, but really charming place with friendly docents who will demo some of the equipment for you.  Worth looking at their website for detailed instructions for getting from the parking lot to the site.</description>
+        <styleUrl>#icon-1833-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -82.555956,35.570792,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>

@@ -15866,6 +15866,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -82.555956,
+                    35.570792,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Asheville Radio Museum",
+                "styleUrl": "#icon-1833-F9A825-labelson",
+                "styleHash": "-393d6d86",
+                "icon": "images/icon-2.png",
+                "description": "Only open 1-3pm on Saturdays, but really charming place with friendly docents who will demo some of the equipment for you.  Worth looking at their website for detailed instructions for getting from the parking lot to the site."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.9055879,
                     38.1671515,
                     0

@@ -17,7 +17,7 @@
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 526,
+      "count": 527,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -621,6 +621,16 @@
       "description": "Where the Los Angeles River and pretty much the entire LA basin watershed intersect. Totally concretized because of floods culminating in a disastrous one in 1938. Also the confluence of the 110 and 5 freeways and the Gold Line light rail track, and trains bound for Grand Central Station and the nearby cargo rail yards.",
       "id": "arroyo-seco-confluence",
       "name": "Arroyo Seco Confluence"
+    },
+    "asheville-radio-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -82.555956,
+        35.570792
+      ],
+      "description": "Only open 1-3pm on Saturdays, but really charming place with friendly docents who will demo some of the equipment for you.  Worth looking at their website for detailed instructions for getting from the parking lot to the site.",
+      "id": "asheville-radio-museum",
+      "name": "Asheville Radio Museum"
     },
     "astoria-megler-bridge": {
       "category": "interesting-things",

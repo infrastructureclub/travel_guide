@@ -6667,6 +6667,42 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    5.1923928,
+                    53.0131116,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Afsluitdijk",
+                "styleUrl": "#icon-1598-A52714-labelson",
+                "styleHash": "-835978",
+                "icon": "images/icon-1.png",
+                "description": "Enormous dam closing off the Netherlands from the North Sea. There's a road across it.<br><br>https://theafsluitdijk.com/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.0829586,
+                    38.068791,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "New River Gorge Bridge",
+                "styleUrl": "#icon-1598-A52714-labelson",
+                "styleHash": "-835978",
+                "icon": "images/icon-1.png",
+                "description": "The New River Gorge Bridge is the longest steel span in the western hemisphere.<br><br>Apparently you can take catwalk tours and walk underneath it (although I sadly haven't done this myself): https://bridgewalk.com/bridge-walk-tour/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0
@@ -15877,6 +15913,24 @@
                 "styleHash": "-393d6d86",
                 "icon": "images/icon-2.png",
                 "description": "Only open 1-3pm on Saturdays, but really charming place with friendly docents who will demo some of the equipment for you.  Worth looking at their website for detailed instructions for getting from the parking lot to the site."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.1961532,
+                    37.7843972,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Beckley Exhibition Coal Mine",
+                "styleUrl": "#icon-1833-F9A825-labelson",
+                "styleHash": "-393d6d86",
+                "icon": "images/icon-2.png",
+                "description": "Ride a mine train into an old working coal mine.  Added by JT"
             }
         },
         {

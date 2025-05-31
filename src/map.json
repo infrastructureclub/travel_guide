@@ -13,11 +13,11 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 319,
+      "count": 321,
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 527,
+      "count": 528,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -167,6 +167,16 @@
       "description": "Aviation museum with lots of aircraft, other displays, and a Concorde.\n\nhttps://aerospacebristol.org/",
       "id": "aerospace-bristol",
       "name": "Aerospace Bristol"
+    },
+    "afsluitdijk": {
+      "category": "interesting-things",
+      "coordinates": [
+        5.1923928,
+        53.0131116
+      ],
+      "description": "Enormous dam closing off the Netherlands from the North Sea. There's a road across it.\n\nhttps://theafsluitdijk.com/",
+      "id": "afsluitdijk",
+      "name": "Afsluitdijk"
     },
     "ailsa-craig": {
       "category": "industry",
@@ -913,6 +923,16 @@
       ],
       "id": "beauharnois-power-plant-interpretation-center",
       "name": "Beauharnois Power Plant - Interpretation Center"
+    },
+    "beckley-exhibition-coal-mine": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -81.1961532,
+        37.7843972
+      ],
+      "description": "Ride a mine train into an old working coal mine.  Added by JT",
+      "id": "beckley-exhibition-coal-mine",
+      "name": "Beckley Exhibition Coal Mine"
     },
     "beckton-sewage-treatment-works": {
       "category": "interesting-things",
@@ -6867,6 +6887,16 @@
       ],
       "id": "nevada-northern-railway-museum",
       "name": "Nevada Northern Railway Museum"
+    },
+    "new-river-gorge-bridge": {
+      "category": "interesting-things",
+      "coordinates": [
+        -81.0829586,
+        38.068791
+      ],
+      "description": "The New River Gorge Bridge is the longest steel span in the western hemisphere.\n\nApparently you can take catwalk tours and walk underneath it (although I sadly haven't done this myself): https://bridgewalk.com/bridge-walk-tour/",
+      "id": "new-river-gorge-bridge",
+      "name": "New River Gorge Bridge"
     },
     "new-york-transit-museum": {
       "category": "museums-attractions",

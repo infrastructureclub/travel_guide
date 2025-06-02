@@ -17,11 +17,11 @@
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 528,
+      "count": 536,
       "name": "Museums / attractions"
     },
     "nature": {
-      "count": 62,
+      "count": 64,
       "name": "Nature"
     },
     "not-open-to-public-but-visible": {
@@ -42,6 +42,16 @@
     }
   },
   "places": {
+    "": {
+      "category": "museums-attractions",
+      "coordinates": [
+        129.8690816,
+        32.747066
+      ],
+      "description": "Lookout point and large orange sphere. Cool to quickly look around. Added by Ed",
+      "id": "",
+      "name": "\u6e2f\u306e\u6563\u6b69\u9053"
+    },
     "-": {
       "category": "interesting-things",
       "coordinates": [
@@ -631,6 +641,16 @@
       "description": "Where the Los Angeles River and pretty much the entire LA basin watershed intersect. Totally concretized because of floods culminating in a disastrous one in 1938. Also the confluence of the 110 and 5 freeways and the Gold Line light rail track, and trains bound for Grand Central Station and the nearby cargo rail yards.",
       "id": "arroyo-seco-confluence",
       "name": "Arroyo Seco Confluence"
+    },
+    "asari-station": {
+      "category": "nature",
+      "coordinates": [
+        141.064334,
+        43.1768686
+      ],
+      "description": "You can walk east along the coast for a way, alongside the train tracks. Added by Ed",
+      "id": "asari-station",
+      "name": "Asari Station"
     },
     "asheville-radio-museum": {
       "category": "museums-attractions",
@@ -3808,6 +3828,16 @@
       "id": "hakai-institute",
       "name": "Hakai Institute"
     },
+    "hakata-port-tower": {
+      "category": "museums-attractions",
+      "coordinates": [
+        130.3977599,
+        33.6042954
+      ],
+      "description": "Free entry to the top of this TV tower. Decent views. Added by Ed",
+      "id": "hakata-port-tower",
+      "name": "Hakata Port Tower"
+    },
     "halde-haniel": {
       "category": "industry",
       "coordinates": [
@@ -4644,6 +4674,25 @@
       "description": "\u201cObservatory\u201d is perhaps better translated as \u201coverlook\u201d or \u201cviewpoint\u201d.",
       "id": "kaiyodai-observatory",
       "name": "Kaiyodai Observatory"
+    },
+    "kanazawa-21st-century-museum-of-contemporary-art": {
+      "category": "museums-attractions",
+      "coordinates": [
+        136.6585251,
+        36.5608713
+      ],
+      "description": "Excellent modern art museum. Added by Ed",
+      "id": "kanazawa-21st-century-museum-of-contemporary-art",
+      "name": "Kanazawa 21st Century Museum of Contemporary Art"
+    },
+    "kanazawa-yasue-gold-leaf-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        136.665816,
+        36.573691
+      ],
+      "id": "kanazawa-yasue-gold-leaf-museum",
+      "name": "Kanazawa Yasue Gold Leaf Museum"
     },
     "kapitan-man-laser-incident": {
       "category": "para-infrastructural-cultural",
@@ -5855,6 +5904,16 @@
       "id": "mississippi-river-basin-model",
       "name": "Mississippi River Basin Model"
     },
+    "moerenuma-park": {
+      "category": "nature",
+      "coordinates": [
+        141.4266536,
+        43.1231335
+      ],
+      "description": "Some nice large sculptures and buildings in this park",
+      "id": "moerenuma-park",
+      "name": "Moerenuma Park"
+    },
     "monastir-ribat": {
       "category": "historic-ruins-structures",
       "coordinates": [
@@ -5951,6 +6010,16 @@
       "description": "Only \u201cdiscovered\u201d by satellite: https://www.theguardian.com/world/2018/jun/17/mozambique-mount-lico-rainforest-new-species",
       "id": "mount-lico",
       "name": "Mount Lico"
+    },
+    "mount-moiwa-ropeway-entrance": {
+      "category": "museums-attractions",
+      "coordinates": [
+        141.3330979,
+        43.0316221
+      ],
+      "description": "Ropeway up Mt. Moiwa - nice views from the top, esp at dusk - Ed",
+      "id": "mount-moiwa-ropeway-entrance",
+      "name": "Mount Moiwa Ropeway Entrance"
     },
     "mount-yasur-active-volcano": {
       "category": "nature",
@@ -6249,6 +6318,16 @@
       ],
       "id": "museum-of-brands",
       "name": "Museum of Brands"
+    },
+    "museum-of-charming-stones": {
+      "category": "museums-attractions",
+      "coordinates": [
+        139.0669767,
+        35.9813538
+      ],
+      "description": "Museum of rocks that look like faces - added by Ed",
+      "id": "museum-of-charming-stones",
+      "name": "Museum of Charming Stones"
     },
     "museum-of-cider": {
       "category": "museums-attractions",
@@ -7118,6 +7197,16 @@
       "description": "Old canning factory with working machines. If you're lucky they will demonstrate some of them.",
       "id": "norwegian-print-and-canning-museum",
       "name": "Norwegian Print and Canning Museum"
+    },
+    "nousaku-factory": {
+      "category": "museums-attractions",
+      "coordinates": [
+        136.9974903,
+        36.6685294
+      ],
+      "description": "Factory where they make tin cups and other items. Can book on to a free tour (in English, if you let them know) and they do a short class where you make your own cup (recommended!) - added by Ed",
+      "id": "nousaku-factory",
+      "name": "NOUSAKU Factory"
     },
     "novelty-automation": {
       "category": "museums-attractions",
@@ -8671,6 +8760,7 @@
         141.3426091,
         43.1169993
       ],
+      "description": "Ed: museum is highly geared towards young children. Got a free souvenir card for visiting, but not worth the journey.",
       "id": "sapporo-city-sewage-science-museum",
       "name": "Sapporo City Sewage Science Museum"
     },
@@ -10979,6 +11069,16 @@
         "./data/images/8789072a68bcdaeb546fac6d1b2bf73136a437b089968814b7b0034196bf68b9.png"
       ],
       "name": "Tours of Kranj WW2 tunnels"
+    },
+    "toyama-glass-art-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        137.2151858,
+        36.6884159
+      ],
+      "description": "Added by Ed",
+      "id": "toyama-glass-art-museum",
+      "name": "Toyama Glass Art Museum"
     },
     "toyota-commemorative-museum-of-industry-and-technology": {
       "category": "museums-attractions",

@@ -7914,9 +7914,10 @@
             },
             "properties": {
                 "name": "Sapporo City Sewage Science Museum",
-                "styleUrl": "#icon-1833-F9A825-labelson-nodesc",
-                "styleHash": "1447c553",
-                "icon": "images/icon-2.png"
+                "styleUrl": "#icon-1833-F9A825-labelson",
+                "styleHash": "-393d6d86",
+                "icon": "images/icon-2.png",
+                "description": "Ed: museum is highly geared towards young children. Got a free souvenir card for visiting, but not worth the journey."
             }
         },
         {
@@ -15938,6 +15939,149 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    139.0669767,
+                    35.9813538,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Museum of Charming Stones",
+                "styleUrl": "#icon-1833-F9A825-labelson",
+                "styleHash": "-393d6d86",
+                "icon": "images/icon-2.png",
+                "description": "Museum of rocks that look like faces - added by Ed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.3330979,
+                    43.0316221,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mount Moiwa Ropeway Entrance",
+                "styleUrl": "#icon-1833-F9A825-labelson",
+                "styleHash": "-393d6d86",
+                "icon": "images/icon-2.png",
+                "description": "Ropeway up Mt. Moiwa - nice views from the top, esp at dusk - Ed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.2151858,
+                    36.6884159,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Toyama Glass Art Museum",
+                "styleUrl": "#icon-1833-F9A825-labelson",
+                "styleHash": "-393d6d86",
+                "icon": "images/icon-2.png",
+                "description": "Added by Ed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.9974903,
+                    36.6685294,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "NOUSAKU Factory",
+                "styleUrl": "#icon-1833-F9A825-labelson",
+                "styleHash": "-393d6d86",
+                "icon": "images/icon-2.png",
+                "description": "Factory where they make tin cups and other items. Can book on to a free tour (in English, if you let them know) and they do a short class where you make your own cup (recommended!) - added by Ed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.665816,
+                    36.573691,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kanazawa Yasue Gold Leaf Museum",
+                "styleUrl": "#icon-1833-F9A825-labelson-nodesc",
+                "styleHash": "1447c553",
+                "icon": "images/icon-2.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.6585251,
+                    36.5608713,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kanazawa 21st Century Museum of Contemporary Art",
+                "styleUrl": "#icon-1833-F9A825-labelson",
+                "styleHash": "-393d6d86",
+                "icon": "images/icon-2.png",
+                "description": "Excellent modern art museum. Added by Ed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.8690816,
+                    32.747066,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "港の散歩道",
+                "styleUrl": "#icon-1833-F9A825-labelson",
+                "styleHash": "-393d6d86",
+                "icon": "images/icon-2.png",
+                "description": "Lookout point and large orange sphere. Cool to quickly look around. Added by Ed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.3977599,
+                    33.6042954,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hakata Port Tower",
+                "styleUrl": "#icon-1833-F9A825-labelson",
+                "styleHash": "-393d6d86",
+                "icon": "images/icon-2.png",
+                "description": "Free entry to the top of this TV tower. Decent views. Added by Ed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.9055879,
                     38.1671515,
                     0
@@ -19758,6 +19902,42 @@
                 "styleHash": "638c400",
                 "icon": "images/icon-5.png",
                 "description": "Remarkably accessible / summit-able actively erupting volcano. Also has a post box on it, because Vanuatu is into novelty post boxes."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.4266536,
+                    43.1231335,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Moerenuma Park",
+                "styleUrl": "#icon-1596-558B2F-labelson",
+                "styleHash": "638c400",
+                "icon": "images/icon-5.png",
+                "description": "Some nice large sculptures and buildings in this park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.064334,
+                    43.1768686,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Asari Station",
+                "styleUrl": "#icon-1596-558B2F-labelson",
+                "styleHash": "638c400",
+                "icon": "images/icon-5.png",
+                "description": "You can walk east along the coast for a way, alongside the train tracks. Added by Ed"
             }
         },
         {

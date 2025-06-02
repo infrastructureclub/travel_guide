@@ -4317,7 +4317,8 @@
       </Placemark>
       <Placemark>
         <name>Sapporo City Sewage Science Museum</name>
-        <styleUrl>#icon-1833-F9A825-labelson-nodesc</styleUrl>
+        <description>Ed: museum is highly geared towards young children. Got a free souvenir card for visiting, but not worth the journey.</description>
+        <styleUrl>#icon-1833-F9A825-labelson</styleUrl>
         <Point>
           <coordinates>
             141.3426091,43.1169993,0
@@ -8760,6 +8761,85 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Museum of Charming Stones</name>
+        <description>Museum of rocks that look like faces - added by Ed</description>
+        <styleUrl>#icon-1833-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            139.0669767,35.9813538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mount Moiwa Ropeway Entrance</name>
+        <description>Ropeway up Mt. Moiwa - nice views from the top, esp at dusk - Ed</description>
+        <styleUrl>#icon-1833-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            141.3330979,43.0316221,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Toyama Glass Art Museum</name>
+        <description>Added by Ed</description>
+        <styleUrl>#icon-1833-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            137.2151858,36.6884159,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NOUSAKU Factory</name>
+        <description>Factory where they make tin cups and other items. Can book on to a free tour (in English, if you let them know) and they do a short class where you make your own cup (recommended!) - added by Ed</description>
+        <styleUrl>#icon-1833-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            136.9974903,36.6685294,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kanazawa Yasue Gold Leaf Museum</name>
+        <styleUrl>#icon-1833-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            136.665816,36.573691,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kanazawa 21st Century Museum of Contemporary Art</name>
+        <description>Excellent modern art museum. Added by Ed</description>
+        <styleUrl>#icon-1833-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            136.6585251,36.5608713,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>港の散歩道</name>
+        <description>Lookout point and large orange sphere. Cool to quickly look around. Added by Ed</description>
+        <styleUrl>#icon-1833-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            129.8690816,32.747066,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hakata Port Tower</name>
+        <description>Free entry to the top of this TV tower. Decent views. Added by Ed</description>
+        <styleUrl>#icon-1833-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            130.3977599,33.6042954,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>
@@ -10903,6 +10983,26 @@
         <Point>
           <coordinates>
             169.4471825,-19.5288302,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Moerenuma Park</name>
+        <description>Some nice large sculptures and buildings in this park</description>
+        <styleUrl>#icon-1596-558B2F-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            141.4266536,43.1231335,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asari Station</name>
+        <description>You can walk east along the coast for a way, alongside the train tracks. Added by Ed</description>
+        <styleUrl>#icon-1596-558B2F-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            141.064334,43.1768686,0
           </coordinates>
         </Point>
       </Placemark>

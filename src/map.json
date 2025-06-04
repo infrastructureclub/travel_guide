@@ -13,11 +13,11 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 321,
+      "count": 311,
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 536,
+      "count": 547,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -568,7 +568,7 @@
       "name": "Arboretum d'Antsokay"
     },
     "archaeological-museum-of-dion": {
-      "category": "interesting-things",
+      "category": "museums-attractions",
       "coordinates": [
         22.4870441,
         40.1705992
@@ -795,6 +795,16 @@
       "description": "As best can be discerned from unclassified sources, these bunkers probably house about 1/3 of the US nuclear arsenal.",
       "id": "bangor-nuclear-arsenal",
       "name": "Bangor nuclear arsenal"
+    },
+    "bank-of-canada-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -75.7020222,
+        45.4214739
+      ],
+      "description": "Small, Free Admission museum on currency, the economy, and the Bank of Canada's role",
+      "id": "bank-of-canada-museum",
+      "name": "Bank of Canada Museum"
     },
     "bank-of-england-museum": {
       "category": "museums-attractions",
@@ -1537,7 +1547,7 @@
       "name": "Bursledon Brickworks Museum"
     },
     "button-museum": {
-      "category": "interesting-things",
+      "category": "museums-attractions",
       "coordinates": [
         -87.712313,
         41.917148
@@ -1625,7 +1635,7 @@
       "name": "Cambridge Museum of Technology"
     },
     "camera-obscura-world-of-illusions": {
-      "category": "interesting-things",
+      "category": "museums-attractions",
       "coordinates": [
         -3.1956707,
         55.9489544
@@ -2176,10 +2186,10 @@
       "name": "Creswell Crags"
     },
     "crich-tramway-village": {
-      "category": "interesting-things",
+      "category": "museums-attractions",
       "coordinates": [
-        -1.4859543,
-        53.0904893
+        -1.4866696,
+        53.0903487
       ],
       "id": "crich-tramway-village",
       "name": "Crich Tramway Village"
@@ -4435,7 +4445,7 @@
       "name": "Industrial Gas Museum"
     },
     "infoage-science-and-history-museums": {
-      "category": "interesting-things",
+      "category": "museums-attractions",
       "coordinates": [
         -74.0593206,
         40.1857425
@@ -4752,7 +4762,7 @@
       "name": "Kempton Steam Museum"
     },
     "kennedy-space-center": {
-      "category": "interesting-things",
+      "category": "museums-attractions",
       "coordinates": [
         -80.6489808,
         28.5728722
@@ -6302,7 +6312,7 @@
       "name": "Museum of Bath at Work"
     },
     "museum-of-berkshire-aviation": {
-      "category": "interesting-things",
+      "category": "museums-attractions",
       "coordinates": [
         -0.8828876,
         51.450561
@@ -6849,7 +6859,7 @@
       "name": "National Space Centre"
     },
     "national-technical-museum": {
-      "category": "interesting-things",
+      "category": "museums-attractions",
       "coordinates": [
         14.4249052,
         50.0973756
@@ -9713,7 +9723,7 @@
       "name": "Star Wars: Mos Espa"
     },
     "stasi-museum": {
-      "category": "interesting-things",
+      "category": "museums-attractions",
       "coordinates": [
         13.4872818,
         52.514527
@@ -10564,7 +10574,7 @@
       "name": "The MAD Museum"
     },
     "the-marconi-centre": {
-      "category": "interesting-things",
+      "category": "museums-attractions",
       "coordinates": [
         -5.2638558,
         50.0303428

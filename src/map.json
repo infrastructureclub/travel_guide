@@ -17,7 +17,7 @@
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 547,
+      "count": 548,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -6163,6 +6163,16 @@
       ],
       "id": "muse-aeroscopia",
       "name": "Mus\u00e9e Aeroscopia"
+    },
+    "muse-delta": {
+      "category": "museums-attractions",
+      "coordinates": [
+        2.3714019,
+        48.7159222
+      ],
+      "description": "They have a Concorde, one of the early test flight planes. Easy access from Orly airport with tram T7, but limited opening hours, Wednesday and Saturday from 2pm to 6pm at press time.",
+      "id": "muse-delta",
+      "name": "Mus\u00e9e Delta"
     },
     "muse-des-arts-et-mtiers": {
       "category": "historic-ruins-structures",

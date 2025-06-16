@@ -16100,6 +16100,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    2.3714019,
+                    48.7159222,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Musée Delta",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "icon": "images/icon-2.png",
+                "description": "They have a Concorde, one of the early test flight planes. Easy access from Orly airport with tram T7, but limited opening hours, Wednesday and Saturday from 2pm to 6pm at press time."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.9055879,
                     38.1671515,
                     0

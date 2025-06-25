@@ -11900,6 +11900,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Mount Washington</name>
+        <description><![CDATA[Highest peak in the northeast US (not quite the highest in the Appalachians). Famously windy, previously holding the record of the highest measured winds on Earth at 231 mph.<br><br>Summit can be accessed by foot, road, or cog railway, hosts a weather museum, and has tours of the weather station available at certain times.<br><br>added by jt]]></description>
+        <styleUrl>#icon-1856-0F9D58-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -71.3032723,44.2705854,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Para-infrastructural / cultural</name>

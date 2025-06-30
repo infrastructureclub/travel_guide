@@ -6529,6 +6529,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -4.4912463,
+                    52.1198398,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Internal Fire Museum of Power",
+                "styleUrl": "#icon-1598-A52714-labelson-nodesc",
+                "styleHash": "-505f2c1",
+                "icon": "images/icon-1.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0

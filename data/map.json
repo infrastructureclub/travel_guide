@@ -13,7 +13,7 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 311,
+      "count": 312,
       "name": "Interesting Things"
     },
     "museums-attractions": {
@@ -4461,6 +4461,15 @@
       ],
       "id": "inigo-jones-slate-works",
       "name": "Inigo Jones Slate Works"
+    },
+    "internal-fire-museum-of-power": {
+      "category": "interesting-things",
+      "coordinates": [
+        -4.4912463,
+        52.1198398
+      ],
+      "id": "internal-fire-museum-of-power",
+      "name": "Internal Fire Museum of Power"
     },
     "international-rose-test-garden": {
       "category": "interesting-things",

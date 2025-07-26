@@ -8869,6 +8869,15 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Danish Railway Museum</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.386525,55.402702,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>

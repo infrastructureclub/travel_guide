@@ -17,7 +17,7 @@
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 548,
+      "count": 549,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -2329,6 +2329,15 @@
       "description": "A slightly abandoned network of underground and overground tunnels linking many buildings in Downtown Dallas. Cool to explore and have a creepy walk around...",
       "id": "dallas-pedestrian-network",
       "name": "Dallas Pedestrian Network"
+    },
+    "danish-railway-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        10.386525,
+        55.402702
+      ],
+      "id": "danish-railway-museum",
+      "name": "Danish Railway Museum"
     },
     "danube-tower": {
       "category": "historic-ruins-structures",

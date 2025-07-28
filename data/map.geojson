@@ -16152,6 +16152,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    135.5216615,
+                    34.6957547,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mint Museum",
+                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
+                "styleHash": "-4303c82c",
+                "icon": "images/icon-2.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.9055879,
                     38.1671515,
                     0

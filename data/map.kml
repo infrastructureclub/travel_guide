@@ -8878,6 +8878,15 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Mint Museum</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.5216615,34.6957547,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>

@@ -17,7 +17,7 @@
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 549,
+      "count": 550,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -5922,6 +5922,15 @@
       ],
       "id": "miniature-world",
       "name": "Miniature World"
+    },
+    "mint-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        135.5216615,
+        34.6957547
+      ],
+      "id": "mint-museum",
+      "name": "Mint Museum"
     },
     "mississippi-river-basin-model": {
       "category": "historic-ruins-structures",

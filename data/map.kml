@@ -3469,6 +3469,17 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>The Undamaged Red Post Box
+</name>
+        <description>When a 3,300-pound IRA bomb exploded in the center of Manchester, on June 15, 1996, this post box survived almost unscathed by the blast. It became a small but mighty symbol for resilience in the face of terrorism.</description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -2.24358403607466,53.483311560687,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>
@@ -8780,6 +8791,15 @@
         <Point>
           <coordinates>
             135.5216615,34.6957547,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Crewe Heritage Centre</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.4360533,53.0937029,0
           </coordinates>
         </Point>
       </Placemark>

@@ -9,11 +9,11 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 312,
+      "count": 313,
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 550,
+      "count": 551,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -2171,6 +2171,15 @@
       "description": "Cave art from nearly 13,000 years ago, the only cave art from that period in the UK.",
       "id": "creswell-crags",
       "name": "Creswell Crags"
+    },
+    "crewe-heritage-centre": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -2.4360533,
+        53.0937029
+      ],
+      "id": "crewe-heritage-centre",
+      "name": "Crewe Heritage Centre"
     },
     "crich-tramway-village": {
       "category": "museums-attractions",
@@ -10878,6 +10887,16 @@
       "description": "The world's largest collection of preserved trolleybuses!",
       "id": "the-trolleybus-museum",
       "name": "The Trolleybus Museum"
+    },
+    "the-undamaged-red-post-box": {
+      "category": "interesting-things",
+      "coordinates": [
+        -2.24358403607466,
+        53.483311560687
+      ],
+      "description": "When a 3,300-pound IRA bomb exploded in the center of Manchester, on June 15, 1996, this post box survived almost unscathed by the blast. It became a small but mighty symbol for resilience in the face of terrorism.",
+      "id": "the-undamaged-red-post-box",
+      "name": "The Undamaged Red Post Box"
     },
     "the-whale-museum": {
       "category": "museums-attractions",

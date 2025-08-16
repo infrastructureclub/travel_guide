@@ -6546,6 +6546,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -2.24358403607466,
+                    53.483311560687,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Undamaged Red Post Box\n",
+                "styleUrl": "#icon-1598-A52714-labelson",
+                "styleHash": "-835978",
+                "icon": "images/icon-1.png",
+                "description": "When a 3,300-pound IRA bomb exploded in the center of Manchester, on June 15, 1996, this post box survived almost unscathed by the blast. It became a small but mighty symbol for resilience in the face of terrorism."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0
@@ -16159,6 +16177,23 @@
             },
             "properties": {
                 "name": "Mint Museum",
+                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
+                "styleHash": "-4303c82c",
+                "icon": "images/icon-2.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.4360533,
+                    53.0937029,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Crewe Heritage Centre",
                 "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
                 "styleHash": "-4303c82c",
                 "icon": "images/icon-2.png"

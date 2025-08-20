@@ -3480,6 +3480,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>NS-Inman Yard</name>
+        <description>Good view from Marietta Rd NW. I got an Uber/Lyft to that junction with Perry Blvd NW and then walked along the road. LOTS of LONG AND BIG trains to see!</description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -84.4485224,33.7981413,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>

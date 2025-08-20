@@ -6564,6 +6564,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -84.4485224,
+                    33.7981413,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "NS-Inman Yard",
+                "styleUrl": "#icon-1598-A52714-labelson",
+                "styleHash": "-835978",
+                "icon": "images/icon-1.png",
+                "description": "Good view from Marietta Rd NW. I got an Uber/Lyft to that junction with Perry Blvd NW and then walked along the road. LOTS of LONG AND BIG trains to see!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0

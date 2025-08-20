@@ -9,7 +9,7 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 313,
+      "count": 314,
       "name": "Interesting Things"
     },
     "museums-attractions": {
@@ -7252,6 +7252,16 @@
       "description": "Filled with loads of brilliant hand made mechanical arcade machines made by Tim Hunkin (of 'Secret life of' fame). Go and play and marvel at the mechanisms.",
       "id": "novelty-automation",
       "name": "Novelty Automation"
+    },
+    "ns-inman-yard": {
+      "category": "interesting-things",
+      "coordinates": [
+        -84.4485224,
+        33.7981413
+      ],
+      "description": "Good view from Marietta Rd NW. I got an Uber/Lyft to that junction with Perry Blvd NW and then walked along the road. LOTS of LONG AND BIG trains to see!",
+      "id": "ns-inman-yard",
+      "name": "NS-Inman Yard"
     },
     "null-island": {
       "category": "interesting-things",

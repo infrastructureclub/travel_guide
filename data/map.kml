@@ -3490,6 +3490,15 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Völklingen Ironworks</name>
+        <styleUrl>#icon-1598-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.8444747,49.2483468,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>

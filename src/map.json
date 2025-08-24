@@ -9,7 +9,7 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 314,
+      "count": 315,
       "name": "Interesting Things"
     },
     "museums-attractions": {
@@ -11626,6 +11626,15 @@
         "./data/images/be103c92e1b873a40b39ea0a67162aeb39ace32659631b5d6100780fdcef0c5a.png"
       ],
       "name": "Vitra Slide Tower"
+    },
+    "vlklingen-ironworks": {
+      "category": "interesting-things",
+      "coordinates": [
+        6.8444747,
+        49.2483468
+      ],
+      "id": "vlklingen-ironworks",
+      "name": "V\u00f6lklingen Ironworks"
     },
     "voler-en-aroplume": {
       "category": "museums-attractions",

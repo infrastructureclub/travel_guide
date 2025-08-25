@@ -16239,6 +16239,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.1986328,
+                    -33.8693567,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Australian National Maritime Museum",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "icon": "images/icon-2.png",
+                "description": "Quite good museum covering all things maritime, including several ships to vosit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.9055879,
                     38.1671515,
                     0

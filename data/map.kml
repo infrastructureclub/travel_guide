@@ -8822,6 +8822,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Australian National Maritime Museum</name>
+        <description>Quite good museum covering all things maritime, including several ships to vosit</description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            151.1986328,-33.8693567,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>

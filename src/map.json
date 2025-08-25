@@ -13,7 +13,7 @@
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 551,
+      "count": 552,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -695,6 +695,16 @@
       ],
       "id": "atomium",
       "name": "Atomium"
+    },
+    "australian-national-maritime-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        151.1986328,
+        -33.8693567
+      ],
+      "description": "Quite good museum covering all things maritime, including several ships to vosit",
+      "id": "australian-national-maritime-museum",
+      "name": "Australian National Maritime Museum"
     },
     "avalon-marshes-centre": {
       "category": "museums-attractions",

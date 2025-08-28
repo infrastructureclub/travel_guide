@@ -9,7 +9,7 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 315,
+      "count": 316,
       "name": "Interesting Things"
     },
     "museums-attractions": {
@@ -9642,6 +9642,16 @@
       "description": "Waste incinerator given a makeover by Hundertwasser https://www.visitingvienna.com/footsteps/spittelau/",
       "id": "spittelau-incinerator",
       "name": "Spittelau Incinerator"
+    },
+    "squidinki": {
+      "category": "interesting-things",
+      "coordinates": [
+        151.2087378,
+        -33.858969
+      ],
+      "description": "A (very rare) commerical addition to the map.\n\nThis is a sole-proprietor art shop run by illustrator Max Mendez, who draws humorous scenes from Australia and beyond, often focusing on infrastructure. These are availalbe as prints or jigsaw puzzles that make great souvenirs.\n\nAdded by jt",
+      "id": "squidinki",
+      "name": "Squidinki"
     },
     "ss-great-britain": {
       "category": "museums-attractions",

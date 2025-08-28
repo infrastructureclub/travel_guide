@@ -6599,6 +6599,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.2087378,
+                    -33.858969,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Squidinki",
+                "styleUrl": "#icon-1598-A52714-labelson",
+                "styleHash": "-835978",
+                "icon": "images/icon-1.png",
+                "description": "A (very rare) commerical addition to the map.<br><br>This is a sole-proprietor art shop run by illustrator Max Mendez, who draws humorous scenes from Australia and beyond, often focusing on infrastructure. These are availalbe as prints or jigsaw puzzles that make great souvenirs.<br><br>Added by jt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0

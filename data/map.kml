@@ -8842,6 +8842,15 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Colorado Railroad Museum</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -105.1933883,39.7714516,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>

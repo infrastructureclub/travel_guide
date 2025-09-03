@@ -13,7 +13,7 @@
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 552,
+      "count": 553,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -2038,6 +2038,15 @@
       "description": "An abandoned ex-prison and dockyard. Now used as an unusal camp-site and for art-installation projects. Worth visitng just for the tunnels through solid rock.",
       "id": "cockatoo-island",
       "name": "Cockatoo Island"
+    },
+    "colorado-railroad-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -105.1933883,
+        39.7714516
+      ],
+      "id": "colorado-railroad-museum",
+      "name": "Colorado Railroad Museum"
     },
     "columbia-gorge-discovery-center-museum": {
       "category": "museums-attractions",

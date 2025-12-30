@@ -5281,23 +5281,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -0.0005941,
-                    51.5012701,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Pylon",
-                "styleUrl": "#icon-1598-A52714-labelson-nodesc",
-                "styleHash": "-505f2c1",
-                "icon": "images/icon-1.png"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -0.0105344,
                     51.5068301,
                     0
@@ -15562,9 +15545,10 @@
             },
             "properties": {
                 "name": "Landschaftspark Duisburg-Nord",
-                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
-                "styleHash": "-4303c82c",
-                "icon": "images/icon-2.png"
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "icon": "images/icon-2.png",
+                "description": "Extremely cool site of a large old ironworks. Go up the top of the blast furnace! Very cool place to visit and spend many hours."
             }
         },
         {
@@ -16292,6 +16276,42 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    7.2171269,
+                    51.4889131,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "German Mining Museum",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "icon": "images/icon-2.png",
+                "description": "They have a replica mine that you can go down and visit!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.8524077,
+                    51.4745537,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Oberhausen Station Museum",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "icon": "images/icon-2.png",
+                "description": "A platform at Oberhausen station that has a couple of vintage ironworks wagons and train."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.9055879,
                     38.1671515,
                     0
@@ -16855,6 +16875,24 @@
                 "styleHash": "-1d74371c",
                 "icon": "images/icon-3.png",
                 "description": "There are a variety of activities at the mine, but the Cathedral Working Mine Tours are unique behind the scenes tour of a more rarely seen part of the working mine that can be arranged for groups of 4 or more..  The website says it is only on Fridays, but you can contact them and arrange an alternate time with a bit of notice.  https://honister.com/product/cathedral-working-mine-tour/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.592422,
+                    50.9147245,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Aussichtspunkt - Terra Nova 1 (largest mine viewing platform)",
+                "styleUrl": "#icon-1693-757575-labelson",
+                "styleHash": "-1d74371c",
+                "icon": "images/icon-3.png",
+                "description": "Viewing area for the largest open cast coal/lignite mine in Europe. Literally all you can see is mine on the horizon and BIG MACHINES! Accessible via public transport with a short walk from the nearby village."
             }
         },
         {
@@ -19016,6 +19054,59 @@
                 "styleHash": "-57e30630",
                 "icon": "images/icon-4.png",
                 "description": "Just a disused station-front now. See https://en.wikipedia.org/wiki/London_Necropolis_Railway"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.4974866,
+                    51.3851216,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Shorts Tunnels",
+                "styleUrl": "#icon-1608-F57C00-labelson",
+                "styleHash": "-57e30630",
+                "icon": "images/icon-4.png",
+                "description": "Former seaplane factory. Tours available from Hidden History Tours: https://hiddenhistorytours.uk/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7574519,
+                    44.8367264,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Željava Aerodrome",
+                "styleUrl": "#icon-1608-F57C00-labelson",
+                "styleHash": "-57e30630",
+                "icon": "images/icon-4.png",
+                "description": "Former underground airbase facility"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9710007,
+                    45.8148631,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tunel Grič",
+                "styleUrl": "#icon-1608-F57C00-labelson-nodesc",
+                "styleHash": "50e5e3ed",
+                "icon": "images/icon-4.png"
             }
         },
         {
@@ -23329,6 +23420,24 @@
                 "styleHash": "1468cf8f",
                 "icon": "images/icon-8.png",
                 "description": "Where Jefferson tried to establish the origin of longitudes in the US."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.8853908,
+                    51.48874,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "STRAUSS WORKWEARSTORE Oberhausen",
+                "styleUrl": "#icon-1608-006064-labelson",
+                "styleHash": "1468cf8f",
+                "icon": "images/icon-8.png",
+                "description": "Amazing cargo trousers"
             }
         }
     ]

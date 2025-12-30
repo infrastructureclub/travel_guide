@@ -3131,15 +3131,6 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Pylon</name>
-        <styleUrl>#icon-1598-A52714-labelson-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -0.0005941,51.5012701,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>Traffic Light Tree</name>
         <styleUrl>#icon-1598-A52714-labelson-nodesc</styleUrl>
         <Point>
@@ -8446,7 +8437,8 @@
       </Placemark>
       <Placemark>
         <name>Landschaftspark Duisburg-Nord</name>
-        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <description>Extremely cool site of a large old ironworks. Go up the top of the blast furnace! Very cool place to visit and spend many hours.</description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
         <Point>
           <coordinates>
             6.7837894,51.4806122,0
@@ -8851,6 +8843,26 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>German Mining Museum</name>
+        <description>They have a replica mine that you can go down and visit!</description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            7.2171269,51.4889131,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oberhausen Station Museum</name>
+        <description>A platform at Oberhausen station that has a couple of vintage ironworks wagons and train.</description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            6.8524077,51.4745537,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>
@@ -9174,6 +9186,16 @@
         <Point>
           <coordinates>
             -3.199151,54.5111696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aussichtspunkt - Terra Nova 1 (largest mine viewing platform)</name>
+        <description>Viewing area for the largest open cast coal/lignite mine in Europe. Literally all you can see is mine on the horizon and BIG MACHINES! Accessible via public transport with a short walk from the nearby village.</description>
+        <styleUrl>#icon-1693-757575-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            6.592422,50.9147245,0
           </coordinates>
         </Point>
       </Placemark>
@@ -10375,6 +10397,35 @@
         <Point>
           <coordinates>
             -0.1135618,51.4993323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shorts Tunnels</name>
+        <description>Former seaplane factory. Tours available from Hidden History Tours: https://hiddenhistorytours.uk/</description>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            0.4974866,51.3851216,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Željava Aerodrome</name>
+        <description>Former underground airbase facility</description>
+        <styleUrl>#icon-1608-F57C00-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            15.7574519,44.8367264,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tunel Grič</name>
+        <styleUrl>#icon-1608-F57C00-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            15.9710007,45.8148631,0
           </coordinates>
         </Point>
       </Placemark>
@@ -12785,6 +12836,16 @@
         <Point>
           <coordinates>
             -77.0358109,38.9210639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>STRAUSS WORKWEARSTORE Oberhausen</name>
+        <description>Amazing cargo trousers</description>
+        <styleUrl>#icon-1608-006064-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            6.8853908,51.48874,0
           </coordinates>
         </Point>
       </Placemark>

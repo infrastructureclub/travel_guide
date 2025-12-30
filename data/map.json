@@ -1,19 +1,19 @@
 {
   "categories": {
     "historic-ruins-structures": {
-      "count": 122,
+      "count": 125,
       "name": "Historic / ruins / structures"
     },
     "industry": {
-      "count": 32,
+      "count": 33,
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 316,
+      "count": 315,
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 553,
+      "count": 555,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -25,7 +25,7 @@
       "name": "Not open to public but visible"
     },
     "para-infrastructural-cultural": {
-      "count": 92,
+      "count": 93,
       "name": "Para-infrastructural / cultural"
     },
     "science": {
@@ -695,6 +695,16 @@
       ],
       "id": "atomium",
       "name": "Atomium"
+    },
+    "aussichtspunkt-terra-nova-1-largest-mine-viewing-platform": {
+      "category": "industry",
+      "coordinates": [
+        6.592422,
+        50.9147245
+      ],
+      "description": "Viewing area for the largest open cast coal/lignite mine in Europe. Literally all you can see is mine on the horizon and BIG MACHINES! Accessible via public transport with a short walk from the nearby village.",
+      "id": "aussichtspunkt-terra-nova-1-largest-mine-viewing-platform",
+      "name": "Aussichtspunkt - Terra Nova 1 (largest mine viewing platform)"
     },
     "australian-national-maritime-museum": {
       "category": "museums-attractions",
@@ -2929,6 +2939,16 @@
       "id": "eling-tide-mill-experience",
       "name": "Eling Tide Mill Experience"
     },
+    "eljava-aerodrome": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        15.7574519,
+        44.8367264
+      ],
+      "description": "Former underground airbase facility",
+      "id": "eljava-aerodrome",
+      "name": "\u017deljava Aerodrome"
+    },
     "ellsworth-storeys-tower": {
       "category": "museums-attractions",
       "coordinates": [
@@ -3425,6 +3445,16 @@
       ],
       "id": "gemasolar",
       "name": "Gemasolar"
+    },
+    "german-mining-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        7.2171269,
+        51.4889131
+      ],
+      "description": "They have a replica mine that you can go down and visit!",
+      "id": "german-mining-museum",
+      "name": "German Mining Museum"
     },
     "german-museum-of-technology": {
       "category": "museums-attractions",
@@ -5048,6 +5078,7 @@
         6.7837894,
         51.4806122
       ],
+      "description": "Extremely cool site of a large old ironworks. Go up the top of the blast furnace! Very cool place to visit and spend many hours.",
       "id": "landschaftspark-duisburg-nord",
       "name": "Landschaftspark Duisburg-Nord"
     },
@@ -7312,6 +7343,16 @@
       "id": "oakland-museum-of-california",
       "name": "Oakland Museum of California"
     },
+    "oberhausen-station-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        6.8524077,
+        51.4745537
+      ],
+      "description": "A platform at Oberhausen station that has a couple of vintage ironworks wagons and train.",
+      "id": "oberhausen-station-museum",
+      "name": "Oberhausen Station Museum"
+    },
     "ocean-star-offshore-drilling-rig-and-museum": {
       "category": "museums-attractions",
       "coordinates": [
@@ -8178,15 +8219,6 @@
       "description": "A museum of optical illusions, an impossible leaning tower and an incredible 2 level great maze with 1.5km of passages.",
       "id": "puzzling-world",
       "name": "Puzzling World"
-    },
-    "pylon": {
-      "category": "interesting-things",
-      "coordinates": [
-        -0.0005941,
-        51.5012701
-      ],
-      "id": "pylon",
-      "name": "Pylon"
     },
     "pylon-lookout": {
       "category": "interesting-things",
@@ -9286,6 +9318,16 @@
       "id": "shortest-piece-of-standard-gauge-track",
       "name": "Shortest piece of standard gauge track"
     },
+    "shorts-tunnels": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        0.4974866,
+        51.3851216
+      ],
+      "description": "Former seaplane factory. Tours available from Hidden History Tours: https://hiddenhistorytours.uk/",
+      "id": "shorts-tunnels",
+      "name": "Shorts Tunnels"
+    },
     "shuttleworth-collection": {
       "category": "museums-attractions",
       "coordinates": [
@@ -9902,6 +9944,16 @@
       "description": "Despite warm relations, the US and Canada manage to dispute areas at both ends of both their borders. (See https://en.wikipedia.org/wiki/List_of_areas_disputed_by_Canada_and_the_United_States.) This is the smallest and probably least important: the countries disagree on how to draw the median line in two areas of the Exclusive Economic Zones outside the mouth of the Strait. In short, Canada includes its inland waters as contributing to the median line, while the US uses the low tide line. (See https://www.durham.ac.uk/media/durham-university/research-/research-centres/ibru-centre-for-borders-research/maps-and-databases/publications-database/boundary-amp-security-bulletins/bsb5-3_gray.pdf for a little more detail.) The total area in dispute is slightly over 50 km\u00b2 and (so far as I know) has never led to any actual incidents.",
       "id": "strait-of-juan-de-fuca-boundary-dispute",
       "name": "Strait of Juan de Fuca boundary dispute"
+    },
+    "strauss-workwearstore-oberhausen": {
+      "category": "para-infrastructural-cultural",
+      "coordinates": [
+        6.8853908,
+        51.48874
+      ],
+      "description": "Amazing cargo trousers",
+      "id": "strauss-workwearstore-oberhausen",
+      "name": "STRAUSS WORKWEARSTORE Oberhausen"
     },
     "strpy-thieu-boat-lift": {
       "category": "interesting-things",
@@ -11257,6 +11309,15 @@
       "description": "Meeting point of the watersheds of Hudson Bay, the Gulf of Mexico, and the Pacific.",
       "id": "triple-divide-peak",
       "name": "Triple Divide Peak"
+    },
+    "tunel-gri": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        15.9710007,
+        45.8148631
+      ],
+      "id": "tunel-gri",
+      "name": "Tunel Gri\u010d"
     },
     "twa-terminal": {
       "category": "museums-attractions",

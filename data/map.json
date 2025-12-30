@@ -9,7 +9,7 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 315,
+      "count": 319,
       "name": "Interesting Things"
     },
     "museums-attractions": {
@@ -1776,6 +1776,26 @@
       "id": "center-of-science-and-industry-cosi",
       "name": "Center of Science and Industry (COSI)"
     },
+    "central-ferry-pier-no7-star-ferry-pier": {
+      "category": "interesting-things",
+      "coordinates": [
+        114.1612153,
+        22.2870931
+      ],
+      "description": "Take the Star Ferry across the Bay. There are two separate levels on the ferry, the top one is more expensive (although either is super cheap)",
+      "id": "central-ferry-pier-no7-star-ferry-pier",
+      "name": "Central Ferry Pier No.7 (Star Ferry Pier)"
+    },
+    "central-mid-levels-escalators": {
+      "category": "interesting-things",
+      "coordinates": [
+        114.1549689,
+        22.2838464
+      ],
+      "description": "Hong Kong Island is very hilly and this special elevator makes the upper bits more accessible. Longest outdoor elevator according to the Guiness Book of Records. \n\nThe direction of the escalator changes twice a day: Downhill from 6 a.m. to 10 a.m. and then uphill from 10 a.m. to midnight.",
+      "id": "central-mid-levels-escalators",
+      "name": "Central-Mid-Levels Escalators"
+    },
     "central-tramway": {
       "category": "interesting-things",
       "coordinates": [
@@ -2324,6 +2344,19 @@
       "description": "The elevator to the viewing gallery is curved, but not evenly; it's been rebuilt and reshaped a couple of times.",
       "id": "curved-elevator-at-the-old-town-hall",
       "name": "Curved elevator at the Old Town Hall"
+    },
+    "curved-escalator-at-lane-crawford-times-square-shopping-mall": {
+      "category": "interesting-things",
+      "coordinates": [
+        114.1821136,
+        22.278151
+      ],
+      "description": "One of the few escalators of this type.",
+      "id": "curved-escalator-at-lane-crawford-times-square-shopping-mall",
+      "img": [
+        "./data/images/b377ea46697aeaf388c3646cd4828c757ff7fc50569f41a67141871c14a8779d.png"
+      ],
+      "name": "Curved Escalator at Lane Crawford / Times Square Shopping Mall"
     },
     "cypress-freeway-memorial-park": {
       "category": "para-infrastructural-cultural",
@@ -11088,6 +11121,15 @@
       "description": "The best place to see Mt Hood without climbing it.",
       "id": "timberline-lodge",
       "name": "Timberline Lodge"
+    },
+    "times-square": {
+      "category": "interesting-things",
+      "coordinates": [
+        114.1821136,
+        22.278151
+      ],
+      "id": "times-square",
+      "name": "Times Square"
     },
     "tingly-bridge": {
       "category": "interesting-things",

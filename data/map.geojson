@@ -6600,6 +6600,78 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    114.1821136,
+                    22.278151,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Times Square",
+                "styleUrl": "#icon-1598-A52714-labelson-nodesc",
+                "styleHash": "-505f2c1",
+                "icon": "images/icon-1.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.1821136,
+                    22.278151,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Curved Escalator at Lane Crawford / Times Square Shopping Mall",
+                "styleUrl": "#icon-1598-A52714-labelson",
+                "styleHash": "-835978",
+                "icon": "images/icon-1.png",
+                "description": "<img src=\"./data/images/b377ea46697aeaf388c3646cd4828c757ff7fc50569f41a67141871c14a8779d.png\" height=\"200\" width=\"auto\" /><br><br>One of the few escalators of this type.",
+                "gx_media_links": "./data/images/b377ea46697aeaf388c3646cd4828c757ff7fc50569f41a67141871c14a8779d.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.1612153,
+                    22.2870931,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Central Ferry Pier No.7 (Star Ferry Pier)",
+                "styleUrl": "#icon-1598-A52714-labelson",
+                "styleHash": "-835978",
+                "icon": "images/icon-1.png",
+                "description": "Take the Star Ferry across the Bay. There are two separate levels on the ferry, the top one is more expensive (although either is super cheap)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.1549689,
+                    22.2838464,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Central-Mid-Levels Escalators",
+                "styleUrl": "#icon-1598-A52714-labelson",
+                "styleHash": "-835978",
+                "icon": "images/icon-1.png",
+                "description": "Hong Kong Island is very hilly and this special elevator makes the upper bits more accessible. Longest outdoor elevator according to the Guiness Book of Records. <br><br>The direction of the escalator changes twice a day: Downhill from 6 a.m. to 10 a.m. and then uphill from 10 a.m. to midnight."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0

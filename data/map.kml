@@ -3500,6 +3500,50 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Times Square</name>
+        <styleUrl>#icon-1598-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            114.1821136,22.278151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Curved Escalator at Lane Crawford / Times Square Shopping Mall</name>
+        <description><![CDATA[<img src="./data/images/b377ea46697aeaf388c3646cd4828c757ff7fc50569f41a67141871c14a8779d.png" height="200" width="auto" /><br><br>One of the few escalators of this type.]]></description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>./data/images/b377ea46697aeaf388c3646cd4828c757ff7fc50569f41a67141871c14a8779d.png</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            114.1821136,22.278151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Central Ferry Pier No.7 (Star Ferry Pier)</name>
+        <description>Take the Star Ferry across the Bay. There are two separate levels on the ferry, the top one is more expensive (although either is super cheap)</description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            114.1612153,22.2870931,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Central-Mid-Levels Escalators</name>
+        <description><![CDATA[Hong Kong Island is very hilly and this special elevator makes the upper bits more accessible. Longest outdoor elevator according to the Guiness Book of Records. <br><br>The direction of the escalator changes twice a day: Downhill from 6 a.m. to 10 a.m. and then uphill from 10 a.m. to midnight.]]></description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            114.1549689,22.2838464,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>

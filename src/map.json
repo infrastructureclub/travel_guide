@@ -9,7 +9,7 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 319,
+      "count": 320,
       "name": "Interesting Things"
     },
     "museums-attractions": {
@@ -25,7 +25,7 @@
       "name": "Not open to public but visible"
     },
     "para-infrastructural-cultural": {
-      "count": 93,
+      "count": 94,
       "name": "Para-infrastructural / cultural"
     },
     "science": {
@@ -4782,6 +4782,16 @@
       "id": "kanazawa-yasue-gold-leaf-museum",
       "name": "Kanazawa Yasue Gold Leaf Museum"
     },
+    "kanda-myoujin-shrine": {
+      "category": "para-infrastructural-cultural",
+      "coordinates": [
+        139.7678943,
+        35.7020186
+      ],
+      "description": "The only shrine (I know of) that has lucky amulets (omamori) dedicated to computer IT luck.",
+      "id": "kanda-myoujin-shrine",
+      "name": "Kanda Myoujin Shrine"
+    },
     "kapitan-man-laser-incident": {
       "category": "para-infrastructural-cultural",
       "coordinates": [
@@ -4915,6 +4925,16 @@
       "description": "Power station based on extracting (potentially extremely dangerous) methane from deep in the lake: https://www.nature.com/immersive/d41586-021-02523-5/index.html\n\nOr: https://theconversation.com/rwanda-extracts-methane-from-lake-kivu-for-electricity-how-it-works-133952",
       "id": "kivuwatt",
       "name": "KivuWatt"
+    },
+    "kiyosu-bashi-bridge": {
+      "category": "interesting-things",
+      "coordinates": [
+        139.7919907,
+        35.6823559
+      ],
+      "description": "First self-anchored chain suspension bridge in Japan.",
+      "id": "kiyosu-bashi-bridge",
+      "name": "Kiyosu-bashi Bridge"
     },
     "klondike-gold-rush-national-historical-park": {
       "category": "museums-attractions",

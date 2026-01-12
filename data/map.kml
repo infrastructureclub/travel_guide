@@ -3544,6 +3544,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Kiyosu-bashi Bridge</name>
+        <description>First self-anchored chain suspension bridge in Japan.</description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            139.7919907,35.6823559,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>
@@ -12890,6 +12900,16 @@
         <Point>
           <coordinates>
             6.8853908,51.48874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kanda Myoujin Shrine</name>
+        <description>The only shrine (I know of) that has lucky amulets (omamori) dedicated to computer IT luck.</description>
+        <styleUrl>#icon-1608-006064-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            139.7678943,35.7020186,0
           </coordinates>
         </Point>
       </Placemark>

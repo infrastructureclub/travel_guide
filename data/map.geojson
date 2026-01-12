@@ -6672,6 +6672,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    139.7919907,
+                    35.6823559,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kiyosu-bashi Bridge",
+                "styleUrl": "#icon-1598-A52714-labelson",
+                "styleHash": "-835978",
+                "icon": "images/icon-1.png",
+                "description": "First self-anchored chain suspension bridge in Japan."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0
@@ -23510,6 +23528,24 @@
                 "styleHash": "1468cf8f",
                 "icon": "images/icon-8.png",
                 "description": "Amazing cargo trousers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7678943,
+                    35.7020186,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kanda Myoujin Shrine",
+                "styleUrl": "#icon-1608-006064-labelson",
+                "styleHash": "1468cf8f",
+                "icon": "images/icon-8.png",
+                "description": "The only shrine (I know of) that has lucky amulets (omamori) dedicated to computer IT luck."
             }
         }
     ]

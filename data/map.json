@@ -5,15 +5,15 @@
       "name": "Historic / ruins / structures"
     },
     "industry": {
-      "count": 33,
+      "count": 34,
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 320,
+      "count": 321,
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 555,
+      "count": 562,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -1853,6 +1853,16 @@
       "id": "chabot-space-science-center",
       "name": "Chabot Space & Science Center"
     },
+    "charleroi-adventure-city-safari": {
+      "category": "interesting-things",
+      "coordinates": [
+        4.4476963,
+        50.4080902
+      ],
+      "description": "Charleroi Adventure City Safari tours - \"get up close to the steel giants or climb the slag heaps\"\n\nhttps://charleroiadventure.com/#en",
+      "id": "charleroi-adventure-city-safari",
+      "name": "Charleroi Adventure City Safari"
+    },
     "charleston-tea-garden": {
       "category": "interesting-things",
       "coordinates": [
@@ -2162,6 +2172,15 @@
       "id": "coventry-transport-museum",
       "name": "Coventry Transport Museum"
     },
+    "crab-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        1.3820831,
+        51.3899087
+      ],
+      "id": "crab-museum",
+      "name": "Crab Museum"
+    },
     "cragside-house-national-trust": {
       "category": "museums-attractions",
       "coordinates": [
@@ -2433,6 +2452,16 @@
       ],
       "id": "de-havilland-aircraft-museum",
       "name": "De Havilland Aircraft Museum"
+    },
+    "de-ruien": {
+      "category": "museums-attractions",
+      "coordinates": [
+        4.3983754,
+        51.22107
+      ],
+      "description": "Underground canals, passages and sewers that you can visit",
+      "id": "de-ruien",
+      "name": "De Ruien"
     },
     "de-young-museum": {
       "category": "museums-attractions",
@@ -3050,6 +3079,16 @@
       "description": "Park and museum. The main attraction is the huge biosphere you can walk around.\n\nMakes for a nice afternoon.",
       "id": "espace-67",
       "name": "Espace 67"
+    },
+    "estacin-museo-de-chamber": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -3.6977299,
+        40.4322745
+      ],
+      "description": "Former metro station, now a museum",
+      "id": "estacin-museo-de-chamber",
+      "name": "Estaci\u00f3n Museo de Chamber\u00ed"
     },
     "estrella-warbird-museum": {
       "category": "museums-attractions",
@@ -3991,6 +4030,16 @@
       ],
       "id": "harrington-aviation-museum",
       "name": "Harrington Aviation Museum"
+    },
+    "hartlepool-power-station": {
+      "category": "industry",
+      "coordinates": [
+        -1.1811072,
+        54.6354913
+      ],
+      "description": "Visitor centre is open on Tuesdays and Thursdays from 9:00-12:00 for prearranged station tours.\nhttps://www.edfenergy.com/energy/power-stations/hartlepool#visit",
+      "id": "hartlepool-power-station",
+      "name": "Hartlepool Power Station"
     },
     "harwell-scientific-campus": {
       "category": "science",
@@ -5125,6 +5174,16 @@
       "id": "land-bank-exhibition-hall-of-national-taiwan-museum",
       "name": "Land Bank Exhibition Hall of National Taiwan Museum"
     },
+    "land-of-iron": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -0.8998556,
+        54.5634371
+      ],
+      "description": "\"Museum celebrating and preserving the heritage of the iron and steel industries. Standing on the site of the first ironstone mine in Cleveland\"",
+      "id": "land-of-iron",
+      "name": "Land of Iron"
+    },
     "landschaftspark-duisburg-nord": {
       "category": "museums-attractions",
       "coordinates": [
@@ -5640,6 +5699,16 @@
       "description": "A small town that has become a magnet for arts, culture, and eccentricity. A popular road trip stop. Good place to see an art car.",
       "id": "marfa-texas",
       "name": "Marfa, Texas"
+    },
+    "margate-caves": {
+      "category": "museums-attractions",
+      "coordinates": [
+        1.3866062,
+        51.3900615
+      ],
+      "description": "Formerly a chalk mine, turned into a tourist attraction",
+      "id": "margate-caves",
+      "name": "Margate Caves"
     },
     "marienborn-memorial-to-divided-germany": {
       "category": "museums-attractions",
@@ -9251,6 +9320,16 @@
       "id": "sheldon-country-park-birmingham-airport-viewing-area",
       "name": "Sheldon Country Park - Birmingham Airport viewing area"
     },
+    "shell-grotto": {
+      "category": "museums-attractions",
+      "coordinates": [
+        1.389403,
+        51.3877732
+      ],
+      "description": "\"Was this a place of worship, a setting for secret meetings or an extravagant folly?\"",
+      "id": "shell-grotto",
+      "name": "Shell Grotto"
+    },
     "shelton-mcmurphey-johnson-house": {
       "category": "museums-attractions",
       "coordinates": [
@@ -9291,6 +9370,15 @@
       "description": "50+ microscopic bars rammed into 5 tiny alleys across multiple floors. Note that some of the bars are locals only and they won't let you in. Super fun. Expect to be in a bar the size of a small caravan with four seats where nobody speaks English.",
       "id": "shinjuku-golden-gai",
       "name": "Shinjuku Golden Gai"
+    },
+    "shipwreck-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        0.5956549,
+        50.8561178
+      ],
+      "id": "shipwreck-museum",
+      "name": "Shipwreck Museum"
     },
     "shonan-monorail": {
       "category": "interesting-things",

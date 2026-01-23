@@ -10064,9 +10064,10 @@
             },
             "properties": {
                 "name": "Pecorama",
-                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
-                "styleHash": "-4303c82c",
-                "icon": "images/icon-2.png"
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "icon": "images/icon-2.png",
+                "description": "Now closed."
             }
         },
         {

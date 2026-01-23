@@ -5386,7 +5386,8 @@
       </Placemark>
       <Placemark>
         <name>Pecorama</name>
-        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <description>Now closed.</description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
         <Point>
           <coordinates>
             -3.100564,50.697455,0

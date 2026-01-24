@@ -13,7 +13,7 @@
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 562,
+      "count": 563,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -8258,6 +8258,15 @@
       "description": "Highly influential library and film archive.",
       "id": "prelinger-library",
       "name": "Prelinger Library"
+    },
+    "president-heads": {
+      "category": "museums-attractions",
+      "coordinates": [
+        -76.7541981,
+        37.3826217
+      ],
+      "id": "president-heads",
+      "name": "President Heads"
     },
     "progreso-pier": {
       "category": "not-open-to-public-but-visible",

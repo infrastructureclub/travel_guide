@@ -10611,6 +10611,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Heavy Load-bearing Body</name>
+        <description><![CDATA[The Heavy Load-bearing Body is a giant concrete structure built to test how much load the ground in Berlin could hold to help with the Nazi plan to build a great big arch. It is quite a strange, squat concrete tower on an unassuming corner. Visiting hours are seasonal and they do guided tours daily. Entry is free.<br>https://www.schwerbelastungskoerper.de/the-heavy-load-bearing-body.html]]></description>
+        <styleUrl>#icon-1608-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            13.3715926,52.4841616,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Nature</name>

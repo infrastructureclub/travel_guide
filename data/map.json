@@ -1,7 +1,7 @@
 {
   "categories": {
     "historic-ruins-structures": {
-      "count": 125,
+      "count": 126,
       "name": "Historic / ruins / structures"
     },
     "industry": {
@@ -4560,6 +4560,17 @@
       "description": "Newspaper tycoon buys up European art and antiquities and puts them in a castle on a beautiful stretch of coast. Gets made fun of by Orson Welles. Absurd folly but neat to visit.",
       "id": "hearst-castle-visitor-center",
       "name": "Hearst Castle Visitor Center"
+    },
+    "heavy-load-bearing-body": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        13.3715926,
+        52.4841616
+      ],
+      "created": "2026-01-27T22:54:13.897704",
+      "description": "The Heavy Load-bearing Body is a giant concrete structure built to test how much load the ground in Berlin could hold to help with the Nazi plan to build a great big arch. It is quite a strange, squat concrete tower on an unassuming corner. Visiting hours are seasonal and they do guided tours daily. Entry is free.\nhttps://www.schwerbelastungskoerper.de/the-heavy-load-bearing-body.html",
+      "id": "heavy-load-bearing-body",
+      "name": "Heavy Load-bearing Body"
     },
     "henry-m-jackson-memorial-visitor-center": {
       "category": "nature",

@@ -1,312 +1,373 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Infrastructure Club Travel Guide - New Places</title>
+    <title>Infrastructure Club Travel Guide</title>
     <link>https://github.com/infrastructureclub/travel_guide</link>
     <description>Latest places added to the travel guide</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Jan 2026 17:53:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 22:54:13 +0000</lastBuildDate>
     <item>
-      <title>Anti-aircraft gun tower 7, L-Tower, Augarten added to the travel guide</title>
-      <link>https://infrastructureclub.org/travel_guide/#anti-aircraft-gun-tower-7-l-tower-augarten</link>
-      <guid isPermaLink="false">anti-aircraft-gun-tower-7-l-tower-augarten</guid>
-      <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anti-Aircraft Battery Blantyreferme added to the travel guide</title>
+      <title>Added "Anti-Aircraft Battery Blantyreferme" in Blantyre, United Kingdom</title>
       <link>https://infrastructureclub.org/travel_guide/#anti-aircraft-battery-blantyreferme</link>
+      <description>Remains of a gun battery from WW2.
+
+See https://www.secretscotland.org.uk/index.php/Secrets/AABatteryBlantyreferme</description>
       <guid isPermaLink="false">anti-aircraft-battery-blantyreferme</guid>
       <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
     </item>
     <item>
-      <title>Anita Street Municipal housing development added to the travel guide</title>
+      <title>Added "Anita Street Municipal housing development" in Manchester, United Kingdom</title>
       <link>https://infrastructureclub.org/travel_guide/#anita-street-municipal-housing-development</link>
+      <description>Late Victorian municipal housing development; was originally going to be named Sanitary Street, but the residents didn't like it and 'S' and 'ry' were dropped. When you are here, do also check out Victoria Square, the block at the eastern end of the street: the first example of municipal housing in Manchester.</description>
       <guid isPermaLink="false">anita-street-municipal-housing-development</guid>
       <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
     </item>
     <item>
-      <title>Anglesey Transport Museum &amp; Café - Tacla Taid added to the travel guide</title>
+      <title>Added "Anglesey Transport Museum &amp; Café - Tacla Taid" in Caernarfon, United Kingdom</title>
       <link>https://infrastructureclub.org/travel_guide/#anglesey-transport-museum-caf-tacla-taid</link>
       <guid isPermaLink="false">anglesey-transport-museum-caf-tacla-taid</guid>
       <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
     </item>
     <item>
-      <title>Angels Flight Railway added to the travel guide</title>
+      <title>Added "Angels Flight Railway" in Los Angeles, United States</title>
       <link>https://infrastructureclub.org/travel_guide/#angels-flight-railway</link>
+      <description>Funicular railway moved from its original location, now connecting the subway, Grand Central Market, and the ritzy office district of Bunker Hill.</description>
       <guid isPermaLink="false">angels-flight-railway</guid>
       <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
     </item>
     <item>
-      <title>Anderton Boat Lift added to the travel guide</title>
+      <title>Added "Anderton Boat Lift" in Northwich, United Kingdom</title>
       <link>https://infrastructureclub.org/travel_guide/#anderton-boat-lift</link>
+      <description>Restored boat lift, still used to lift canal boats from one canal to another. Museum and visitor's centre, plus canal boat trips (including up and down the lift).
+
+https://canalrivertrust.org.uk/places-to-visit/anderton-boat-lift-visitor-centre</description>
       <guid isPermaLink="false">anderton-boat-lift</guid>
       <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
     </item>
     <item>
-      <title>Anchor Church added to the travel guide</title>
+      <title>Added "Anchor Church" in Sinfin, United Kingdom</title>
       <link>https://infrastructureclub.org/travel_guide/#anchor-church</link>
+      <description>A series of sandstone caves that have been carved into the rock. http://en.wikipedia.org/wiki/Anchor_Church</description>
       <guid isPermaLink="false">anchor-church</guid>
       <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
     </item>
     <item>
-      <title>Amundsen-Scott South Pole Station added to the travel guide</title>
+      <title>Added "Amundsen-Scott South Pole Station" in Grytviken, South Georgia and the South Sandwich Islands</title>
       <link>https://infrastructureclub.org/travel_guide/#amundsen-scott-south-pole-station</link>
       <guid isPermaLink="false">amundsen-scott-south-pole-station</guid>
       <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
     </item>
     <item>
-      <title>Amphitheater of El Jem added to the travel guide</title>
+      <title>Added "Amphitheater of El Jem" in El Jem, Tunisia</title>
       <link>https://infrastructureclub.org/travel_guide/#amphitheater-of-el-jem</link>
+      <description>El Jem's Amphitheater and museum more than make up for the disappointment of Carthage, and it is well worth a special trip to see them.
+
+The amphitheater is huge (3rd largest in the world), and at least has a little interpretation. You can climb all the way up to the highest levels and look down on the floor (and the town), and also explore the underground levels.
+
+Honestly, it's better than the Roman Colosseum in many ways. Beautiful photography opportunities abound.
+
+A 15 minute walk takes you to the museum, which is chock full of huge (room-sized) intact Roman mosaics. One of the best collections I've ever seen.
+
+Worth at least an hour, two plus if you include the museum. A half day in El Jem is not out of order.
+
+Added by grajohnt</description>
       <guid isPermaLink="false">amphitheater-of-el-jem</guid>
       <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
     </item>
     <item>
-      <title>Amoreiras Mother of Water Reservoir added to the travel guide</title>
+      <title>Added "Amoreiras Mother of Water Reservoir" in Principe Real, Portugal</title>
       <link>https://infrastructureclub.org/travel_guide/#amoreiras-mother-of-water-reservoir</link>
+      <description>Recommend doing the tour of the Loreto Gallery, suggest booking in advance.</description>
       <guid isPermaLink="false">amoreiras-mother-of-water-reservoir</guid>
       <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
     </item>
     <item>
-      <title>Amgueddfa Lloyd George Museum added to the travel guide</title>
+      <title>Added "Amgueddfa Lloyd George Museum" in Criccieth, United Kingdom</title>
       <link>https://infrastructureclub.org/travel_guide/#amgueddfa-lloyd-george-museum</link>
+      <description>Lloyd George was founder of the welfare state. This is an opportunity to dress in Victorian costume, to play with period toys and to write on slate".</description>
       <guid isPermaLink="false">amgueddfa-lloyd-george-museum</guid>
       <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
     </item>
     <item>
-      <title>Amberley Museum added to the travel guide</title>
+      <title>Added "Amberley Museum" in Arundel, United Kingdom</title>
       <link>https://infrastructureclub.org/travel_guide/#amberley-museum</link>
+      <description>Fascinating museum with exhibits including crafts, printing, buses, narrow gauge railway, telephones (including working telephone exchanges!) and more.
+
+https://www.amberleymuseum.co.uk/</description>
       <guid isPermaLink="false">amberley-museum</guid>
       <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
     </item>
     <item>
-      <title>Ambatovy (nickel mine) added to the travel guide</title>
+      <title>Added "Ambatovy (nickel mine)" in Moramanga, Madagascar</title>
       <link>https://infrastructureclub.org/travel_guide/#ambatovy-nickel-mine</link>
+      <description>Notable for its size. Estimated to account for 25% of Madagascar's entire tax base. Waste fluids are piped 200 km to ponds at Toamasina, on the coast.</description>
       <guid isPermaLink="false">ambatovy-nickel-mine</guid>
       <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
     </item>
     <item>
-      <title>Alter Elbtunnel added to the travel guide</title>
+      <title>Added "Alter Elbtunnel" in St. Pauli, Germany</title>
       <link>https://infrastructureclub.org/travel_guide/#alter-elbtunnel</link>
+      <description>A tunnel under the river where vehicles enter massive elevators in order to get between tunnel and surface level.</description>
       <guid isPermaLink="false">alter-elbtunnel</guid>
       <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
     </item>
     <item>
-      <title>Altamont Pass wind farm added to the travel guide</title>
+      <title>Added "Altamont Pass wind farm" in Livermore, United States</title>
       <link>https://infrastructureclub.org/travel_guide/#altamont-pass-wind-farm</link>
+      <description>Notable for being one of the first windfarms in the US.</description>
       <guid isPermaLink="false">altamont-pass-wind-farm</guid>
       <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
     </item>
     <item>
-      <title>Alishan Forest Railway (Chiayi Station) added to the travel guide</title>
+      <title>Added "Alishan Forest Railway (Chiayi Station)" in Pizitou, Taiwan</title>
       <link>https://infrastructureclub.org/travel_guide/#alishan-forest-railway-chiayi-station</link>
+      <description>The Alishan Forest Railway was originally constructed by occupying Japanese forces to facilitate logging; it's now a famously beautiful forest tour.</description>
       <guid isPermaLink="false">alishan-forest-railway-chiayi-station</guid>
       <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
     </item>
     <item>
-      <title>Aldercrest-Banyon landslide site added to the travel guide</title>
+      <title>Added "Aldercrest-Banyon landslide site" in Kelso, United States</title>
       <link>https://infrastructureclub.org/travel_guide/#aldercrest-banyon-landslide-site</link>
+      <description>A very slow-moving landslide in 1998–99 that caused ~$100 million in damage. See https://en.wikipedia.org/wiki/Aldercrest-Banyon_landslide</description>
       <guid isPermaLink="false">aldercrest-banyon-landslide-site</guid>
       <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
     </item>
     <item>
-      <title>Alcatraz Island added to the travel guide</title>
+      <title>Added "Alcatraz Island" in Chinatown, United States</title>
       <link>https://infrastructureclub.org/travel_guide/#alcatraz-island</link>
       <guid isPermaLink="false">alcatraz-island</guid>
       <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
     </item>
     <item>
-      <title>Alaska State Museum added to the travel guide</title>
+      <title>Added "Alaska State Museum" in Juneau, United States</title>
       <link>https://infrastructureclub.org/travel_guide/#alaska-state-museum</link>
       <guid isPermaLink="false">alaska-state-museum</guid>
       <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
     </item>
     <item>
-      <title>Alang Ship Scrap Yard added to the travel guide</title>
+      <title>Added "Alang Ship Scrap Yard" in Alang, India</title>
       <link>https://infrastructureclub.org/travel_guide/#alang-ship-scrap-yard</link>
+      <description>Not the only shipbreaking area in the world but perhaps the most famous.</description>
       <guid isPermaLink="false">alang-ship-scrap-yard</guid>
       <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
     </item>
     <item>
-      <title>Alan Turing Memorial added to the travel guide</title>
+      <title>Added "Alan Turing Memorial" in Manchester, United Kingdom</title>
       <link>https://infrastructureclub.org/travel_guide/#alan-turing-memorial</link>
+      <description>Statue commemorating Alan Turing in the pleasant Sackville Street Gardens.</description>
       <guid isPermaLink="false">alan-turing-memorial</guid>
       <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
     </item>
     <item>
-      <title>Alameda Point Antiques Faire added to the travel guide</title>
+      <title>Added "Alameda Point Antiques Faire" in Chinatown, United States</title>
       <link>https://infrastructureclub.org/travel_guide/#alameda-point-antiques-faire</link>
+      <description>Better known as the Alameda Flea. A vast open-air market on the even vaster disused runway of a former naval airbase, with views across to the Port of Oakland. Held the first Sunday of each month, with occasional changes to avoid major holidays or for weather. There is an entry fee. Serious shoppers are wise to arrive early, but it's an amusing stroll at any time of day.</description>
       <guid isPermaLink="false">alameda-point-antiques-faire</guid>
       <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
     </item>
     <item>
-      <title>Alameda County Sheriffs Bomb Disposal Range added to the travel guide</title>
+      <title>Added "Alameda County Sheriffs Bomb Disposal Range" in Dublin, United States</title>
       <link>https://infrastructureclub.org/travel_guide/#alameda-county-sheriffs-bomb-disposal-range</link>
+      <description>You know it from “Mythbusters”.</description>
       <guid isPermaLink="false">alameda-county-sheriffs-bomb-disposal-range</guid>
       <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
     </item>
     <item>
-      <title>Alameda Beach added to the travel guide</title>
+      <title>Added "Alameda Beach" in Alameda, United States</title>
       <link>https://infrastructureclub.org/travel_guide/#alameda-beach</link>
+      <description>Good though distant views of ships across the bay, the SF skyline, planes taking off from OAK, etc. Bring binoculars.</description>
       <guid isPermaLink="false">alameda-beach</guid>
       <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
     </item>
     <item>
-      <title>Alabama Hills added to the travel guide</title>
+      <title>Added "Alabama Hills" in Lone Pine, United States</title>
       <link>https://infrastructureclub.org/travel_guide/#alabama-hills</link>
+      <description>Surreal-seeming rock formations. Beautiful and (in summer) often extremely hot.</description>
       <guid isPermaLink="false">alabama-hills</guid>
       <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
     </item>
     <item>
-      <title>Airworld Aviation Museum added to the travel guide</title>
+      <title>Added "Airworld Aviation Museum" in Llanwnda, United Kingdom</title>
       <link>https://infrastructureclub.org/travel_guide/#airworld-aviation-museum</link>
+      <description>Located on the airfield of the former RAF Llandwrog, the museum has an impressive collection of aircraft and aviation memorabilia. The museum offers the opportunity to get close up to some historic aircraft. Set on an active airfield, the museum houses iconic machines such as the Hawker Hunter, D.H. Vampire, along with the only T2 BAe Harrier remaining worldwide.
+
+Part of the museum is devoted to the creation of the RAF Mountain Rescue Service, started here at RAF Llandwrog in 1942, whilst other sections describe the wartime airfields of North Wales</description>
       <guid isPermaLink="false">airworld-aviation-museum</guid>
       <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
     </item>
     <item>
-      <title>Airmail Navigation Arrow added to the travel guide</title>
+      <title>Added "Airmail Navigation Arrow" in Sandy Valley, United States</title>
       <link>https://infrastructureclub.org/travel_guide/#airmail-navigation-arrow</link>
       <guid isPermaLink="false">airmail-navigation-arrow</guid>
       <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
     </item>
     <item>
-      <title>Airbus UK Factory added to the travel guide</title>
+      <title>Added "Airbus UK Factory" in Broughton, United Kingdom</title>
       <link>https://infrastructureclub.org/travel_guide/#airbus-uk-factory</link>
+      <description>Large 'Beluga' planes come in to land here to bring/take parts of planes away - can be viewed from anywhere near the runway. Very occasional tours.</description>
       <guid isPermaLink="false">airbus-uk-factory</guid>
       <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
     </item>
     <item>
-      <title>Airbus Factory Tours added to the travel guide</title>
+      <title>Added "Airbus Factory Tours" in Beauzelle, France</title>
       <link>https://infrastructureclub.org/travel_guide/#airbus-factory-tours</link>
       <guid isPermaLink="false">airbus-factory-tours</guid>
       <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
     </item>
     <item>
-      <title>Air Force Flight Test Museum added to the travel guide</title>
+      <title>Added "Air Force Flight Test Museum" in Edwards Air Force Base, United States</title>
       <link>https://infrastructureclub.org/travel_guide/#air-force-flight-test-museum</link>
       <guid isPermaLink="false">air-force-flight-test-museum</guid>
       <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
     </item>
     <item>
-      <title>Ailsa Craig added to the travel guide</title>
+      <title>Added "Ailsa Craig" in Girvan, United Kingdom</title>
       <link>https://infrastructureclub.org/travel_guide/#ailsa-craig</link>
+      <description>Quarried for curling stones, among other things https://en.wikipedia.org/wiki/Ailsa_Craig#Curling_stones</description>
       <guid isPermaLink="false">ailsa-craig</guid>
       <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
     </item>
     <item>
-      <title>Afsluitdijk added to the travel guide</title>
+      <title>Added "Afsluitdijk" in Den Oever, Netherlands</title>
       <link>https://infrastructureclub.org/travel_guide/#afsluitdijk</link>
+      <description>Enormous dam closing off the Netherlands from the North Sea. There's a road across it.
+
+https://theafsluitdijk.com/</description>
       <guid isPermaLink="false">afsluitdijk</guid>
       <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
     </item>
     <item>
-      <title>Aerospace Bristol added to the travel guide</title>
+      <title>Added "Aerospace Bristol" in Almondsbury, United Kingdom</title>
       <link>https://infrastructureclub.org/travel_guide/#aerospace-bristol</link>
+      <description>Aviation museum with lots of aircraft, other displays, and a Concorde.
+
+https://aerospacebristol.org/</description>
       <guid isPermaLink="false">aerospace-bristol</guid>
       <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
     </item>
     <item>
-      <title>Aeroplume flight in Grotte de la Samalandre added to the travel guide</title>
+      <title>Added "Aeroplume flight in Grotte de la Samalandre" in Barjac, France</title>
       <link>https://infrastructureclub.org/travel_guide/#aeroplume-flight-in-grotte-de-la-samalandre</link>
+      <description>Want to fly a one-person helium-filled airship inside a cave? You can.</description>
       <guid isPermaLink="false">aeroplume-flight-in-grotte-de-la-samalandre</guid>
       <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
     </item>
     <item>
-      <title>Aerial tram (lower terminal) added to the travel guide</title>
+      <title>Added "Aerial tram (lower terminal)" in Portland, United States</title>
       <link>https://infrastructureclub.org/travel_guide/#aerial-tram-lower-terminal</link>
+      <description>A short but fun aerial tram, with good views. Unfortunately, there's not that much for a tourist to do on either end. Reasonably well connected to other transit, though.</description>
       <guid isPermaLink="false">aerial-tram-lower-terminal</guid>
       <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
     </item>
     <item>
-      <title>Acle Bridge added to the travel guide</title>
+      <title>Added "Acle Bridge" in Acle, United Kingdom</title>
       <link>https://infrastructureclub.org/travel_guide/#acle-bridge</link>
+      <description>Exceptionally low bridge, always good fun to watch boats going through</description>
       <guid isPermaLink="false">acle-bridge</guid>
       <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
     </item>
     <item>
-      <title>Aberystwyth Cliff Railway added to the travel guide</title>
+      <title>Added "Aberystwyth Cliff Railway" in Aberystwyth, United Kingdom</title>
       <link>https://infrastructureclub.org/travel_guide/#aberystwyth-cliff-railway</link>
       <guid isPermaLink="false">aberystwyth-cliff-railway</guid>
       <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
     </item>
     <item>
-      <title>Abbotsbury Swannery added to the travel guide</title>
+      <title>Added "Abbotsbury Swannery" in Chickerell, United Kingdom</title>
       <link>https://infrastructureclub.org/travel_guide/#abbotsbury-swannery</link>
       <guid isPermaLink="false">abbotsbury-swannery</guid>
       <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
     </item>
     <item>
-      <title>Abbey Pumping Station Museum added to the travel guide</title>
+      <title>Added "Abbey Pumping Station Museum" in Belgrave, United Kingdom</title>
       <link>https://infrastructureclub.org/travel_guide/#abbey-pumping-station-museum</link>
       <guid isPermaLink="false">abbey-pumping-station-museum</guid>
       <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
     </item>
     <item>
-      <title>60 Hudson Street added to the travel guide</title>
+      <title>Added "60 Hudson Street" in Tribeca, United States</title>
       <link>https://infrastructureclub.org/travel_guide/#60-hudson-street</link>
+      <description>Formerly known as the Western Union Building. A major colocation center.</description>
       <guid isPermaLink="false">60-hudson-street</guid>
       <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
     </item>
     <item>
-      <title>33 Thomas Street / Long Lines building added to the travel guide</title>
+      <title>Added "33 Thomas Street / Long Lines building" in New York City, United States</title>
       <link>https://infrastructureclub.org/travel_guide/#33-thomas-street-long-lines-building</link>
+      <description>Windowless skyscraper containing major communication exchange points, and the likely location of an NSA intercept hub codenamed TITANPOINTE. https://en.m.wikipedia.org/wiki/33_Thomas_Street</description>
       <guid isPermaLink="false">33-thomas-street-long-lines-building</guid>
       <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
     </item>
     <item>
-      <title>228 Peace Memorial Park added to the travel guide</title>
+      <title>Added "228 Peace Memorial Park" in Taipei, Taiwan</title>
       <link>https://infrastructureclub.org/travel_guide/#228-peace-memorial-park</link>
+      <description>has some old steam trains</description>
       <guid isPermaLink="false">228-peace-memorial-park</guid>
       <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
     </item>
     <item>
-      <title>مطار. اك الملح‎ added to the travel guide</title>
+      <title>Added "مطار. اك الملح‎" in Rumāh, Yemen</title>
       <link>https://infrastructureclub.org/travel_guide/#-3</link>
+      <description>www.wired.com/dangerroom/2013/02/secret-drone-base-2/</description>
       <guid isPermaLink="false">-3</guid>
       <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
     </item>
     <item>
-      <title>Πολυχώρος Πολιτισμού "Ισλαχανέ" added to the travel guide</title>
+      <title>Added "Πολυχώρος Πολιτισμού "Ισλαχανέ"" in Ágios Pávlos, Greece</title>
       <link>https://infrastructureclub.org/travel_guide/#-2</link>
+      <description>Old technical museum. Lovely stuff.</description>
       <guid isPermaLink="false">-2</guid>
       <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
     </item>
     <item>
-      <title>Μουσείο Μαρμαροτεχνίας added to the travel guide</title>
+      <title>Added "Μουσείο Μαρμαροτεχνίας" in Tínos, Greece</title>
       <link>https://infrastructureclub.org/travel_guide/#-</link>
       <guid isPermaLink="false">-</guid>
       <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
     </item>
     <item>
-      <title>港の散歩道 added to the travel guide</title>
+      <title>Added "港の散歩道" in Nagasaki, Japan</title>
       <link>https://infrastructureclub.org/travel_guide/#2</link>
+      <description>Lookout point and large orange sphere. Cool to quickly look around. Added by Ed</description>
       <guid isPermaLink="false">2</guid>
       <pubDate>Tue, 27 Jan 2026 17:27:08 +0000</pubDate>
     </item>
     <item>
-      <title>President Heads added to the travel guide</title>
+      <title>Added "President Heads" in Williamsburg, United States</title>
       <link>https://infrastructureclub.org/travel_guide/#president-heads</link>
       <guid isPermaLink="false">president-heads</guid>
       <pubDate>Tue, 27 Jan 2026 17:27:34 +0000</pubDate>
     </item>
     <item>
-      <title>Tomakomai West Port Ferry Terminal added to the travel guide</title>
+      <title>Added "Tomakomai West Port Ferry Terminal" in Tomakomai, Japan</title>
       <link>https://infrastructureclub.org/travel_guide/#tomakomai-west-port-ferry-terminal</link>
+      <description>Overnight ferry to sendai available, pain to book, but you can get a bedroom or pod, and can get a public bath on a moving ship.</description>
       <guid isPermaLink="false">tomakomai-west-port-ferry-terminal</guid>
       <pubDate>Tue, 27 Jan 2026 17:53:16 +0000</pubDate>
     </item>
     <item>
-      <title>Snow Festival added to the travel guide</title>
+      <title>Added "Snow Festival" in Sapporo, Japan</title>
       <link>https://infrastructureclub.org/travel_guide/#snow-festival</link>
+      <description>During February each year the park is taken over by huge snow carvings/statues.</description>
       <guid isPermaLink="false">snow-festival</guid>
       <pubDate>Tue, 27 Jan 2026 17:53:16 +0000</pubDate>
     </item>
     <item>
-      <title>Sapporo TV Tower added to the travel guide</title>
+      <title>Added "Sapporo TV Tower" in Sapporo, Japan</title>
       <link>https://infrastructureclub.org/travel_guide/#sapporo-tv-tower</link>
+      <description>TV tower you can go up, has a mascot known as teli-dad https://yurukyara.fandom.com/wiki/Terebi_To-san</description>
       <guid isPermaLink="false">sapporo-tv-tower</guid>
       <pubDate>Tue, 27 Jan 2026 17:53:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Added "Heavy Load-bearing Body" in Schöneberg, Germany</title>
+      <link>https://infrastructureclub.org/travel_guide/#heavy-load-bearing-body</link>
+      <description>The Heavy Load-bearing Body is a giant concrete structure built to test how much load the ground in Berlin could hold to help with the Nazi plan to build a great big arch. It is quite a strange, squat concrete tower on an unassuming corner. Visiting hours are seasonal and they do guided tours daily. Entry is free.
+https://www.schwerbelastungskoerper.de/the-heavy-load-bearing-body.html</description>
+      <guid isPermaLink="false">heavy-load-bearing-body</guid>
+      <pubDate>Tue, 27 Jan 2026 22:54:13 +0000</pubDate>
     </item>
   </channel>
 </rss>

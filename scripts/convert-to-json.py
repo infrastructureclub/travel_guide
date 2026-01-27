@@ -3,6 +3,8 @@
 from xml.etree import ElementTree
 import re
 import json
+from datetime import datetime
+import os
 
 with open('./data/map.kml') as f:
     content = f.read()
@@ -11,6 +13,11 @@ with open('./data/map.kml') as f:
 
 tree = ElementTree.fromstring(content)
 names = set()
+
+existing_data = {"places": {}, "categories": {}}
+if os.path.exists('./data/map.json'):
+    with open('./data/map.json') as f:
+        existing_data = json.load(f)
 
 def to_id(name):
     id = re.sub('[^0-9a-zA-Z\-\ ]+', '', name.lower())
@@ -35,7 +42,7 @@ for element in tree.findall('.//{http://www.opengis.net/kml/2.2}Folder'):
         result['name'] = place.find('.//{http://www.opengis.net/kml/2.2}name').text.strip()
         id = to_id(result['name'])
         i = 1
-        while id in names:
+        while id in names or not id:
             i += 1
             id = to_id(result['name']) + str(i)
             print("Duplicate id: " + result['name'] + " -> " + id)
@@ -46,11 +53,17 @@ for element in tree.findall('.//{http://www.opengis.net/kml/2.2}Folder'):
             result['description'] = cleanup(place.find('.//{http://www.opengis.net/kml/2.2}description').text.strip())
         for extended in place.findall('.//{http://www.opengis.net/kml/2.2}ExtendedData/{http://www.opengis.net/kml/2.2}Data[@name="gx_media_links"]'):
             extended = extended.find('.//{http://www.opengis.net/kml/2.2}value')
-            if 'img' not in result: 
+            if 'img' not in result:
                 result['img'] = []
             for img in extended.text.split(' '):
                 result['img'].append(img)
         result['category'] = category_id
+
+        if id in existing_data['places']:
+            result['created'] = existing_data['places'][id]['created']
+        else:
+            result['created'] = datetime.now().isoformat()
+
         output['places'][id] = result
     output['categories'][category_id] = {"name": category_name, "count": count}
 

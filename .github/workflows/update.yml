@@ -15,6 +15,8 @@ jobs:
         run: |
           mkdir -p data
           curl "https://mapsengine.google.com/map/kml?mid=1wSGRzmK0rwrPnqdQAtz0p5h_NvKCjgY" | funzip > data/map.kml
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
       - name: Download and replace images
         run: ./scripts/download-images.py
       - name: Convert to geojson
@@ -23,6 +25,8 @@ jobs:
           togeojson data/map.kml > data/map.geojson
       - name: Convert to json for website
         run: ./scripts/convert-to-json.py
+      - name: Generate RSS feed
+        run: ./scripts/generate-rss.py
       - name: Commit
         run: |
           git add data src

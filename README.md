@@ -1,8 +1,6 @@
 # Infrastructure Club Travel Guide 
-A daily updated archive of things that the Infrastructure Club members think are worth seeing.
+A daily updated archive of things that [Infrastructure Club](https://infrastructureclub.org/) members think are worth seeing.
 
-https://infrastructureclub.org/
+* Web interface: http://infrastructureclub.org/travel_guide/
 
-http://infrastructureclub.org/travel_guide/
-
-
+* RSS feed of updates: https://infrastructureclub.org/travel_guide/data/rss.xml

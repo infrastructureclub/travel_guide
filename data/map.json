@@ -9,11 +9,11 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 321,
+      "count": 323,
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 563,
+      "count": 564,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -9918,6 +9918,17 @@
       "id": "sapporo-city-sewage-science-museum",
       "name": "Sapporo City Sewage Science Museum"
     },
+    "sapporo-tv-tower": {
+      "category": "museums-attractions",
+      "coordinates": [
+        141.3564246,
+        43.0611047
+      ],
+      "created": "2026-01-27T17:53:16.234930",
+      "description": "TV tower you can go up, has a mascot known as teli-dad https://yurukyara.fandom.com/wiki/Terebi_To-san",
+      "id": "sapporo-tv-tower",
+      "name": "Sapporo TV Tower"
+    },
     "sardinia-radio-telescope": {
       "category": "interesting-things",
       "coordinates": [
@@ -10657,6 +10668,17 @@
       "created": "2026-01-27T17:26:34.363113",
       "id": "smithsonian-national-air-and-space-museum",
       "name": "Smithsonian National Air and Space Museum"
+    },
+    "snow-festival": {
+      "category": "interesting-things",
+      "coordinates": [
+        141.3544308,
+        43.0607521
+      ],
+      "created": "2026-01-27T17:53:16.227581",
+      "description": "During February each year the park is taken over by huge snow carvings/statues.",
+      "id": "snow-festival",
+      "name": "Snow Festival"
     },
     "snowdon-mountain-railway-ticket-office": {
       "category": "museums-attractions",
@@ -12492,6 +12514,17 @@
       "created": "2026-01-27T17:26:34.363113",
       "id": "tokyo-tower",
       "name": "Tokyo Tower"
+    },
+    "tomakomai-west-port-ferry-terminal": {
+      "category": "interesting-things",
+      "coordinates": [
+        141.6349687,
+        42.6384443
+      ],
+      "created": "2026-01-27T17:53:16.227557",
+      "description": "Overnight ferry to sendai available, pain to book, but you can get a bedroom or pod, and can get a public bath on a moving ship.",
+      "id": "tomakomai-west-port-ferry-terminal",
+      "name": "Tomakomai West Port Ferry Terminal"
     },
     "torness-nuclear-power-station": {
       "category": "museums-attractions",

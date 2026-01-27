@@ -7,25 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Jan 2026 17:27:34 +0000</lastBuildDate>
-    <item>
-      <title>Approximate impact site of CNEOS 2014-01-08 added to the travel guide</title>
-      <link>https://infrastructureclub.org/travel_guide/#approximate-impact-site-of-cneos-2014-01-08</link>
-      <guid isPermaLink="false">approximate-impact-site-of-cneos-2014-01-08</guid>
-      <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ape Cave Interpretive Site added to the travel guide</title>
-      <link>https://infrastructureclub.org/travel_guide/#ape-cave-interpretive-site</link>
-      <guid isPermaLink="false">ape-cave-interpretive-site</guid>
-      <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>AOP visitor center (Amsterdam Ordnance Datum) added to the travel guide</title>
-      <link>https://infrastructureclub.org/travel_guide/#aop-visitor-center-amsterdam-ordnance-datum</link>
-      <guid isPermaLink="false">aop-visitor-center-amsterdam-ordnance-datum</guid>
-      <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 27 Jan 2026 17:53:16 +0000</lastBuildDate>
     <item>
       <title>Anti-aircraft gun tower 7, L-Tower, Augarten added to the travel guide</title>
       <link>https://infrastructureclub.org/travel_guide/#anti-aircraft-gun-tower-7-l-tower-augarten</link>
@@ -307,6 +289,24 @@
       <link>https://infrastructureclub.org/travel_guide/#president-heads</link>
       <guid isPermaLink="false">president-heads</guid>
       <pubDate>Tue, 27 Jan 2026 17:27:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tomakomai West Port Ferry Terminal added to the travel guide</title>
+      <link>https://infrastructureclub.org/travel_guide/#tomakomai-west-port-ferry-terminal</link>
+      <guid isPermaLink="false">tomakomai-west-port-ferry-terminal</guid>
+      <pubDate>Tue, 27 Jan 2026 17:53:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Snow Festival added to the travel guide</title>
+      <link>https://infrastructureclub.org/travel_guide/#snow-festival</link>
+      <guid isPermaLink="false">snow-festival</guid>
+      <pubDate>Tue, 27 Jan 2026 17:53:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sapporo TV Tower added to the travel guide</title>
+      <link>https://infrastructureclub.org/travel_guide/#sapporo-tv-tower</link>
+      <guid isPermaLink="false">sapporo-tv-tower</guid>
+      <pubDate>Tue, 27 Jan 2026 17:53:16 +0000</pubDate>
     </item>
   </channel>
 </rss>

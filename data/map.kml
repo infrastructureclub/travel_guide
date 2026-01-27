@@ -3564,6 +3564,26 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Tomakomai West Port Ferry Terminal</name>
+        <description>Overnight ferry to sendai available, pain to book, but you can get a bedroom or pod, and can get a public bath on a moving ship.</description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            141.6349687,42.6384443,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Snow Festival</name>
+        <description>During February each year the park is taken over by huge snow carvings/statues.</description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            141.3544308,43.0607521,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>
@@ -9002,6 +9022,16 @@
         <Point>
           <coordinates>
             -76.7541981,37.3826217,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sapporo TV Tower</name>
+        <description>TV tower you can go up, has a mascot known as teli-dad https://yurukyara.fandom.com/wiki/Terebi_To-san</description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            141.3564246,43.0611047,0
           </coordinates>
         </Point>
       </Placemark>

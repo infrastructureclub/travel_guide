@@ -16,6 +16,7 @@ export const App = () => {
     Object.entries(places).filter(([k, p]) => categoryFilters.includes(p.category))
   ), [categoryFilters]);
   const [selectedId, setSelectedId] = useHash();
+  const [showCategories, setShowCategories] = React.useState(false);
   const selected = (selectedId && selectedId !== '') ? places[selectedId] : null;
   const initialViewport = React.useMemo(() => {
     if (selected) {
@@ -36,20 +37,27 @@ export const App = () => {
         {selected === null ?
           <>
             <h1>Infrastructure Club Travel Guide</h1>
-            {Object.entries(categories).map(([id, category]) =>
-              <div key={id}>
-                <input type="checkbox" name={id} id={id} checked={categoryFilters.includes(id)} onChange={e => {
-                  setCategoryFilters(filters => e.target.checked ? [...filters, id] : filters.filter(f => f !== id))
-                }} />
-                <label htmlFor={id}>{category.name} ({category.count})</label>
-              </div>)}
+            <button className="toggle-categories" onClick={() => setShowCategories(!showCategories)}>
+              <span>{showCategories ? '▼ Hide filters' : '▶ Show filters'}</span>
+              {!showCategories && <span className="filter-summary">{categoryFilters.length}/{Object.keys(categories).length} categories selected</span>}
+            </button>
+            <div className={'category-filters ' + (showCategories ? 'categories-visible' : 'categories-hidden')}>
+              {Object.entries(categories).map(([id, category]) =>
+                <div key={id}>
+                  <input type="checkbox" name={id} id={id} checked={categoryFilters.includes(id)} onChange={e => {
+                    setCategoryFilters(filters => e.target.checked ? [...filters, id] : filters.filter(f => f !== id))
+                  }} />
+                  <label htmlFor={id}>{category.name} ({category.count})</label>
+                </div>)}
+            </div>
           </>
           : <>
             <button className="back-link" onClick={() => setSelectedId(null)}>&lt; back to categories</button>
             <h1>{selected.name}</h1>
             <p><Linkify>{selected.description}</Linkify></p>
-            {selected.img && selected.img.map(url => <img alt="User provided" className="place-image" src={url} />)}
-          </>}
+            {selected.img && selected.img.map((url, i) => <img key={i} alt="User provided" className="place-image" src={url} />)}
+          </>
+        }
       </div>
     </main>
   )

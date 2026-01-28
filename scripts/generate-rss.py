@@ -35,7 +35,7 @@ for place in places_list[:50]:
     fe.id(place["id"])
     fe.published(published=date)
     fe.updated(updated=date)
-    fe.title(f'Added "{place["name"]}" in {loc['city']}, {loc['country']}')
+    fe.title(f'“{place["name"]}” added in {loc['city']}, {loc['country']}')
     if "description" in place:
         fe.description(place["description"])
     fe.link(href=f'https://infrastructureclub.org/travel_guide/#{place["id"]}')

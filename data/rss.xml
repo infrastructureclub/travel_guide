@@ -7,16 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Jan 2026 22:54:13 +0000</lastBuildDate>
-    <item>
-      <title>Added "Anti-Aircraft Battery Blantyreferme" in Blantyre, United Kingdom</title>
-      <link>https://infrastructureclub.org/travel_guide/#anti-aircraft-battery-blantyreferme</link>
-      <description>Remains of a gun battery from WW2.
-
-See https://www.secretscotland.org.uk/index.php/Secrets/AABatteryBlantyreferme</description>
-      <guid isPermaLink="false">anti-aircraft-battery-blantyreferme</guid>
-      <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 28 Jan 2026 02:09:15 +0000</lastBuildDate>
     <item>
       <title>Added "Anita Street Municipal housing development" in Manchester, United Kingdom</title>
       <link>https://infrastructureclub.org/travel_guide/#anita-street-municipal-housing-development</link>
@@ -368,6 +359,13 @@ https://aerospacebristol.org/</description>
 https://www.schwerbelastungskoerper.de/the-heavy-load-bearing-body.html</description>
       <guid isPermaLink="false">heavy-load-bearing-body</guid>
       <pubDate>Tue, 27 Jan 2026 22:54:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Added "Avala Tower" in Zuce, Serbia</title>
+      <link>https://infrastructureclub.org/travel_guide/#avala-tower</link>
+      <description>Enormous brutalist concrete TV tower in the shape of a tripod. Destroyed in 1999, rebuilt in 2010.</description>
+      <guid isPermaLink="false">avala-tower</guid>
+      <pubDate>Wed, 28 Jan 2026 02:09:15 +0000</pubDate>
     </item>
   </channel>
 </rss>

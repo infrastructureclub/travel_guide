@@ -9,7 +9,7 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 323,
+      "count": 324,
       "name": "Interesting Things"
     },
     "museums-attractions": {
@@ -785,6 +785,17 @@
       "description": "Quite good museum covering all things maritime, including several ships to vosit",
       "id": "australian-national-maritime-museum",
       "name": "Australian National Maritime Museum"
+    },
+    "avala-tower": {
+      "category": "interesting-things",
+      "coordinates": [
+        20.514655,
+        44.6959552
+      ],
+      "created": "2026-01-28T02:09:15.652205",
+      "description": "Enormous brutalist concrete TV tower in the shape of a tripod. Destroyed in 1999, rebuilt in 2010.",
+      "id": "avala-tower",
+      "name": "Avala Tower"
     },
     "avalon-marshes-centre": {
       "category": "museums-attractions",

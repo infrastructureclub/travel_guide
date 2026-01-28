@@ -6744,6 +6744,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    20.514655,
+                    44.6959552,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Avala Tower",
+                "styleUrl": "#icon-1598-A52714-labelson",
+                "styleHash": "-835978",
+                "icon": "images/icon-1.png",
+                "description": "Enormous brutalist concrete TV tower in the shape of a tripod. Destroyed in 1999, rebuilt in 2010."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0

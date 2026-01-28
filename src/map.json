@@ -1,7 +1,7 @@
 {
   "categories": {
     "historic-ruins-structures": {
-      "count": 126,
+      "count": 127,
       "name": "Historic / ruins / structures"
     },
     "industry": {
@@ -9,11 +9,11 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 324,
+      "count": 326,
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 564,
+      "count": 565,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -1182,6 +1182,17 @@
       "description": "Berlin's largest teaching hospital also has an excellent medical history museum. The museum houses an extensive spirit collection alongside exhibits on the medical treatments the hospital has developed over three centuries. Refreshingly it is open to the general public.",
       "id": "berlin-museum-of-medical-history-of-the-charit",
       "name": "Berlin Museum of Medical History of the Charit\u00e9"
+    },
+    "berlin-tunnel-tours": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        13.3889258,
+        52.5479695
+      ],
+      "created": "2026-01-28T18:44:44.977958",
+      "description": "A company that offers a selection of tours of various tunnels / underground infra across Berlin. Includes tours of the tunnels used to cross between East/West Berlin, a flooded bunker, a Nazi Flak Tower, old UBahn stations, and more. (Tours leave from various locations so worth checking ahead.)",
+      "id": "berlin-tunnel-tours",
+      "name": "Berlin Tunnel Tours"
     },
     "berry-head-lighthouse": {
       "category": "interesting-things",
@@ -4579,7 +4590,7 @@
         52.4841616
       ],
       "created": "2026-01-27T22:54:13.897704",
-      "description": "The Heavy Load-bearing Body is a giant concrete structure built to test how much load the ground in Berlin could hold to help with the Nazi plan to build a great big arch. It is quite a strange, squat concrete tower on an unassuming corner. Visiting hours are seasonal and they do guided tours daily. Entry is free.\nhttps://www.schwerbelastungskoerper.de/the-heavy-load-bearing-body.html",
+      "description": "The Heavy Load-bearing Body is a giant concrete structure built to test how much load the ground in Berlin could hold to help with the Nazi plan to build a great big arch. It is quite a strange, squat concrete tower on an unassuming corner. Visiting hours are seasonal (April - October) and they do guided tours every first Sunday of the month. Entry is free.\nhttps://www.schwerbelastungskoerper.de/the-heavy-load-bearing-body.html",
       "id": "heavy-load-bearing-body",
       "name": "Heavy Load-bearing Body"
     },
@@ -6361,6 +6372,17 @@
       "id": "maritime-museum-of-san-diego",
       "name": "Maritime Museum of San Diego"
     },
+    "mark-iv-british-tank": {
+      "category": "interesting-things",
+      "coordinates": [
+        0.8705555,
+        51.1502597
+      ],
+      "created": "2026-01-28T18:44:44.967470",
+      "description": "Only one of a few that still exist, spent part of it's life housing a power transformer for the town.",
+      "id": "mark-iv-british-tank",
+      "name": "Mark IV British tank"
+    },
     "markfield-beam-engine-and-museum": {
       "category": "interesting-things",
       "coordinates": [
@@ -7032,7 +7054,7 @@
         48.7159222
       ],
       "created": "2026-01-27T17:26:34.363113",
-      "description": "They have a Concorde, one of the early test flight planes. Easy access from Orly airport with tram T7, but limited opening hours, Wednesday and Saturday from 2pm to 6pm at press time.",
+      "description": "They have a Concorde, one of the early test flight planes. Easy access from Orly airport with tram T7, but limited opening hours, Wednesday and Saturday from 2pm to 6pm at press time.\n(by Niko)",
       "id": "muse-delta",
       "name": "Mus\u00e9e Delta"
     },
@@ -8889,6 +8911,16 @@
       "created": "2026-01-27T17:26:34.363113",
       "id": "planta-solar-10",
       "name": "Planta Solar 10"
+    },
+    "point-326": {
+      "category": "interesting-things",
+      "coordinates": [
+        0.7547009,
+        51.4667766
+      ],
+      "created": "2026-01-28T18:44:44.967490",
+      "id": "point-326",
+      "name": "Point 326"
     },
     "point-bonita-lighthouse": {
       "category": "historic-ruins-structures",
@@ -12219,6 +12251,17 @@
       "created": "2026-01-27T17:26:34.363113",
       "id": "the-rotherhithe-tunnel-ventilation-shaft-3",
       "name": "The Rotherhithe Tunnel Ventilation Shaft 3"
+    },
+    "the-royal-and-ancient-polar-bear-society": {
+      "category": "museums-attractions",
+      "coordinates": [
+        23.6898195,
+        70.663845
+      ],
+      "created": "2026-01-28T18:44:44.975415",
+      "description": "The annual meeting of the society is held on the third Sunday in January every year at 18.00 in the Polar Bear Society. All members are welcome.",
+      "id": "the-royal-and-ancient-polar-bear-society",
+      "name": "The Royal and Ancient Polar Bear Society"
     },
     "the-royal-logistic-corps-museum": {
       "category": "museums-attractions",

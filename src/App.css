@@ -99,3 +99,20 @@ h1 {
     display: none !important;
   }
 }
+
+.google-maps-link {
+  margin: 12px 0;
+}
+
+.google-maps-link a {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  color: #1a73e8;
+  text-decoration: none;
+  font-size: 0.95em;
+}
+
+.google-maps-link a:hover {
+  text-decoration: underline;
+}

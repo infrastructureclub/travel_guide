@@ -25,6 +25,9 @@ jobs:
           togeojson data/map.kml > data/map.geojson
       - name: Convert to json for website
         run: ./scripts/convert-to-json.py
+      - name: Download additional data (Place IDs)
+        run: ./scripts/download-additional-data.py
+        continue-on-error: true
       - name: Generate RSS feed
         run: ./scripts/generate-rss.py
       - name: Commit

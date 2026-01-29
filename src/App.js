@@ -55,6 +55,13 @@ export const App = () => {
             <button className="back-link" onClick={() => setSelectedId(null)}>&lt; back to categories</button>
             <h1>{selected.name}</h1>
             <p><Linkify>{selected.description}</Linkify></p>
+            {selected.googlePlaceId && (
+              <p className="google-maps-link">
+                <a href={`https://www.google.com/maps?q=place_id:${selected.googlePlaceId}`} target="_blank" rel="noopener noreferrer">
+                  View on Google Maps
+                </a>
+              </p>
+            )}
             {selected.img && selected.img.map((url, i) => <img key={i} alt="User provided" className="place-image" src={url} />)}
           </>
         }

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Jan 2026 18:44:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 02:31:16 +0000</lastBuildDate>
     <item>
       <title>“Anchor Church” added in Sinfin, United Kingdom</title>
       <link>https://infrastructureclub.org/travel_guide/#anchor-church</link>
@@ -346,12 +346,6 @@ https://www.schwerbelastungskoerper.de/the-heavy-load-bearing-body.html</descrip
       <pubDate>Wed, 28 Jan 2026 18:44:44 +0000</pubDate>
     </item>
     <item>
-      <title>“Point 326” added in Sheerness, United Kingdom</title>
-      <link>https://infrastructureclub.org/travel_guide/#point-326</link>
-      <guid isPermaLink="false">point-326</guid>
-      <pubDate>Wed, 28 Jan 2026 18:44:44 +0000</pubDate>
-    </item>
-    <item>
       <title>“The Royal and Ancient Polar Bear Society” added in Hammerfest, Norway</title>
       <link>https://infrastructureclub.org/travel_guide/#the-royal-and-ancient-polar-bear-society</link>
       <description>The annual meeting of the society is held on the third Sunday in January every year at 18.00 in the Polar Bear Society. All members are welcome.</description>
@@ -364,6 +358,15 @@ https://www.schwerbelastungskoerper.de/the-heavy-load-bearing-body.html</descrip
       <description>A company that offers a selection of tours of various tunnels / underground infra across Berlin. Includes tours of the tunnels used to cross between East/West Berlin, a flooded bunker, a Nazi Flak Tower, old UBahn stations, and more. (Tours leave from various locations so worth checking ahead.)</description>
       <guid isPermaLink="false">berlin-tunnel-tours</guid>
       <pubDate>Wed, 28 Jan 2026 18:44:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Richard Montgomery Exclusion Zone” added in Sheerness, United Kingdom</title>
+      <link>https://infrastructureclub.org/travel_guide/#richard-montgomery-exclusion-zone</link>
+      <description>Here lies the Richard Montgomery, loaded with 7230 unexploded bombs. Do not go here.
+
+https://en.wikipedia.org/wiki/SS_Richard_Montgomery</description>
+      <guid isPermaLink="false">richard-montgomery-exclusion-zone</guid>
+      <pubDate>Thu, 29 Jan 2026 02:31:16 +0000</pubDate>
     </item>
   </channel>
 </rss>

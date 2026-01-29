@@ -6780,16 +6780,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.7547009,
-                    51.4667766,
+                    0.7879174,
+                    51.470252,
                     0
                 ]
             },
             "properties": {
-                "name": "Point 326",
-                "styleUrl": "#icon-1598-A52714-labelson-nodesc",
-                "styleHash": "-505f2c1",
-                "icon": "images/icon-1.png"
+                "name": "Richard Montgomery Exclusion Zone",
+                "styleUrl": "#icon-1598-A52714-labelson",
+                "styleHash": "-835978",
+                "icon": "images/icon-1.png",
+                "description": "Here lies the Richard Montgomery, loaded with 7230 unexploded bombs. Do not go here.<br><br>https://en.wikipedia.org/wiki/SS_Richard_Montgomery"
             }
         },
         {

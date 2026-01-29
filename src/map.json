@@ -8912,16 +8912,6 @@
       "id": "planta-solar-10",
       "name": "Planta Solar 10"
     },
-    "point-326": {
-      "category": "interesting-things",
-      "coordinates": [
-        0.7547009,
-        51.4667766
-      ],
-      "created": "2026-01-28T18:44:44.967490",
-      "id": "point-326",
-      "name": "Point 326"
-    },
     "point-bonita-lighthouse": {
       "category": "historic-ruins-structures",
       "coordinates": [
@@ -9534,6 +9524,17 @@
       "created": "2026-01-27T17:26:34.363113",
       "id": "ribblehead-viaduct",
       "name": "Ribblehead Viaduct"
+    },
+    "richard-montgomery-exclusion-zone": {
+      "category": "interesting-things",
+      "coordinates": [
+        0.7879174,
+        51.470252
+      ],
+      "created": "2026-01-29T02:31:16.753153",
+      "description": "Here lies the Richard Montgomery, loaded with 7230 unexploded bombs. Do not go here.\n\nhttps://en.wikipedia.org/wiki/SS_Richard_Montgomery",
+      "id": "richard-montgomery-exclusion-zone",
+      "name": "Richard Montgomery Exclusion Zone"
     },
     "ripple-rock-site": {
       "category": "interesting-things",

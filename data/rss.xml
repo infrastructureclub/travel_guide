@@ -7,37 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Jan 2026 02:31:16 +0000</lastBuildDate>
-    <item>
-      <title>“Anchor Church” added in Sinfin, United Kingdom</title>
-      <link>https://infrastructureclub.org/travel_guide/#anchor-church</link>
-      <description>A series of sandstone caves that have been carved into the rock. http://en.wikipedia.org/wiki/Anchor_Church</description>
-      <guid isPermaLink="false">anchor-church</guid>
-      <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Amundsen-Scott South Pole Station” added in Grytviken, South Georgia and the South Sandwich Islands</title>
-      <link>https://infrastructureclub.org/travel_guide/#amundsen-scott-south-pole-station</link>
-      <guid isPermaLink="false">amundsen-scott-south-pole-station</guid>
-      <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Amphitheater of El Jem” added in El Jem, Tunisia</title>
-      <link>https://infrastructureclub.org/travel_guide/#amphitheater-of-el-jem</link>
-      <description>El Jem's Amphitheater and museum more than make up for the disappointment of Carthage, and it is well worth a special trip to see them.
-
-The amphitheater is huge (3rd largest in the world), and at least has a little interpretation. You can climb all the way up to the highest levels and look down on the floor (and the town), and also explore the underground levels.
-
-Honestly, it's better than the Roman Colosseum in many ways. Beautiful photography opportunities abound.
-
-A 15 minute walk takes you to the museum, which is chock full of huge (room-sized) intact Roman mosaics. One of the best collections I've ever seen.
-
-Worth at least an hour, two plus if you include the museum. A half day in El Jem is not out of order.
-
-Added by grajohnt</description>
-      <guid isPermaLink="false">amphitheater-of-el-jem</guid>
-      <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 30 Jan 2026 13:07:40 +0000</lastBuildDate>
     <item>
       <title>“Amoreiras Mother of Water Reservoir” added in Principe Real, Portugal</title>
       <link>https://infrastructureclub.org/travel_guide/#amoreiras-mother-of-water-reservoir</link>
@@ -367,6 +337,26 @@ https://www.schwerbelastungskoerper.de/the-heavy-load-bearing-body.html</descrip
 https://en.wikipedia.org/wiki/SS_Richard_Montgomery</description>
       <guid isPermaLink="false">richard-montgomery-exclusion-zone</guid>
       <pubDate>Thu, 29 Jan 2026 02:31:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Rotterdam Maritime Museum” added in Rotterdam, Netherlands</title>
+      <link>https://infrastructureclub.org/travel_guide/#rotterdam-maritime-museum</link>
+      <guid isPermaLink="false">rotterdam-maritime-museum</guid>
+      <pubDate>Fri, 30 Jan 2026 13:07:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Tenterden Kent” added in Tenterden, United Kingdom</title>
+      <link>https://infrastructureclub.org/travel_guide/#tenterden-kent</link>
+      <description>Heritage railway running to Bodiam, a mix of steam and diesel. Has a full set of Pullman dining cars which are sometimes run for meals.</description>
+      <guid isPermaLink="false">tenterden-kent</guid>
+      <pubDate>Fri, 30 Jan 2026 13:07:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Middleton Railway” added in Leeds, United Kingdom</title>
+      <link>https://infrastructureclub.org/travel_guide/#middleton-railway</link>
+      <description>Heritage railway, short track, with long history. Started in 1758</description>
+      <guid isPermaLink="false">middleton-railway</guid>
+      <pubDate>Fri, 30 Jan 2026 13:07:40 +0000</pubDate>
     </item>
   </channel>
 </rss>

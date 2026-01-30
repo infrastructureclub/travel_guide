@@ -3614,6 +3614,35 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Rotterdam Maritime Museum</name>
+        <styleUrl>#icon-1598-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.4820976,51.9176504,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tenterden Kent</name>
+        <description>Heritage railway running to Bodiam, a mix of steam and diesel. Has a full set of Pullman dining cars which are sometimes run for meals.</description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            0.6850352,51.070177,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Middleton Railway</name>
+        <description>Heritage railway, short track, with long history. Started in 1758</description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -1.5383203,53.7747091,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>

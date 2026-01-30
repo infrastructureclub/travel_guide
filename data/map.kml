@@ -155,6 +155,40 @@
         <text><![CDATA[<h3>$[name]</h3>]]></text>
       </BalloonStyle>
     </Style>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-9.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-9.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="line-A52714-6764-normal">
       <LineStyle>
         <color>ff1427a5</color>
@@ -9104,6 +9138,26 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Mining Museum Landek Park</name>
+        <description>Mining museum, plus the change to go down in a mine cage abotu 2m below the surface to see some mine shafts. also you can ride a above ground mine rail</description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            18.2654811,49.868869,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ostrava firefighter museum</name>
+        <description>Small museum where you can see some old fire engines and such</description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            18.273289,49.85207,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>
@@ -9447,6 +9501,26 @@
         <Point>
           <coordinates>
             -1.1811072,54.6354913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bolt Tower</name>
+        <description>Old Blast furnace various tours you can do in a hard hat and hard hat. Plus you can go to the top of one of the blast furnaces which has a nice view. Be aware they do tours but I had some issue that even though they advertise them in english the tour it self was not. so check first.</description>
+        <styleUrl>#icon-1693-757575-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            18.2767942,49.8195588,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Michal mine</name>
+        <description><![CDATA[Access is via guided tour only. it's in Czech but you get an english audio tour. can see the old offices, changing rooms, and some other stuff]]></description>
+        <styleUrl>#icon-1693-757575-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            18.3447593,49.8422317,0
           </coordinates>
         </Point>
       </Placemark>
@@ -10700,6 +10774,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Silesian Ostrava Castle</name>
+        <description><![CDATA[It's a small rebuilt castle. Due to mining sustenance it's about 11m lower then it was when originally built]]></description>
+        <styleUrl>#icon-1608-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            18.2996991,49.8303743,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Nature</name>
@@ -11336,6 +11420,16 @@
         <Point>
           <coordinates>
             141.064334,43.1768686,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Halda Ema</name>
+        <description>Old mining waste heap that is 1000c inside so be careful if you go to the top</description>
+        <styleUrl>#icon-1596-558B2F-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            18.3145256,49.8396683,0
           </coordinates>
         </Point>
       </Placemark>
@@ -13133,6 +13227,16 @@
     </Folder>
     <Folder>
       <name>Stays</name>
+      <Placemark>
+        <name>Bunkr Přáslavice</name>
+        <description>Cold war bunker housing a telephone exchange. built halfway into a hill. has some massive generators on springs. Access via tour only</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            17.4042636,49.5971845,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
   </Document>
 </kml>

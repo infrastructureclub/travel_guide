@@ -16741,6 +16741,42 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    18.2654811,
+                    49.868869,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mining Museum Landek Park",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "icon": "images/icon-2.png",
+                "description": "Mining museum, plus the change to go down in a mine cage abotu 2m below the surface to see some mine shafts. also you can ride a above ground mine rail"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.273289,
+                    49.85207,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ostrava firefighter museum",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "icon": "images/icon-2.png",
+                "description": "Small museum where you can see some old fire engines and such"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.9055879,
                     38.1671515,
                     0
@@ -17340,6 +17376,42 @@
                 "styleHash": "-1d74371c",
                 "icon": "images/icon-3.png",
                 "description": "Visitor centre is open on Tuesdays and Thursdays from 9:00-12:00 for prearranged station tours.<br>https://www.edfenergy.com/energy/power-stations/hartlepool#visit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2767942,
+                    49.8195588,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bolt Tower",
+                "styleUrl": "#icon-1693-757575-labelson",
+                "styleHash": "-1d74371c",
+                "icon": "images/icon-3.png",
+                "description": "Old Blast furnace various tours you can do in a hard hat and hard hat. Plus you can go to the top of one of the blast furnaces which has a nice view. Be aware they do tours but I had some issue that even though they advertise them in english the tour it self was not. so check first."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3447593,
+                    49.8422317,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Michal mine",
+                "styleUrl": "#icon-1693-757575-labelson",
+                "styleHash": "-1d74371c",
+                "icon": "images/icon-3.png",
+                "description": "Access is via guided tour only. it's in Czech but you get an english audio tour. can see the old offices, changing rooms, and some other stuff"
             }
         },
         {
@@ -19597,6 +19669,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    18.2996991,
+                    49.8303743,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Silesian Ostrava Castle",
+                "styleUrl": "#icon-1608-F9A825-labelson",
+                "styleHash": "-5f1b77a2",
+                "icon": "images/icon-4.png",
+                "description": "It's a small rebuilt castle. Due to mining sustenance it's about 11m lower then it was when originally built"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -122.119383,
                     42.9370052,
                     0
@@ -20722,6 +20812,24 @@
                 "styleHash": "638c400",
                 "icon": "images/icon-5.png",
                 "description": "You can walk east along the coast for a way, alongside the train tracks. Added by Ed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3145256,
+                    49.8396683,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Halda Ema",
+                "styleUrl": "#icon-1596-558B2F-labelson",
+                "styleHash": "638c400",
+                "icon": "images/icon-5.png",
+                "description": "Old mining waste heap that is 1000c inside so be careful if you go to the top"
             }
         },
         {
@@ -23939,6 +24047,28 @@
                 "styleHash": "1468cf8f",
                 "icon": "images/icon-8.png",
                 "description": "The only shrine (I know of) that has lucky amulets (omamori) dedicated to computer IT luck."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4042636,
+                    49.5971845,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bunkr Přáslavice",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "4d1165f2",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "images/icon-9.png",
+                "description": "Cold war bunker housing a telephone exchange. built halfway into a hill. has some massive generators on springs. Access via tour only"
             }
         }
     ]

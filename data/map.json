@@ -1,11 +1,11 @@
 {
   "categories": {
     "historic-ruins-structures": {
-      "count": 127,
+      "count": 128,
       "name": "Historic / ruins / structures"
     },
     "industry": {
-      "count": 34,
+      "count": 36,
       "name": "Industry"
     },
     "interesting-things": {
@@ -13,11 +13,11 @@
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 565,
+      "count": 567,
       "name": "Museums / attractions"
     },
     "nature": {
-      "count": 64,
+      "count": 65,
       "name": "Nature"
     },
     "not-open-to-public-but-visible": {
@@ -33,7 +33,7 @@
       "name": "Science"
     },
     "stays": {
-      "count": 0,
+      "count": 1,
       "name": "Stays"
     }
   },
@@ -1385,6 +1385,17 @@
       "id": "bohemian-grove",
       "name": "Bohemian Grove"
     },
+    "bolt-tower": {
+      "category": "industry",
+      "coordinates": [
+        18.2767942,
+        49.8195588
+      ],
+      "created": "2026-01-30T18:53:00.567274",
+      "description": "Old Blast furnace various tours you can do in a hard hat and hard hat. Plus you can go to the top of one of the blast furnaces which has a nice view. Be aware they do tours but I had some issue that even though they advertise them in english the tour it self was not. so check first.",
+      "id": "bolt-tower",
+      "name": "Bolt Tower"
+    },
     "bolton-steam-museum": {
       "category": "museums-attractions",
       "coordinates": [
@@ -1711,6 +1722,17 @@
       "created": "2026-01-27T17:26:34.363113",
       "id": "bull-run-powerhouse",
       "name": "Bull Run Powerhouse"
+    },
+    "bunkr-pslavice": {
+      "category": "stays",
+      "coordinates": [
+        17.4042636,
+        49.5971845
+      ],
+      "created": "2026-01-30T18:53:00.572956",
+      "description": "Cold war bunker housing a telephone exchange. built halfway into a hill. has some massive generators on springs. Access via tour only",
+      "id": "bunkr-pslavice",
+      "name": "Bunkr P\u0159\u00e1slavice"
     },
     "burke-museum-of-natural-history-and-culture": {
       "category": "para-infrastructural-cultural",
@@ -4392,6 +4414,17 @@
       "id": "hakata-port-tower",
       "name": "Hakata Port Tower"
     },
+    "halda-ema": {
+      "category": "nature",
+      "coordinates": [
+        18.3145256,
+        49.8396683
+      ],
+      "created": "2026-01-30T18:53:00.570286",
+      "description": "Old mining waste heap that is 1000c inside so be careful if you go to the top",
+      "id": "halda-ema",
+      "name": "Halda Ema"
+    },
     "halde-haniel": {
       "category": "industry",
       "coordinates": [
@@ -6600,6 +6633,17 @@
       "id": "mexicable",
       "name": "Mexicable"
     },
+    "michal-mine": {
+      "category": "industry",
+      "coordinates": [
+        18.3447593,
+        49.8422317
+      ],
+      "created": "2026-01-30T18:53:00.567291",
+      "description": "Access is via guided tour only. it's in Czech but you get an english audio tour. can see the old offices, changing rooms, and some other stuff",
+      "id": "michal-mine",
+      "name": "Michal mine"
+    },
     "micropia": {
       "category": "museums-attractions",
       "coordinates": [
@@ -6750,6 +6794,17 @@
       "created": "2026-01-27T17:26:34.363113",
       "id": "miniature-world",
       "name": "Miniature World"
+    },
+    "mining-museum-landek-park": {
+      "category": "museums-attractions",
+      "coordinates": [
+        18.2654811,
+        49.868869
+      ],
+      "created": "2026-01-30T18:53:00.566688",
+      "description": "Mining museum, plus the change to go down in a mine cage abotu 2m below the surface to see some mine shafts. also you can ride a above ground mine rail",
+      "id": "mining-museum-landek-park",
+      "name": "Mining Museum Landek Park"
     },
     "mint-museum": {
       "category": "museums-attractions",
@@ -8525,6 +8580,17 @@
       "description": "One of only two ossuaries in the UK. See https://www.slhk.org/theossuary.htm",
       "id": "ossuary-in-the-crypt-of-st-leonards-church",
       "name": "Ossuary in the Crypt of St Leonard's church"
+    },
+    "ostrava-firefighter-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        18.273289,
+        49.85207
+      ],
+      "created": "2026-01-30T18:53:00.566714",
+      "description": "Small museum where you can see some old fire engines and such",
+      "id": "ostrava-firefighter-museum",
+      "name": "Ostrava firefighter museum"
     },
     "ouarzazate-noor-solar-power-station": {
       "category": "industry",
@@ -10563,6 +10629,17 @@
       "description": "The largest artificial mound in Europe, mysterious Silbury Hill compares in height and volume to the roughly contemporary Egyptian pyramids. Probably completed in around 2400 BC, it apparently contains no burial. Though clearly important in itself, its purpose and significance remain unknown.\n\nhttps://www.english-heritage.org.uk/visit/places/silbury-hill/",
       "id": "silbury-hill",
       "name": "Silbury Hill"
+    },
+    "silesian-ostrava-castle": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        18.2996991,
+        49.8303743
+      ],
+      "created": "2026-01-30T18:53:00.569290",
+      "description": "It's a small rebuilt castle. Due to mining sustenance it's about 11m lower then it was when originally built",
+      "id": "silesian-ostrava-castle",
+      "name": "Silesian Ostrava Castle"
     },
     "singing-ringing-tree": {
       "category": "interesting-things",

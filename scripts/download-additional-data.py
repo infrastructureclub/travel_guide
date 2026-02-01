@@ -296,17 +296,16 @@ def find_place_id(data, depth=0):
     return None
 
 
-def normalize_name(name):
-    """Normalize a place name for comparison."""
-    if not name:
-        return ""
-    # Convert to lowercase, remove extra whitespace
-    normalized = name.lower().strip()
-    # Remove common punctuation
-    normalized = re.sub(r'[^\w\s]', '', normalized)
-    # Collapse whitespace
-    normalized = re.sub(r'\s+', ' ', normalized)
-    return normalized
+def round_coordinates(lat, lng, precision=5):
+    """
+    Round coordinates to specified decimal places for matching.
+    
+    5 decimal places = ~1.1m precision
+    6 decimal places = ~11cm precision
+    """
+    if lat is None or lng is None:
+        return None
+    return (round(lat, precision), round(lng, precision))
 
 
 def load_map_json():
@@ -321,43 +320,54 @@ def load_map_json():
     raise FileNotFoundError("Could not find map.json")
 
 
-def update_map_json(map_data, places_with_ids, output_path):
+def update_map_json(map_data, places_with_ids, all_places, output_path):
     """
     Update map.json with extracted place IDs.
     
-    Matches places by name (normalized) and optionally by coordinates.
+    Matches places by coordinates (rounded to 5 decimal places for tolerance).
     """
     print(f"\nUpdating map.json with {len(places_with_ids)} extracted places...")
     
-    # Build a lookup by normalized name
+    # Build a lookup by coordinates
     place_id_lookup = {}
     for place in places_with_ids:
-        if place.get('place_id'):
-            norm_name = normalize_name(place['name'])
-            if norm_name:
-                place_id_lookup[norm_name] = place['place_id']
+        if place.get('place_id') and place.get('lat') is not None and place.get('lng') is not None:
+            coords_key = round_coordinates(place['lat'], place['lng'])
+            if coords_key:
+                place_id_lookup[coords_key] = {
+                    'place_id': place['place_id'],
+                    'name': place['name']
+                }
     
-    print(f"Found {len(place_id_lookup)} places with Google Place IDs")
+    print(f"Found {len(place_id_lookup)} places with Google Place IDs and coordinates")
     
     # Update the map data
     updated_count = 0
     already_has_count = 0
+    not_matched_count = 0
     
     for place_id, place_data in map_data.get('places', {}).items():
-        place_name = place_data.get('name', '')
-        norm_name = normalize_name(place_name)
+        coords = place_data.get('coordinates')
         
-        if norm_name in place_id_lookup:
-            google_place_id = place_id_lookup[norm_name]
+        if coords and len(coords) >= 2:
+            # map.json has [lng, lat] format (GeoJSON standard)
+            lng, lat = coords[0], coords[1]
+            coords_key = round_coordinates(lat, lng)
             
-            if 'googlePlaceId' in place_data:
-                already_has_count += 1
+            if coords_key in place_id_lookup:
+                google_place_id = place_id_lookup[coords_key]['place_id']
+                
+                if 'googlePlaceId' in place_data:
+                    already_has_count += 1
+                else:
+                    place_data['googlePlaceId'] = google_place_id
+                    updated_count += 1
             else:
-                place_data['googlePlaceId'] = google_place_id
-                updated_count += 1
+                not_matched_count += 1
     
     print(f"Updated {updated_count} places with new Google Place IDs")
     print(f"Skipped {already_has_count} places that already had Place IDs")
+    print(f"Could not match {not_matched_count} places by coordinates")
     
     # Save the updated map.json
     print(f"Saving updated map.json to {output_path}")
@@ -386,23 +396,33 @@ def main():
     # Step 2: Extract and parse pageData
     page_data = extract_page_data(html)
     
+    # Save pageData for debugging
+    debug_path = os.path.join(SCRIPT_DIR, '..', 'data', 'pagedata_debug.json')
+    with open(debug_path, 'w', encoding='utf-8') as f:
+        json.dump(page_data, f, indent=2, ensure_ascii=False)
+    
     # Step 3: Extract places with IDs
     places = extract_places_with_ids(page_data)
     
-    print(f"\nExtracted {len(places)} total places from My Maps")
+    print(f"\nExtracted {len(places)} total places from My Maps (_pageData)")
     
     places_with_ids = [p for p in places if p.get('place_id')]
     print(f"Of which {len(places_with_ids)} have Google Place IDs")
     
-    # Debug: print some examples
-    if places_with_ids:
-        print("\nSample places with Place IDs:")
-        for place in places_with_ids[:5]:
-            print(f"  - {place['name']}: {place['place_id']}")
-    
     # Step 4: Load and update map.json
     map_data, map_path = load_map_json()
-    updated = update_map_json(map_data, places_with_ids, map_path)
+    
+    total_in_map_json = len(map_data.get('places', {}))
+    print(f"\nmap.json contains {total_in_map_json} places")
+    print(f"Difference: {abs(len(places) - total_in_map_json)} places")
+    if len(places) > total_in_map_json:
+        print(f"  (_pageData has {len(places) - total_in_map_json} more places than map.json)")
+    elif total_in_map_json > len(places):
+        print(f"  (map.json has {total_in_map_json - len(places)} more places than _pageData)")
+    else:
+        print(f"  (Both sources have the same number of places)")
+    
+    updated = update_map_json(map_data, places_with_ids, places, map_path)
     
     print("\n" + "=" * 60)
     print(f"Done! Updated {updated} places with Google Place IDs")

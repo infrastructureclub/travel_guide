@@ -6851,6 +6851,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    8.9237932,
+                    44.4167767,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ascensore Castello D’Albertis - Montegalletto",
+                "styleUrl": "#icon-1598-A52714-labelson",
+                "styleHash": "-835978",
+                "icon": "images/icon-1.png",
+                "description": "A hybrid lift/funicular that transitions between the two half way through the journey. https://en.wikipedia.org/wiki/Ascensore_Castello_d%27Albertis-Montegalletto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0

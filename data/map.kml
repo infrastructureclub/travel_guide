@@ -3677,6 +3677,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Ascensore Castello D’Albertis - Montegalletto</name>
+        <description>A hybrid lift/funicular that transitions between the two half way through the journey. https://en.wikipedia.org/wiki/Ascensore_Castello_d%27Albertis-Montegalletto</description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            8.9237932,44.4167767,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>

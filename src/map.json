@@ -9,7 +9,7 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 329,
+      "count": 330,
       "name": "Interesting Things"
     },
     "museums-attractions": {
@@ -45,6 +45,7 @@
         37.6409156
       ],
       "created": "2026-01-27T17:26:34.363113",
+      "googlePlaceId": "ChIJfVQTMqe_YBMRcsSeNJQbnPc",
       "id": "-",
       "name": "Μουσείο Μαρμαροτεχνίας"
     },
@@ -56,6 +57,7 @@
       ],
       "created": "2026-01-27T17:26:34.363113",
       "description": "Old technical museum. Lovely stuff.",
+      "googlePlaceId": "ChIJ1WWz9lQ4qBQRa_qGs09KDZI",
       "id": "-2",
       "name": "Πολυχώρος Πολιτισμού \"Ισλαχανέ\""
     },
@@ -67,6 +69,7 @@
       ],
       "created": "2026-01-27T17:26:34.363113",
       "description": "www.wired.com/dangerroom/2013/02/secret-drone-base-2/",
+      "googlePlaceId": "ChIJQfRnZVFRcz4R5d1Tb_1pSBQ",
       "id": "-3",
       "name": "مطار. اك الملح‎"
     },
@@ -78,6 +81,7 @@
       ],
       "created": "2026-01-27T17:27:08.065528",
       "description": "Lookout point and large orange sphere. Cool to quickly look around. Added by Ed",
+      "googlePlaceId": "ChIJq6pqRz1TFTURVLemTCtRK8k",
       "id": "2",
       "name": "港の散歩道"
     },
@@ -526,6 +530,7 @@
         53.1737524
       ],
       "created": "2026-01-27T17:26:34.363113",
+      "googlePlaceId": "ChIJwXn3SdCvZUgRoItBBFCTS8A",
       "id": "anglesey-transport-museum-caf-tacla-taid",
       "name": "Anglesey Transport Museum & Café - Tacla Taid"
     },
@@ -628,6 +633,7 @@
         38.7266673
       ],
       "created": "2026-01-27T17:26:34.363113",
+      "googlePlaceId": "ChIJw3OwjmkzGQ0RS6X9CykgE4Y",
       "id": "aqueduto-das-guas-livres",
       "name": "Aqueduto das Águas Livres"
     },
@@ -754,6 +760,18 @@
       "googlePlaceId": "ChIJRbfzJuTfCl8R5dKroroOu1s",
       "id": "asari-station",
       "name": "Asari Station"
+    },
+    "ascensore-castello-dalbertis-montegalletto": {
+      "category": "interesting-things",
+      "coordinates": [
+        8.9237932,
+        44.4167767
+      ],
+      "created": "2026-02-02T02:41:03.947513",
+      "description": "A hybrid lift/funicular that transitions between the two half way through the journey. https://en.wikipedia.org/wiki/Ascensore_Castello_d%27Albertis-Montegalletto",
+      "googlePlaceId": "ChIJPZoGXhhB0xIRXArUSCWQTv8",
+      "id": "ascensore-castello-dalbertis-montegalletto",
+      "name": "Ascensore Castello D’Albertis - Montegalletto"
     },
     "asheville-radio-museum": {
       "category": "museums-attractions",
@@ -1266,6 +1284,7 @@
       ],
       "created": "2026-01-27T17:26:34.363113",
       "description": "Berlin's largest teaching hospital also has an excellent medical history museum. The museum houses an extensive spirit collection alongside exhibits on the medical treatments the hospital has developed over three centuries. Refreshingly it is open to the general public.",
+      "googlePlaceId": "ChIJKQmoOJVRqEcRw_H5hSAszC8",
       "id": "berlin-museum-of-medical-history-of-the-charit",
       "name": "Berlin Museum of Medical History of the Charité"
     },
@@ -1761,7 +1780,6 @@
         51.354512
       ],
       "created": "2026-01-27T17:26:34.363113",
-      "googlePlaceId": "ChIJt7ckHfl1dkgRmnlAYhjMljA",
       "id": "brooklands-museum",
       "name": "Brooklands Museum"
     },
@@ -1862,6 +1880,7 @@
       ],
       "created": "2026-01-30T18:53:00.572956",
       "description": "Cold war bunker housing a telephone exchange. built halfway into a hill. has some massive generators on springs. Access via tour only",
+      "googlePlaceId": "ChIJMW4o70lNEkcR0-wmMI4T_a0",
       "id": "bunkr-pslavice",
       "name": "Bunkr Přáslavice"
     },
@@ -2093,6 +2112,7 @@
       ],
       "created": "2026-01-27T17:26:34.363113",
       "description": "Ed: Contemporary music hall. Can join regular tours. Has a 'cyber' room.",
+      "googlePlaceId": "ChIJz0Pm3ABlJA0R7UBFROy6XsM",
       "id": "casa-da-msica",
       "img": [
         "./data/images/43000efad24fb32628eec8ee54ba04dcd99963b9f934d0cf7afe662eb5cfca97.png",
@@ -2285,7 +2305,6 @@
       ],
       "created": "2026-01-27T17:26:34.363113",
       "description": "Hanging Monorail",
-      "googlePlaceId": "ChIJvYNRjrCEImARHEEGXup3muE",
       "id": "chiba-urban-monorail2",
       "name": "Chiba Urban Monorail"
     },
@@ -2297,7 +2316,6 @@
       ],
       "created": "2026-01-27T17:26:34.363113",
       "description": "Hanging Monorail",
-      "googlePlaceId": "ChIJvYNRjrCEImARHEEGXup3muE",
       "id": "chiba-urban-monorail3",
       "name": "Chiba Urban Monorail"
     },
@@ -3331,6 +3349,7 @@
       ],
       "created": "2026-01-27T17:26:34.363113",
       "description": "Home of north-west Germany's other, less famous, suspended monorail.",
+      "googlePlaceId": "ChIJUxLZNy7IuEcRVfTUlmn1Vls",
       "id": "dsseldorf-airport-suspended-monorail",
       "name": "Düsseldorf Airport Suspended Monorail"
     },
@@ -3556,6 +3575,7 @@
       ],
       "created": "2026-01-27T17:26:34.363113",
       "description": "Boats lifted out of water to go uphill instead of locks",
+      "googlePlaceId": "ChIJf7d49auv4kYR0-ER69Jpdus",
       "id": "elblg-canal",
       "name": "Elbląg Canal"
     },
@@ -3619,6 +3639,7 @@
       ],
       "created": "2026-01-27T17:26:34.363113",
       "description": "Former underground airbase facility",
+      "googlePlaceId": "ChIJH-2c28ZDYUcRvMwQ3Y7_uUY",
       "id": "eljava-aerodrome",
       "name": "Željava Aerodrome"
     },
@@ -3713,6 +3734,7 @@
       ],
       "created": "2026-01-27T17:26:34.363113",
       "description": "Former metro station, now a museum",
+      "googlePlaceId": "ChIJzwFcoIwoQg0RLV6E3gaGj8Y",
       "id": "estacin-museo-de-chamber",
       "name": "Estación Museo de Chamberí"
     },
@@ -4574,6 +4596,7 @@
         37.6751998
       ],
       "created": "2026-01-27T17:26:34.363113",
+      "googlePlaceId": "ChIJgSTYSgDxohQRTP-mT4KuOrE",
       "id": "green-marble-quarry-tinos-",
       "name": "Green marble quarry Tinos (πράσινο λατομείο τηνος)"
     },
@@ -4666,6 +4689,7 @@
         35.6488124
       ],
       "created": "2026-01-27T17:26:34.363113",
+      "googlePlaceId": "ChIJVVUBmZ_zGGARrEy-Ua3psAY",
       "id": "gtokuji-temple",
       "name": "Gōtokuji Temple"
     },
@@ -4791,6 +4815,7 @@
         20.7081832
       ],
       "created": "2026-01-27T17:26:34.363113",
+      "googlePlaceId": "ChIJWUoZoQ3IVHkRsxQCEtXrZFE",
       "id": "haleakal-observatory",
       "name": "Haleakalā Observatory"
     },
@@ -4928,7 +4953,6 @@
       ],
       "created": "2026-01-27T17:26:34.363113",
       "description": "Museum in a working Victorian hat factory. Factory floor tours available to see the working equipment.\n\nhttps://www.stockport.gov.uk/topic/hat-works#",
-      "googlePlaceId": "ChIJc7tJ4Huze0gRuRBjCFDb9XA",
       "id": "hat-works",
       "name": "Hat Works"
     },
@@ -5043,6 +5067,7 @@
         42.915709
       ],
       "created": "2026-01-27T17:26:34.363113",
+      "googlePlaceId": "ChIJrzWa_wrSCl8RrNzBjBCusGc",
       "id": "hheiky-dam",
       "name": "Hōheikyō Dam"
     },
@@ -5306,6 +5331,7 @@
       ],
       "created": "2026-01-27T17:26:34.363113",
       "description": "Original \"survey marker\" for AOD (NAP), the original sea level reference for Europe",
+      "googlePlaceId": "ChIJh2cMrIoJxkcRYdGHQiRSIqw",
       "id": "huddes-stones",
       "name": "Hudde’s stones"
     },
@@ -5410,6 +5436,7 @@
         58.8213896
       ],
       "created": "2026-01-27T17:26:34.363113",
+      "googlePlaceId": "ChIJ-T7UolvqREYRKPSpg2XwaAA",
       "id": "hverud-aqueduct",
       "name": "Håverud Aqueduct"
     },
@@ -5443,6 +5470,7 @@
         50.081047
       ],
       "created": "2026-01-27T17:26:34.363113",
+      "googlePlaceId": "ChIJweACSJyUC0cRE4gGU06KHKY",
       "id": "ikov-television-tower",
       "name": "Žižkov Television Tower"
     },
@@ -5623,6 +5651,7 @@
         24.82376
       ],
       "created": "2026-01-27T17:26:34.363113",
+      "googlePlaceId": "ChIJl4FLvgLavIYRcRPjGFB5ls4",
       "id": "jardn-botnico-culiacn",
       "name": "Jardín Botánico Culiacán"
     },
@@ -5657,6 +5686,7 @@
       ],
       "created": "2026-01-27T17:26:34.363113",
       "description": "Incredible half-antenna, half-hotel from the 1960s.",
+      "googlePlaceId": "ChIJN1ZquDQ2CUcRLIxuPKXgtwY",
       "id": "jetd-tower",
       "name": "Ještěd Tower"
     },
@@ -5968,6 +5998,7 @@
         51.5059562
       ],
       "created": "2026-01-27T17:26:34.363113",
+      "googlePlaceId": "ChIJZ7cPFK8EdkgRNtgccwPRuwI",
       "id": "kirkaldys-testing-works",
       "name": "Kirkaldy’s Testing Works"
     },
@@ -6073,6 +6104,7 @@
       ],
       "created": "2026-01-27T17:26:34.363113",
       "description": "\"The entrance to the park at Klarov opposite Kunsthalle Praha leads not only to the park itself but also to a sculptural micro-city by the artist Krištof Kintera, who has created works based on seven actual buildings constructed in the second half of the past century in Prague. Sensitively embedded in the uneven terrain, these concrete miniatures reflect a conventional urban environment comprised of current, demolished, and utopian buildings, including a church, bank, TV tower, shopping mall, central telecommunication building, housing estate, and a hotel.\" - https://www.kunsthallepraha.org/en/events/kristof-kintera-building-sculptures-and-girl-with-a-dove",
+      "googlePlaceId": "ChIJIc12piCVC0cRuOvLiTWfNLI",
       "id": "kritof-kintera-building-sculptures",
       "img": [
         "./data/images/7771018a984eb4bd9a18206468f4cf6ee490787e66606a006894a3dc76a6a94a.png"
@@ -6650,6 +6682,7 @@
       ],
       "created": "2026-01-27T17:26:34.363113",
       "description": "Really nice views walking over the top of this bridge.",
+      "googlePlaceId": "ChIJ00b9XOdkJA0Rq2pFmc9AW8I",
       "id": "lus-i-bridge",
       "img": [
         "./data/images/6bac0140ac6bd2e2f145d9f0d6392e3ba48a9c06eeea9ea37df90c33b223fd7c.png"
@@ -7670,6 +7703,7 @@
         43.6601453
       ],
       "created": "2026-01-27T17:26:34.363113",
+      "googlePlaceId": "ChIJownUc4WvrhIRcjHKiatftbA",
       "id": "muse-aeroscopia",
       "name": "Musée Aeroscopia"
     },
@@ -7691,6 +7725,7 @@
         48.8660399
       ],
       "created": "2026-01-27T17:26:34.363113",
+      "googlePlaceId": "ChIJNUTIphpu5kcR4h07VuxFIHc",
       "id": "muse-des-arts-et-mtiers",
       "name": "Musée des Arts et Métiers"
     },
@@ -7701,6 +7736,7 @@
         -22.6179193
       ],
       "created": "2026-01-27T17:26:34.363113",
+      "googlePlaceId": "ChIJwSiifxzG2CER1o7E2ai7HWQ",
       "id": "muse-disalo",
       "name": "Musée d'Isalo"
     },
@@ -7712,6 +7748,7 @@
       ],
       "created": "2026-01-27T17:26:34.363113",
       "description": "Trolley-wire powered chain-propelled canal tunnel tugboat",
+      "googlePlaceId": "ChIJ2Q3x7moe6EcRRgBX80FsmfY",
       "id": "muse-du-touage-riqueval",
       "name": "Musée du Touage Riqueval"
     },
@@ -7723,6 +7760,7 @@
       ],
       "created": "2026-01-27T17:26:34.363113",
       "description": "Collection of automata in a large arcade., worth an hour poking around at the machines despite being in a very touristy area.",
+      "googlePlaceId": "ChIJCQAzVOKAhYARuOpiALmomu0",
       "id": "muse-mcanique",
       "name": "Musée Mécanique"
     },
@@ -7756,6 +7794,7 @@
       ],
       "created": "2026-01-27T17:26:34.363113",
       "description": "Often ranked one of the best museums in the world.",
+      "googlePlaceId": "ChIJScjIILQB0oURJMVub-MaI4Q",
       "id": "museo-nacional-de-antropologa",
       "name": "Museo Nacional de Antropología"
     },
@@ -7829,6 +7868,7 @@
       ],
       "created": "2026-01-27T17:26:34.363113",
       "description": "Berlin's natural history museum has an archaeopteryx! And some massive dinosaurs! And a German version of Powers of Ten projected onto the ceiling, which you can watch while lying on a big circular sofa! Best of all it has a beautifully-lit spirit collection",
+      "googlePlaceId": "ChIJ3eWqqpRRqEcRjILZ3j4y0Hs",
       "id": "museum-fr-naturkunde",
       "name": "Museum für Naturkunde"
     },
@@ -8215,6 +8255,7 @@
       ],
       "created": "2026-01-27T17:26:34.363113",
       "description": "Some people say this is the best Kebap place in Berlin, usually a queue.",
+      "googlePlaceId": "ChIJc35bGSlQqEcRL52ICDHcNKk",
       "id": "mustafas-gemse-kebap",
       "name": "Mustafa's Gemüse Kebap"
     },
@@ -9412,6 +9453,7 @@
         50.0870408
       ],
       "created": "2026-01-27T17:26:34.363113",
+      "googlePlaceId": "ChIJE0v1vyuVC0cRu6tB5D6gAuM",
       "id": "paternoster-nov-radnice-new-city-hall",
       "name": "Paternoster Nová radnice (New City Hall)"
     },
@@ -9434,6 +9476,7 @@
       ],
       "created": "2026-01-27T17:26:34.363113",
       "description": "The most famous video “evidence” of Sasquatch.",
+      "googlePlaceId": "ChIJD2VGUqyx0VQRH0C1kf-sYW4",
       "id": "pattersongimlin-film-site",
       "name": "Patterson–Gimlin Film Site"
     },
@@ -9467,7 +9510,6 @@
       ],
       "created": "2026-01-27T17:26:34.363113",
       "description": "Now closed.",
-      "googlePlaceId": "ChIJs-7TLmGBbUgROyrwZBIV7uo",
       "id": "pecorama",
       "name": "Pecorama"
     },
@@ -9570,6 +9612,7 @@
         18.0601215
       ],
       "created": "2026-01-27T17:26:34.363113",
+      "googlePlaceId": "ChIJGfFzymFvDowR-SM7DrCxHfU",
       "id": "petn-funicular",
       "name": "Petřín funicular"
     },
@@ -9580,6 +9623,7 @@
         50.0823674
       ],
       "created": "2026-01-27T17:26:34.363113",
+      "googlePlaceId": "ChIJbxTwP_2UC0cRRE9M09deWvU",
       "id": "petn-funicular2",
       "name": "Petřín funicular"
     },
@@ -9798,6 +9842,7 @@
       ],
       "created": "2026-01-27T17:26:34.363113",
       "description": "Ed: do a tour climbing the underside of this tall bridge.",
+      "googlePlaceId": "ChIJoWCMhHJlJA0RNP5qxz9HfcM",
       "id": "ponte-da-arrbida",
       "img": [
         "./data/images/f23726c1296e6fb41430bf6ecd52e3d5d4fe56cd8b355cdb00ebd4bce5984a38.png",
@@ -10144,6 +10189,7 @@
       ],
       "created": "2026-01-27T17:26:34.363113",
       "description": "This is an absolute *must see* museum in Istanbul. Primarily a transportation museum, and has an extensive collection of cars, train cars, a submarine, airplanes, and naval paraphenalia. There's also an entire hall of scientific instruments, and exhibits devoted to household appliances.\n\nWorth a good half-day. A bit off the beaten track, but there are direct ferries from the old city, although these can be tricky to track down.\n\n-added by jt",
+      "googlePlaceId": "ChIJ-9jOBJWxyhQR49hALgEYnds",
       "id": "rahmi-ko-mzesi",
       "name": "Rahmi Koç Müzesi"
     },
@@ -10261,6 +10307,7 @@
       ],
       "created": "2026-01-27T17:26:34.363113",
       "description": "All the blue line stations are carved out of the bedrock and decorated by local artists",
+      "googlePlaceId": "ChIJNwLLQmKdX0YRdcUAkdkaNa8",
       "id": "rdhuset-t-bana",
       "name": "Rådhuset T-bana"
     },
@@ -12111,6 +12158,7 @@
         48.1923637
       ],
       "created": "2026-01-27T17:26:34.363113",
+      "googlePlaceId": "ChIJgTtcRCeobUcR-hgjJ0rmBZ4",
       "id": "sterreichische-mediathek",
       "name": "Österreichische Mediathek"
     },
@@ -12216,6 +12264,7 @@
       ],
       "created": "2026-01-27T17:26:34.363113",
       "description": "Bloody enormous canal boat lift",
+      "googlePlaceId": "ChIJ6zPuFFZIwkcRagXNVcEmAhI",
       "id": "strpy-thieu-boat-lift",
       "name": "Strépy-Thieu Boat Lift"
     },
@@ -12765,7 +12814,6 @@
         51.902765
       ],
       "created": "2026-01-27T17:26:34.363113",
-      "googlePlaceId": "ChIJmbkaxROQREgRLf0QXRFL0w8",
       "id": "the-butter-museum",
       "name": "The Butter Museum"
     },
@@ -13601,7 +13649,7 @@
         22.278151
       ],
       "created": "2026-01-27T17:26:34.363113",
-      "googlePlaceId": "ChIJ_bAR11AABDQRGxsNeGwaZYM",
+      "googlePlaceId": "ChIJqVV-i6oBBDQRGlHI1xA5W6M",
       "id": "times-square",
       "name": "Times Square"
     },
@@ -13889,6 +13937,7 @@
         45.8148631
       ],
       "created": "2026-01-27T17:26:34.363113",
+      "googlePlaceId": "ChIJG2YLBQDXZUcRd7nrGaqU6NY",
       "id": "tunel-gri",
       "name": "Tunel Grič"
     },
@@ -13936,6 +13985,7 @@
       ],
       "created": "2026-01-27T17:26:34.363113",
       "description": "Take elevator to 5th floor. Small store specializing in space memorabilia (mission patches, rocket models, etc.)",
+      "googlePlaceId": "ChIJ-TTRa8aLGGARgYVot95OBGA",
       "id": "uch-no-mise-space-store",
       "name": "Uchū no mise (Space Store)"
     },
@@ -14373,6 +14423,7 @@
         49.2483468
       ],
       "created": "2026-01-27T17:26:34.363113",
+      "googlePlaceId": "ChIJbRRUrnCulUcR41sDddoJWro",
       "id": "vlklingen-ironworks",
       "name": "Völklingen Ironworks"
     },
@@ -14384,6 +14435,7 @@
       ],
       "created": "2026-01-27T17:26:34.363113",
       "description": "Want to fly in a one-person helium-filled airship inside a giant hangar? You can.",
+      "googlePlaceId": "ChIJ8RvigMV9C0gR6QlFrYSdl0w",
       "id": "voler-en-aroplume",
       "name": "Voler en Aéroplume"
     },
@@ -14395,6 +14447,7 @@
       ],
       "created": "2026-01-27T17:26:34.363113",
       "description": "https://volksrailway.org.uk\n\nhttps://en.wikipedia.org/wiki/Volk%27s_Electric_Railway",
+      "googlePlaceId": "ChIJY0tVKMaFdUgRUjA51kJ_j4M",
       "id": "volks-electric-railway",
       "name": "Volk’s Electric Railway"
     },
@@ -14418,6 +14471,7 @@
       ],
       "created": "2026-01-27T17:26:34.363113",
       "description": "Ed: Cool restaurant where your food and drink is delivered to you on a model train. Fun!",
+      "googlePlaceId": "ChIJR4L4npKUC0cRvNg20Vna-JU",
       "id": "vtopna-railway-restaurant-wenceslas-square",
       "img": [
         "./data/images/a24c04893cfc1b71d6b542e1fee823d94043d71382be5a628e58c04b058a8963.png",
@@ -14445,6 +14499,7 @@
       ],
       "created": "2026-01-27T17:26:34.363113",
       "description": "One of very few restaurants in the US to serve Native American food. (Almost all restaurants de facto serve some Native American food just because so much food is Native American, and many interpretive centers and historical sites serve samples; what makes this unusual is that it's a “normal” restaurant whose cuisine is Native American.)",
+      "googlePlaceId": "ChIJgz-ZtEuHj4ARRQzS1cP5JgY",
       "id": "wahpepahs-kitchen",
       "name": "Wahpepah’s Kitchen"
     },

@@ -6869,6 +6869,59 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    43.2831408,
+                    42.2902175,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chiatura",
+                "styleUrl": "#icon-1598-A52714-labelson",
+                "styleHash": "-835978",
+                "icon": "images/icon-1.png",
+                "description": "Chiatura, an old mining city known for it’s extensive cable car system that was installed to transport workers around the valley and up to the mines. I will add some stuff I found intresting to the map but 99% of the stuff I found was from this site: https://wander-lush.org/kutaisi-to-chiatura/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.2858307,
+                    42.2822199,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sanatorium cable car station",
+                "styleUrl": "#icon-1598-A52714-labelson-nodesc",
+                "styleHash": "-505f2c1",
+                "icon": "images/icon-1.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.2855938,
+                    42.2898364,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Central Cable Car Station",
+                "styleUrl": "#icon-1598-A52714-labelson",
+                "styleHash": "-835978",
+                "icon": "images/icon-1.png",
+                "description": "The main Cable car station. I would recomend getting the cable car to Sanatorium cable car station as that has the best views. each journey is about 5p and can you can use card to pay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0
@@ -17437,6 +17490,61 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    43.2911691,
+                    42.2910322,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Old cable car station",
+                "styleUrl": "#icon-1693-757575-labelson",
+                "styleHash": "-1d74371c",
+                "icon": "images/icon-3.png",
+                "description": "The only remaining original style cable car. free to use"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.2922881,
+                    42.292683,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "დიდი ტრაქტორი (Big Tractor)",
+                "styleUrl": "#icon-1693-757575-labelson",
+                "styleHash": "-1d74371c",
+                "icon": "images/icon-3.png",
+                "description": "An large decaying tractor and truck"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.2658113581444,
+                    42.2779144773623,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Old train station and trains",
+                "styleUrl": "#icon-1693-757575-labelson",
+                "styleHash": "-1d74371c",
+                "icon": "images/icon-3.png",
+                "description": "<img src=\"./data/images/381574a0a625046e6b5c06bf67965718e82721a195d115a81346f38d1f958eec.png\" height=\"200\" width=\"auto\" /><br><br>A decaying train station with a large number of old trains slowly rusting away. <br><br><img src=\"./data/images/96bc9fbf656e9718c4d7ef8726313dd76b92c1a8527ecc4bbfb3e5c5b52a4f3a.png\" height=\"200\" width=\"auto\" />",
+                "gx_media_links": "./data/images/381574a0a625046e6b5c06bf67965718e82721a195d115a81346f38d1f958eec.png ./data/images/96bc9fbf656e9718c4d7ef8726313dd76b92c1a8527ecc4bbfb3e5c5b52a4f3a.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -78.3005704,
                     44.3076708,
                     0
@@ -19698,6 +19806,23 @@
                 "styleHash": "-5f1b77a2",
                 "icon": "images/icon-4.png",
                 "description": "It's a small rebuilt castle. Due to mining sustenance it's about 11m lower then it was when originally built"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.3089274,
+                    42.3010913,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Telesférico histórico de Chiatura",
+                "styleUrl": "#icon-1608-F9A825-labelson-nodesc",
+                "styleHash": "-5dadac85",
+                "icon": "images/icon-4.png"
             }
         },
         {

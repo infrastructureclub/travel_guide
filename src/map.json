@@ -1,15 +1,15 @@
 {
   "categories": {
     "historic-ruins-structures": {
-      "count": 128,
+      "count": 129,
       "name": "Historic / ruins / structures"
     },
     "industry": {
-      "count": 36,
+      "count": 39,
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 330,
+      "count": 333,
       "name": "Interesting Things"
     },
     "museums-attractions": {
@@ -72,6 +72,18 @@
       "googlePlaceId": "ChIJQfRnZVFRcz4R5d1Tb_1pSBQ",
       "id": "-3",
       "name": "مطار. اك الملح‎"
+    },
+    "-big-tractor": {
+      "category": "industry",
+      "coordinates": [
+        43.2922881,
+        42.292683
+      ],
+      "created": "2026-02-03T19:03:16.437540",
+      "description": "An large decaying tractor and truck",
+      "googlePlaceId": "ChIJp4pUUwChXEARDz-A5dKnzcA",
+      "id": "-big-tractor",
+      "name": "დიდი ტრაქტორი (Big Tractor)"
     },
     "2": {
       "category": "museums-attractions",
@@ -2169,6 +2181,18 @@
       "id": "center-of-science-and-industry-cosi",
       "name": "Center of Science and Industry (COSI)"
     },
+    "central-cable-car-station": {
+      "category": "interesting-things",
+      "coordinates": [
+        43.2855938,
+        42.2898364
+      ],
+      "created": "2026-02-03T19:03:16.429007",
+      "description": "The main Cable car station. I would recomend getting the cable car to Sanatorium cable car station as that has the best views. each journey is about 5p and can you can use card to pay",
+      "googlePlaceId": "ChIJ4WeKJOOhXEARDsIMnAc7YY8",
+      "id": "central-cable-car-station",
+      "name": "Central Cable Car Station"
+    },
     "central-ferry-pier-no7-star-ferry-pier": {
       "category": "interesting-things",
       "coordinates": [
@@ -2284,6 +2308,18 @@
       "googlePlaceId": "ChIJJQx0wVgp_IgRu247HwZemVc",
       "id": "charleston-tea-garden",
       "name": "Charleston Tea Garden"
+    },
+    "chiatura": {
+      "category": "interesting-things",
+      "coordinates": [
+        43.2831408,
+        42.2902175
+      ],
+      "created": "2026-02-03T19:03:16.428967",
+      "description": "Chiatura, an old mining city known for it's extensive cable car system that was installed to transport workers around the valley and up to the mines. I will add some stuff I found intresting to the map but 99% of the stuff I found was from this site: https://wander-lush.org/kutaisi-to-chiatura/",
+      "googlePlaceId": "ChIJZ64geOygXEARoS6d9E8G_kQ",
+      "id": "chiatura",
+      "name": "Chiatura"
     },
     "chiba-urban-monorail": {
       "category": "interesting-things",
@@ -9112,6 +9148,18 @@
       "id": "oklo-natural-nuclear-reactor",
       "name": "Oklo natural nuclear reactor"
     },
+    "old-cable-car-station": {
+      "category": "industry",
+      "coordinates": [
+        43.2911691,
+        42.2910322
+      ],
+      "created": "2026-02-03T19:03:16.437517",
+      "description": "The only remaining original style cable car. free to use",
+      "googlePlaceId": "ChIJn3kegqehXEARgZygSutNr7U",
+      "id": "old-cable-car-station",
+      "name": "Old cable car station"
+    },
     "old-light": {
       "category": "nature",
       "coordinates": [
@@ -9155,6 +9203,21 @@
       "googlePlaceId": "ChIJG7IdiXa8oRQRpl8MpC7S5yQ",
       "id": "old-ppc-steam-electric-power-plant",
       "name": "Old PPC Steam-Electric Power Plant"
+    },
+    "old-train-station-and-trains": {
+      "category": "industry",
+      "coordinates": [
+        43.2658113581444,
+        42.2779144773623
+      ],
+      "created": "2026-02-03T19:03:16.437567",
+      "description": "A decaying train station with a large number of old trains slowly rusting away.",
+      "id": "old-train-station-and-trains",
+      "img": [
+        "./data/images/381574a0a625046e6b5c06bf67965718e82721a195d115a81346f38d1f958eec.png",
+        "./data/images/96bc9fbf656e9718c4d7ef8726313dd76b92c1a8527ecc4bbfb3e5c5b52a4f3a.png"
+      ],
+      "name": "Old train station and trains"
     },
     "old-train-station-rail-museum": {
       "category": "museums-attractions",
@@ -10860,6 +10923,17 @@
       "googlePlaceId": "ChIJkwK3WS96hYARF8EgeDRWPBs",
       "id": "san-pablo-dam",
       "name": "San Pablo Dam"
+    },
+    "sanatorium-cable-car-station": {
+      "category": "interesting-things",
+      "coordinates": [
+        43.2858307,
+        42.2822199
+      ],
+      "created": "2026-02-03T19:03:16.428988",
+      "googlePlaceId": "ChIJ2x0JrJ6hXEAREyDcLJXw5qw",
+      "id": "sanatorium-cable-car-station",
+      "name": "Sanatorium cable car station"
     },
     "santa-justa-lift": {
       "category": "interesting-things",
@@ -12574,6 +12648,17 @@
       "googlePlaceId": "ChIJb3zyDAMiahYRT_OyOe9XPkA",
       "id": "tekeze-power-station",
       "name": "Tekeze Power Station"
+    },
+    "telesfrico-histrico-de-chiatura": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        43.3089274,
+        42.3010913
+      ],
+      "created": "2026-02-03T19:03:16.439580",
+      "googlePlaceId": "ChIJ__Olo1VfW0AR_OULV22QXfM",
+      "id": "telesfrico-histrico-de-chiatura",
+      "name": "Telesférico histórico de Chiatura"
     },
     "tempelhof-airport": {
       "category": "historic-ruins-structures",

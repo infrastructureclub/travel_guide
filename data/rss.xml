@@ -7,54 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Feb 2026 02:41:03 +0000</lastBuildDate>
-    <item>
-      <title>“Alcatraz Island” added in Chinatown, United States</title>
-      <link>https://infrastructureclub.org/travel_guide/#alcatraz-island</link>
-      <guid isPermaLink="false">alcatraz-island</guid>
-      <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Alaska State Museum” added in Juneau, United States</title>
-      <link>https://infrastructureclub.org/travel_guide/#alaska-state-museum</link>
-      <guid isPermaLink="false">alaska-state-museum</guid>
-      <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Alang Ship Scrap Yard” added in Alang, India</title>
-      <link>https://infrastructureclub.org/travel_guide/#alang-ship-scrap-yard</link>
-      <description>Not the only shipbreaking area in the world but perhaps the most famous.</description>
-      <guid isPermaLink="false">alang-ship-scrap-yard</guid>
-      <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Alan Turing Memorial” added in Manchester, United Kingdom</title>
-      <link>https://infrastructureclub.org/travel_guide/#alan-turing-memorial</link>
-      <description>Statue commemorating Alan Turing in the pleasant Sackville Street Gardens.</description>
-      <guid isPermaLink="false">alan-turing-memorial</guid>
-      <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Alameda Point Antiques Faire” added in Chinatown, United States</title>
-      <link>https://infrastructureclub.org/travel_guide/#alameda-point-antiques-faire</link>
-      <description>Better known as the Alameda Flea. A vast open-air market on the even vaster disused runway of a former naval airbase, with views across to the Port of Oakland. Held the first Sunday of each month, with occasional changes to avoid major holidays or for weather. There is an entry fee. Serious shoppers are wise to arrive early, but it's an amusing stroll at any time of day.</description>
-      <guid isPermaLink="false">alameda-point-antiques-faire</guid>
-      <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Alameda County Sheriffs Bomb Disposal Range” added in Dublin, United States</title>
-      <link>https://infrastructureclub.org/travel_guide/#alameda-county-sheriffs-bomb-disposal-range</link>
-      <description>You know it from “Mythbusters”.</description>
-      <guid isPermaLink="false">alameda-county-sheriffs-bomb-disposal-range</guid>
-      <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Alameda Beach” added in Alameda, United States</title>
-      <link>https://infrastructureclub.org/travel_guide/#alameda-beach</link>
-      <description>Good though distant views of ships across the bay, the SF skyline, planes taking off from OAK, etc. Bring binoculars.</description>
-      <guid isPermaLink="false">alameda-beach</guid>
-      <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 03 Feb 2026 19:03:16 +0000</lastBuildDate>
     <item>
       <title>“Alabama Hills” added in Lone Pine, United States</title>
       <link>https://infrastructureclub.org/travel_guide/#alabama-hills</link>
@@ -355,6 +308,53 @@ https://en.wikipedia.org/wiki/SS_Richard_Montgomery</description>
       <description>A hybrid lift/funicular that transitions between the two half way through the journey. https://en.wikipedia.org/wiki/Ascensore_Castello_d%27Albertis-Montegalletto</description>
       <guid isPermaLink="false">ascensore-castello-dalbertis-montegalletto</guid>
       <pubDate>Mon, 02 Feb 2026 02:41:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Chiatura” added in Chiat’ura, Georgia</title>
+      <link>https://infrastructureclub.org/travel_guide/#chiatura</link>
+      <description>Chiatura, an old mining city known for it's extensive cable car system that was installed to transport workers around the valley and up to the mines. I will add some stuff I found intresting to the map but 99% of the stuff I found was from this site: https://wander-lush.org/kutaisi-to-chiatura/</description>
+      <guid isPermaLink="false">chiatura</guid>
+      <pubDate>Tue, 03 Feb 2026 19:03:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Sanatorium cable car station” added in Chiat’ura, Georgia</title>
+      <link>https://infrastructureclub.org/travel_guide/#sanatorium-cable-car-station</link>
+      <guid isPermaLink="false">sanatorium-cable-car-station</guid>
+      <pubDate>Tue, 03 Feb 2026 19:03:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Central Cable Car Station” added in Chiat’ura, Georgia</title>
+      <link>https://infrastructureclub.org/travel_guide/#central-cable-car-station</link>
+      <description>The main Cable car station. I would recomend getting the cable car to Sanatorium cable car station as that has the best views. each journey is about 5p and can you can use card to pay</description>
+      <guid isPermaLink="false">central-cable-car-station</guid>
+      <pubDate>Tue, 03 Feb 2026 19:03:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Old cable car station” added in Chiat’ura, Georgia</title>
+      <link>https://infrastructureclub.org/travel_guide/#old-cable-car-station</link>
+      <description>The only remaining original style cable car. free to use</description>
+      <guid isPermaLink="false">old-cable-car-station</guid>
+      <pubDate>Tue, 03 Feb 2026 19:03:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>“დიდი ტრაქტორი (Big Tractor)” added in Chiat’ura, Georgia</title>
+      <link>https://infrastructureclub.org/travel_guide/#-big-tractor</link>
+      <description>An large decaying tractor and truck</description>
+      <guid isPermaLink="false">-big-tractor</guid>
+      <pubDate>Tue, 03 Feb 2026 19:03:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Old train station and trains” added in Chiat’ura, Georgia</title>
+      <link>https://infrastructureclub.org/travel_guide/#old-train-station-and-trains</link>
+      <description>A decaying train station with a large number of old trains slowly rusting away.</description>
+      <guid isPermaLink="false">old-train-station-and-trains</guid>
+      <pubDate>Tue, 03 Feb 2026 19:03:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Telesférico histórico de Chiatura” added in Chiat’ura, Georgia</title>
+      <link>https://infrastructureclub.org/travel_guide/#telesfrico-histrico-de-chiatura</link>
+      <guid isPermaLink="false">telesfrico-histrico-de-chiatura</guid>
+      <pubDate>Tue, 03 Feb 2026 19:03:16 +0000</pubDate>
     </item>
   </channel>
 </rss>

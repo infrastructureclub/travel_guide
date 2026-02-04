@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Feb 2026 19:03:16 +0000</lastBuildDate>
-    <item>
-      <title>“Alabama Hills” added in Lone Pine, United States</title>
-      <link>https://infrastructureclub.org/travel_guide/#alabama-hills</link>
-      <description>Surreal-seeming rock formations. Beautiful and (in summer) often extremely hot.</description>
-      <guid isPermaLink="false">alabama-hills</guid>
-      <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Airworld Aviation Museum” added in Llanwnda, United Kingdom</title>
-      <link>https://infrastructureclub.org/travel_guide/#airworld-aviation-museum</link>
-      <description>Located on the airfield of the former RAF Llandwrog, the museum has an impressive collection of aircraft and aviation memorabilia. The museum offers the opportunity to get close up to some historic aircraft. Set on an active airfield, the museum houses iconic machines such as the Hawker Hunter, D.H. Vampire, along with the only T2 BAe Harrier remaining worldwide.
-
-Part of the museum is devoted to the creation of the RAF Mountain Rescue Service, started here at RAF Llandwrog in 1942, whilst other sections describe the wartime airfields of North Wales</description>
-      <guid isPermaLink="false">airworld-aviation-museum</guid>
-      <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Airmail Navigation Arrow” added in Sandy Valley, United States</title>
-      <link>https://infrastructureclub.org/travel_guide/#airmail-navigation-arrow</link>
-      <guid isPermaLink="false">airmail-navigation-arrow</guid>
-      <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 04 Feb 2026 02:32:17 +0000</lastBuildDate>
     <item>
       <title>“Airbus UK Factory” added in Broughton, United Kingdom</title>
       <link>https://infrastructureclub.org/travel_guide/#airbus-uk-factory</link>
@@ -319,6 +297,7 @@ https://en.wikipedia.org/wiki/SS_Richard_Montgomery</description>
     <item>
       <title>“Sanatorium cable car station” added in Chiat’ura, Georgia</title>
       <link>https://infrastructureclub.org/travel_guide/#sanatorium-cable-car-station</link>
+      <description>This is the station you should go to for the best views of the town</description>
       <guid isPermaLink="false">sanatorium-cable-car-station</guid>
       <pubDate>Tue, 03 Feb 2026 19:03:16 +0000</pubDate>
     </item>
@@ -351,10 +330,32 @@ https://en.wikipedia.org/wiki/SS_Richard_Montgomery</description>
       <pubDate>Tue, 03 Feb 2026 19:03:16 +0000</pubDate>
     </item>
     <item>
-      <title>“Telesférico histórico de Chiatura” added in Chiat’ura, Georgia</title>
-      <link>https://infrastructureclub.org/travel_guide/#telesfrico-histrico-de-chiatura</link>
-      <guid isPermaLink="false">telesfrico-histrico-de-chiatura</guid>
-      <pubDate>Tue, 03 Feb 2026 19:03:16 +0000</pubDate>
+      <title>“Old abandoned Cable car station” added in Chiat’ura, Georgia</title>
+      <link>https://infrastructureclub.org/travel_guide/#old-abandoned-cable-car-station</link>
+      <description>One of the old cable car stations. shutdown but fully accessible</description>
+      <guid isPermaLink="false">old-abandoned-cable-car-station</guid>
+      <pubDate>Wed, 04 Feb 2026 02:32:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Former Pioneer Palace” added in Chiat’ura, Georgia</title>
+      <link>https://infrastructureclub.org/travel_guide/#former-pioneer-palace</link>
+      <description>Abandoned building now taken over by Cows</description>
+      <guid isPermaLink="false">former-pioneer-palace</guid>
+      <pubDate>Wed, 04 Feb 2026 02:32:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Temur Magradze stadium” added in Chiat’ura, Georgia</title>
+      <link>https://infrastructureclub.org/travel_guide/#temur-magradze-stadium</link>
+      <description>A slightly abandoned stadium</description>
+      <guid isPermaLink="false">temur-magradze-stadium</guid>
+      <pubDate>Wed, 04 Feb 2026 02:32:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Old Cable car station” added in Chiat’ura, Georgia</title>
+      <link>https://infrastructureclub.org/travel_guide/#old-cable-car-station2</link>
+      <description>An Old cable car station</description>
+      <guid isPermaLink="false">old-cable-car-station2</guid>
+      <pubDate>Wed, 04 Feb 2026 02:32:17 +0000</pubDate>
     </item>
   </channel>
 </rss>

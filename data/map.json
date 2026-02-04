@@ -1,7 +1,7 @@
 {
   "categories": {
     "historic-ruins-structures": {
-      "count": 129,
+      "count": 132,
       "name": "Historic / ruins / structures"
     },
     "industry": {
@@ -4087,6 +4087,18 @@
       "googlePlaceId": "ChIJh0W9LXeQdUgRN_BhVhBJbEA",
       "id": "foredown-tower",
       "name": "Foredown Tower"
+    },
+    "former-pioneer-palace": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        43.2840692,
+        42.2814075
+      ],
+      "created": "2026-02-04T02:32:17.220555",
+      "description": "Abandoned building now taken over by Cows",
+      "googlePlaceId": "ChIJ0zILomOhXEARWLJ-v7eTZj0",
+      "id": "former-pioneer-palace",
+      "name": "Former Pioneer Palace"
     },
     "fort-amherst-heritage-trust": {
       "category": "museums-attractions",
@@ -9148,6 +9160,21 @@
       "id": "oklo-natural-nuclear-reactor",
       "name": "Oklo natural nuclear reactor"
     },
+    "old-abandoned-cable-car-station": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        43.3089274,
+        42.3010913
+      ],
+      "created": "2026-02-04T02:32:17.220526",
+      "description": "One of the old cable car stations. shutdown but fully accessible",
+      "googlePlaceId": "ChIJ__Olo1VfW0AR_OULV22QXfM",
+      "id": "old-abandoned-cable-car-station",
+      "img": [
+        "./data/images/3c65fd83b55a121581eaba9b831340e1ebbcdf5098457961664ab34accb90f72.png"
+      ],
+      "name": "Old abandoned Cable car station"
+    },
     "old-cable-car-station": {
       "category": "industry",
       "coordinates": [
@@ -9159,6 +9186,18 @@
       "googlePlaceId": "ChIJn3kegqehXEARgZygSutNr7U",
       "id": "old-cable-car-station",
       "name": "Old cable car station"
+    },
+    "old-cable-car-station2": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        43.2884596,
+        42.2898455
+      ],
+      "created": "2026-02-04T02:32:17.220592",
+      "description": "An Old cable car station",
+      "googlePlaceId": "ChIJ1_gqpqGhXEARp3aHjLj4yY4",
+      "id": "old-cable-car-station2",
+      "name": "Old Cable car station"
     },
     "old-light": {
       "category": "nature",
@@ -10931,6 +10970,7 @@
         42.2822199
       ],
       "created": "2026-02-03T19:03:16.428988",
+      "description": "This is the station you should go to for the best views of the town",
       "googlePlaceId": "ChIJ2x0JrJ6hXEAREyDcLJXw5qw",
       "id": "sanatorium-cable-car-station",
       "name": "Sanatorium cable car station"
@@ -12649,17 +12689,6 @@
       "id": "tekeze-power-station",
       "name": "Tekeze Power Station"
     },
-    "telesfrico-histrico-de-chiatura": {
-      "category": "historic-ruins-structures",
-      "coordinates": [
-        43.3089274,
-        42.3010913
-      ],
-      "created": "2026-02-03T19:03:16.439580",
-      "googlePlaceId": "ChIJ__Olo1VfW0AR_OULV22QXfM",
-      "id": "telesfrico-histrico-de-chiatura",
-      "name": "Telesférico histórico de Chiatura"
-    },
     "tempelhof-airport": {
       "category": "historic-ruins-structures",
       "coordinates": [
@@ -12671,6 +12700,18 @@
       "googlePlaceId": "ChIJmzoVxehPqEcRB6YzEZWqGuM",
       "id": "tempelhof-airport",
       "name": "Tempelhof Airport"
+    },
+    "temur-magradze-stadium": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        43.2719919,
+        42.2808037
+      ],
+      "created": "2026-02-04T02:32:17.220572",
+      "description": "A slightly abandoned stadium",
+      "googlePlaceId": "ChIJL1XgZOWgXEARXtGV66U4i_U",
+      "id": "temur-magradze-stadium",
+      "name": "Temur Magradze stadium"
     },
     "tena-bar-where-money-from-the-db-cooper-skyjacking-was-found": {
       "category": "interesting-things",

@@ -6894,9 +6894,10 @@
             },
             "properties": {
                 "name": "Sanatorium cable car station",
-                "styleUrl": "#icon-1598-A52714-labelson-nodesc",
-                "styleHash": "-505f2c1",
-                "icon": "images/icon-1.png"
+                "styleUrl": "#icon-1598-A52714-labelson",
+                "styleHash": "-835978",
+                "icon": "images/icon-1.png",
+                "description": "This is the station you should go to for the best views of the town"
             }
         },
         {
@@ -19819,10 +19820,66 @@
                 ]
             },
             "properties": {
-                "name": "Telesférico histórico de Chiatura",
-                "styleUrl": "#icon-1608-F9A825-labelson-nodesc",
-                "styleHash": "-5dadac85",
-                "icon": "images/icon-4.png"
+                "name": "Old abandoned Cable car station",
+                "styleUrl": "#icon-1608-F9A825-labelson",
+                "styleHash": "-5f1b77a2",
+                "icon": "images/icon-4.png",
+                "description": "<img src=\"./data/images/3c65fd83b55a121581eaba9b831340e1ebbcdf5098457961664ab34accb90f72.png\" height=\"200\" width=\"auto\" /><br><br>One of the old cable car stations. shutdown but fully accessible",
+                "gx_media_links": "./data/images/3c65fd83b55a121581eaba9b831340e1ebbcdf5098457961664ab34accb90f72.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.2840692,
+                    42.2814075,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Former Pioneer Palace",
+                "styleUrl": "#icon-1608-F9A825-labelson",
+                "styleHash": "-5f1b77a2",
+                "icon": "images/icon-4.png",
+                "description": "Abandoned building now taken over by Cows"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.2719919,
+                    42.2808037,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Temur Magradze stadium",
+                "styleUrl": "#icon-1608-F9A825-labelson",
+                "styleHash": "-5f1b77a2",
+                "icon": "images/icon-4.png",
+                "description": "A slightly abandoned stadium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.2884596,
+                    42.2898455,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Old Cable car station",
+                "styleUrl": "#icon-1608-F9A825-labelson",
+                "styleHash": "-5f1b77a2",
+                "icon": "images/icon-4.png",
+                "description": "An Old cable car station"
             }
         },
         {

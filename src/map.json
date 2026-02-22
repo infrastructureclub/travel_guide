@@ -5,7 +5,7 @@
       "name": "Historic / ruins / structures"
     },
     "industry": {
-      "count": 39,
+      "count": 40,
       "name": "Industry"
     },
     "interesting-things": {
@@ -13,7 +13,7 @@
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 567,
+      "count": 568,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -4065,6 +4065,18 @@
       "id": "flight-173-memorial",
       "name": "Flight 173 Memorial"
     },
+    "floating-museum-hellas-liberty": {
+      "category": "museums-attractions",
+      "coordinates": [
+        23.6310458,
+        37.9424336
+      ],
+      "created": "2026-02-22T18:43:06.960181",
+      "description": "WW2 Liberty ship",
+      "googlePlaceId": "ChIJiXwHZtC7oRQRzmzZUj3VcH8",
+      "id": "floating-museum-hellas-liberty",
+      "name": "Floating Museum \"Hellas Liberty\""
+    },
     "fonserannes-water-slope": {
       "category": "historic-ruins-structures",
       "coordinates": [
@@ -6390,6 +6402,18 @@
       "googlePlaceId": "ChIJmS14oYxNmlQRDSFsA3fmr0M",
       "id": "leavenworth-nutcracker-museum",
       "name": "Leavenworth Nutcracker Museum"
+    },
+    "leawood-pump-house": {
+      "category": "industry",
+      "coordinates": [
+        -1.5306834,
+        53.0974015
+      ],
+      "created": "2026-02-22T18:43:06.960832",
+      "description": "The old pump house for pumping water in to the canal. They still work and are open every month or so where you can see them pumping water into the canal. They still use coal fired boilers for the steam",
+      "googlePlaceId": "ChIJSVYqm5OLeUgR7JymmlRHtlA",
+      "id": "leawood-pump-house",
+      "name": "Leawood Pump House"
     },
     "leeds-industrial-museum-at-armley-mills": {
       "category": "museums-attractions",

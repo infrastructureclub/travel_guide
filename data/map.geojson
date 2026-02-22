@@ -16849,6 +16849,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    23.6310458,
+                    37.9424336,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Floating Museum \"Hellas Liberty\"",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "icon": "images/icon-2.png",
+                "description": "WW2 Liberty ship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.9055879,
                     38.1671515,
                     0
@@ -17539,6 +17557,24 @@
                 "icon": "images/icon-3.png",
                 "description": "<img src=\"./data/images/381574a0a625046e6b5c06bf67965718e82721a195d115a81346f38d1f958eec.png\" height=\"200\" width=\"auto\" /><br><br>A decaying train station with a large number of old trains slowly rusting away. <br><br><img src=\"./data/images/96bc9fbf656e9718c4d7ef8726313dd76b92c1a8527ecc4bbfb3e5c5b52a4f3a.png\" height=\"200\" width=\"auto\" />",
                 "gx_media_links": "./data/images/381574a0a625046e6b5c06bf67965718e82721a195d115a81346f38d1f958eec.png ./data/images/96bc9fbf656e9718c4d7ef8726313dd76b92c1a8527ecc4bbfb3e5c5b52a4f3a.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.5306834,
+                    53.0974015,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Leawood Pump House",
+                "styleUrl": "#icon-1693-757575-labelson",
+                "styleHash": "-1d74371c",
+                "icon": "images/icon-3.png",
+                "description": "The old pump house for pumping water in to the canal. They still work and are open every month or so where you can see them pumping water into the canal. They still use coal fired boilers for the steam"
             }
         },
         {

@@ -9198,6 +9198,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name><![CDATA[Floating Museum "Hellas Liberty"]]></name>
+        <description>WW2 Liberty ship</description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            23.6310458,37.9424336,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>
@@ -9596,6 +9606,16 @@
         <Point>
           <coordinates>
             43.2658113581444,42.2779144773623,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Leawood Pump House</name>
+        <description>The old pump house for pumping water in to the canal. They still work and are open every month or so where you can see them pumping water into the canal. They still use coal fired boilers for the steam</description>
+        <styleUrl>#icon-1693-757575-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -1.5306834,53.0974015,0
           </coordinates>
         </Point>
       </Placemark>

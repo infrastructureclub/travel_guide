@@ -7,20 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Feb 2026 02:32:17 +0000</lastBuildDate>
-    <item>
-      <title>“Airbus UK Factory” added in Broughton, United Kingdom</title>
-      <link>https://infrastructureclub.org/travel_guide/#airbus-uk-factory</link>
-      <description>Large 'Beluga' planes come in to land here to bring/take parts of planes away - can be viewed from anywhere near the runway. Very occasional tours.</description>
-      <guid isPermaLink="false">airbus-uk-factory</guid>
-      <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Airbus Factory Tours” added in Beauzelle, France</title>
-      <link>https://infrastructureclub.org/travel_guide/#airbus-factory-tours</link>
-      <guid isPermaLink="false">airbus-factory-tours</guid>
-      <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 22 Feb 2026 18:43:06 +0000</lastBuildDate>
     <item>
       <title>“Air Force Flight Test Museum” added in Edwards Air Force Base, United States</title>
       <link>https://infrastructureclub.org/travel_guide/#air-force-flight-test-museum</link>
@@ -356,6 +343,20 @@ https://en.wikipedia.org/wiki/SS_Richard_Montgomery</description>
       <description>An Old cable car station</description>
       <guid isPermaLink="false">old-cable-car-station2</guid>
       <pubDate>Wed, 04 Feb 2026 02:32:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Floating Museum "Hellas Liberty"” added in Drapetsóna, Greece</title>
+      <link>https://infrastructureclub.org/travel_guide/#floating-museum-hellas-liberty</link>
+      <description>WW2 Liberty ship</description>
+      <guid isPermaLink="false">floating-museum-hellas-liberty</guid>
+      <pubDate>Sun, 22 Feb 2026 18:43:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Leawood Pump House” added in Cromford, United Kingdom</title>
+      <link>https://infrastructureclub.org/travel_guide/#leawood-pump-house</link>
+      <description>The old pump house for pumping water in to the canal. They still work and are open every month or so where you can see them pumping water into the canal. They still use coal fired boilers for the steam</description>
+      <guid isPermaLink="false">leawood-pump-house</guid>
+      <pubDate>Sun, 22 Feb 2026 18:43:06 +0000</pubDate>
     </item>
   </channel>
 </rss>

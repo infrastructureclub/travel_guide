@@ -6923,6 +6923,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    130.376842,
+                    33.597481,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Nakatsukasa Magotaro Inari Shrine",
+                "styleUrl": "#icon-1598-A52714-labelson",
+                "styleHash": "-835978",
+                "icon": "images/icon-1.png",
+                "description": "Cyber shrine, 100¥ to light the place up at night."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0

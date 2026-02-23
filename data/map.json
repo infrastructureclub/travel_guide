@@ -9,7 +9,7 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 333,
+      "count": 334,
       "name": "Interesting Things"
     },
     "museums-attractions": {
@@ -8330,6 +8330,18 @@
       "googlePlaceId": "ChIJc35bGSlQqEcRL52ICDHcNKk",
       "id": "mustafas-gemse-kebap",
       "name": "Mustafa's Gemüse Kebap"
+    },
+    "nakatsukasa-magotaro-inari-shrine": {
+      "category": "interesting-things",
+      "coordinates": [
+        130.376842,
+        33.597481
+      ],
+      "created": "2026-02-23T02:40:49.395493",
+      "description": "Cyber shrine, 100¥ to light the place up at night.",
+      "googlePlaceId": "ChIJZ9TocTqSQTUR8sc67TWnxJs",
+      "id": "nakatsukasa-magotaro-inari-shrine",
+      "name": "Nakatsukasa Magotaro Inari Shrine"
     },
     "nash-point-lighthouse": {
       "category": "museums-attractions",

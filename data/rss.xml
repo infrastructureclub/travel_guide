@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Feb 2026 18:43:06 +0000</lastBuildDate>
-    <item>
-      <title>“Air Force Flight Test Museum” added in Edwards Air Force Base, United States</title>
-      <link>https://infrastructureclub.org/travel_guide/#air-force-flight-test-museum</link>
-      <guid isPermaLink="false">air-force-flight-test-museum</guid>
-      <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 23 Feb 2026 02:40:49 +0000</lastBuildDate>
     <item>
       <title>“Ailsa Craig” added in Girvan, United Kingdom</title>
       <link>https://infrastructureclub.org/travel_guide/#ailsa-craig</link>
@@ -357,6 +351,13 @@ https://en.wikipedia.org/wiki/SS_Richard_Montgomery</description>
       <description>The old pump house for pumping water in to the canal. They still work and are open every month or so where you can see them pumping water into the canal. They still use coal fired boilers for the steam</description>
       <guid isPermaLink="false">leawood-pump-house</guid>
       <pubDate>Sun, 22 Feb 2026 18:43:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Nakatsukasa Magotaro Inari Shrine” added in Fukuoka, Japan</title>
+      <link>https://infrastructureclub.org/travel_guide/#nakatsukasa-magotaro-inari-shrine</link>
+      <description>Cyber shrine, 100¥ to light the place up at night.</description>
+      <guid isPermaLink="false">nakatsukasa-magotaro-inari-shrine</guid>
+      <pubDate>Mon, 23 Feb 2026 02:40:49 +0000</pubDate>
     </item>
   </channel>
 </rss>

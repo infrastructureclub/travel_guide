@@ -3717,6 +3717,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Nakatsukasa Magotaro Inari Shrine</name>
+        <description>Cyber shrine, 100¥ to light the place up at night.</description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            130.376842,33.597481,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>

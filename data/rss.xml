@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Feb 2026 02:40:49 +0000</lastBuildDate>
-    <item>
-      <title>“Ailsa Craig” added in Girvan, United Kingdom</title>
-      <link>https://infrastructureclub.org/travel_guide/#ailsa-craig</link>
-      <description>Quarried for curling stones, among other things https://en.wikipedia.org/wiki/Ailsa_Craig#Curling_stones</description>
-      <guid isPermaLink="false">ailsa-craig</guid>
-      <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Afsluitdijk” added in Den Oever, Netherlands</title>
-      <link>https://infrastructureclub.org/travel_guide/#afsluitdijk</link>
-      <description>Enormous dam closing off the Netherlands from the North Sea. There's a road across it.
-
-https://theafsluitdijk.com/</description>
-      <guid isPermaLink="false">afsluitdijk</guid>
-      <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Feb 2026 02:36:59 +0000</lastBuildDate>
     <item>
       <title>“Aerospace Bristol” added in Almondsbury, United Kingdom</title>
       <link>https://infrastructureclub.org/travel_guide/#aerospace-bristol</link>
@@ -358,6 +342,20 @@ https://en.wikipedia.org/wiki/SS_Richard_Montgomery</description>
       <description>Cyber shrine, 100¥ to light the place up at night.</description>
       <guid isPermaLink="false">nakatsukasa-magotaro-inari-shrine</guid>
       <pubDate>Mon, 23 Feb 2026 02:40:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>“SS Red Oak Victory liberty ship” added in Richmond, United States</title>
+      <link>https://infrastructureclub.org/travel_guide/#ss-red-oak-victory-liberty-ship</link>
+      <description>Museum and ship with a self-guided tour, moored in the shipyard where it was built.</description>
+      <guid isPermaLink="false">ss-red-oak-victory-liberty-ship</guid>
+      <pubDate>Tue, 24 Feb 2026 02:36:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Hollywood Reservoir Dam” added in Hollywood, United States</title>
+      <link>https://infrastructureclub.org/travel_guide/#hollywood-reservoir-dam</link>
+      <description>Walkable dam on a lovely short hike. The last great public work built by William Mulholland, architect of the canals and aqueducts that brought water to modern Los Angeles.</description>
+      <guid isPermaLink="false">hollywood-reservoir-dam</guid>
+      <pubDate>Tue, 24 Feb 2026 02:36:59 +0000</pubDate>
     </item>
   </channel>
 </rss>

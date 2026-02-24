@@ -1,7 +1,7 @@
 {
   "categories": {
     "historic-ruins-structures": {
-      "count": 132,
+      "count": 133,
       "name": "Historic / ruins / structures"
     },
     "industry": {
@@ -9,7 +9,7 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 334,
+      "count": 335,
       "name": "Interesting Things"
     },
     "museums-attractions": {
@@ -5278,6 +5278,17 @@
       "googlePlaceId": "ChIJ8_yWZXZqjlQRJMZAn2DBjN8",
       "id": "hoh-rain-forest-visitor-center",
       "name": "Hoh Rain Forest Visitor Center"
+    },
+    "hollywood-reservoir-dam": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        -118.3315866,
+        34.1180419
+      ],
+      "created": "2026-02-24T02:36:59.572374",
+      "description": "Walkable dam on a lovely short hike. The last great public work built by William Mulholland, architect of the canals and aqueducts that brought water to modern Los Angeles.",
+      "id": "hollywood-reservoir-dam",
+      "name": "Hollywood Reservoir Dam"
     },
     "holyhead-maritime-museum": {
       "category": "museums-attractions",
@@ -12130,6 +12141,17 @@
       "googlePlaceId": "ChIJOXcVsx5pe1MRDGBkgWm1yyM",
       "id": "ss-moyie-sternwheeler-national-historic-site",
       "name": "SS Moyie Sternwheeler National Historic Site"
+    },
+    "ss-red-oak-victory-liberty-ship": {
+      "category": "interesting-things",
+      "coordinates": [
+        -122.3656798,
+        37.9057778
+      ],
+      "created": "2026-02-24T02:36:59.561382",
+      "description": "Museum and ship with a self-guided tour, moored in the shipyard where it was built.",
+      "id": "ss-red-oak-victory-liberty-ship",
+      "name": "SS Red Oak Victory liberty ship"
     },
     "st-aldhelms-chapel": {
       "category": "interesting-things",

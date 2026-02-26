@@ -7,16 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Feb 2026 02:36:59 +0000</lastBuildDate>
-    <item>
-      <title>“Aerospace Bristol” added in Almondsbury, United Kingdom</title>
-      <link>https://infrastructureclub.org/travel_guide/#aerospace-bristol</link>
-      <description>Aviation museum with lots of aircraft, other displays, and a Concorde.
-
-https://aerospacebristol.org/</description>
-      <guid isPermaLink="false">aerospace-bristol</guid>
-      <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Feb 2026 19:00:45 +0000</lastBuildDate>
     <item>
       <title>“Aeroplume flight in Grotte de la Samalandre” added in Barjac, France</title>
       <link>https://infrastructureclub.org/travel_guide/#aeroplume-flight-in-grotte-de-la-samalandre</link>
@@ -356,6 +347,13 @@ https://en.wikipedia.org/wiki/SS_Richard_Montgomery</description>
       <description>Walkable dam on a lovely short hike. The last great public work built by William Mulholland, architect of the canals and aqueducts that brought water to modern Los Angeles.</description>
       <guid isPermaLink="false">hollywood-reservoir-dam</guid>
       <pubDate>Tue, 24 Feb 2026 02:36:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Laaksaare Sadam” added in Räpina, Estonia</title>
+      <link>https://infrastructureclub.org/travel_guide/#laaksaare-sadam</link>
+      <description>In the Winter you can get a hovercraft to Piiri from here. https://transport.tartumaa.ee/en/ferry-transportation/</description>
+      <guid isPermaLink="false">laaksaare-sadam</guid>
+      <pubDate>Thu, 26 Feb 2026 19:00:45 +0000</pubDate>
     </item>
   </channel>
 </rss>

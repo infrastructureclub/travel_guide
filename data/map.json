@@ -9,7 +9,7 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 335,
+      "count": 336,
       "name": "Interesting Things"
     },
     "museums-attractions": {
@@ -6239,6 +6239,18 @@
       "googlePlaceId": "ChIJE-BRtYFV3EcRjbkfFmxKouM",
       "id": "la-coupole-centre-dhistoire-v2-bunker",
       "name": "La Coupole Centre D'histoire - V2 bunker"
+    },
+    "laaksaare-sadam": {
+      "category": "interesting-things",
+      "coordinates": [
+        27.4178958,
+        58.3386768
+      ],
+      "created": "2026-02-26T19:00:45.032573",
+      "description": "In the Winter you can get a hovercraft to Piiri from here. https://transport.tartumaa.ee/en/ferry-transportation/",
+      "googlePlaceId": "ChIJZZpRs-rU6kYRHFnU9BpD5Pc",
+      "id": "laaksaare-sadam",
+      "name": "Laaksaare Sadam"
     },
     "lacock-abbey-and-photography-museum": {
       "category": "museums-attractions",

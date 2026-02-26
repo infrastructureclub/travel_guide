@@ -3737,6 +3737,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Laaksaare Sadam</name>
+        <description>In the Winter you can get a hovercraft to Piiri from here. https://transport.tartumaa.ee/en/ferry-transportation/</description>
+        <styleUrl>#icon-1636-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            27.4178958,58.3386768,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>

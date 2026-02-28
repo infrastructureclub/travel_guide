@@ -16921,6 +16921,42 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    3.7293086,
+                    51.0594777,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Museum of Industry Ghent",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "icon": "images/icon-2.png",
+                "description": "Great museum showcasing history of textiles and typography/graphic design in Gent, with lots of machines over the years - you can even buy things from the shop made from these machines"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3921236,
+                    51.21969,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sint-Annatunnel",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "icon": "images/icon-2.png",
+                "description": "Tunnel under the river with WOODEN ESCALATORS! Plus heritage adverts inside and art deco buildings!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.9055879,
                     38.1671515,
                     0

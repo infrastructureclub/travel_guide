@@ -13,7 +13,7 @@
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 568,
+      "count": 570,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -8093,6 +8093,18 @@
       "id": "museum-of-history-industry-mohai",
       "name": "Museum of History & Industry (MOHAI)"
     },
+    "museum-of-industry-ghent": {
+      "category": "museums-attractions",
+      "coordinates": [
+        3.7293086,
+        51.0594777
+      ],
+      "created": "2026-02-28T18:40:50.989262",
+      "description": "Great museum showcasing history of textiles and typography/graphic design in Gent, with lots of machines over the years - you can even buy things from the shop made from these machines",
+      "googlePlaceId": "ChIJOZFXnDdxw0cRnzVfaSbEp94",
+      "id": "museum-of-industry-ghent",
+      "name": "Museum of Industry Ghent"
+    },
     "museum-of-lead-mining": {
       "category": "museums-attractions",
       "coordinates": [
@@ -11718,6 +11730,18 @@
       "description": "The region's most deadly shipwreck, in 1906: https://en.wikipedia.org/wiki/SS_Valencia#Final_voyage",
       "id": "sinking-of-the-valencia",
       "name": "Sinking of the “Valencia”"
+    },
+    "sint-annatunnel": {
+      "category": "museums-attractions",
+      "coordinates": [
+        4.3921236,
+        51.21969
+      ],
+      "created": "2026-02-28T18:40:50.989287",
+      "description": "Tunnel under the river with WOODEN ESCALATORS! Plus heritage adverts inside and art deco buildings!",
+      "googlePlaceId": "ChIJV5yk0fT2w0cRuQdGcE8110w",
+      "id": "sint-annatunnel",
+      "name": "Sint-Annatunnel"
     },
     "sir-john-soanes-museum": {
       "category": "museums-attractions",

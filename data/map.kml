@@ -9258,6 +9258,15 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Wouda pumping station</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            5.6797187,52.8464211,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>

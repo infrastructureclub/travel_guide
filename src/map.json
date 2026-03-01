@@ -13,7 +13,7 @@
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 570,
+      "count": 571,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -15207,6 +15207,17 @@
       "googlePlaceId": "ChIJ34daWoj9kVQRVr2udGYhCxU",
       "id": "worlds-largest-sitka-spruce",
       "name": "World's Largest Sitka Spruce"
+    },
+    "wouda-pumping-station": {
+      "category": "museums-attractions",
+      "coordinates": [
+        5.6797187,
+        52.8464211
+      ],
+      "created": "2026-03-01T02:47:25.911133",
+      "googlePlaceId": "ChIJKXCXPkeMyEcRmu-P6F7t9HQ",
+      "id": "wouda-pumping-station",
+      "name": "Wouda pumping station"
     },
     "wroxham-miniature-worlds": {
       "category": "interesting-things",

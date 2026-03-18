@@ -16974,6 +16974,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    2.65384,
+                    39.5767234,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tren de Sóller",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "icon": "images/icon-2.png",
+                "description": "Historic electric train over the mountains, with street running in Palma. Plus opening windows and balcony flailing opportunities. Connects to vintage trams in Sóller.<br>https://www.youtube.com/watch?v=xf01u3u8I4c"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.9055879,
                     38.1671515,
                     0

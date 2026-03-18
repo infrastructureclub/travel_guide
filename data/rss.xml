@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Mar 2026 07:09:45 +0000</lastBuildDate>
-    <item>
-      <title>“Abbotsbury Swannery” added in Chickerell, United Kingdom</title>
-      <link>https://infrastructureclub.org/travel_guide/#abbotsbury-swannery</link>
-      <guid isPermaLink="false">abbotsbury-swannery</guid>
-      <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Mar 2026 13:25:01 +0000</lastBuildDate>
     <item>
       <title>“Abbey Pumping Station Museum” added in Belgrave, United Kingdom</title>
       <link>https://infrastructureclub.org/travel_guide/#abbey-pumping-station-museum</link>
@@ -358,6 +352,14 @@ A vast, but abandoned building. It once was going to hold a congress hall, libra
 To get there from Zagreb, you can go on a tour with Swanky Travel: https://swanky-travel.com/tour/urban-explorer-for-a-day/</description>
       <guid isPermaLink="false">petrova-gora-spomenik</guid>
       <pubDate>Wed, 18 Mar 2026 07:09:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Tren de Sóller” added in Palma, Spain</title>
+      <link>https://infrastructureclub.org/travel_guide/#tren-de-sller</link>
+      <description>Historic electric train over the mountains, with street running in Palma. Plus opening windows and balcony flailing opportunities. Connects to vintage trams in Sóller.
+https://www.youtube.com/watch?v=xf01u3u8I4c</description>
+      <guid isPermaLink="false">tren-de-sller</guid>
+      <pubDate>Wed, 18 Mar 2026 13:25:01 +0000</pubDate>
     </item>
   </channel>
 </rss>

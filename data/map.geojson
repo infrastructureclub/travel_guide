@@ -19893,9 +19893,11 @@
             },
             "properties": {
                 "name": "Tunel Grič",
-                "styleUrl": "#icon-1608-F9A825-labelson-nodesc",
-                "styleHash": "-5dadac85",
-                "icon": "images/icon-4.png"
+                "styleUrl": "#icon-1608-F9A825-labelson",
+                "styleHash": "-5f1b77a2",
+                "icon": "images/icon-4.png",
+                "description": "<img src=\"./data/images/efb6d4914244e5faa24f02bd707f4cdd4b89e40caf7c2887a02ee4fcc82674fd.png\" height=\"200\" width=\"auto\" /><br><br>World War II air raid shelter, used again for the Homeland War. <br><br>In 2026, when visited, there was music playing in the tunnels and toilets, but no information or anything else to see. You can walk through the tunnels and there is lighting.<br><br><img src=\"./data/images/57a030ce74101d9953e06299727d6931306eb5acf6a065147fe0370a7f3a3d6c.png\" height=\"200\" width=\"auto\" />",
+                "gx_media_links": "./data/images/efb6d4914244e5faa24f02bd707f4cdd4b89e40caf7c2887a02ee4fcc82674fd.png ./data/images/57a030ce74101d9953e06299727d6931306eb5acf6a065147fe0370a7f3a3d6c.png"
             }
         },
         {
@@ -20041,6 +20043,25 @@
                 "styleHash": "-5f1b77a2",
                 "icon": "images/icon-4.png",
                 "description": "Walkable dam on a lovely short hike. The last great public work built by William Mulholland, architect of the canals and aqueducts that brought water to modern Los Angeles."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8049803,
+                    45.3162696,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Petrova Gora Spomenik",
+                "styleUrl": "#icon-1608-F9A825-labelson",
+                "styleHash": "-5f1b77a2",
+                "icon": "images/icon-4.png",
+                "description": "<img src=\"./data/images/2c2805d72d9e7266c4c0662a071f9cd6def96f5f0d6276f7181d7b5e38b3726b.png\" height=\"200\" width=\"auto\" /><br><br>The monument to the uprising of the people of Kordun and Banija. <br><br>A vast, but abandoned building. It once was going to hold a congress hall, library, museum, and cafe. It's easy to get into and the structure is sound - solid steps to walk up inside.<br><br>To get there from Zagreb, you can go on a tour with Swanky Travel: https://swanky-travel.com/tour/urban-explorer-for-a-day/",
+                "gx_media_links": "./data/images/2c2805d72d9e7266c4c0662a071f9cd6def96f5f0d6276f7181d7b5e38b3726b.png"
             }
         },
         {

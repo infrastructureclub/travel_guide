@@ -1,7 +1,7 @@
 {
   "categories": {
     "historic-ruins-structures": {
-      "count": 133,
+      "count": 134,
       "name": "Historic / ruins / structures"
     },
     "industry": {
@@ -9811,6 +9811,21 @@
       "id": "petrin-tower",
       "name": "Petrin Tower"
     },
+    "petrova-gora-spomenik": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        15.8049803,
+        45.3162696
+      ],
+      "created": "2026-03-18T07:09:45.003854",
+      "description": "The monument to the uprising of the people of Kordun and Banija. \n\nA vast, but abandoned building. It once was going to hold a congress hall, library, museum, and cafe. It's easy to get into and the structure is sound - solid steps to walk up inside.\n\nTo get there from Zagreb, you can go on a tour with Swanky Travel: https://swanky-travel.com/tour/urban-explorer-for-a-day/",
+      "googlePlaceId": "ChIJ_XSReB-nZkcRYfr2eHYg1lE",
+      "id": "petrova-gora-spomenik",
+      "img": [
+        "./data/images/2c2805d72d9e7266c4c0662a071f9cd6def96f5f0d6276f7181d7b5e38b3726b.png"
+      ],
+      "name": "Petrova Gora Spomenik"
+    },
     "phone-box-at-the-centre-of-great-britain": {
       "category": "interesting-things",
       "coordinates": [
@@ -14157,8 +14172,13 @@
         45.8148631
       ],
       "created": "2026-01-27T17:26:34.363113",
+      "description": "World War II air raid shelter, used again for the Homeland War. \n\nIn 2026, when visited, there was music playing in the tunnels and toilets, but no information or anything else to see. You can walk through the tunnels and there is lighting.",
       "googlePlaceId": "ChIJG2YLBQDXZUcRd7nrGaqU6NY",
       "id": "tunel-gri",
+      "img": [
+        "./data/images/efb6d4914244e5faa24f02bd707f4cdd4b89e40caf7c2887a02ee4fcc82674fd.png",
+        "./data/images/57a030ce74101d9953e06299727d6931306eb5acf6a065147fe0370a7f3a3d6c.png"
+      ],
       "name": "Tunel Grič"
     },
     "twa-terminal": {

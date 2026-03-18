@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Mar 2026 02:47:25 +0000</lastBuildDate>
-    <item>
-      <title>“Aberystwyth Cliff Railway” added in Aberystwyth, United Kingdom</title>
-      <link>https://infrastructureclub.org/travel_guide/#aberystwyth-cliff-railway</link>
-      <guid isPermaLink="false">aberystwyth-cliff-railway</guid>
-      <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Mar 2026 07:09:45 +0000</lastBuildDate>
     <item>
       <title>“Abbotsbury Swannery” added in Chickerell, United Kingdom</title>
       <link>https://infrastructureclub.org/travel_guide/#abbotsbury-swannery</link>
@@ -353,6 +347,17 @@ https://en.wikipedia.org/wiki/SS_Richard_Montgomery</description>
       <link>https://infrastructureclub.org/travel_guide/#wouda-pumping-station</link>
       <guid isPermaLink="false">wouda-pumping-station</guid>
       <pubDate>Sun, 01 Mar 2026 02:47:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Petrova Gora Spomenik” added in Vrginmost, Croatia</title>
+      <link>https://infrastructureclub.org/travel_guide/#petrova-gora-spomenik</link>
+      <description>The monument to the uprising of the people of Kordun and Banija. 
+
+A vast, but abandoned building. It once was going to hold a congress hall, library, museum, and cafe. It's easy to get into and the structure is sound - solid steps to walk up inside.
+
+To get there from Zagreb, you can go on a tour with Swanky Travel: https://swanky-travel.com/tour/urban-explorer-for-a-day/</description>
+      <guid isPermaLink="false">petrova-gora-spomenik</guid>
+      <pubDate>Wed, 18 Mar 2026 07:09:45 +0000</pubDate>
     </item>
   </channel>
 </rss>

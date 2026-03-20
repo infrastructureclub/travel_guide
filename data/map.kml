@@ -9277,6 +9277,21 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Zagreb TV Tower</name>
+        <description><![CDATA[<img src="./data/images/9dd6fdfbd5c4d1f1e324166a73d5fe642db0e5f56070fe769092736bff60bb17.png" height="200" width="auto" /><br><br>Get the cable car up to the TV tower and then go up the TV tower.]]></description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>./data/images/9dd6fdfbd5c4d1f1e324166a73d5fe642db0e5f56070fe769092736bff60bb17.png</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            15.9480864,45.8994553,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>

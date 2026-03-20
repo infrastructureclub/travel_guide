@@ -13,7 +13,7 @@
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 572,
+      "count": 573,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -15411,6 +15411,21 @@
       "googlePlaceId": "ChIJf9ip6x3yloARQRjp0nc3fb0",
       "id": "yosemite-valley",
       "name": "Yosemite Valley"
+    },
+    "zagreb-tv-tower": {
+      "category": "museums-attractions",
+      "coordinates": [
+        15.9480864,
+        45.8994553
+      ],
+      "created": "2026-03-20T07:03:55.440143",
+      "description": "Get the cable car up to the TV tower and then go up the TV tower.",
+      "googlePlaceId": "ChIJd3flerTbZUcRTMT6mKS-jEw",
+      "id": "zagreb-tv-tower",
+      "img": [
+        "./data/images/9dd6fdfbd5c4d1f1e324166a73d5fe642db0e5f56070fe769092736bff60bb17.png"
+      ],
+      "name": "Zagreb TV Tower"
     },
     "zanja-madre": {
       "category": "historic-ruins-structures",

@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Mar 2026 13:25:01 +0000</lastBuildDate>
-    <item>
-      <title>“Abbey Pumping Station Museum” added in Belgrave, United Kingdom</title>
-      <link>https://infrastructureclub.org/travel_guide/#abbey-pumping-station-museum</link>
-      <guid isPermaLink="false">abbey-pumping-station-museum</guid>
-      <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 20 Mar 2026 07:03:55 +0000</lastBuildDate>
     <item>
       <title>“60 Hudson Street” added in Tribeca, United States</title>
       <link>https://infrastructureclub.org/travel_guide/#60-hudson-street</link>
@@ -360,6 +354,13 @@ To get there from Zagreb, you can go on a tour with Swanky Travel: https://swank
 https://www.youtube.com/watch?v=xf01u3u8I4c</description>
       <guid isPermaLink="false">tren-de-sller</guid>
       <pubDate>Wed, 18 Mar 2026 13:25:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Zagreb TV Tower” added in Gornja Bistra, Croatia</title>
+      <link>https://infrastructureclub.org/travel_guide/#zagreb-tv-tower</link>
+      <description>Get the cable car up to the TV tower and then go up the TV tower.</description>
+      <guid isPermaLink="false">zagreb-tv-tower</guid>
+      <pubDate>Fri, 20 Mar 2026 07:03:55 +0000</pubDate>
     </item>
   </channel>
 </rss>

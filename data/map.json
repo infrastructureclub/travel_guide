@@ -9,7 +9,7 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 336,
+      "count": 338,
       "name": "Interesting Things"
     },
     "museums-attractions": {
@@ -4309,6 +4309,30 @@
       "googlePlaceId": "ChIJ_VtmuzrBEg0RI1ksKSTKddg",
       "id": "gemasolar",
       "name": "Gemasolar"
+    },
+    "general-store-railyard-": {
+      "category": "interesting-things",
+      "coordinates": [
+        139.6230438,
+        35.9062231
+      ],
+      "created": "2026-03-25T19:03:21.872574",
+      "description": "Shop that sells train related items",
+      "googlePlaceId": "ChIJs4uasEPBGGARqwFK1ukv20M",
+      "id": "general-store-railyard-",
+      "name": "GENERAL STORE RAILYARD 大宮"
+    },
+    "general-store-railyard-2": {
+      "category": "interesting-things",
+      "coordinates": [
+        139.7747761,
+        35.6981328
+      ],
+      "created": "2026-03-25T19:03:21.872609",
+      "description": "Store that sells train items",
+      "googlePlaceId": "ChIJdcSC2EiNGGARx_bz33r_-eI",
+      "id": "general-store-railyard-2",
+      "name": "GENERAL STORE RAILYARD 秋葉原"
     },
     "german-mining-museum": {
       "category": "museums-attractions",

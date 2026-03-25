@@ -6977,6 +6977,42 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    139.6230438,
+                    35.9062231,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "GENERAL STORE RAILYARD 大宮",
+                "styleUrl": "#icon-1636-A52714-labelson",
+                "styleHash": "-397cadf3",
+                "icon": "images/icon-1.png",
+                "description": "Shop that sells train related items"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7747761,
+                    35.6981328,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "GENERAL STORE RAILYARD 秋葉原",
+                "styleUrl": "#icon-1636-A52714-labelson",
+                "styleHash": "-397cadf3",
+                "icon": "images/icon-1.png",
+                "description": "Store that sells train items"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0

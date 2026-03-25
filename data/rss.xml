@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Mar 2026 07:03:55 +0000</lastBuildDate>
-    <item>
-      <title>“60 Hudson Street” added in Tribeca, United States</title>
-      <link>https://infrastructureclub.org/travel_guide/#60-hudson-street</link>
-      <description>Formerly known as the Western Union Building. A major colocation center.</description>
-      <guid isPermaLink="false">60-hudson-street</guid>
-      <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>“33 Thomas Street / Long Lines building” added in New York City, United States</title>
-      <link>https://infrastructureclub.org/travel_guide/#33-thomas-street-long-lines-building</link>
-      <description>Windowless skyscraper containing major communication exchange points, and the likely location of an NSA intercept hub codenamed TITANPOINTE. https://en.m.wikipedia.org/wiki/33_Thomas_Street</description>
-      <guid isPermaLink="false">33-thomas-street-long-lines-building</guid>
-      <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Mar 2026 19:03:21 +0000</lastBuildDate>
     <item>
       <title>“228 Peace Memorial Park” added in Taipei, Taiwan</title>
       <link>https://infrastructureclub.org/travel_guide/#228-peace-memorial-park</link>
@@ -361,6 +347,20 @@ https://www.youtube.com/watch?v=xf01u3u8I4c</description>
       <description>Get the cable car up to the TV tower and then go up the TV tower.</description>
       <guid isPermaLink="false">zagreb-tv-tower</guid>
       <pubDate>Fri, 20 Mar 2026 07:03:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>“GENERAL STORE RAILYARD 大宮” added in Yono, Japan</title>
+      <link>https://infrastructureclub.org/travel_guide/#general-store-railyard-</link>
+      <description>Shop that sells train related items</description>
+      <guid isPermaLink="false">general-store-railyard-</guid>
+      <pubDate>Wed, 25 Mar 2026 19:03:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>“GENERAL STORE RAILYARD 秋葉原” added in Akihabara, Japan</title>
+      <link>https://infrastructureclub.org/travel_guide/#general-store-railyard-2</link>
+      <description>Store that sells train items</description>
+      <guid isPermaLink="false">general-store-railyard-2</guid>
+      <pubDate>Wed, 25 Mar 2026 19:03:21 +0000</pubDate>
     </item>
   </channel>
 </rss>

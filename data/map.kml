@@ -3747,6 +3747,26 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>GENERAL STORE RAILYARD 大宮</name>
+        <description>Shop that sells train related items</description>
+        <styleUrl>#icon-1636-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            139.6230438,35.9062231,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GENERAL STORE RAILYARD 秋葉原</name>
+        <description>Store that sells train items</description>
+        <styleUrl>#icon-1636-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            139.7747761,35.6981328,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>

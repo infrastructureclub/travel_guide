@@ -13,7 +13,7 @@
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 574,
+      "count": 575,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -14404,6 +14404,18 @@
       "googlePlaceId": "ChIJB-0ytkh8hYARLPEQsVn-oo4",
       "id": "university-of-california-botanical-garden",
       "name": "University of California Botanical Garden"
+    },
+    "university-of-luxembourg-belval": {
+      "category": "museums-attractions",
+      "coordinates": [
+        5.947138,
+        49.5015871
+      ],
+      "created": "2026-03-26T19:16:20.592704",
+      "description": "University built around a former steelworks (with museum)\n\nhttps://www.youtube.com/watch?v=kgLTibessRQ",
+      "googlePlaceId": "ChIJg3hIn4HL6kcRBtFiP8WM4fU",
+      "id": "university-of-luxembourg-belval",
+      "name": "University of Luxembourg Belval"
     },
     "university-of-southampton": {
       "category": "science",

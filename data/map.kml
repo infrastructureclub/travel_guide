@@ -9336,6 +9336,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>University of Luxembourg Belval</name>
+        <description><![CDATA[University built around a former steelworks (with museum)<br><br>https://www.youtube.com/watch?v=kgLTibessRQ]]></description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            5.947138,49.5015871,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>

@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Mar 2026 13:41:15 +0000</lastBuildDate>
-    <item>
-      <title>“Πολυχώρος Πολιτισμού "Ισλαχανέ"” added in Ágios Pávlos, Greece</title>
-      <link>https://infrastructureclub.org/travel_guide/#-2</link>
-      <description>Old technical museum. Lovely stuff.</description>
-      <guid isPermaLink="false">-2</guid>
-      <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Mar 2026 19:16:20 +0000</lastBuildDate>
     <item>
       <title>“Μουσείο Μαρμαροτεχνίας” added in Tínos, Greece</title>
       <link>https://infrastructureclub.org/travel_guide/#-</link>
@@ -360,6 +353,15 @@ https://www.youtube.com/watch?v=xf01u3u8I4c</description>
       <description>A vast museum in the sewers, with old equipment to see. Signs are in French, but they can give you a book with English translations to borrow.</description>
       <guid isPermaLink="false">paris-sewer-museum</guid>
       <pubDate>Thu, 26 Mar 2026 13:41:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>“University of Luxembourg Belval” added in Russange, France</title>
+      <link>https://infrastructureclub.org/travel_guide/#university-of-luxembourg-belval</link>
+      <description>University built around a former steelworks (with museum)
+
+https://www.youtube.com/watch?v=kgLTibessRQ</description>
+      <guid isPermaLink="false">university-of-luxembourg-belval</guid>
+      <pubDate>Thu, 26 Mar 2026 19:16:20 +0000</pubDate>
     </item>
   </channel>
 </rss>

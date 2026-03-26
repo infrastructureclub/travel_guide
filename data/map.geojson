@@ -17083,6 +17083,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    5.947138,
+                    49.5015871,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "University of Luxembourg Belval",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "icon": "images/icon-2.png",
+                "description": "University built around a former steelworks (with museum)<br><br>https://www.youtube.com/watch?v=kgLTibessRQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.9055879,
                     38.1671515,
                     0

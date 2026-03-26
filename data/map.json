@@ -9,11 +9,11 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 338,
+      "count": 339,
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 573,
+      "count": 574,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -3132,6 +3132,17 @@
       "googlePlaceId": "ChIJFQDsU9Uz3YkR_pQqgPsR8I4",
       "id": "dia-beacon",
       "name": "Dia Beacon"
+    },
+    "diamond-light-source": {
+      "category": "interesting-things",
+      "coordinates": [
+        -1.310914,
+        51.574362
+      ],
+      "created": "2026-03-26T13:41:15.846014",
+      "googlePlaceId": "ChIJJann1xW6dkgRdD3fhVRmzN8",
+      "id": "diamond-light-source",
+      "name": "Diamond Light Source"
     },
     "didcot-railway-centre": {
       "category": "museums-attractions",
@@ -9620,6 +9631,23 @@
       "googlePlaceId": "ChIJqVJBRBW_eUgR668CAviqhfQ",
       "id": "papplewick-pumping-station",
       "name": "Papplewick Pumping Station"
+    },
+    "paris-sewer-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        2.3024832,
+        48.862538
+      ],
+      "created": "2026-03-26T13:41:15.853808",
+      "description": "A vast museum in the sewers, with old equipment to see. Signs are in French, but they can give you a book with English translations to borrow.",
+      "googlePlaceId": "ChIJAYllBdpv5kcRI5PocXj8I2c",
+      "id": "paris-sewer-museum",
+      "img": [
+        "./data/images/9a3043003266809d391fe4685f31da2129bd120fd14ceccdb27337f5eb47839c.png",
+        "./data/images/004d3e8f6c9207dc0eb9cad2908d7a8f7c44829d783a3f33ff303292148c8bf2.png",
+        "./data/images/ed7c8dbeaa6e4496239afa6085e1d42c9aad4ea3ef663a515668ad74d9fc0ec5.png"
+      ],
+      "name": "Paris Sewer Museum"
     },
     "park-of-the-aqueducts": {
       "category": "historic-ruins-structures",

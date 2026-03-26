@@ -7013,6 +7013,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -1.310914,
+                    51.574362,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Diamond Light Source",
+                "styleUrl": "#icon-1636-A52714-labelson-nodesc",
+                "styleHash": "-2ab28dbc",
+                "icon": "images/icon-1.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0
@@ -17040,6 +17057,25 @@
                 "icon": "images/icon-2.png",
                 "description": "<img src=\"./data/images/9dd6fdfbd5c4d1f1e324166a73d5fe642db0e5f56070fe769092736bff60bb17.png\" height=\"200\" width=\"auto\" /><br><br>Get the cable car up to the TV tower and then go up the TV tower.",
                 "gx_media_links": "./data/images/9dd6fdfbd5c4d1f1e324166a73d5fe642db0e5f56070fe769092736bff60bb17.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3024832,
+                    48.862538,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Paris Sewer Museum",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "icon": "images/icon-2.png",
+                "description": "<img src=\"./data/images/9a3043003266809d391fe4685f31da2129bd120fd14ceccdb27337f5eb47839c.png\" height=\"200\" width=\"auto\" /><br><br>A vast museum in the sewers, with old equipment to see. Signs are in French, but they can give you a book with English translations to borrow. <br><br><img src=\"./data/images/004d3e8f6c9207dc0eb9cad2908d7a8f7c44829d783a3f33ff303292148c8bf2.png\" height=\"200\" width=\"auto\" /><br><br><img src=\"./data/images/ed7c8dbeaa6e4496239afa6085e1d42c9aad4ea3ef663a515668ad74d9fc0ec5.png\" height=\"200\" width=\"auto\" />",
+                "gx_media_links": "./data/images/9a3043003266809d391fe4685f31da2129bd120fd14ceccdb27337f5eb47839c.png ./data/images/004d3e8f6c9207dc0eb9cad2908d7a8f7c44829d783a3f33ff303292148c8bf2.png ./data/images/ed7c8dbeaa6e4496239afa6085e1d42c9aad4ea3ef663a515668ad74d9fc0ec5.png"
             }
         },
         {

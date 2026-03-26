@@ -3767,6 +3767,15 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Diamond Light Source</name>
+        <styleUrl>#icon-1636-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.310914,51.574362,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>
@@ -9309,6 +9318,21 @@
         <Point>
           <coordinates>
             15.9480864,45.8994553,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Paris Sewer Museum</name>
+        <description><![CDATA[<img src="./data/images/9a3043003266809d391fe4685f31da2129bd120fd14ceccdb27337f5eb47839c.png" height="200" width="auto" /><br><br>A vast museum in the sewers, with old equipment to see. Signs are in French, but they can give you a book with English translations to borrow. <br><br><img src="./data/images/004d3e8f6c9207dc0eb9cad2908d7a8f7c44829d783a3f33ff303292148c8bf2.png" height="200" width="auto" /><br><br><img src="./data/images/ed7c8dbeaa6e4496239afa6085e1d42c9aad4ea3ef663a515668ad74d9fc0ec5.png" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>./data/images/9a3043003266809d391fe4685f31da2129bd120fd14ceccdb27337f5eb47839c.png ./data/images/004d3e8f6c9207dc0eb9cad2908d7a8f7c44829d783a3f33ff303292148c8bf2.png ./data/images/ed7c8dbeaa6e4496239afa6085e1d42c9aad4ea3ef663a515668ad74d9fc0ec5.png</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            2.3024832,48.862538,0
           </coordinates>
         </Point>
       </Placemark>

@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Mar 2026 19:03:21 +0000</lastBuildDate>
-    <item>
-      <title>“228 Peace Memorial Park” added in Taipei, Taiwan</title>
-      <link>https://infrastructureclub.org/travel_guide/#228-peace-memorial-park</link>
-      <description>has some old steam trains</description>
-      <guid isPermaLink="false">228-peace-memorial-park</guid>
-      <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>“مطار. اك الملح‎” added in Rumāh, Yemen</title>
-      <link>https://infrastructureclub.org/travel_guide/#-3</link>
-      <description>www.wired.com/dangerroom/2013/02/secret-drone-base-2/</description>
-      <guid isPermaLink="false">-3</guid>
-      <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Mar 2026 13:41:15 +0000</lastBuildDate>
     <item>
       <title>“Πολυχώρος Πολιτισμού "Ισλαχανέ"” added in Ágios Pávlos, Greece</title>
       <link>https://infrastructureclub.org/travel_guide/#-2</link>
@@ -361,6 +347,19 @@ https://www.youtube.com/watch?v=xf01u3u8I4c</description>
       <description>Store that sells train items</description>
       <guid isPermaLink="false">general-store-railyard-2</guid>
       <pubDate>Wed, 25 Mar 2026 19:03:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Diamond Light Source” added in Harwell, United Kingdom</title>
+      <link>https://infrastructureclub.org/travel_guide/#diamond-light-source</link>
+      <guid isPermaLink="false">diamond-light-source</guid>
+      <pubDate>Thu, 26 Mar 2026 13:41:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Paris Sewer Museum” added in Levallois-Perret, France</title>
+      <link>https://infrastructureclub.org/travel_guide/#paris-sewer-museum</link>
+      <description>A vast museum in the sewers, with old equipment to see. Signs are in French, but they can give you a book with English translations to borrow.</description>
+      <guid isPermaLink="false">paris-sewer-museum</guid>
+      <pubDate>Thu, 26 Mar 2026 13:41:15 +0000</pubDate>
     </item>
   </channel>
 </rss>

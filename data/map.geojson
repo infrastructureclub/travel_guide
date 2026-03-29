@@ -17816,6 +17816,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    4.1841735,
+                    43.5546913,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cie Salins du Midi et Salines de l'Est",
+                "styleUrl": "#icon-1693-757575-labelson",
+                "styleHash": "-1d74371c",
+                "icon": "images/icon-3.png",
+                "description": "Big saltworks where you can get a tour either on a bike or an a little train"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -78.3005704,
                     44.3076708,
                     0

@@ -9757,6 +9757,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name><![CDATA[Cie Salins du Midi et Salines de l'Est]]></name>
+        <description>Big saltworks where you can get a tour either on a bike or an a little train</description>
+        <styleUrl>#icon-1693-757575-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            4.1841735,43.5546913,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Historic / ruins / structures</name>

@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Mar 2026 19:16:20 +0000</lastBuildDate>
-    <item>
-      <title>“Μουσείο Μαρμαροτεχνίας” added in Tínos, Greece</title>
-      <link>https://infrastructureclub.org/travel_guide/#-</link>
-      <guid isPermaLink="false">-</guid>
-      <pubDate>Tue, 27 Jan 2026 17:26:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 29 Mar 2026 13:07:50 +0000</lastBuildDate>
     <item>
       <title>“港の散歩道” added in Nagasaki, Japan</title>
       <link>https://infrastructureclub.org/travel_guide/#2</link>
@@ -362,6 +356,13 @@ https://www.youtube.com/watch?v=xf01u3u8I4c</description>
 https://www.youtube.com/watch?v=kgLTibessRQ</description>
       <guid isPermaLink="false">university-of-luxembourg-belval</guid>
       <pubDate>Thu, 26 Mar 2026 19:16:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Cie Salins du Midi et Salines de l'Est” added in Aigues-Mortes, France</title>
+      <link>https://infrastructureclub.org/travel_guide/#cie-salins-du-midi-et-salines-de-lest</link>
+      <description>Big saltworks where you can get a tour either on a bike or an a little train</description>
+      <guid isPermaLink="false">cie-salins-du-midi-et-salines-de-lest</guid>
+      <pubDate>Sun, 29 Mar 2026 13:07:50 +0000</pubDate>
     </item>
   </channel>
 </rss>

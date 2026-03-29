@@ -5,7 +5,7 @@
       "name": "Historic / ruins / structures"
     },
     "industry": {
-      "count": 40,
+      "count": 41,
       "name": "Industry"
     },
     "interesting-things": {
@@ -2418,6 +2418,18 @@
         "./data/images/3f80624296d03d4cbdb9205a8272970672cdf58937e353a052e2abafdd03556c.png"
       ],
       "name": "Cidade da Cultura de Galicia"
+    },
+    "cie-salins-du-midi-et-salines-de-lest": {
+      "category": "industry",
+      "coordinates": [
+        4.1841735,
+        43.5546913
+      ],
+      "created": "2026-03-29T13:07:50.653839",
+      "description": "Big saltworks where you can get a tour either on a bike or an a little train",
+      "googlePlaceId": "ChIJUeILmjWQthIRsklmj_nC4sU",
+      "id": "cie-salins-du-midi-et-salines-de-lest",
+      "name": "Cie Salins du Midi et Salines de l'Est"
     },
     "cisterns-of-la-malga": {
       "category": "historic-ruins-structures",

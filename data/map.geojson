@@ -7047,6 +7047,40 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    139.6910605,
+                    35.6722444,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Transparent Public Toilets - Tokyo Toilet #7",
+                "styleUrl": "#icon-1636-A52714-labelson-nodesc",
+                "styleHash": "-2ab28dbc",
+                "icon": "images/icon-1.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6667292,
+                    35.6733332,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sasazuka Greenway Public Toilets - The Tokyo Toilet #1",
+                "styleUrl": "#icon-1636-A52714-labelson-nodesc",
+                "styleHash": "-2ab28dbc",
+                "icon": "images/icon-1.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0

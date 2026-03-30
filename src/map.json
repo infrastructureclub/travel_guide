@@ -9,7 +9,7 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 340,
+      "count": 342,
       "name": "Interesting Things"
     },
     "museums-attractions": {
@@ -11183,6 +11183,17 @@
       "id": "sardinia-radio-telescope",
       "name": "Sardinia Radio Telescope"
     },
+    "sasazuka-greenway-public-toilets-the-tokyo-toilet-1": {
+      "category": "interesting-things",
+      "coordinates": [
+        139.6667292,
+        35.6733332
+      ],
+      "created": "2026-03-30T19:07:59.271821",
+      "googlePlaceId": "ChIJwWy1b4nzGGARvyTHzxAa1GM",
+      "id": "sasazuka-greenway-public-toilets-the-tokyo-toilet-1",
+      "name": "Sasazuka Greenway Public Toilets - The Tokyo Toilet #1"
+    },
     "satellite-control-of-network": {
       "category": "not-open-to-public-but-visible",
       "coordinates": [
@@ -14171,6 +14182,17 @@
       "googlePlaceId": "ChIJGd4hdBrDw0cRGXMvSdqyeUU",
       "id": "train-world",
       "name": "Train World"
+    },
+    "transparent-public-toilets-tokyo-toilet-7": {
+      "category": "interesting-things",
+      "coordinates": [
+        139.6910605,
+        35.6722444
+      ],
+      "created": "2026-03-30T19:07:59.271796",
+      "googlePlaceId": "ChIJ8ztd00rzGGARwWCdHEyE8VU",
+      "id": "transparent-public-toilets-tokyo-toilet-7",
+      "name": "Transparent Public Toilets - Tokyo Toilet #7"
     },
     "transport-museum": {
       "category": "museums-attractions",

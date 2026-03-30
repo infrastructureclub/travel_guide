@@ -7,20 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Mar 2026 13:46:02 +0000</lastBuildDate>
-    <item>
-      <title>“President Heads” added in Williamsburg, United States</title>
-      <link>https://infrastructureclub.org/travel_guide/#president-heads</link>
-      <guid isPermaLink="false">president-heads</guid>
-      <pubDate>Tue, 27 Jan 2026 17:27:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Tomakomai West Port Ferry Terminal” added in Tomakomai, Japan</title>
-      <link>https://infrastructureclub.org/travel_guide/#tomakomai-west-port-ferry-terminal</link>
-      <description>Overnight ferry to sendai available, pain to book, but you can get a bedroom or pod, and can get a public bath on a moving ship.</description>
-      <guid isPermaLink="false">tomakomai-west-port-ferry-terminal</guid>
-      <pubDate>Tue, 27 Jan 2026 17:53:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 30 Mar 2026 19:07:59 +0000</lastBuildDate>
     <item>
       <title>“Snow Festival” added in Sapporo, Japan</title>
       <link>https://infrastructureclub.org/travel_guide/#snow-festival</link>
@@ -362,6 +349,18 @@ https://www.youtube.com/watch?v=kgLTibessRQ</description>
       <link>https://infrastructureclub.org/travel_guide/#toilet-in-nature</link>
       <guid isPermaLink="false">toilet-in-nature</guid>
       <pubDate>Mon, 30 Mar 2026 13:46:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Transparent Public Toilets - Tokyo Toilet #7” added in Motoyoyogichō, Japan</title>
+      <link>https://infrastructureclub.org/travel_guide/#transparent-public-toilets-tokyo-toilet-7</link>
+      <guid isPermaLink="false">transparent-public-toilets-tokyo-toilet-7</guid>
+      <pubDate>Mon, 30 Mar 2026 19:07:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Sasazuka Greenway Public Toilets - The Tokyo Toilet #1” added in Sasazuka, Japan</title>
+      <link>https://infrastructureclub.org/travel_guide/#sasazuka-greenway-public-toilets-the-tokyo-toilet-1</link>
+      <guid isPermaLink="false">sasazuka-greenway-public-toilets-the-tokyo-toilet-1</guid>
+      <pubDate>Mon, 30 Mar 2026 19:07:59 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -3785,6 +3785,24 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Transparent Public Toilets - Tokyo Toilet #7</name>
+        <styleUrl>#icon-1636-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.6910605,35.6722444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sasazuka Greenway Public Toilets - The Tokyo Toilet #1</name>
+        <styleUrl>#icon-1636-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.6667292,35.6733332,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>

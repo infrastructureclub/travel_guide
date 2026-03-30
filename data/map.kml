@@ -3776,6 +3776,15 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Toilet in Nature</name>
+        <styleUrl>#icon-1636-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            140.142141,35.321112,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>

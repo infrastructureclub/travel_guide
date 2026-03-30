@@ -9,7 +9,7 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 339,
+      "count": 340,
       "name": "Interesting Things"
     },
     "museums-attractions": {
@@ -13984,6 +13984,17 @@
       "googlePlaceId": "ChIJcYljJ7AJYUgREnKW65tyJUw",
       "id": "titanic-belfast",
       "name": "Titanic Belfast"
+    },
+    "toilet-in-nature": {
+      "category": "interesting-things",
+      "coordinates": [
+        140.142141,
+        35.321112
+      ],
+      "created": "2026-03-30T13:46:02.451418",
+      "googlePlaceId": "ChIJ7dW0WuylImARa_hWxVl8cQ8",
+      "id": "toilet-in-nature",
+      "name": "Toilet in Nature"
     },
     "tokoname-pottery-footpath": {
       "category": "museums-attractions",

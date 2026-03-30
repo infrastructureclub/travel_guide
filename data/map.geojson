@@ -7030,6 +7030,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    140.142141,
+                    35.321112,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Toilet in Nature",
+                "styleUrl": "#icon-1636-A52714-labelson-nodesc",
+                "styleHash": "-2ab28dbc",
+                "icon": "images/icon-1.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0

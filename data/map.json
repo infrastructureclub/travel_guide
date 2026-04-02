@@ -9,11 +9,11 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 342,
+      "count": 343,
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 575,
+      "count": 576,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -8830,6 +8830,18 @@
       "id": "natural-history-museum-at-tring",
       "name": "Natural History Museum at Tring"
     },
+    "natural-history-museum-rotterdam": {
+      "category": "museums-attractions",
+      "coordinates": [
+        4.47255,
+        51.91079
+      ],
+      "created": "2026-04-02T19:04:08.499111",
+      "description": "Contains a permanent collection of 'famous' dead animals, including a stone marten that once snuck into and shut down the Large Hadron Collider at CERN, and a swallow that was shot after knocking over 23,000 dominoes.",
+      "googlePlaceId": "ChIJ1wvyhp40xEcR7qImNZzmABI",
+      "id": "natural-history-museum-rotterdam",
+      "name": "Natural History Museum Rotterdam"
+    },
     "nemo-science-museum": {
       "category": "museums-attractions",
       "coordinates": [
@@ -9498,6 +9510,17 @@
       "googlePlaceId": "ChIJzakNjPToAGARzCwIriDFg28",
       "id": "osaka-aquarium-kaiyukan",
       "name": "Osaka Aquarium Kaiyukan"
+    },
+    "osaka-monorail-banpaku-kinen-koen-station": {
+      "category": "interesting-things",
+      "coordinates": [
+        135.5301899,
+        34.8067926
+      ],
+      "created": "2026-04-02T19:04:08.490625",
+      "description": "This station is served by both the Osaka Monorail main line as well as the Saito branch line - which means to the east there's a remarkable set of switchable monorail track which can be fun to watch as trains come in and out of the station as sections of the track rearrange themselves. Trains from the branch line normally terminate here, but run through to Senri-Chuo station during the peaks.",
+      "id": "osaka-monorail-banpaku-kinen-koen-station",
+      "name": "Osaka Monorail Banpaku-Kinen-Koen Station"
     },
     "osmotheque-international-archives-of-perfumes": {
       "category": "museums-attractions",

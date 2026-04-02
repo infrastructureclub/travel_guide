@@ -3803,6 +3803,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Osaka Monorail Banpaku-Kinen-Koen Station</name>
+        <description><![CDATA[This station is served by both the Osaka Monorail main line as well as the Saito branch line - which means to the east there's a remarkable set of switchable monorail track which can be fun to watch as trains come in and out of the station as sections of the track rearrange themselves. Trains from the branch line normally terminate here, but run through to Senri-Chuo station during the peaks. ]]></description>
+        <styleUrl>#icon-1636-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            135.5301899,34.8067926,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>
@@ -9370,6 +9380,16 @@
         <Point>
           <coordinates>
             5.947138,49.5015871,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Natural History Museum Rotterdam</name>
+        <description><![CDATA[Contains a permanent collection of 'famous' dead animals, including a stone marten that once snuck into and shut down the Large Hadron Collider at CERN, and a swallow that was shot after knocking over 23,000 dominoes.]]></description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            4.47255,51.91079,0
           </coordinates>
         </Point>
       </Placemark>

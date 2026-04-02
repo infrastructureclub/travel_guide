@@ -7,22 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Apr 2026 13:26:37 +0000</lastBuildDate>
-    <item>
-      <title>“Sapporo TV Tower” added in Sapporo, Japan</title>
-      <link>https://infrastructureclub.org/travel_guide/#sapporo-tv-tower</link>
-      <description>TV tower you can go up, has a mascot known as teli-dad https://yurukyara.fandom.com/wiki/Terebi_To-san</description>
-      <guid isPermaLink="false">sapporo-tv-tower</guid>
-      <pubDate>Tue, 27 Jan 2026 17:53:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Heavy Load-bearing Body” added in Schöneberg, Germany</title>
-      <link>https://infrastructureclub.org/travel_guide/#heavy-load-bearing-body</link>
-      <description>The Heavy Load-bearing Body is a giant concrete structure built to test how much load the ground in Berlin could hold to help with the Nazi plan to build a great big arch. It is quite a strange, squat concrete tower on an unassuming corner. Visiting hours are seasonal (April - October) and they do guided tours every first Sunday of the month. Entry is free.
-https://www.schwerbelastungskoerper.de/the-heavy-load-bearing-body.html</description>
-      <guid isPermaLink="false">heavy-load-bearing-body</guid>
-      <pubDate>Tue, 27 Jan 2026 22:54:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Apr 2026 19:04:08 +0000</lastBuildDate>
     <item>
       <title>“Avala Tower” added in Zuce, Serbia</title>
       <link>https://infrastructureclub.org/travel_guide/#avala-tower</link>
@@ -361,6 +346,20 @@ https://www.youtube.com/watch?v=kgLTibessRQ</description>
       <description>Small museum with historical uniforms/memorabilia/gift shop followed by a tour of the JAL maintenance hangars where you get to see people at work maintaining JAL's fleet. Reservations need to be made a month in advance, and whilst the museum exhibits are bi-lingual it may be worth emailing after making a reservation to specify that you'd prefer an English-speaking guide if one's available (unless your Japanese is good enough to understand the safety instructions and plane facts!)</description>
       <guid isPermaLink="false">jal-sky-museum</guid>
       <pubDate>Thu, 02 Apr 2026 13:26:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Osaka Monorail Banpaku-Kinen-Koen Station” added in Ibaraki, Japan</title>
+      <link>https://infrastructureclub.org/travel_guide/#osaka-monorail-banpaku-kinen-koen-station</link>
+      <description>This station is served by both the Osaka Monorail main line as well as the Saito branch line - which means to the east there's a remarkable set of switchable monorail track which can be fun to watch as trains come in and out of the station as sections of the track rearrange themselves. Trains from the branch line normally terminate here, but run through to Senri-Chuo station during the peaks.</description>
+      <guid isPermaLink="false">osaka-monorail-banpaku-kinen-koen-station</guid>
+      <pubDate>Thu, 02 Apr 2026 19:04:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Natural History Museum Rotterdam” added in Rotterdam, Netherlands</title>
+      <link>https://infrastructureclub.org/travel_guide/#natural-history-museum-rotterdam</link>
+      <description>Contains a permanent collection of 'famous' dead animals, including a stone marten that once snuck into and shut down the Large Hadron Collider at CERN, and a swallow that was shot after knocking over 23,000 dominoes.</description>
+      <guid isPermaLink="false">natural-history-museum-rotterdam</guid>
+      <pubDate>Thu, 02 Apr 2026 19:04:08 +0000</pubDate>
     </item>
   </channel>
 </rss>

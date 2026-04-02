@@ -17885,6 +17885,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    139.7888545,
+                    35.5420076,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "JAL Sky Museum",
+                "styleUrl": "#icon-1693-757575-labelson",
+                "styleHash": "-1d74371c",
+                "icon": "images/icon-3.png",
+                "description": "Small museum with historical uniforms/memorabilia/gift shop followed by a tour of the JAL maintenance hangars where you get to see people at work maintaining JAL's fleet. Reservations need to be made a month in advance, and whilst the museum exhibits are bi-lingual it may be worth emailing after making a reservation to specify that you'd prefer an English-speaking guide if one's available (unless your Japanese is good enough to understand the safety instructions and plane facts!)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -78.3005704,
                     44.3076708,
                     0

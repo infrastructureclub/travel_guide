@@ -5,7 +5,7 @@
       "name": "Historic / ruins / structures"
     },
     "industry": {
-      "count": 41,
+      "count": 42,
       "name": "Industry"
     },
     "interesting-things": {
@@ -5739,6 +5739,17 @@
       "googlePlaceId": "ChIJL3il9gNjdEgRnvatyIEgySc",
       "id": "isle-of-wight-postal-museum",
       "name": "Isle of Wight Postal Museum"
+    },
+    "jal-sky-museum": {
+      "category": "industry",
+      "coordinates": [
+        139.7888545,
+        35.5420076
+      ],
+      "created": "2026-04-02T13:26:37.654495",
+      "description": "Small museum with historical uniforms/memorabilia/gift shop followed by a tour of the JAL maintenance hangars where you get to see people at work maintaining JAL's fleet. Reservations need to be made a month in advance, and whilst the museum exhibits are bi-lingual it may be worth emailing after making a reservation to specify that you'd prefer an English-speaking guide if one's available (unless your Japanese is good enough to understand the safety instructions and plane facts!)",
+      "id": "jal-sky-museum",
+      "name": "JAL Sky Museum"
     },
     "jannis-chimney": {
       "category": "interesting-things",

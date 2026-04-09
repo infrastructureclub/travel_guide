@@ -7099,6 +7099,42 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    139.6995778,
+                    35.6927011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Omoide Yokocho Memory Lane",
+                "styleUrl": "#icon-1636-A52714-labelson",
+                "styleHash": "-397cadf3",
+                "icon": "images/icon-1.png",
+                "description": "Another street of tiny bars, also known as piss alley."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7746611,
+                    35.6270654,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fuji Television Headquarters “HACHITAMA” Spherical Observation Room",
+                "styleUrl": "#icon-1636-A52714-labelson",
+                "styleHash": "-397cadf3",
+                "icon": "images/icon-1.png",
+                "description": "Building with a big \"ball\" in it, has a observation deck."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0
@@ -17181,6 +17217,24 @@
                 "styleHash": "-73d4c685",
                 "icon": "images/icon-2.png",
                 "description": "Contains a permanent collection of 'famous' dead animals, including a stone marten that once snuck into and shut down the Large Hadron Collider at CERN, and a swallow that was shot after knocking over 23,000 dominoes."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.4895432,
+                    34.698051,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Gate Tower Building",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "icon": "images/icon-2.png",
+                "description": "Building with a highway running through it"
             }
         },
         {

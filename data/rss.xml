@@ -7,28 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Apr 2026 19:04:08 +0000</lastBuildDate>
-    <item>
-      <title>“Avala Tower” added in Zuce, Serbia</title>
-      <link>https://infrastructureclub.org/travel_guide/#avala-tower</link>
-      <description>Enormous brutalist concrete TV tower in the shape of a tripod. Destroyed in 1999, rebuilt in 2010.</description>
-      <guid isPermaLink="false">avala-tower</guid>
-      <pubDate>Wed, 28 Jan 2026 02:09:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Mark IV British tank” added in Ashford, United Kingdom</title>
-      <link>https://infrastructureclub.org/travel_guide/#mark-iv-british-tank</link>
-      <description>Only one of a few that still exist, spent part of it's life housing a power transformer for the town.</description>
-      <guid isPermaLink="false">mark-iv-british-tank</guid>
-      <pubDate>Wed, 28 Jan 2026 18:44:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>“The Royal and Ancient Polar Bear Society” added in Hammerfest, Norway</title>
-      <link>https://infrastructureclub.org/travel_guide/#the-royal-and-ancient-polar-bear-society</link>
-      <description>The annual meeting of the society is held on the third Sunday in January every year at 18.00 in the Polar Bear Society. All members are welcome.</description>
-      <guid isPermaLink="false">the-royal-and-ancient-polar-bear-society</guid>
-      <pubDate>Wed, 28 Jan 2026 18:44:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Apr 2026 19:16:47 +0000</lastBuildDate>
     <item>
       <title>“Berlin Tunnel Tours” added in Gesundbrunnen, Germany</title>
       <link>https://infrastructureclub.org/travel_guide/#berlin-tunnel-tours</link>
@@ -360,6 +339,27 @@ https://www.youtube.com/watch?v=kgLTibessRQ</description>
       <description>Contains a permanent collection of 'famous' dead animals, including a stone marten that once snuck into and shut down the Large Hadron Collider at CERN, and a swallow that was shot after knocking over 23,000 dominoes.</description>
       <guid isPermaLink="false">natural-history-museum-rotterdam</guid>
       <pubDate>Thu, 02 Apr 2026 19:04:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Omoide Yokocho Memory Lane” added in Kabukicho, Japan</title>
+      <link>https://infrastructureclub.org/travel_guide/#omoide-yokocho-memory-lane</link>
+      <description>Another street of tiny bars, also known as piss alley.</description>
+      <guid isPermaLink="false">omoide-yokocho-memory-lane</guid>
+      <pubDate>Thu, 09 Apr 2026 19:16:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Fuji Television Headquarters “HACHITAMA” Spherical Observation Room” added in Daiba, Japan</title>
+      <link>https://infrastructureclub.org/travel_guide/#fuji-television-headquarters-hachitama-spherical-observation-room</link>
+      <description>Building with a big "ball" in it, has a observation deck.</description>
+      <guid isPermaLink="false">fuji-television-headquarters-hachitama-spherical-observation-room</guid>
+      <pubDate>Thu, 09 Apr 2026 19:16:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Gate Tower Building” added in Umeda, Japan</title>
+      <link>https://infrastructureclub.org/travel_guide/#gate-tower-building</link>
+      <description>Building with a highway running through it</description>
+      <guid isPermaLink="false">gate-tower-building</guid>
+      <pubDate>Thu, 09 Apr 2026 19:16:47 +0000</pubDate>
     </item>
   </channel>
 </rss>

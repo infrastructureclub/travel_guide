@@ -9,11 +9,11 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 343,
+      "count": 345,
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 576,
+      "count": 577,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -4275,6 +4275,18 @@
       "id": "fremont-troll",
       "name": "Fremont Troll"
     },
+    "fuji-television-headquarters-hachitama-spherical-observation-room": {
+      "category": "interesting-things",
+      "coordinates": [
+        139.7746611,
+        35.6270654
+      ],
+      "created": "2026-04-09T19:16:47.050067",
+      "description": "Building with a big \"ball\" in it, has a observation deck.",
+      "googlePlaceId": "ChIJb2CosfeJGGAR_TIVIcsMyK4",
+      "id": "fuji-television-headquarters-hachitama-spherical-observation-room",
+      "name": "Fuji Television Headquarters “HACHITAMA” Spherical Observation Room"
+    },
     "funikularea": {
       "category": "interesting-things",
       "coordinates": [
@@ -4310,6 +4322,18 @@
       "googlePlaceId": "ChIJf7BbsgIVkFQRlmFJ7KtVbh4",
       "id": "gas-works-park",
       "name": "Gas Works Park"
+    },
+    "gate-tower-building": {
+      "category": "museums-attractions",
+      "coordinates": [
+        135.4895432,
+        34.698051
+      ],
+      "created": "2026-04-09T19:16:47.058784",
+      "description": "Building with a highway running through it",
+      "googlePlaceId": "ChIJtVVy5IrmAGARCQ2IP3htrpo",
+      "id": "gate-tower-building",
+      "name": "Gate Tower Building"
     },
     "gatwick-aviation-museum": {
       "category": "museums-attractions",
@@ -9419,6 +9443,18 @@
       "created": "2026-01-27T17:26:34.363113",
       "id": "oldbury-nuclear-power-station-decommissioning",
       "name": "Oldbury Nuclear Power Station (decommissioning)"
+    },
+    "omoide-yokocho-memory-lane": {
+      "category": "interesting-things",
+      "coordinates": [
+        139.6995778,
+        35.6927011
+      ],
+      "created": "2026-04-09T19:16:47.050034",
+      "description": "Another street of tiny bars, also known as piss alley.",
+      "googlePlaceId": "ChIJP9eKBdeMGGAR0zzBXJNVj5A",
+      "id": "omoide-yokocho-memory-lane",
+      "name": "Omoide Yokocho Memory Lane"
     },
     "omsi": {
       "category": "para-infrastructural-cultural",

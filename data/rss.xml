@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Apr 2026 19:16:47 +0000</lastBuildDate>
-    <item>
-      <title>“Berlin Tunnel Tours” added in Gesundbrunnen, Germany</title>
-      <link>https://infrastructureclub.org/travel_guide/#berlin-tunnel-tours</link>
-      <description>A company that offers a selection of tours of various tunnels / underground infra across Berlin. Includes tours of the tunnels used to cross between East/West Berlin, a flooded bunker, a Nazi Flak Tower, old UBahn stations, and more. (Tours leave from various locations so worth checking ahead.)</description>
-      <guid isPermaLink="false">berlin-tunnel-tours</guid>
-      <pubDate>Wed, 28 Jan 2026 18:44:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Richard Montgomery Exclusion Zone” added in Sheerness, United Kingdom</title>
-      <link>https://infrastructureclub.org/travel_guide/#richard-montgomery-exclusion-zone</link>
-      <description>Here lies the Richard Montgomery, loaded with 7230 unexploded bombs. Do not go here.
-
-https://en.wikipedia.org/wiki/SS_Richard_Montgomery</description>
-      <guid isPermaLink="false">richard-montgomery-exclusion-zone</guid>
-      <pubDate>Thu, 29 Jan 2026 02:31:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 04 May 2026 19:47:36 +0000</lastBuildDate>
     <item>
       <title>“Rotterdam Maritime Museum” added in Rotterdam, Netherlands</title>
       <link>https://infrastructureclub.org/travel_guide/#rotterdam-maritime-museum</link>
@@ -360,6 +344,20 @@ https://www.youtube.com/watch?v=kgLTibessRQ</description>
       <description>Building with a highway running through it</description>
       <guid isPermaLink="false">gate-tower-building</guid>
       <pubDate>Thu, 09 Apr 2026 19:16:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Stourbridge Junction - Unique train shuttle to Stourbridge Town” added in Stourbridge, United Kingdom</title>
+      <link>https://infrastructureclub.org/travel_guide/#stourbridge-junction-unique-train-shuttle-to-stourbridge-town</link>
+      <description>Class 139 - it's like a minibus on wheels and flywheel powered! Fun 3 min trip. Plus you might catch George the station cat while you're there.</description>
+      <guid isPermaLink="false">stourbridge-junction-unique-train-shuttle-to-stourbridge-town</guid>
+      <pubDate>Mon, 04 May 2026 19:47:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Diglis Fish Pass” added in Worcester, United Kingdom</title>
+      <link>https://infrastructureclub.org/travel_guide/#diglis-fish-pass</link>
+      <description>Only open on select days, sometimes needing booking far in advance. Check before you travel.</description>
+      <guid isPermaLink="false">diglis-fish-pass</guid>
+      <pubDate>Mon, 04 May 2026 19:47:36 +0000</pubDate>
     </item>
   </channel>
 </rss>

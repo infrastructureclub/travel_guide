@@ -3833,6 +3833,31 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Stourbridge Junction - Unique train shuttle to Stourbridge Town</name>
+        <description><![CDATA[<img src="./data/images/ceff48dc8530b4a16462f339345d67a27c44ea9aac9f52d3290652009e22407b.png" height="200" width="auto" /><br><br>Class 139 - it's like a minibus on wheels and flywheel powered! Fun 3 min trip. Plus you might catch George the station cat while you're there.]]></description>
+        <styleUrl>#icon-1636-A52714-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>./data/images/ceff48dc8530b4a16462f339345d67a27c44ea9aac9f52d3290652009e22407b.png</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.134444,52.4476622,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Diglis Fish Pass</name>
+        <description>Only open on select days, sometimes needing booking far in advance. Check before you travel.</description>
+        <styleUrl>#icon-1636-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -2.2258134,52.180233,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>

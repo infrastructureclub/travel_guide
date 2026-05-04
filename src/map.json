@@ -9,7 +9,7 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 345,
+      "count": 347,
       "name": "Interesting Things"
     },
     "museums-attractions": {
@@ -3189,6 +3189,18 @@
       "googlePlaceId": "ChIJrWoYC4bM2EcR32PYRi8ik_Q",
       "id": "diggerland-kent",
       "name": "Diggerland Kent"
+    },
+    "diglis-fish-pass": {
+      "category": "interesting-things",
+      "coordinates": [
+        -2.2258134,
+        52.180233
+      ],
+      "created": "2026-05-04T19:47:36.995877",
+      "description": "Only open on select days, sometimes needing booking far in advance. Check before you travel.",
+      "googlePlaceId": "ChIJZwS1NErxcEgRmakAdaIpHEM",
+      "id": "diglis-fish-pass",
+      "name": "Diglis Fish Pass"
     },
     "din-tai-fung-xinyi-branch": {
       "category": "para-infrastructural-cultural",
@@ -12600,6 +12612,21 @@
       "googlePlaceId": "ChIJ1-kIX87SwokRzr_EFr3Htkc",
       "id": "storm-king-art-center",
       "name": "Storm King Art Center"
+    },
+    "stourbridge-junction-unique-train-shuttle-to-stourbridge-town": {
+      "category": "interesting-things",
+      "coordinates": [
+        -2.134444,
+        52.4476622
+      ],
+      "created": "2026-05-04T19:47:36.995850",
+      "description": "Class 139 - it's like a minibus on wheels and flywheel powered! Fun 3 min trip. Plus you might catch George the station cat while you're there.",
+      "googlePlaceId": "ChIJ_9OOdZ-RcEgRQkIAcbj5Zqo",
+      "id": "stourbridge-junction-unique-train-shuttle-to-stourbridge-town",
+      "img": [
+        "./data/images/ceff48dc8530b4a16462f339345d67a27c44ea9aac9f52d3290652009e22407b.png"
+      ],
+      "name": "Stourbridge Junction - Unique train shuttle to Stourbridge Town"
     },
     "strait-of-juan-de-fuca-boundary-dispute": {
       "category": "para-infrastructural-cultural",

@@ -3858,6 +3858,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Tank Traps</name>
+        <description>A bunch of tank arranged behind a hedge on the edge of a park.</description>
+        <styleUrl>#icon-1636-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            0.8616351,51.1501099,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>

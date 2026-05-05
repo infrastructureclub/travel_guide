@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 May 2026 19:47:36 +0000</lastBuildDate>
-    <item>
-      <title>“Rotterdam Maritime Museum” added in Rotterdam, Netherlands</title>
-      <link>https://infrastructureclub.org/travel_guide/#rotterdam-maritime-museum</link>
-      <guid isPermaLink="false">rotterdam-maritime-museum</guid>
-      <pubDate>Fri, 30 Jan 2026 13:07:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 05 May 2026 19:42:07 +0000</lastBuildDate>
     <item>
       <title>“Tenterden Kent” added in Tenterden, United Kingdom</title>
       <link>https://infrastructureclub.org/travel_guide/#tenterden-kent</link>
@@ -358,6 +352,13 @@ https://www.youtube.com/watch?v=kgLTibessRQ</description>
       <description>Only open on select days, sometimes needing booking far in advance. Check before you travel.</description>
       <guid isPermaLink="false">diglis-fish-pass</guid>
       <pubDate>Mon, 04 May 2026 19:47:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Tank Traps” added in Ashford, United Kingdom</title>
+      <link>https://infrastructureclub.org/travel_guide/#tank-traps</link>
+      <description>A bunch of tank arranged behind a hedge on the edge of a park.</description>
+      <guid isPermaLink="false">tank-traps</guid>
+      <pubDate>Tue, 05 May 2026 19:42:07 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -9,7 +9,7 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 348,
+      "count": 350,
       "name": "Interesting Things"
     },
     "museums-attractions": {
@@ -12463,6 +12463,21 @@
       "id": "standedge-tunnel-visitor-centre-canal-river-trust",
       "name": "Standedge Tunnel & Visitor Centre - Canal & River Trust"
     },
+    "standseilbahn-stuttgart": {
+      "category": "interesting-things",
+      "coordinates": [
+        9.1421254,
+        48.7559112
+      ],
+      "created": "2026-06-09T20:14:00.294285",
+      "description": "Funicular.",
+      "googlePlaceId": "ChIJ72pKP5zcmUcR5XT5N4-uKFY",
+      "id": "standseilbahn-stuttgart",
+      "img": [
+        "./data/images/b0207456b980108826630d52fdf6d3647d449c8691e470b4f2e13e597dc6033b.png"
+      ],
+      "name": "Standseilbahn Stuttgart"
+    },
     "stanford-dish": {
       "category": "interesting-things",
       "coordinates": [
@@ -15643,6 +15658,21 @@
         "./data/images/9dd6fdfbd5c4d1f1e324166a73d5fe642db0e5f56070fe769092736bff60bb17.png"
       ],
       "name": "Zagreb TV Tower"
+    },
+    "zahnradbahn-zacke-stuttgart": {
+      "category": "interesting-things",
+      "coordinates": [
+        9.1684348,
+        48.7644789
+      ],
+      "created": "2026-06-09T20:14:00.294320",
+      "description": "Rack railway",
+      "googlePlaceId": "ChIJOUxRKBHbmUcRUGeDyoLoJcU",
+      "id": "zahnradbahn-zacke-stuttgart",
+      "img": [
+        "./data/images/bda80db907e41f5eff27157043284db34e66846e7b063a052d01c87ccba6931b.png"
+      ],
+      "name": "Zahnradbahn \"Zacke\" Stuttgart"
     },
     "zanja-madre": {
       "category": "historic-ruins-structures",

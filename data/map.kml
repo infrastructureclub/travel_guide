@@ -3868,6 +3868,36 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Standseilbahn Stuttgart</name>
+        <description><![CDATA[<img src="./data/images/b0207456b980108826630d52fdf6d3647d449c8691e470b4f2e13e597dc6033b.png" height="200" width="auto" /><br><br>Funicular. ]]></description>
+        <styleUrl>#icon-1636-A52714-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>./data/images/b0207456b980108826630d52fdf6d3647d449c8691e470b4f2e13e597dc6033b.png</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            9.1421254,48.7559112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Zahnradbahn "Zacke" Stuttgart]]></name>
+        <description><![CDATA[<img src="./data/images/bda80db907e41f5eff27157043284db34e66846e7b063a052d01c87ccba6931b.png" height="200" width="auto" /><br><br>Rack railway]]></description>
+        <styleUrl>#icon-1636-A52714-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>./data/images/bda80db907e41f5eff27157043284db34e66846e7b063a052d01c87ccba6931b.png</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            9.1684348,48.7644789,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>

@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 05 May 2026 19:42:07 +0000</lastBuildDate>
-    <item>
-      <title>“Tenterden Kent” added in Tenterden, United Kingdom</title>
-      <link>https://infrastructureclub.org/travel_guide/#tenterden-kent</link>
-      <description>Heritage railway running to Bodiam, a mix of steam and diesel. Has a full set of Pullman dining cars which are sometimes run for meals.</description>
-      <guid isPermaLink="false">tenterden-kent</guid>
-      <pubDate>Fri, 30 Jan 2026 13:07:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Middleton Railway” added in Leeds, United Kingdom</title>
-      <link>https://infrastructureclub.org/travel_guide/#middleton-railway</link>
-      <description>Heritage railway, short track, with long history. Started in 1758</description>
-      <guid isPermaLink="false">middleton-railway</guid>
-      <pubDate>Fri, 30 Jan 2026 13:07:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 09 Jun 2026 20:14:00 +0000</lastBuildDate>
     <item>
       <title>“Mining Museum Landek Park” added in Ludgeřovice, Czech Republic</title>
       <link>https://infrastructureclub.org/travel_guide/#mining-museum-landek-park</link>
@@ -359,6 +345,20 @@ https://www.youtube.com/watch?v=kgLTibessRQ</description>
       <description>A bunch of tank arranged behind a hedge on the edge of a park.</description>
       <guid isPermaLink="false">tank-traps</guid>
       <pubDate>Tue, 05 May 2026 19:42:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Standseilbahn Stuttgart” added in Dachswald, Germany</title>
+      <link>https://infrastructureclub.org/travel_guide/#standseilbahn-stuttgart</link>
+      <description>Funicular.</description>
+      <guid isPermaLink="false">standseilbahn-stuttgart</guid>
+      <pubDate>Tue, 09 Jun 2026 20:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Zahnradbahn "Zacke" Stuttgart” added in Stuttgart, Germany</title>
+      <link>https://infrastructureclub.org/travel_guide/#zahnradbahn-zacke-stuttgart</link>
+      <description>Rack railway</description>
+      <guid isPermaLink="false">zahnradbahn-zacke-stuttgart</guid>
+      <pubDate>Tue, 09 Jun 2026 20:14:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

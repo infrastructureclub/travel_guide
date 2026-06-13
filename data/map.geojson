@@ -17335,6 +17335,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    2.3172181,
+                    48.8414268,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Musée de La Poste",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "icon": "images/icon-2.png",
+                "description": "Note: Signs are in French."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.9055879,
                     38.1671515,
                     0

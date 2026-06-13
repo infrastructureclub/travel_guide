@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Jun 2026 20:14:00 +0000</lastBuildDate>
-    <item>
-      <title>“Mining Museum Landek Park” added in Ludgeřovice, Czech Republic</title>
-      <link>https://infrastructureclub.org/travel_guide/#mining-museum-landek-park</link>
-      <description>Mining museum, plus the chance to go down in a mine cage about 2m below the surface to see some mine shafts. also you can ride a above ground mine rail</description>
-      <guid isPermaLink="false">mining-museum-landek-park</guid>
-      <pubDate>Fri, 30 Jan 2026 18:53:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 13 Jun 2026 09:24:09 +0000</lastBuildDate>
     <item>
       <title>“Ostrava firefighter museum” added in Ostrava, Czech Republic</title>
       <link>https://infrastructureclub.org/travel_guide/#ostrava-firefighter-museum</link>
@@ -359,6 +352,13 @@ https://www.youtube.com/watch?v=kgLTibessRQ</description>
       <description>Rack railway</description>
       <guid isPermaLink="false">zahnradbahn-zacke-stuttgart</guid>
       <pubDate>Tue, 09 Jun 2026 20:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Musée de La Poste” added in Montrouge, France</title>
+      <link>https://infrastructureclub.org/travel_guide/#muse-de-la-poste</link>
+      <description>Note: Signs are in French.</description>
+      <guid isPermaLink="false">muse-de-la-poste</guid>
+      <pubDate>Sat, 13 Jun 2026 09:24:09 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -13,7 +13,7 @@
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 577,
+      "count": 578,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -7895,6 +7895,18 @@
       "googlePlaceId": "ChIJownUc4WvrhIRcjHKiatftbA",
       "id": "muse-aeroscopia",
       "name": "Musée Aeroscopia"
+    },
+    "muse-de-la-poste": {
+      "category": "museums-attractions",
+      "coordinates": [
+        2.3172181,
+        48.8414268
+      ],
+      "created": "2026-06-13T09:24:09.285368",
+      "description": "Note: Signs are in French.",
+      "googlePlaceId": "ChIJPwrZezRw5kcRiPAXS7OuVXc",
+      "id": "muse-de-la-poste",
+      "name": "Musée de La Poste"
     },
     "muse-delta": {
       "category": "museums-attractions",

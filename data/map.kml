@@ -9488,6 +9488,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Musée de La Poste</name>
+        <description>Note: Signs are in French.</description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            2.3172181,48.8414268,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>

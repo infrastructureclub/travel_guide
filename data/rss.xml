@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Jun 2026 09:24:09 +0000</lastBuildDate>
-    <item>
-      <title>“Ostrava firefighter museum” added in Ostrava, Czech Republic</title>
-      <link>https://infrastructureclub.org/travel_guide/#ostrava-firefighter-museum</link>
-      <description>Small museum where you can see some old fire engines and such</description>
-      <guid isPermaLink="false">ostrava-firefighter-museum</guid>
-      <pubDate>Fri, 30 Jan 2026 18:53:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 17 Jun 2026 04:42:34 +0000</lastBuildDate>
     <item>
       <title>“Bolt Tower” added in Ostrava, Czech Republic</title>
       <link>https://infrastructureclub.org/travel_guide/#bolt-tower</link>
@@ -359,6 +352,15 @@ https://www.youtube.com/watch?v=kgLTibessRQ</description>
       <description>Note: Signs are in French.</description>
       <guid isPermaLink="false">muse-de-la-poste</guid>
       <pubDate>Sat, 13 Jun 2026 09:24:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Owyhee County Museum &amp; Library” added in Murphy, United States</title>
+      <link>https://infrastructureclub.org/travel_guide/#owyhee-county-museum-library</link>
+      <description>Delightful museum with a complex of buildings. Includes an entire room with thousands (?) of wrenches from a local's collection, and another local's collection of wagons. Plus an unrestored caboose you can enter, and a print shop with linotype presses.
+
+added by jt</description>
+      <guid isPermaLink="false">owyhee-county-museum-library</guid>
+      <pubDate>Wed, 17 Jun 2026 04:42:34 +0000</pubDate>
     </item>
   </channel>
 </rss>

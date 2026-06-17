@@ -17353,6 +17353,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -116.5507254,
+                    43.2156923,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Owyhee County Museum & Library",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "icon": "images/icon-2.png",
+                "description": "Delightful museum with a complex of buildings. Includes an entire room with thousands (?) of wrenches from a local's collection, and another local's collection of wagons. Plus an unrestored caboose you can enter, and a print shop with linotype presses.<br><br>added by jt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.9055879,
                     38.1671515,
                     0

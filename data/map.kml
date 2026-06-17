@@ -9498,6 +9498,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name><![CDATA[Owyhee County Museum & Library]]></name>
+        <description><![CDATA[Delightful museum with a complex of buildings. Includes an entire room with thousands (?) of wrenches from a local's collection, and another local's collection of wagons. Plus an unrestored caboose you can enter, and a print shop with linotype presses.<br><br>added by jt]]></description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -116.5507254,43.2156923,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>

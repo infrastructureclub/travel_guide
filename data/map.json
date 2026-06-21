@@ -9,7 +9,7 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 350,
+      "count": 351,
       "name": "Interesting Things"
     },
     "museums-attractions": {
@@ -5259,6 +5259,20 @@
       "description": "You can buy souvenir vials of Mt St Helens ash in the area for $15 or something, as my father would always point out when we drove past these.",
       "id": "hills-of-mt-st-helens-ash-dredged-from-the-toutle-river-after-the-1980-eruption",
       "name": "Hills of Mt St Helens ash dredged from the Toutle River after the 1980 eruption"
+    },
+    "hindenburgdamm": {
+      "category": "interesting-things",
+      "coordinates": [
+        8.5425652,
+        54.8844518
+      ],
+      "created": "2026-06-21T19:51:02.256523",
+      "description": "11 km long rail-only causeway linking seaside holiday island of Sylt to the German mainland. Carries passenger trains and double deck car shuttles.",
+      "id": "hindenburgdamm",
+      "img": [
+        "./data/images/cee836d9eaac98ddb1d10893ce7db210f0c5d568507e223863c79f277a401184.png"
+      ],
+      "name": "Hindenburgdamm"
     },
     "hinkley-point-nuclear-power-stations": {
       "category": "not-open-to-public-but-visible",

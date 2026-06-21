@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Jun 2026 04:42:34 +0000</lastBuildDate>
-    <item>
-      <title>“Bolt Tower” added in Ostrava, Czech Republic</title>
-      <link>https://infrastructureclub.org/travel_guide/#bolt-tower</link>
-      <description>Old Blast furnace various tours you can do in a hard hat and hard hat. Plus you can go to the top of one of the blast furnaces which has a nice view. Be aware they do tours but I had some issue that even though they advertise them in english the tour it self was not. so check first.</description>
-      <guid isPermaLink="false">bolt-tower</guid>
-      <pubDate>Fri, 30 Jan 2026 18:53:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 21 Jun 2026 19:51:02 +0000</lastBuildDate>
     <item>
       <title>“Michal mine” added in Rychvald, Czech Republic</title>
       <link>https://infrastructureclub.org/travel_guide/#michal-mine</link>
@@ -361,6 +354,13 @@ https://www.youtube.com/watch?v=kgLTibessRQ</description>
 added by jt</description>
       <guid isPermaLink="false">owyhee-county-museum-library</guid>
       <pubDate>Wed, 17 Jun 2026 04:42:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Hindenburgdamm” added in Morsum, Germany</title>
+      <link>https://infrastructureclub.org/travel_guide/#hindenburgdamm</link>
+      <description>11 km long rail-only causeway linking seaside holiday island of Sylt to the German mainland. Carries passenger trains and double deck car shuttles.</description>
+      <guid isPermaLink="false">hindenburgdamm</guid>
+      <pubDate>Sun, 21 Jun 2026 19:51:02 +0000</pubDate>
     </item>
   </channel>
 </rss>

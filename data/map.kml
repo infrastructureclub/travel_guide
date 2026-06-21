@@ -3898,6 +3898,21 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Hindenburgdamm</name>
+        <description><![CDATA[<img src="./data/images/cee836d9eaac98ddb1d10893ce7db210f0c5d568507e223863c79f277a401184.png" height="200" width="auto" /><br><br>11 km long rail-only causeway linking seaside holiday island of Sylt to the German mainland. Carries passenger trains and double deck car shuttles.]]></description>
+        <styleUrl>#icon-1636-A52714-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>./data/images/cee836d9eaac98ddb1d10893ce7db210f0c5d568507e223863c79f277a401184.png</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            8.5425652,54.8844518,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>

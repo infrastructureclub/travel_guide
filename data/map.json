@@ -13,7 +13,7 @@
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 579,
+      "count": 580,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -29,7 +29,7 @@
       "name": "Para-infrastructural / cultural"
     },
     "science": {
-      "count": 23,
+      "count": 24,
       "name": "Science"
     },
     "stays": {
@@ -2262,6 +2262,36 @@
       "googlePlaceId": "ChIJQQyS-swcdkgRspq9CpT6iLk",
       "id": "centre-of-the-cell",
       "name": "Centre of the Cell"
+    },
+    "cern": {
+      "category": "science",
+      "coordinates": [
+        6.0555723,
+        46.2329733
+      ],
+      "created": "2026-06-24T09:39:44.935829",
+      "description": "Site tours are available, which are interesting. There's also an exhibition space, which includes the original NeXT computer used by Sir Tim Berners-Lee to design the World Wide Web and host the first web page at CERN on 25 December 1990.",
+      "googlePlaceId": "ChIJEXtz7PxijEcRMV6Ieq7zvoE",
+      "id": "cern",
+      "img": [
+        "./data/images/4ae6d3d0e6c5854d6867ee6dae9d57dc70dfe924786171c87710e19f9ccccd56.png"
+      ],
+      "name": "CERN"
+    },
+    "cern-animal-shelter-for-computer-mice": {
+      "category": "museums-attractions",
+      "coordinates": [
+        6.0453004,
+        46.2323498
+      ],
+      "created": "2026-06-24T09:39:44.930608",
+      "description": "You may be able to see this while on a site tour at CERN. (Some tours go past this, but some don't.)\n\nhttps://computer-animal-shelter.web.cern.ch/index.shtml",
+      "googlePlaceId": "ChIJTwa4F_BijEcRe-niV4XDo9g",
+      "id": "cern-animal-shelter-for-computer-mice",
+      "img": [
+        "./data/images/0cf477853a3f19da48a4b1f68204c121e5490d5072b314d990ec1a5df24023de.png"
+      ],
+      "name": "CERN Animal Shelter for Computer Mice"
     },
     "ch-sugar": {
       "category": "not-open-to-public-but-visible",

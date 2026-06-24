@@ -17390,6 +17390,25 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    6.0453004,
+                    46.2323498,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "CERN Animal Shelter for Computer Mice",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "icon": "images/icon-2.png",
+                "description": "<img src=\"./data/images/0cf477853a3f19da48a4b1f68204c121e5490d5072b314d990ec1a5df24023de.png\" height=\"200\" width=\"auto\" /><br><br>You may be able to see this while on a site tour at CERN. (Some tours go past this, but some don't.)<br><br>https://computer-animal-shelter.web.cern.ch/index.shtml",
+                "gx_media_links": "./data/images/0cf477853a3f19da48a4b1f68204c121e5490d5072b314d990ec1a5df24023de.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.9055879,
                     38.1671515,
                     0
@@ -23233,6 +23252,25 @@
                 "styleHash": "4c97821f",
                 "icon": "images/icon-7.png",
                 "description": "Highest peak in the northeast US (not quite the highest in the Appalachians). Famously windy, previously holding the record of the highest measured winds on Earth at 231 mph.<br><br>Summit can be accessed by foot, road, or cog railway, hosts a weather museum, and has tours of the weather station available at certain times.<br><br>added by jt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0555723,
+                    46.2329733,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "CERN",
+                "styleUrl": "#icon-1856-0F9D58-labelson",
+                "styleHash": "4c97821f",
+                "icon": "images/icon-7.png",
+                "description": "<img src=\"./data/images/4ae6d3d0e6c5854d6867ee6dae9d57dc70dfe924786171c87710e19f9ccccd56.png\" height=\"200\" width=\"auto\" /><br><br>Site tours are available, which are interesting. There's also an exhibition space, which includes the original NeXT computer used by Sir Tim Berners-Lee to design the World Wide Web and host the first web page at CERN on 25 December 1990.",
+                "gx_media_links": "./data/images/4ae6d3d0e6c5854d6867ee6dae9d57dc70dfe924786171c87710e19f9ccccd56.png"
             }
         },
         {

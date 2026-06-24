@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 21 Jun 2026 19:51:02 +0000</lastBuildDate>
-    <item>
-      <title>“Michal mine” added in Rychvald, Czech Republic</title>
-      <link>https://infrastructureclub.org/travel_guide/#michal-mine</link>
-      <description>Access is via guided tour only. it's in Czech but you get an english audio tour. can see the old offices, changing rooms, and some other stuff</description>
-      <guid isPermaLink="false">michal-mine</guid>
-      <pubDate>Fri, 30 Jan 2026 18:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Silesian Ostrava Castle” added in Ostrava, Czech Republic</title>
-      <link>https://infrastructureclub.org/travel_guide/#silesian-ostrava-castle</link>
-      <description>It's a small rebuilt castle. Due to mining sustenance it's about 11m lower then it was when originally built</description>
-      <guid isPermaLink="false">silesian-ostrava-castle</guid>
-      <pubDate>Fri, 30 Jan 2026 18:53:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 Jun 2026 09:39:44 +0000</lastBuildDate>
     <item>
       <title>“Halda Ema” added in Ostrava, Czech Republic</title>
       <link>https://infrastructureclub.org/travel_guide/#halda-ema</link>
@@ -361,6 +347,22 @@ added by jt</description>
       <description>11 km long rail-only causeway linking seaside holiday island of Sylt to the German mainland. Carries passenger trains and double deck car shuttles.</description>
       <guid isPermaLink="false">hindenburgdamm</guid>
       <pubDate>Sun, 21 Jun 2026 19:51:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>“CERN Animal Shelter for Computer Mice” added in Satigny, Switzerland</title>
+      <link>https://infrastructureclub.org/travel_guide/#cern-animal-shelter-for-computer-mice</link>
+      <description>You may be able to see this while on a site tour at CERN. (Some tours go past this, but some don't.)
+
+https://computer-animal-shelter.web.cern.ch/index.shtml</description>
+      <guid isPermaLink="false">cern-animal-shelter-for-computer-mice</guid>
+      <pubDate>Wed, 24 Jun 2026 09:39:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>“CERN” added in Meyrin, Switzerland</title>
+      <link>https://infrastructureclub.org/travel_guide/#cern</link>
+      <description>Site tours are available, which are interesting. There's also an exhibition space, which includes the original NeXT computer used by Sir Tim Berners-Lee to design the World Wide Web and host the first web page at CERN on 25 December 1990.</description>
+      <guid isPermaLink="false">cern</guid>
+      <pubDate>Wed, 24 Jun 2026 09:39:44 +0000</pubDate>
     </item>
   </channel>
 </rss>

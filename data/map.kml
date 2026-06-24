@@ -9523,6 +9523,21 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>CERN Animal Shelter for Computer Mice</name>
+        <description><![CDATA[<img src="./data/images/0cf477853a3f19da48a4b1f68204c121e5490d5072b314d990ec1a5df24023de.png" height="200" width="auto" /><br><br>You may be able to see this while on a site tour at CERN. (Some tours go past this, but some don't.)<br><br>https://computer-animal-shelter.web.cern.ch/index.shtml]]></description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>./data/images/0cf477853a3f19da48a4b1f68204c121e5490d5072b314d990ec1a5df24023de.png</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            6.0453004,46.2323498,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>
@@ -12820,6 +12835,21 @@
         <Point>
           <coordinates>
             -71.3032723,44.2705854,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CERN</name>
+        <description><![CDATA[<img src="./data/images/4ae6d3d0e6c5854d6867ee6dae9d57dc70dfe924786171c87710e19f9ccccd56.png" height="200" width="auto" /><br><br>Site tours are available, which are interesting. There's also an exhibition space, which includes the original NeXT computer used by Sir Tim Berners-Lee to design the World Wide Web and host the first web page at CERN on 25 December 1990.]]></description>
+        <styleUrl>#icon-1856-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>./data/images/4ae6d3d0e6c5854d6867ee6dae9d57dc70dfe924786171c87710e19f9ccccd56.png</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            6.0555723,46.2329733,0
           </coordinates>
         </Point>
       </Placemark>

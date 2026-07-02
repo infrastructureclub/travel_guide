@@ -8162,11 +8162,11 @@
       </Placemark>
       <Placemark>
         <name>Výtopna Railway Restaurant - Wenceslas Square</name>
-        <description><![CDATA[<img src="./data/images/a24c04893cfc1b71d6b542e1fee823d94043d71382be5a628e58c04b058a8963.png" height="200" width="auto" /><br><br>Ed: Cool restaurant where your food and drink is delivered to you on a model train. Fun!<br><br><img src="./data/images/7502c1c44bfc78f7178bd094eb0b39fe80e493a2680cbaf678290d8e453833d2.png" height="200" width="auto" />]]></description>
+        <description><![CDATA[<img src="./data/images/a24c04893cfc1b71d6b542e1fee823d94043d71382be5a628e58c04b058a8963.png" height="200" width="auto" /><br><br>Ed: Cool restaurant where your food and drink is delivered to you on a model train. Fun!<br><br><img src="./data/images/08917830e77fcaea5b4020018cbd55e6f1e68ef5155f0f097a8675f0bf0c437b.png" height="200" width="auto" />]]></description>
         <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>./data/images/a24c04893cfc1b71d6b542e1fee823d94043d71382be5a628e58c04b058a8963.png ./data/images/7502c1c44bfc78f7178bd094eb0b39fe80e493a2680cbaf678290d8e453833d2.png</value>
+            <value>./data/images/a24c04893cfc1b71d6b542e1fee823d94043d71382be5a628e58c04b058a8963.png ./data/images/08917830e77fcaea5b4020018cbd55e6f1e68ef5155f0f097a8675f0bf0c437b.png</value>
           </Data>
         </ExtendedData>
         <Point>

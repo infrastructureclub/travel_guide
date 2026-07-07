@@ -13,7 +13,7 @@
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 580,
+      "count": 581,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -289,6 +289,18 @@
       "googlePlaceId": "ChIJw56nuiilZUgRHNn-hKdNHgk",
       "id": "airworld-aviation-museum",
       "name": "Airworld Aviation Museum"
+    },
+    "akw-zwentendorf": {
+      "category": "museums-attractions",
+      "coordinates": [
+        15.8851039,
+        48.3546663
+      ],
+      "created": "2026-07-07T03:51:50.020774",
+      "description": "Nuclear power plant that was built but never used. Tours are possible but book out fast",
+      "googlePlaceId": "ChIJ-z8DVsx7bUcRdf1yXy7TaYw",
+      "id": "akw-zwentendorf",
+      "name": "AKW Zwentendorf"
     },
     "alabama-hills": {
       "category": "nature",

@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Jun 2026 09:39:44 +0000</lastBuildDate>
-    <item>
-      <title>“Halda Ema” added in Ostrava, Czech Republic</title>
-      <link>https://infrastructureclub.org/travel_guide/#halda-ema</link>
-      <description>Old mining waste heap that is 1000c inside so be careful if you go to the top</description>
-      <guid isPermaLink="false">halda-ema</guid>
-      <pubDate>Fri, 30 Jan 2026 18:53:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 07 Jul 2026 03:51:50 +0000</lastBuildDate>
     <item>
       <title>“Bunkr Přáslavice” added in Hlubočky, Czech Republic</title>
       <link>https://infrastructureclub.org/travel_guide/#bunkr-pslavice</link>
@@ -363,6 +356,13 @@ https://computer-animal-shelter.web.cern.ch/index.shtml</description>
       <description>Site tours are available, which are interesting. There's also an exhibition space, which includes the original NeXT computer used by Sir Tim Berners-Lee to design the World Wide Web and host the first web page at CERN on 25 December 1990.</description>
       <guid isPermaLink="false">cern</guid>
       <pubDate>Wed, 24 Jun 2026 09:39:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>“AKW Zwentendorf” added in Zwentendorf, Austria</title>
+      <link>https://infrastructureclub.org/travel_guide/#akw-zwentendorf</link>
+      <description>Nuclear power plant that was built but never used. Tours are possible but book out fast</description>
+      <guid isPermaLink="false">akw-zwentendorf</guid>
+      <pubDate>Tue, 07 Jul 2026 03:51:50 +0000</pubDate>
     </item>
   </channel>
 </rss>

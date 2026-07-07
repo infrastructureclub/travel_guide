@@ -17409,6 +17409,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    15.8851039,
+                    48.3546663,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "AKW Zwentendorf",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "icon": "images/icon-2.png",
+                "description": "Nuclear power plant that was built but never used. Tours are possible but book out fast"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.9055879,
                     38.1671515,
                     0

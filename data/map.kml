@@ -9538,6 +9538,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>AKW Zwentendorf</name>
+        <description>Nuclear power plant that was built but never used. Tours are possible but book out fast</description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            15.8851039,48.3546663,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>

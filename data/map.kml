@@ -3913,6 +3913,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Innsbruck Airport history room</name>
+        <description><![CDATA[Just a small room exhibiting information about the airport's history]]></description>
+        <styleUrl>#icon-1636-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            11.3513075,47.2576489,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>

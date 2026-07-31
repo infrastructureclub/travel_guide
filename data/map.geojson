@@ -7247,6 +7247,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    11.3513075,
+                    47.2576489,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Innsbruck Airport history room",
+                "styleUrl": "#icon-1636-A52714-labelson",
+                "styleHash": "-397cadf3",
+                "icon": "images/icon-1.png",
+                "description": "Just a small room exhibiting information about the airport's history"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0

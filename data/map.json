@@ -9,7 +9,7 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 351,
+      "count": 352,
       "name": "Interesting Things"
     },
     "museums-attractions": {
@@ -5752,6 +5752,18 @@
       "googlePlaceId": "ChIJ1yPuiG-kZUgR7OjtzyBLlnY",
       "id": "inigo-jones-slate-works",
       "name": "Inigo Jones Slate Works"
+    },
+    "innsbruck-airport-history-room": {
+      "category": "interesting-things",
+      "coordinates": [
+        11.3513075,
+        47.2576489
+      ],
+      "created": "2026-07-31T14:19:49.842879",
+      "description": "Just a small room exhibiting information about the airport's history",
+      "googlePlaceId": "ChIJRdBNVHVrnUcRGT-I40h8Q1k",
+      "id": "innsbruck-airport-history-room",
+      "name": "Innsbruck Airport history room"
     },
     "internal-fire-museum-of-power": {
       "category": "interesting-things",

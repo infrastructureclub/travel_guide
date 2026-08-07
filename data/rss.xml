@@ -7,42 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 31 Jul 2026 14:19:49 +0000</lastBuildDate>
-    <item>
-      <title>“Ascensore Castello D’Albertis - Montegalletto” added in Genoa, Italy</title>
-      <link>https://infrastructureclub.org/travel_guide/#ascensore-castello-dalbertis-montegalletto</link>
-      <description>A hybrid lift/funicular that transitions between the two half way through the journey. https://en.wikipedia.org/wiki/Ascensore_Castello_d%27Albertis-Montegalletto</description>
-      <guid isPermaLink="false">ascensore-castello-dalbertis-montegalletto</guid>
-      <pubDate>Mon, 02 Feb 2026 02:41:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Chiatura” added in Chiat’ura, Georgia</title>
-      <link>https://infrastructureclub.org/travel_guide/#chiatura</link>
-      <description>Chiatura, an old mining city known for it's extensive cable car system that was installed to transport workers around the valley and up to the mines. I will add some stuff I found intresting to the map but 99% of the stuff I found was from this site: https://wander-lush.org/kutaisi-to-chiatura/</description>
-      <guid isPermaLink="false">chiatura</guid>
-      <pubDate>Tue, 03 Feb 2026 19:03:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Sanatorium cable car station” added in Chiat’ura, Georgia</title>
-      <link>https://infrastructureclub.org/travel_guide/#sanatorium-cable-car-station</link>
-      <description>This is the station you should go to for the best views of the town</description>
-      <guid isPermaLink="false">sanatorium-cable-car-station</guid>
-      <pubDate>Tue, 03 Feb 2026 19:03:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Central Cable Car Station” added in Chiat’ura, Georgia</title>
-      <link>https://infrastructureclub.org/travel_guide/#central-cable-car-station</link>
-      <description>The main Cable car station. I would recomend getting the cable car to Sanatorium cable car station as that has the best views. each journey is about 5p and can you can use card to pay</description>
-      <guid isPermaLink="false">central-cable-car-station</guid>
-      <pubDate>Tue, 03 Feb 2026 19:03:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Old cable car station” added in Chiat’ura, Georgia</title>
-      <link>https://infrastructureclub.org/travel_guide/#old-cable-car-station</link>
-      <description>The only remaining original style cable car. free to use</description>
-      <guid isPermaLink="false">old-cable-car-station</guid>
-      <pubDate>Tue, 03 Feb 2026 19:03:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 07 Aug 2026 13:14:31 +0000</lastBuildDate>
     <item>
       <title>“დიდი ტრაქტორი (Big Tractor)” added in Chiat’ura, Georgia</title>
       <link>https://infrastructureclub.org/travel_guide/#-big-tractor</link>
@@ -363,6 +328,39 @@ https://computer-animal-shelter.web.cern.ch/index.shtml</description>
       <description>Just a small room exhibiting information about the airport's history</description>
       <guid isPermaLink="false">innsbruck-airport-history-room</guid>
       <pubDate>Fri, 31 Jul 2026 14:19:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Kugelmugel” added in Landstraße, Austria</title>
+      <link>https://infrastructureclub.org/travel_guide/#kugelmugel</link>
+      <description>Globe-shaped, artist-built studio &amp; self-declared republic featuring contemporary art on display.</description>
+      <guid isPermaLink="false">kugelmugel</guid>
+      <pubDate>Fri, 07 Aug 2026 13:14:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>“ROLLERCOASTERRESTAURANT Vienna” added in Landstraße, Austria</title>
+      <link>https://infrastructureclub.org/travel_guide/#rollercoasterrestaurant-vienna</link>
+      <description>If you know going in this is a tourist trap is can still be fun.</description>
+      <guid isPermaLink="false">rollercoasterrestaurant-vienna</guid>
+      <pubDate>Fri, 07 Aug 2026 13:14:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Gangchon Rail Park” added in Sindong, Korea, Republic of</title>
+      <link>https://infrastructureclub.org/travel_guide/#gangchon-rail-park</link>
+      <guid isPermaLink="false">gangchon-rail-park</guid>
+      <pubDate>Fri, 07 Aug 2026 13:14:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Namsan Cable Car” added in Seoul, Korea, Republic of</title>
+      <link>https://infrastructureclub.org/travel_guide/#namsan-cable-car</link>
+      <guid isPermaLink="false">namsan-cable-car</guid>
+      <pubDate>Fri, 07 Aug 2026 13:14:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Liliputbahn im Prater” added in Landstraße, Austria</title>
+      <link>https://infrastructureclub.org/travel_guide/#liliputbahn-im-prater</link>
+      <description>Smol Trains.</description>
+      <guid isPermaLink="false">liliputbahn-im-prater</guid>
+      <pubDate>Fri, 07 Aug 2026 13:14:31 +0000</pubDate>
     </item>
   </channel>
 </rss>

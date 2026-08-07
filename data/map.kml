@@ -3923,6 +3923,44 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Kugelmugel</name>
+        <description><![CDATA[Globe-shaped, artist-built studio & self-declared republic featuring contemporary art on display.]]></description>
+        <styleUrl>#icon-1636-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            16.3960848,48.215521,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ROLLERCOASTERRESTAURANT Vienna</name>
+        <description>If you know going in this is a tourist trap is can still be fun. </description>
+        <styleUrl>#icon-1636-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            16.3969633,48.2174458,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gangchon Rail Park</name>
+        <styleUrl>#icon-1636-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            127.7133608,37.8169376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Namsan Cable Car</name>
+        <styleUrl>#icon-1636-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            126.9839744,37.5565908,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>
@@ -11322,6 +11360,16 @@
         <Point>
           <coordinates>
             15.8049803,45.3162696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Liliputbahn im Prater</name>
+        <description>Smol Trains.</description>
+        <styleUrl>#icon-1608-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            16.3966092,48.2154422,0
           </coordinates>
         </Point>
       </Placemark>

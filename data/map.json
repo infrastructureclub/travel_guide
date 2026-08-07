@@ -1,7 +1,7 @@
 {
   "categories": {
     "historic-ruins-structures": {
-      "count": 134,
+      "count": 135,
       "name": "Historic / ruins / structures"
     },
     "industry": {
@@ -9,7 +9,7 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 352,
+      "count": 356,
       "name": "Interesting Things"
     },
     "museums-attractions": {
@@ -4353,6 +4353,17 @@
       "id": "funikularea",
       "name": "Funikularea"
     },
+    "gangchon-rail-park": {
+      "category": "interesting-things",
+      "coordinates": [
+        127.7133608,
+        37.8169376
+      ],
+      "created": "2026-08-07T13:14:31.222151",
+      "googlePlaceId": "ChIJ8bG2yNLlYjUR6hyziKi0MK0",
+      "id": "gangchon-rail-park",
+      "name": "Gangchon Rail Park"
+    },
     "gas-science-museum": {
       "category": "museums-attractions",
       "coordinates": [
@@ -6356,6 +6367,18 @@
       "id": "kth-r1",
       "name": "KTH R1"
     },
+    "kugelmugel": {
+      "category": "interesting-things",
+      "coordinates": [
+        16.3960848,
+        48.215521
+      ],
+      "created": "2026-08-07T13:14:31.222110",
+      "description": "Globe-shaped, artist-built studio & self-declared republic featuring contemporary art on display.",
+      "googlePlaceId": "ChIJqf1Swg8HbUcRcSEVm9lhgag",
+      "id": "kugelmugel",
+      "name": "Kugelmugel"
+    },
     "kurt-cobain-under-the-bridge-memorial": {
       "category": "para-infrastructural-cultural",
       "coordinates": [
@@ -6712,6 +6735,18 @@
       "googlePlaceId": "ChIJQXHZtzXoJoYRZJj6P7ENe38",
       "id": "ligo-livingston",
       "name": "LIGO Livingston"
+    },
+    "liliputbahn-im-prater": {
+      "category": "historic-ruins-structures",
+      "coordinates": [
+        16.3966092,
+        48.2154422
+      ],
+      "created": "2026-08-07T13:14:31.233910",
+      "description": "Smol Trains.",
+      "googlePlaceId": "ChIJmzZJ-w8HbUcRkwp-tbYEnHk",
+      "id": "liliputbahn-im-prater",
+      "name": "Liliputbahn im Prater"
     },
     "lion-salt-works": {
       "category": "museums-attractions",
@@ -8551,6 +8586,17 @@
       "googlePlaceId": "ChIJZ9TocTqSQTUR8sc67TWnxJs",
       "id": "nakatsukasa-magotaro-inari-shrine",
       "name": "Nakatsukasa Magotaro Inari Shrine"
+    },
+    "namsan-cable-car": {
+      "category": "interesting-things",
+      "coordinates": [
+        126.9839744,
+        37.5565908
+      ],
+      "created": "2026-08-07T13:14:31.222164",
+      "googlePlaceId": "ChIJP_jRlleifDUR5h_KAraBtAc",
+      "id": "namsan-cable-car",
+      "name": "Namsan Cable Car"
     },
     "nash-point-lighthouse": {
       "category": "museums-attractions",
@@ -10883,6 +10929,18 @@
       "googlePlaceId": "ChIJAfSU03RE10cRWyHwEpbfCo4",
       "id": "rnli-henry-blogg-museum",
       "name": "RNLI Henry Blogg Museum"
+    },
+    "rollercoasterrestaurant-vienna": {
+      "category": "interesting-things",
+      "coordinates": [
+        16.3969633,
+        48.2174458
+      ],
+      "created": "2026-08-07T13:14:31.222139",
+      "description": "If you know going in this is a tourist trap is can still be fun.",
+      "googlePlaceId": "ChIJ34DhZwUHbUcR9v1IZGG4eds",
+      "id": "rollercoasterrestaurant-vienna",
+      "name": "ROLLERCOASTERRESTAURANT Vienna"
     },
     "romancecar-museum": {
       "category": "museums-attractions",

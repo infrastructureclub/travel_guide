@@ -7265,6 +7265,76 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    16.3960848,
+                    48.215521,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kugelmugel",
+                "styleUrl": "#icon-1636-A52714-labelson",
+                "styleHash": "-397cadf3",
+                "icon": "images/icon-1.png",
+                "description": "Globe-shaped, artist-built studio & self-declared republic featuring contemporary art on display."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3969633,
+                    48.2174458,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "ROLLERCOASTERRESTAURANT Vienna",
+                "styleUrl": "#icon-1636-A52714-labelson",
+                "styleHash": "-397cadf3",
+                "icon": "images/icon-1.png",
+                "description": "If you know going in this is a tourist trap is can still be fun. "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.7133608,
+                    37.8169376,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Gangchon Rail Park",
+                "styleUrl": "#icon-1636-A52714-labelson-nodesc",
+                "styleHash": "-2ab28dbc",
+                "icon": "images/icon-1.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.9839744,
+                    37.5565908,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Namsan Cable Car",
+                "styleUrl": "#icon-1636-A52714-labelson-nodesc",
+                "styleHash": "-2ab28dbc",
+                "icon": "images/icon-1.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0
@@ -20569,6 +20639,24 @@
                 "icon": "images/icon-4.png",
                 "description": "<img src=\"./data/images/2c2805d72d9e7266c4c0662a071f9cd6def96f5f0d6276f7181d7b5e38b3726b.png\" height=\"200\" width=\"auto\" /><br><br>The monument to the uprising of the people of Kordun and Banija. <br><br>A vast, but abandoned building. It once was going to hold a congress hall, library, museum, and cafe. It's easy to get into and the structure is sound - solid steps to walk up inside.<br><br>To get there from Zagreb, you can go on a tour with Swanky Travel: https://swanky-travel.com/tour/urban-explorer-for-a-day/",
                 "gx_media_links": "./data/images/2c2805d72d9e7266c4c0662a071f9cd6def96f5f0d6276f7181d7b5e38b3726b.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3966092,
+                    48.2154422,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Liliputbahn im Prater",
+                "styleUrl": "#icon-1608-F9A825-labelson",
+                "styleHash": "-5f1b77a2",
+                "icon": "images/icon-4.png",
+                "description": "Smol Trains."
             }
         },
         {

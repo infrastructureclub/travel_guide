@@ -7335,6 +7335,60 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    4.4682897,
+                    51.9000538,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Maastunnel",
+                "styleUrl": "#icon-1636-A52714-labelson",
+                "styleHash": "-397cadf3",
+                "icon": "images/icon-1.png",
+                "description": "1km pedestrian tunnel opened in 1942"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9634538,
+                    50.9506676,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kronleuchtersaal",
+                "styleUrl": "#icon-1636-A52714-labelson",
+                "styleHash": "-397cadf3",
+                "icon": "images/icon-1.png",
+                "description": "Book tour in advance (they often sell out in advance).  Look for Chandelier Hall on the website.  Currently booking link as of 2026 is https://kundenportal.steb-koeln.de/veranstaltungen/?page=1<br><br>https://steb-koeln.de/service/veranstaltungen-und-termine/kronleuchtersaalfuehrungen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1983275,
+                    50.6744415,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Drachenfels Railway",
+                "styleUrl": "#icon-1636-A52714-labelson",
+                "styleHash": "-397cadf3",
+                "icon": "images/icon-1.png",
+                "description": "Take the oldest cog railroad in Germany to the Drachenfels!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0

@@ -7,28 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Aug 2026 13:14:31 +0000</lastBuildDate>
-    <item>
-      <title>“დიდი ტრაქტორი (Big Tractor)” added in Chiat’ura, Georgia</title>
-      <link>https://infrastructureclub.org/travel_guide/#-big-tractor</link>
-      <description>An large decaying tractor and truck</description>
-      <guid isPermaLink="false">-big-tractor</guid>
-      <pubDate>Tue, 03 Feb 2026 19:03:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Old train station and trains” added in Chiat’ura, Georgia</title>
-      <link>https://infrastructureclub.org/travel_guide/#old-train-station-and-trains</link>
-      <description>A decaying train station with a large number of old trains slowly rusting away.</description>
-      <guid isPermaLink="false">old-train-station-and-trains</guid>
-      <pubDate>Tue, 03 Feb 2026 19:03:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Old abandoned Cable car station” added in Chiat’ura, Georgia</title>
-      <link>https://infrastructureclub.org/travel_guide/#old-abandoned-cable-car-station</link>
-      <description>One of the old cable car stations. shutdown but fully accessible</description>
-      <guid isPermaLink="false">old-abandoned-cable-car-station</guid>
-      <pubDate>Wed, 04 Feb 2026 02:32:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 17 Aug 2026 01:37:06 +0000</lastBuildDate>
     <item>
       <title>“Former Pioneer Palace” added in Chiat’ura, Georgia</title>
       <link>https://infrastructureclub.org/travel_guide/#former-pioneer-palace</link>
@@ -361,6 +340,29 @@ https://computer-animal-shelter.web.cern.ch/index.shtml</description>
       <description>Smol Trains.</description>
       <guid isPermaLink="false">liliputbahn-im-prater</guid>
       <pubDate>Fri, 07 Aug 2026 13:14:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Maastunnel” added in Carnisse, Netherlands</title>
+      <link>https://infrastructureclub.org/travel_guide/#maastunnel</link>
+      <description>1km pedestrian tunnel opened in 1942</description>
+      <guid isPermaLink="false">maastunnel</guid>
+      <pubDate>Mon, 17 Aug 2026 01:37:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Kronleuchtersaal” added in Altstadt Nord, Germany</title>
+      <link>https://infrastructureclub.org/travel_guide/#kronleuchtersaal</link>
+      <description>Book tour in advance (they often sell out in advance).  Look for Chandelier Hall on the website.  Currently booking link as of 2026 is https://kundenportal.steb-koeln.de/veranstaltungen/?page=1
+
+https://steb-koeln.de/service/veranstaltungen-und-termine/kronleuchtersaalfuehrungen</description>
+      <guid isPermaLink="false">kronleuchtersaal</guid>
+      <pubDate>Mon, 17 Aug 2026 01:37:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Drachenfels Railway” added in Königswinter, Germany</title>
+      <link>https://infrastructureclub.org/travel_guide/#drachenfels-railway</link>
+      <description>Take the oldest cog railroad in Germany to the Drachenfels!</description>
+      <guid isPermaLink="false">drachenfels-railway</guid>
+      <pubDate>Mon, 17 Aug 2026 01:37:06 +0000</pubDate>
     </item>
   </channel>
 </rss>

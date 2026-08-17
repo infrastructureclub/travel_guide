@@ -9,7 +9,7 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 356,
+      "count": 359,
       "name": "Interesting Things"
     },
     "museums-attractions": {
@@ -3431,6 +3431,18 @@
       ],
       "name": "DOX Centre for Contemporary Art"
     },
+    "drachenfels-railway": {
+      "category": "interesting-things",
+      "coordinates": [
+        7.1983275,
+        50.6744415
+      ],
+      "created": "2026-08-17T01:37:06.802483",
+      "description": "Take the oldest cog railroad in Germany to the Drachenfels!",
+      "googlePlaceId": "ChIJMUxCd67lvkcRiODbpRxx2LA",
+      "id": "drachenfels-railway",
+      "name": "Drachenfels Railway"
+    },
     "drammen-spiral": {
       "category": "historic-ruins-structures",
       "coordinates": [
@@ -6355,6 +6367,18 @@
       ],
       "name": "Krištof Kintera: Building Sculptures"
     },
+    "kronleuchtersaal": {
+      "category": "interesting-things",
+      "coordinates": [
+        6.9634538,
+        50.9506676
+      ],
+      "created": "2026-08-17T01:37:06.802465",
+      "description": "Book tour in advance (they often sell out in advance).  Look for Chandelier Hall on the website.  Currently booking link as of 2026 is https://kundenportal.steb-koeln.de/veranstaltungen/?page=1\n\nhttps://steb-koeln.de/service/veranstaltungen-und-termine/kronleuchtersaalfuehrungen",
+      "googlePlaceId": "ChIJ28JoFAAlv0cR3f-uYNySzEM",
+      "id": "kronleuchtersaal",
+      "name": "Kronleuchtersaal"
+    },
     "kth-r1": {
       "category": "para-infrastructural-cultural",
       "coordinates": [
@@ -7002,6 +7026,17 @@
       "googlePlaceId": "ChIJb3DVWNaNcUgRRk5VYWIdf3Y",
       "id": "m-shed",
       "name": "M Shed"
+    },
+    "maastunnel": {
+      "category": "interesting-things",
+      "coordinates": [
+        4.4682897,
+        51.9000538
+      ],
+      "created": "2026-08-17T01:37:06.802436",
+      "description": "1km pedestrian tunnel opened in 1942",
+      "id": "maastunnel",
+      "name": "Maastunnel"
     },
     "maat": {
       "category": "museums-attractions",

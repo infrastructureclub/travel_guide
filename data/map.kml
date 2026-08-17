@@ -3961,6 +3961,36 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Maastunnel</name>
+        <description>1km pedestrian tunnel opened in 1942</description>
+        <styleUrl>#icon-1636-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            4.4682897,51.9000538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kronleuchtersaal</name>
+        <description><![CDATA[Book tour in advance (they often sell out in advance).  Look for Chandelier Hall on the website.  Currently booking link as of 2026 is https://kundenportal.steb-koeln.de/veranstaltungen/?page=1<br><br>https://steb-koeln.de/service/veranstaltungen-und-termine/kronleuchtersaalfuehrungen]]></description>
+        <styleUrl>#icon-1636-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            6.9634538,50.9506676,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Drachenfels Railway</name>
+        <description>Take the oldest cog railroad in Germany to the Drachenfels!</description>
+        <styleUrl>#icon-1636-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            7.1983275,50.6744415,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>

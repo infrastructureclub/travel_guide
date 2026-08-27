@@ -3991,6 +3991,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Nordbahntrasse</name>
+        <description>22 km ex-railway path that was paved over, great for cycling and fun to ride through the old tunnels.  Can see remnants of some of the old stations and an old signal.  Was great with an e-bike</description>
+        <styleUrl>#icon-1636-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            7.1561257,51.2674401,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>
@@ -9623,6 +9633,16 @@
         <Point>
           <coordinates>
             15.8851039,48.3546663,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bilker Bunker gGmbH</name>
+        <description>Art museum in old bunker with a music room for gigs.</description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            6.7745848,51.2058701,0
           </coordinates>
         </Point>
       </Placemark>

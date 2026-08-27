@@ -9,11 +9,11 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 359,
+      "count": 360,
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 581,
+      "count": 582,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -1368,6 +1368,18 @@
       "googlePlaceId": "ChIJNyEzlSBk1FQRGw8E47UQq0M",
       "id": "big-trees-day-use-area",
       "name": "Big Trees Day-use Area"
+    },
+    "bilker-bunker-ggmbh": {
+      "category": "museums-attractions",
+      "coordinates": [
+        6.7745848,
+        51.2058701
+      ],
+      "created": "2026-08-27T22:03:43.831580",
+      "description": "Art museum in old bunker with a music room for gigs.",
+      "googlePlaceId": "ChIJMcTw-K7LuEcRAMwz92N0W1I",
+      "id": "bilker-bunker-ggmbh",
+      "name": "Bilker Bunker gGmbH"
     },
     "bingley-five-rise-locks": {
       "category": "interesting-things",
@@ -9245,6 +9257,17 @@
       "googlePlaceId": "ChIJxUXPVmupQjQRtBB6oj-S5qI",
       "id": "ningxia-night-market",
       "name": "Ningxia Night Market"
+    },
+    "nordbahntrasse": {
+      "category": "interesting-things",
+      "coordinates": [
+        7.1561257,
+        51.2674401
+      ],
+      "created": "2026-08-27T22:03:43.823296",
+      "description": "22 km ex-railway path that was paved over, great for cycling and fun to ride through the old tunnels.  Can see remnants of some of the old stations and an old signal.  Was great with an e-bike",
+      "id": "nordbahntrasse",
+      "name": "Nordbahntrasse"
     },
     "norfolk-and-suffolk-aviation-museum": {
       "category": "museums-attractions",

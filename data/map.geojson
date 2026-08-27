@@ -7389,6 +7389,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    7.1561257,
+                    51.2674401,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Nordbahntrasse",
+                "styleUrl": "#icon-1636-A52714-labelson",
+                "styleHash": "-397cadf3",
+                "icon": "images/icon-1.png",
+                "description": "22 km ex-railway path that was paved over, great for cycling and fun to ride through the old tunnels.  Can see remnants of some of the old stations and an old signal.  Was great with an e-bike"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0
@@ -17562,6 +17580,24 @@
                 "styleHash": "-73d4c685",
                 "icon": "images/icon-2.png",
                 "description": "Nuclear power plant that was built but never used. Tours are possible but book out fast"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.7745848,
+                    51.2058701,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bilker Bunker gGmbH",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "icon": "images/icon-2.png",
+                "description": "Art museum in old bunker with a music room for gigs."
             }
         },
         {

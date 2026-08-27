@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Aug 2026 01:37:06 +0000</lastBuildDate>
-    <item>
-      <title>“Former Pioneer Palace” added in Chiat’ura, Georgia</title>
-      <link>https://infrastructureclub.org/travel_guide/#former-pioneer-palace</link>
-      <description>Abandoned building now taken over by Cows</description>
-      <guid isPermaLink="false">former-pioneer-palace</guid>
-      <pubDate>Wed, 04 Feb 2026 02:32:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Temur Magradze stadium” added in Chiat’ura, Georgia</title>
-      <link>https://infrastructureclub.org/travel_guide/#temur-magradze-stadium</link>
-      <description>A slightly abandoned stadium</description>
-      <guid isPermaLink="false">temur-magradze-stadium</guid>
-      <pubDate>Wed, 04 Feb 2026 02:32:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 27 Aug 2026 22:03:43 +0000</lastBuildDate>
     <item>
       <title>“Old Cable car station” added in Chiat’ura, Georgia</title>
       <link>https://infrastructureclub.org/travel_guide/#old-cable-car-station2</link>
@@ -363,6 +349,20 @@ https://steb-koeln.de/service/veranstaltungen-und-termine/kronleuchtersaalfuehru
       <description>Take the oldest cog railroad in Germany to the Drachenfels!</description>
       <guid isPermaLink="false">drachenfels-railway</guid>
       <pubDate>Mon, 17 Aug 2026 01:37:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Nordbahntrasse” added in Wuppertal, Germany</title>
+      <link>https://infrastructureclub.org/travel_guide/#nordbahntrasse</link>
+      <description>22 km ex-railway path that was paved over, great for cycling and fun to ride through the old tunnels.  Can see remnants of some of the old stations and an old signal.  Was great with an e-bike</description>
+      <guid isPermaLink="false">nordbahntrasse</guid>
+      <pubDate>Thu, 27 Aug 2026 22:03:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Bilker Bunker gGmbH” added in Düsseldorf, Germany</title>
+      <link>https://infrastructureclub.org/travel_guide/#bilker-bunker-ggmbh</link>
+      <description>Art museum in old bunker with a music room for gigs.</description>
+      <guid isPermaLink="false">bilker-bunker-ggmbh</guid>
+      <pubDate>Thu, 27 Aug 2026 22:03:43 +0000</pubDate>
     </item>
   </channel>
 </rss>

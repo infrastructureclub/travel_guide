@@ -7,28 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Sep 2026 11:24:27 +0000</lastBuildDate>
-    <item>
-      <title>“Leawood Pump House” added in Cromford, United Kingdom</title>
-      <link>https://infrastructureclub.org/travel_guide/#leawood-pump-house</link>
-      <description>The old pump house for pumping water in to the canal. They still work and are open every month or so where you can see them pumping water into the canal. They still use coal fired boilers for the steam</description>
-      <guid isPermaLink="false">leawood-pump-house</guid>
-      <pubDate>Sun, 22 Feb 2026 18:43:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Nakatsukasa Magotaro Inari Shrine” added in Fukuoka, Japan</title>
-      <link>https://infrastructureclub.org/travel_guide/#nakatsukasa-magotaro-inari-shrine</link>
-      <description>Cyber shrine, 100¥ to light the place up at night.</description>
-      <guid isPermaLink="false">nakatsukasa-magotaro-inari-shrine</guid>
-      <pubDate>Mon, 23 Feb 2026 02:40:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>“SS Red Oak Victory liberty ship” added in Richmond, United States</title>
-      <link>https://infrastructureclub.org/travel_guide/#ss-red-oak-victory-liberty-ship</link>
-      <description>Museum and ship with a self-guided tour, moored in the shipyard where it was built.</description>
-      <guid isPermaLink="false">ss-red-oak-victory-liberty-ship</guid>
-      <pubDate>Tue, 24 Feb 2026 02:36:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 01 Sep 2026 16:20:41 +0000</lastBuildDate>
     <item>
       <title>“Hollywood Reservoir Dam” added in Hollywood, United States</title>
       <link>https://infrastructureclub.org/travel_guide/#hollywood-reservoir-dam</link>
@@ -365,6 +344,27 @@ https://steb-koeln.de/service/veranstaltungen-und-termine/kronleuchtersaalfuehru
 https://en.wikipedia.org/wiki/Palais_des_Beaux-Arts_de_Lille#Collection_of_%22plans-reliefs%22</description>
       <guid isPermaLink="false">palais-des-beaux-arts-de-lille</guid>
       <pubDate>Tue, 01 Sep 2026 11:24:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Magdeburg Water Bridge” added in Hohenwarthe, Germany</title>
+      <link>https://infrastructureclub.org/travel_guide/#magdeburg-water-bridge</link>
+      <description>Enormous aqueduct carrying a big canal over the River Elbe</description>
+      <guid isPermaLink="false">magdeburg-water-bridge</guid>
+      <pubDate>Tue, 01 Sep 2026 16:20:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Woolwich Ferry” added in Woolwich, United Kingdom</title>
+      <link>https://infrastructureclub.org/travel_guide/#woolwich-ferry</link>
+      <description>Free passenger and vehicle ferry across the Thames with automatic docking.</description>
+      <guid isPermaLink="false">woolwich-ferry</guid>
+      <pubDate>Tue, 01 Sep 2026 16:20:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Wasserspiele im Bergpark Wilhelmshöhe, Kassel” added in Baunatal, Germany</title>
+      <link>https://infrastructureclub.org/travel_guide/#wasserspiele-im-bergpark-wilhelmshhe-kassel</link>
+      <description>Giant manmade water cascade and artificial waterfalls. Runs on Wednesdays, Sundays and holidays.</description>
+      <guid isPermaLink="false">wasserspiele-im-bergpark-wilhelmshhe-kassel</guid>
+      <pubDate>Tue, 01 Sep 2026 16:20:41 +0000</pubDate>
     </item>
   </channel>
 </rss>

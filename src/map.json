@@ -9,7 +9,7 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 360,
+      "count": 362,
       "name": "Interesting Things"
     },
     "museums-attractions": {
@@ -25,7 +25,7 @@
       "name": "Not open to public but visible"
     },
     "para-infrastructural-cultural": {
-      "count": 94,
+      "count": 95,
       "name": "Para-infrastructural / cultural"
     },
     "science": {
@@ -7093,6 +7093,18 @@
       "googlePlaceId": "ChIJnQ_oQFGtxUcR2zS-NJOaiMU",
       "id": "maeslantkering",
       "name": "Maeslantkering"
+    },
+    "magdeburg-water-bridge": {
+      "category": "interesting-things",
+      "coordinates": [
+        11.7011335,
+        52.231145
+      ],
+      "created": "2026-09-01T16:20:41.604027",
+      "description": "Enormous aqueduct carrying a big canal over the River Elbe",
+      "googlePlaceId": "ChIJR388nYxbr0cROKH95duXHXc",
+      "id": "magdeburg-water-bridge",
+      "name": "Magdeburg Water Bridge"
     },
     "maishima-incineration-plant": {
       "category": "industry",
@@ -15323,6 +15335,18 @@
       "id": "washington-park-zoo-max-station",
       "name": "Washington Park (Zoo) MAX station"
     },
+    "wasserspiele-im-bergpark-wilhelmshhe-kassel": {
+      "category": "para-infrastructural-cultural",
+      "coordinates": [
+        9.3963109,
+        51.3159281
+      ],
+      "created": "2026-09-01T16:20:41.619542",
+      "description": "Giant manmade water cascade and artificial waterfalls. Runs on Wednesdays, Sundays and holidays.",
+      "googlePlaceId": "ChIJtXhn3Po_u0cRhHldXZ0eGog",
+      "id": "wasserspiele-im-bergpark-wilhelmshhe-kassel",
+      "name": "Wasserspiele im Bergpark Wilhelmshöhe, Kassel"
+    },
     "watts-towers-arts-center": {
       "category": "para-infrastructural-cultural",
       "coordinates": [
@@ -15668,6 +15692,18 @@
       "googlePlaceId": "ChIJw-siFhgveEgR4Q0a1bjJ9cE",
       "id": "woolsthorpe-manor",
       "name": "Woolsthorpe Manor"
+    },
+    "woolwich-ferry": {
+      "category": "interesting-things",
+      "coordinates": [
+        0.0610944,
+        51.4978118
+      ],
+      "created": "2026-09-01T16:20:41.604054",
+      "description": "Free passenger and vehicle ferry across the Thames with automatic docking.",
+      "googlePlaceId": "ChIJmVSmSZKo2EcR98gBe55DjTQ",
+      "id": "woolwich-ferry",
+      "name": "Woolwich Ferry"
     },
     "woolwich-foot-tunnel-north": {
       "category": "museums-attractions",

@@ -7407,6 +7407,42 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    11.7011335,
+                    52.231145,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Magdeburg Water Bridge",
+                "styleUrl": "#icon-1636-A52714-labelson",
+                "styleHash": "-397cadf3",
+                "icon": "images/icon-1.png",
+                "description": "Enormous aqueduct carrying a big canal over the River Elbe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0610944,
+                    51.4978118,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Woolwich Ferry",
+                "styleUrl": "#icon-1636-A52714-labelson",
+                "styleHash": "-397cadf3",
+                "icon": "images/icon-1.png",
+                "description": "Free passenger and vehicle ferry across the Thames with automatic docking."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0
@@ -25169,6 +25205,24 @@
                 "styleHash": "1468cf8f",
                 "icon": "images/icon-8.png",
                 "description": "The only shrine (I know of) that has lucky amulets (omamori) dedicated to computer IT luck."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3963109,
+                    51.3159281,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wasserspiele im Bergpark Wilhelmshöhe, Kassel",
+                "styleUrl": "#icon-1608-006064-labelson",
+                "styleHash": "1468cf8f",
+                "icon": "images/icon-8.png",
+                "description": "Giant manmade water cascade and artificial waterfalls. Runs on Wednesdays, Sundays and holidays."
             }
         },
         {

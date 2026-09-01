@@ -4001,6 +4001,26 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Magdeburg Water Bridge</name>
+        <description>Enormous aqueduct carrying a big canal over the River Elbe</description>
+        <styleUrl>#icon-1636-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            11.7011335,52.231145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Woolwich Ferry</name>
+        <description>Free passenger and vehicle ferry across the Thames with automatic docking.</description>
+        <styleUrl>#icon-1636-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            0.0610944,51.4978118,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>
@@ -13895,6 +13915,16 @@
         <Point>
           <coordinates>
             139.7678943,35.7020186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wasserspiele im Bergpark Wilhelmshöhe, Kassel</name>
+        <description>Giant manmade water cascade and artificial waterfalls. Runs on Wednesdays, Sundays and holidays.</description>
+        <styleUrl>#icon-1608-006064-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            9.3963109,51.3159281,0
           </coordinates>
         </Point>
       </Placemark>

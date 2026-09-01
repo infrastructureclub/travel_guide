@@ -9646,6 +9646,26 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Museum of Relief Maps</name>
+        <description>https://en.wikipedia.org/wiki/Mus%C3%A9e_des_Plans-Reliefs</description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            2.3133924,48.8564622,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Palais des Beaux-Arts de Lille</name>
+        <description><![CDATA[An art museum, but the basement has a large collection of relief maps:<br><br>https://en.wikipedia.org/wiki/Palais_des_Beaux-Arts_de_Lille#Collection_of_%22plans-reliefs%22]]></description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            3.0627928,50.6304812,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>

@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Aug 2026 22:03:43 +0000</lastBuildDate>
-    <item>
-      <title>“Old Cable car station” added in Chiat’ura, Georgia</title>
-      <link>https://infrastructureclub.org/travel_guide/#old-cable-car-station2</link>
-      <description>An Old cable car station</description>
-      <guid isPermaLink="false">old-cable-car-station2</guid>
-      <pubDate>Wed, 04 Feb 2026 02:32:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Floating Museum "Hellas Liberty"” added in Drapetsóna, Greece</title>
-      <link>https://infrastructureclub.org/travel_guide/#floating-museum-hellas-liberty</link>
-      <description>WW2 Liberty ship</description>
-      <guid isPermaLink="false">floating-museum-hellas-liberty</guid>
-      <pubDate>Sun, 22 Feb 2026 18:43:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 01 Sep 2026 11:24:27 +0000</lastBuildDate>
     <item>
       <title>“Leawood Pump House” added in Cromford, United Kingdom</title>
       <link>https://infrastructureclub.org/travel_guide/#leawood-pump-house</link>
@@ -363,6 +349,22 @@ https://steb-koeln.de/service/veranstaltungen-und-termine/kronleuchtersaalfuehru
       <description>Art museum in old bunker with a music room for gigs.</description>
       <guid isPermaLink="false">bilker-bunker-ggmbh</guid>
       <pubDate>Thu, 27 Aug 2026 22:03:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Museum of Relief Maps” added in Paris, France</title>
+      <link>https://infrastructureclub.org/travel_guide/#museum-of-relief-maps</link>
+      <description>https://en.wikipedia.org/wiki/Mus%C3%A9e_des_Plans-Reliefs</description>
+      <guid isPermaLink="false">museum-of-relief-maps</guid>
+      <pubDate>Tue, 01 Sep 2026 11:24:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Palais des Beaux-Arts de Lille” added in Lille, France</title>
+      <link>https://infrastructureclub.org/travel_guide/#palais-des-beaux-arts-de-lille</link>
+      <description>An art museum, but the basement has a large collection of relief maps:
+
+https://en.wikipedia.org/wiki/Palais_des_Beaux-Arts_de_Lille#Collection_of_%22plans-reliefs%22</description>
+      <guid isPermaLink="false">palais-des-beaux-arts-de-lille</guid>
+      <pubDate>Tue, 01 Sep 2026 11:24:27 +0000</pubDate>
     </item>
   </channel>
 </rss>

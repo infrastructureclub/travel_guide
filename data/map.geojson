@@ -17605,6 +17605,42 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    2.3133924,
+                    48.8564622,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Museum of Relief Maps",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "icon": "images/icon-2.png",
+                "description": "https://en.wikipedia.org/wiki/Mus%C3%A9e_des_Plans-Reliefs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.0627928,
+                    50.6304812,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Palais des Beaux-Arts de Lille",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "icon": "images/icon-2.png",
+                "description": "An art museum, but the basement has a large collection of relief maps:<br><br>https://en.wikipedia.org/wiki/Palais_des_Beaux-Arts_de_Lille#Collection_of_%22plans-reliefs%22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.9055879,
                     38.1671515,
                     0

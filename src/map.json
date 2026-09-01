@@ -13,7 +13,7 @@
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 582,
+      "count": 584,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -8450,6 +8450,18 @@
       "id": "museum-of-qvevri-and-qvevri-wine",
       "name": "Museum of Qvevri and Qvevri Wine"
     },
+    "museum-of-relief-maps": {
+      "category": "museums-attractions",
+      "coordinates": [
+        2.3133924,
+        48.8564622
+      ],
+      "created": "2026-09-01T11:24:27.235496",
+      "description": "https://en.wikipedia.org/wiki/Mus%C3%A9e_des_Plans-Reliefs",
+      "googlePlaceId": "ChIJv-rX7Ndv5kcRovz6z5D2Kh4",
+      "id": "museum-of-relief-maps",
+      "name": "Museum of Relief Maps"
+    },
     "museum-of-science": {
       "category": "museums-attractions",
       "coordinates": [
@@ -9865,6 +9877,18 @@
       "description": "Occasional tours through Sub-Brit or on London Open House week. Doesn't seem to have been opened for Open House recently though.\n\nLots of detailed info at https://www.subbrit.org.uk/sites/paddock-standby-cabinet-war-room/",
       "id": "paddock-standby-cabinet-war-room",
       "name": "PADDOCK Standby Cabinet War Room"
+    },
+    "palais-des-beaux-arts-de-lille": {
+      "category": "museums-attractions",
+      "coordinates": [
+        3.0627928,
+        50.6304812
+      ],
+      "created": "2026-09-01T11:24:27.235526",
+      "description": "An art museum, but the basement has a large collection of relief maps:\n\nhttps://en.wikipedia.org/wiki/Palais_des_Beaux-Arts_de_Lille#Collection_of_%22plans-reliefs%22",
+      "googlePlaceId": "ChIJ6fWoiY_VwkcRSSTqXbf3l8s",
+      "id": "palais-des-beaux-arts-de-lille",
+      "name": "Palais des Beaux-Arts de Lille"
     },
     "palm-springs-windmill-tours": {
       "category": "industry",

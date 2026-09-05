@@ -7443,6 +7443,59 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    9.6828068,
+                    54.2935994,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Rendsburger Hochbrücke",
+                "styleUrl": "#icon-1636-A52714-labelson",
+                "styleHash": "-397cadf3",
+                "icon": "images/icon-1.png",
+                "description": "Combination rail bridge / transporter bridge!!!<br><br>Trains take a 360 degree elevated loop to reach it."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1835401,
+                    53.694968,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Osten Transporter Bridge",
+                "styleUrl": "#icon-1636-A52714-labelson-nodesc",
+                "styleHash": "-2ab28dbc",
+                "icon": "images/icon-1.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.133824,
+                    51.1604379,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Müngstener Brücke",
+                "styleUrl": "#icon-1636-A52714-labelson",
+                "styleHash": "-397cadf3",
+                "icon": "images/icon-1.png",
+                "description": "Highest rail bridge in Germany. A climbing tour is available.<br><br>Has adjacent pseudo transporter bridge / hand-cranked cable car."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0

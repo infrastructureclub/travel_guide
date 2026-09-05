@@ -4021,6 +4021,35 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Rendsburger Hochbrücke</name>
+        <description><![CDATA[Combination rail bridge / transporter bridge!!!<br><br>Trains take a 360 degree elevated loop to reach it.]]></description>
+        <styleUrl>#icon-1636-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            9.6828068,54.2935994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Osten Transporter Bridge</name>
+        <styleUrl>#icon-1636-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.1835401,53.694968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Müngstener Brücke</name>
+        <description><![CDATA[Highest rail bridge in Germany. A climbing tour is available.<br><br>Has adjacent pseudo transporter bridge / hand-cranked cable car.]]></description>
+        <styleUrl>#icon-1636-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            7.133824,51.1604379,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>

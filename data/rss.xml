@@ -7,28 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Sep 2026 16:20:41 +0000</lastBuildDate>
-    <item>
-      <title>“Hollywood Reservoir Dam” added in Hollywood, United States</title>
-      <link>https://infrastructureclub.org/travel_guide/#hollywood-reservoir-dam</link>
-      <description>Walkable dam on a lovely short hike. The last great public work built by William Mulholland, architect of the canals and aqueducts that brought water to modern Los Angeles.</description>
-      <guid isPermaLink="false">hollywood-reservoir-dam</guid>
-      <pubDate>Tue, 24 Feb 2026 02:36:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Laaksaare Sadam” added in Räpina, Estonia</title>
-      <link>https://infrastructureclub.org/travel_guide/#laaksaare-sadam</link>
-      <description>In the Winter you can get a hovercraft to Piiri from here. https://transport.tartumaa.ee/en/ferry-transportation/</description>
-      <guid isPermaLink="false">laaksaare-sadam</guid>
-      <pubDate>Thu, 26 Feb 2026 19:00:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Museum of Industry Ghent” added in Gent, Belgium</title>
-      <link>https://infrastructureclub.org/travel_guide/#museum-of-industry-ghent</link>
-      <description>Great museum showcasing history of textiles and typography/graphic design in Gent, with lots of machines over the years - you can even buy things from the shop made from these machines</description>
-      <guid isPermaLink="false">museum-of-industry-ghent</guid>
-      <pubDate>Sat, 28 Feb 2026 18:40:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 05 Sep 2026 03:47:43 +0000</lastBuildDate>
     <item>
       <title>“Sint-Annatunnel” added in Antwerpen, Belgium</title>
       <link>https://infrastructureclub.org/travel_guide/#sint-annatunnel</link>
@@ -365,6 +344,30 @@ https://en.wikipedia.org/wiki/Palais_des_Beaux-Arts_de_Lille#Collection_of_%22pl
       <description>Giant manmade water cascade and artificial waterfalls. Runs on Wednesdays, Sundays and holidays.</description>
       <guid isPermaLink="false">wasserspiele-im-bergpark-wilhelmshhe-kassel</guid>
       <pubDate>Tue, 01 Sep 2026 16:20:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Rendsburger Hochbrücke” added in Rendsburg, Germany</title>
+      <link>https://infrastructureclub.org/travel_guide/#rendsburger-hochbrcke</link>
+      <description>Combination rail bridge / transporter bridge!!!
+
+Trains take a 360 degree elevated loop to reach it.</description>
+      <guid isPermaLink="false">rendsburger-hochbrcke</guid>
+      <pubDate>Sat, 05 Sep 2026 03:47:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Osten Transporter Bridge” added in Osten, Germany</title>
+      <link>https://infrastructureclub.org/travel_guide/#osten-transporter-bridge</link>
+      <guid isPermaLink="false">osten-transporter-bridge</guid>
+      <pubDate>Sat, 05 Sep 2026 03:47:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Müngstener Brücke” added in Solingen, Germany</title>
+      <link>https://infrastructureclub.org/travel_guide/#mngstener-brcke</link>
+      <description>Highest rail bridge in Germany. A climbing tour is available.
+
+Has adjacent pseudo transporter bridge / hand-cranked cable car.</description>
+      <guid isPermaLink="false">mngstener-brcke</guid>
+      <pubDate>Sat, 05 Sep 2026 03:47:43 +0000</pubDate>
     </item>
   </channel>
 </rss>

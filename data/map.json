@@ -9,7 +9,7 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 362,
+      "count": 365,
       "name": "Interesting Things"
     },
     "museums-attractions": {
@@ -7747,6 +7747,18 @@
       "id": "mississippi-river-basin-model",
       "name": "Mississippi River Basin Model"
     },
+    "mngstener-brcke": {
+      "category": "interesting-things",
+      "coordinates": [
+        7.133824,
+        51.1604379
+      ],
+      "created": "2026-09-05T03:47:43.687211",
+      "description": "Highest rail bridge in Germany. A climbing tour is available.\n\nHas adjacent pseudo transporter bridge / hand-cranked cable car.",
+      "googlePlaceId": "ChIJyzgqtqTVuEcRjbQGcnXgX0w",
+      "id": "mngstener-brcke",
+      "name": "Müngstener Brücke"
+    },
     "moerenuma-park": {
       "category": "nature",
       "coordinates": [
@@ -9811,6 +9823,17 @@
       "id": "ossuary-in-the-crypt-of-st-leonards-church",
       "name": "Ossuary in the Crypt of St Leonard's church"
     },
+    "osten-transporter-bridge": {
+      "category": "interesting-things",
+      "coordinates": [
+        9.1835401,
+        53.694968
+      ],
+      "created": "2026-09-05T03:47:43.687192",
+      "googlePlaceId": "ChIJRSIxMBlfsUcR301GGwlwECE",
+      "id": "osten-transporter-bridge",
+      "name": "Osten Transporter Bridge"
+    },
     "ostrava-firefighter-museum": {
       "category": "museums-attractions",
       "coordinates": [
@@ -10958,6 +10981,18 @@
       "googlePlaceId": "ChIJh2c3bIRocUgRUfg6vxAiwmE",
       "id": "reme-museum",
       "name": "REME Museum"
+    },
+    "rendsburger-hochbrcke": {
+      "category": "interesting-things",
+      "coordinates": [
+        9.6828068,
+        54.2935994
+      ],
+      "created": "2026-09-05T03:47:43.687170",
+      "description": "Combination rail bridge / transporter bridge!!!\n\nTrains take a 360 degree elevated loop to reach it.",
+      "googlePlaceId": "ChIJUQ1Uhdmls0cRBRGvm2wEZxU",
+      "id": "rendsburger-hochbrcke",
+      "name": "Rendsburger Hochbrücke"
     },
     "ribblehead-viaduct": {
       "category": "historic-ruins-structures",

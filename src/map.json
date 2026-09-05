@@ -9,7 +9,7 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 365,
+      "count": 366,
       "name": "Interesting Things"
     },
     "museums-attractions": {
@@ -11058,6 +11058,18 @@
       "googlePlaceId": "ChIJAfSU03RE10cRWyHwEpbfCo4",
       "id": "rnli-henry-blogg-museum",
       "name": "RNLI Henry Blogg Museum"
+    },
+    "roker-pier-and-lighthouse-tours": {
+      "category": "interesting-things",
+      "coordinates": [
+        -1.3646485,
+        54.9214789
+      ],
+      "created": "2026-09-05T20:08:57.969694",
+      "description": "Tour inside the dark tunnel under the pier, which was created as a service tunnel for operating the crane during construction. Then you climb a ladder and pop up inside the lighthouse and tour the lighthouse. Hard hats are provided. Bring wellies.",
+      "googlePlaceId": "ChIJrT0Jj0RmfkgRvxNY3TPjuUw",
+      "id": "roker-pier-and-lighthouse-tours",
+      "name": "Roker Pier and Lighthouse Tours"
     },
     "rollercoasterrestaurant-vienna": {
       "category": "interesting-things",

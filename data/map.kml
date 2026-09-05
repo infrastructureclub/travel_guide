@@ -4050,6 +4050,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Roker Pier and Lighthouse Tours</name>
+        <description>Tour inside the dark tunnel under the pier, which was created as a service tunnel for operating the crane during construction. Then you climb a ladder and pop up inside the lighthouse and tour the lighthouse. Hard hats are provided. Bring wellies.</description>
+        <styleUrl>#icon-1636-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -1.3646485,54.9214789,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>

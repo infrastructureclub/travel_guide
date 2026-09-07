@@ -13,7 +13,7 @@
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 584,
+      "count": 585,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -8350,6 +8350,18 @@
       "description": "Very Boeing-centric for obvious reasons* but nonetheless excellent.\n\n* Boeing's operations are based in Seattle and it's the major patron of the museum.",
       "id": "museum-of-flight",
       "name": "Museum of Flight"
+    },
+    "museum-of-geothermal-energy-and-thermalism-geothermia": {
+      "category": "museums-attractions",
+      "coordinates": [
+        3.002498,
+        44.8535821
+      ],
+      "created": "2026-09-07T12:02:52.057822",
+      "description": "Chaudes-Aigues has the world's first district heating system, established in 1332 (!)",
+      "googlePlaceId": "ChIJ1bUR1CbRshIRlo4JoKTDVUY",
+      "id": "museum-of-geothermal-energy-and-thermalism-geothermia",
+      "name": "Museum of Geothermal Energy and Thermalism - Geothermia"
     },
     "museum-of-history-in-granite": {
       "category": "museums-attractions",

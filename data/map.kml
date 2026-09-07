@@ -9725,6 +9725,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Museum of Geothermal Energy and Thermalism - Geothermia</name>
+        <description><![CDATA[Chaudes-Aigues has the world's first district heating system, established in 1332 (!)]]></description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            3.002498,44.8535821,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>

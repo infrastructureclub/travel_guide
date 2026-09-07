@@ -17748,6 +17748,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    3.002498,
+                    44.8535821,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Museum of Geothermal Energy and Thermalism - Geothermia",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "icon": "images/icon-2.png",
+                "description": "Chaudes-Aigues has the world's first district heating system, established in 1332 (!)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.9055879,
                     38.1671515,
                     0

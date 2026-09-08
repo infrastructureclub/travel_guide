@@ -5,7 +5,7 @@
       "name": "Historic / ruins / structures"
     },
     "industry": {
-      "count": 42,
+      "count": 43,
       "name": "Industry"
     },
     "interesting-things": {
@@ -14421,6 +14421,21 @@
       "googlePlaceId": "ChIJcYljJ7AJYUgREnKW65tyJUw",
       "id": "titanic-belfast",
       "name": "Titanic Belfast"
+    },
+    "tk-elevator-testturm": {
+      "category": "industry",
+      "coordinates": [
+        8.6251129,
+        48.1792097
+      ],
+      "created": "2026-09-08T10:56:55.071750",
+      "description": "World's tallest elevator test tower",
+      "googlePlaceId": "ChIJe6HY_vGkkEcRehmusahQ9LY",
+      "id": "tk-elevator-testturm",
+      "img": [
+        "./data/images/ddeb8e281fd3577c93da335a579a940eaa35183ecb5fc3114cf2da125cc7137d.png"
+      ],
+      "name": "TK Elevator Testturm"
     },
     "toilet-in-nature": {
       "category": "interesting-things",

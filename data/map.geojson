@@ -18517,6 +18517,25 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    8.6251129,
+                    48.1792097,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "TK Elevator Testturm",
+                "styleUrl": "#icon-1693-757575-labelson",
+                "styleHash": "-1d74371c",
+                "icon": "images/icon-3.png",
+                "description": "<img src=\"./data/images/ddeb8e281fd3577c93da335a579a940eaa35183ecb5fc3114cf2da125cc7137d.png\" height=\"200\" width=\"auto\" /><br><br>World's tallest elevator test tower",
+                "gx_media_links": "./data/images/ddeb8e281fd3577c93da335a579a940eaa35183ecb5fc3114cf2da125cc7137d.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -78.3005704,
                     44.3076708,
                     0

@@ -10166,6 +10166,21 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>TK Elevator Testturm</name>
+        <description><![CDATA[<img src="./data/images/ddeb8e281fd3577c93da335a579a940eaa35183ecb5fc3114cf2da125cc7137d.png" height="200" width="auto" /><br><br>World's tallest elevator test tower]]></description>
+        <styleUrl>#icon-1693-757575-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>./data/images/ddeb8e281fd3577c93da335a579a940eaa35183ecb5fc3114cf2da125cc7137d.png</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            8.6251129,48.1792097,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Historic / ruins / structures</name>

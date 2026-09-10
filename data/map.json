@@ -9,7 +9,7 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 366,
+      "count": 367,
       "name": "Interesting Things"
     },
     "museums-attractions": {
@@ -10330,6 +10330,18 @@
       "googlePlaceId": "ChIJNZqvCRJdd1MRsnfciD6cW2U",
       "id": "plain-of-six-glaciers-teahouse",
       "name": "Plain of Six Glaciers Teahouse"
+    },
+    "plan-inclin-de-saint-louis-arzviller": {
+      "category": "interesting-things",
+      "coordinates": [
+        7.2162161,
+        48.7148878
+      ],
+      "created": "2026-09-10T16:08:29.786331",
+      "description": "Enormous inclined plane canal boat lift.",
+      "googlePlaceId": "ChIJfbHImqAblEcR1E1oxohPcsw",
+      "id": "plan-inclin-de-saint-louis-arzviller",
+      "name": "Plan incliné de Saint-Louis /Arzviller"
     },
     "planta-solar-10": {
       "category": "interesting-things",

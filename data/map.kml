@@ -4060,6 +4060,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Plan incliné de Saint-Louis /Arzviller</name>
+        <description>Enormous inclined plane canal boat lift.</description>
+        <styleUrl>#icon-1636-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            7.2162161,48.7148878,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>

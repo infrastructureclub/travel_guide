@@ -7514,6 +7514,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    7.2162161,
+                    48.7148878,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Plan incliné de Saint-Louis /Arzviller",
+                "styleUrl": "#icon-1636-A52714-labelson",
+                "styleHash": "-397cadf3",
+                "icon": "images/icon-1.png",
+                "description": "Enormous inclined plane canal boat lift."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0

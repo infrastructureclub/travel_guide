@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Sep 2026 10:56:55 +0000</lastBuildDate>
-    <item>
-      <title>“Tren de Sóller” added in Palma, Spain</title>
-      <link>https://infrastructureclub.org/travel_guide/#tren-de-sller</link>
-      <description>Historic electric train over the mountains, with street running in Palma. Plus opening windows and balcony flailing opportunities. Connects to vintage trams in Sóller.
-https://www.youtube.com/watch?v=xf01u3u8I4c</description>
-      <guid isPermaLink="false">tren-de-sller</guid>
-      <pubDate>Wed, 18 Mar 2026 13:25:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 10 Sep 2026 16:08:29 +0000</lastBuildDate>
     <item>
       <title>“Zagreb TV Tower” added in Gornja Bistra, Croatia</title>
       <link>https://infrastructureclub.org/travel_guide/#zagreb-tv-tower</link>
@@ -365,6 +357,13 @@ Has adjacent pseudo transporter bridge / hand-cranked cable car.</description>
       <description>World's tallest elevator test tower</description>
       <guid isPermaLink="false">tk-elevator-testturm</guid>
       <pubDate>Tue, 08 Sep 2026 10:56:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Plan incliné de Saint-Louis /Arzviller” added in Dabo, France</title>
+      <link>https://infrastructureclub.org/travel_guide/#plan-inclin-de-saint-louis-arzviller</link>
+      <description>Enormous inclined plane canal boat lift.</description>
+      <guid isPermaLink="false">plan-inclin-de-saint-louis-arzviller</guid>
+      <pubDate>Thu, 10 Sep 2026 16:08:29 +0000</pubDate>
     </item>
   </channel>
 </rss>

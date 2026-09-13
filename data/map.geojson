@@ -7532,6 +7532,42 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    5.1251449,
+                    52.1104835,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Glijbaan (\"De Transferversneller\") van Station Utrecht Overvecht",
+                "styleUrl": "#icon-1636-A52714-labelson",
+                "styleHash": "-397cadf3",
+                "icon": "images/icon-1.png",
+                "description": "Railway station with a slide to access the subway"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.0805278,
+                    52.0874306,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Montessorischool Oog in Al",
+                "styleUrl": "#icon-1636-A52714-labelson",
+                "styleHash": "-397cadf3",
+                "icon": "images/icon-1.png",
+                "description": "Elaborate looping bike ramp to high bridge over the canal designed into the roof of a school."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.6515881,
                     37.9537668,
                     0

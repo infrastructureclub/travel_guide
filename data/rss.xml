@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Sep 2026 16:08:29 +0000</lastBuildDate>
-    <item>
-      <title>“Zagreb TV Tower” added in Gornja Bistra, Croatia</title>
-      <link>https://infrastructureclub.org/travel_guide/#zagreb-tv-tower</link>
-      <description>Get the cable car up to the TV tower and then go up the TV tower.</description>
-      <guid isPermaLink="false">zagreb-tv-tower</guid>
-      <pubDate>Fri, 20 Mar 2026 07:03:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>“GENERAL STORE RAILYARD 大宮” added in Yono, Japan</title>
-      <link>https://infrastructureclub.org/travel_guide/#general-store-railyard-</link>
-      <description>Shop that sells train related items</description>
-      <guid isPermaLink="false">general-store-railyard-</guid>
-      <pubDate>Wed, 25 Mar 2026 19:03:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 13 Sep 2026 04:06:19 +0000</lastBuildDate>
     <item>
       <title>“GENERAL STORE RAILYARD 秋葉原” added in Akihabara, Japan</title>
       <link>https://infrastructureclub.org/travel_guide/#general-store-railyard-2</link>
@@ -364,6 +350,20 @@ Has adjacent pseudo transporter bridge / hand-cranked cable car.</description>
       <description>Enormous inclined plane canal boat lift.</description>
       <guid isPermaLink="false">plan-inclin-de-saint-louis-arzviller</guid>
       <pubDate>Thu, 10 Sep 2026 16:08:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Glijbaan ("De Transferversneller") van Station Utrecht Overvecht” added in Utrecht, Netherlands</title>
+      <link>https://infrastructureclub.org/travel_guide/#glijbaan-de-transferversneller-van-station-utrecht-overvecht</link>
+      <description>Railway station with a slide to access the subway</description>
+      <guid isPermaLink="false">glijbaan-de-transferversneller-van-station-utrecht-overvecht</guid>
+      <pubDate>Sun, 13 Sep 2026 04:06:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Montessorischool Oog in Al” added in Oog in Al, Netherlands</title>
+      <link>https://infrastructureclub.org/travel_guide/#montessorischool-oog-in-al</link>
+      <description>Elaborate looping bike ramp to high bridge over the canal designed into the roof of a school.</description>
+      <guid isPermaLink="false">montessorischool-oog-in-al</guid>
+      <pubDate>Sun, 13 Sep 2026 04:06:19 +0000</pubDate>
     </item>
   </channel>
 </rss>

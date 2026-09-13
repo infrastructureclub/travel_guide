@@ -4070,6 +4070,26 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name><![CDATA[Glijbaan ("De Transferversneller") van Station Utrecht Overvecht]]></name>
+        <description>Railway station with a slide to access the subway</description>
+        <styleUrl>#icon-1636-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            5.1251449,52.1104835,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Montessorischool Oog in Al</name>
+        <description>Elaborate looping bike ramp to high bridge over the canal designed into the roof of a school.</description>
+        <styleUrl>#icon-1636-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            5.0805278,52.0874306,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>

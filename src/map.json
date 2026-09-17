@@ -13,7 +13,7 @@
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 585,
+      "count": 586,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -4603,6 +4603,18 @@
       "googlePlaceId": "ChIJ3dkpe1Upa0gRYtiKN_sSzi0",
       "id": "goonhilly-earth-station",
       "name": "Goonhilly Earth Station"
+    },
+    "graba-screw-factory": {
+      "category": "museums-attractions",
+      "coordinates": [
+        11.3573317,
+        50.6553909
+      ],
+      "created": "2026-09-17T11:19:47.395328",
+      "description": "Schraubenfabrik Graba - Historical screw factory. Tours available: https://saalfeld-tourismus.de/schraubenfabrik-fuehrung/",
+      "googlePlaceId": "ChIJxyDUmG39o0cRHQ6PEkJVqPc",
+      "id": "graba-screw-factory",
+      "name": "Graba Screw Factory"
     },
     "grain-tower": {
       "category": "historic-ruins-structures",

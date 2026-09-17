@@ -9765,6 +9765,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Graba Screw Factory</name>
+        <description>Schraubenfabrik Graba - Historical screw factory. Tours available: https://saalfeld-tourismus.de/schraubenfabrik-fuehrung/</description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            11.3573317,50.6553909,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>

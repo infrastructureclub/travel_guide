@@ -17820,6 +17820,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    11.3573317,
+                    50.6553909,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Graba Screw Factory",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "icon": "images/icon-2.png",
+                "description": "Schraubenfabrik Graba - Historical screw factory. Tours available: https://saalfeld-tourismus.de/schraubenfabrik-fuehrung/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.9055879,
                     38.1671515,
                     0

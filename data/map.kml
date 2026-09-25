@@ -4090,6 +4090,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Houtribdijk</name>
+        <description>Another large dijk in the Netherlands. Interesting to drive. This one you can see out of both sides when going across, only seeing water to your left and right!</description>
+        <styleUrl>#icon-1636-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            5.4380117,52.6112305,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Museums / attractions</name>
@@ -9772,6 +9782,36 @@
         <Point>
           <coordinates>
             11.3573317,50.6553909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telecom Museum</name>
+        <description><![CDATA[<img src="./data/images/8973e5aaa6820ae24105962878a8170c569bf6a37ffc7c837231e1392640681c.png" height="200" width="auto" /><br><br>Absolutely amazing Telecom Museum based in a telephone exchange that is still in use in parts. Had a 2h guided tour from an ex-employee in English, and we could have gone for longer! Free, donation appreciated.]]></description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>./data/images/8973e5aaa6820ae24105962878a8170c569bf6a37ffc7c837231e1392640681c.png</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            4.4681435,51.9328377,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Portlantis</name>
+        <description><![CDATA[<img src="./data/images/423f03b6ccf94db6ba3ffb5e7e6d1161ef37368d189e5fe57f7cc70afff8f70d.png" height="200" width="auto" /><br><br>Good viewpoint of the Port of Rotterdam. They also run boat and bus trips around the new section (here) of the port. The boat trip was very  interesting - lots to see. Accessible via pre-booked Dial a Ride bus (or car).]]></description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>./data/images/423f03b6ccf94db6ba3ffb5e7e6d1161ef37368d189e5fe57f7cc70afff8f70d.png</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            3.9779104,51.9354833,0
           </coordinates>
         </Point>
       </Placemark>

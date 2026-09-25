@@ -9,11 +9,11 @@
       "name": "Industry"
     },
     "interesting-things": {
-      "count": 369,
+      "count": 370,
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 586,
+      "count": 588,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -5581,6 +5581,18 @@
       "id": "houston-ship-channel-boat-tour",
       "name": "Houston Ship Channel Boat Tour"
     },
+    "houtribdijk": {
+      "category": "interesting-things",
+      "coordinates": [
+        5.4380117,
+        52.6112305
+      ],
+      "created": "2026-09-25T16:55:41.027837",
+      "description": "Another large dijk in the Netherlands. Interesting to drive. This one you can see out of both sides when going across, only seeing water to your left and right!",
+      "googlePlaceId": "ChIJ2QF6cnufyEcRGTnVtRxcIH4",
+      "id": "houtribdijk",
+      "name": "Houtribdijk"
+    },
     "hovercraft-museum": {
       "category": "museums-attractions",
       "coordinates": [
@@ -10535,6 +10547,21 @@
       "id": "portland-loo",
       "name": "Portland Loo"
     },
+    "portlantis": {
+      "category": "museums-attractions",
+      "coordinates": [
+        3.9779104,
+        51.9354833
+      ],
+      "created": "2026-09-25T16:55:41.033072",
+      "description": "Good viewpoint of the Port of Rotterdam. They also run boat and bus trips around the new section (here) of the port. The boat trip was very  interesting - lots to see. Accessible via pre-booked Dial a Ride bus (or car).",
+      "googlePlaceId": "ChIJp5xO5kdVxEcRDydHxJp2ZcA",
+      "id": "portlantis",
+      "img": [
+        "./data/images/423f03b6ccf94db6ba3ffb5e7e6d1161ef37368d189e5fe57f7cc70afff8f70d.png"
+      ],
+      "name": "Portlantis"
+    },
     "portmeirion": {
       "category": "museums-attractions",
       "coordinates": [
@@ -13346,6 +13373,21 @@
       "googlePlaceId": "ChIJb3zyDAMiahYRT_OyOe9XPkA",
       "id": "tekeze-power-station",
       "name": "Tekeze Power Station"
+    },
+    "telecom-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        4.4681435,
+        51.9328377
+      ],
+      "created": "2026-09-25T16:55:41.033057",
+      "description": "Absolutely amazing Telecom Museum based in a telephone exchange that is still in use in parts. Had a 2h guided tour from an ex-employee in English, and we could have gone for longer! Free, donation appreciated.",
+      "googlePlaceId": "ChIJeQOa6q00xEcRMYNQP8dQuEY",
+      "id": "telecom-museum",
+      "img": [
+        "./data/images/8973e5aaa6820ae24105962878a8170c569bf6a37ffc7c837231e1392640681c.png"
+      ],
+      "name": "Telecom Museum"
     },
     "tempelhof-airport": {
       "category": "historic-ruins-structures",

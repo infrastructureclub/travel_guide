@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Sep 2026 11:19:47 +0000</lastBuildDate>
-    <item>
-      <title>“Diamond Light Source” added in Harwell, United Kingdom</title>
-      <link>https://infrastructureclub.org/travel_guide/#diamond-light-source</link>
-      <guid isPermaLink="false">diamond-light-source</guid>
-      <pubDate>Thu, 26 Mar 2026 13:41:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Paris Sewer Museum” added in Levallois-Perret, France</title>
-      <link>https://infrastructureclub.org/travel_guide/#paris-sewer-museum</link>
-      <description>A vast museum in the sewers, with old equipment to see. Signs are in French, but they can give you a book with English translations to borrow.</description>
-      <guid isPermaLink="false">paris-sewer-museum</guid>
-      <pubDate>Thu, 26 Mar 2026 13:41:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>“University of Luxembourg Belval” added in Russange, France</title>
-      <link>https://infrastructureclub.org/travel_guide/#university-of-luxembourg-belval</link>
-      <description>University built around a former steelworks (with museum)
-
-https://www.youtube.com/watch?v=kgLTibessRQ</description>
-      <guid isPermaLink="false">university-of-luxembourg-belval</guid>
-      <pubDate>Thu, 26 Mar 2026 19:16:20 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 25 Sep 2026 16:55:41 +0000</lastBuildDate>
     <item>
       <title>“Cie Salins du Midi et Salines de l'Est” added in Aigues-Mortes, France</title>
       <link>https://infrastructureclub.org/travel_guide/#cie-salins-du-midi-et-salines-de-lest</link>
@@ -364,6 +342,27 @@ Has adjacent pseudo transporter bridge / hand-cranked cable car.</description>
       <description>Schraubenfabrik Graba - Historical screw factory. Tours available: https://saalfeld-tourismus.de/schraubenfabrik-fuehrung/</description>
       <guid isPermaLink="false">graba-screw-factory</guid>
       <pubDate>Thu, 17 Sep 2026 11:19:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Houtribdijk” added in Lelystad, Netherlands</title>
+      <link>https://infrastructureclub.org/travel_guide/#houtribdijk</link>
+      <description>Another large dijk in the Netherlands. Interesting to drive. This one you can see out of both sides when going across, only seeing water to your left and right!</description>
+      <guid isPermaLink="false">houtribdijk</guid>
+      <pubDate>Fri, 25 Sep 2026 16:55:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Telecom Museum” added in Rotterdam, Netherlands</title>
+      <link>https://infrastructureclub.org/travel_guide/#telecom-museum</link>
+      <description>Absolutely amazing Telecom Museum based in a telephone exchange that is still in use in parts. Had a 2h guided tour from an ex-employee in English, and we could have gone for longer! Free, donation appreciated.</description>
+      <guid isPermaLink="false">telecom-museum</guid>
+      <pubDate>Fri, 25 Sep 2026 16:55:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Portlantis” added in Rockanje, Netherlands</title>
+      <link>https://infrastructureclub.org/travel_guide/#portlantis</link>
+      <description>Good viewpoint of the Port of Rotterdam. They also run boat and bus trips around the new section (here) of the port. The boat trip was very  interesting - lots to see. Accessible via pre-booked Dial a Ride bus (or car).</description>
+      <guid isPermaLink="false">portlantis</guid>
+      <pubDate>Fri, 25 Sep 2026 16:55:41 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -13,7 +13,7 @@
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 588,
+      "count": 589,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -9180,6 +9180,18 @@
       "googlePlaceId": "ChIJF9z8jo7p6lQR5I-oKxA_LqM",
       "id": "neskowin-ghost-forest",
       "name": "Neskowin Ghost Forest"
+    },
+    "netherlands-open-air-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        5.9066672,
+        52.0101703
+      ],
+      "created": "2026-09-25T21:20:27.989581",
+      "description": "The national open air museum of the Netherlands. Can easily spend a whole day here seeing different buildings and infrastructure covering the history of the Netherlands. Also has a working historic tram route around the edge of the site!",
+      "googlePlaceId": "ChIJpardrwSlx0cRd2OoNnIWR6U",
+      "id": "netherlands-open-air-museum",
+      "name": "Netherlands Open Air Museum"
     },
     "nevada-northern-railway-museum": {
       "category": "historic-ruins-structures",

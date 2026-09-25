@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Sep 2026 16:55:41 +0000</lastBuildDate>
-    <item>
-      <title>“Cie Salins du Midi et Salines de l'Est” added in Aigues-Mortes, France</title>
-      <link>https://infrastructureclub.org/travel_guide/#cie-salins-du-midi-et-salines-de-lest</link>
-      <description>Big saltworks where you can get a tour either on a bike or an a little train</description>
-      <guid isPermaLink="false">cie-salins-du-midi-et-salines-de-lest</guid>
-      <pubDate>Sun, 29 Mar 2026 13:07:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 25 Sep 2026 21:20:27 +0000</lastBuildDate>
     <item>
       <title>“Toilet in Nature” added in Ōtaki, Japan</title>
       <link>https://infrastructureclub.org/travel_guide/#toilet-in-nature</link>
@@ -363,6 +356,13 @@ Has adjacent pseudo transporter bridge / hand-cranked cable car.</description>
       <description>Good viewpoint of the Port of Rotterdam. They also run boat and bus trips around the new section (here) of the port. The boat trip was very  interesting - lots to see. Accessible via pre-booked Dial a Ride bus (or car).</description>
       <guid isPermaLink="false">portlantis</guid>
       <pubDate>Fri, 25 Sep 2026 16:55:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Netherlands Open Air Museum” added in Gulden Bodem, Netherlands</title>
+      <link>https://infrastructureclub.org/travel_guide/#netherlands-open-air-museum</link>
+      <description>The national open air museum of the Netherlands. Can easily spend a whole day here seeing different buildings and infrastructure covering the history of the Netherlands. Also has a working historic tram route around the edge of the site!</description>
+      <guid isPermaLink="false">netherlands-open-air-museum</guid>
+      <pubDate>Fri, 25 Sep 2026 21:20:27 +0000</pubDate>
     </item>
   </channel>
 </rss>

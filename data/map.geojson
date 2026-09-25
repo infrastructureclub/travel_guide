@@ -17894,6 +17894,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    5.9066672,
+                    52.0101703,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Netherlands Open Air Museum",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "icon": "images/icon-2.png",
+                "description": "The national open air museum of the Netherlands. Can easily spend a whole day here seeing different buildings and infrastructure covering the history of the Netherlands. Also has a working historic tram route around the edge of the site!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.9055879,
                     38.1671515,
                     0

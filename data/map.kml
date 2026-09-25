@@ -9815,6 +9815,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Netherlands Open Air Museum</name>
+        <description>The national open air museum of the Netherlands. Can easily spend a whole day here seeing different buildings and infrastructure covering the history of the Netherlands. Also has a working historic tram route around the edge of the site!</description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            5.9066672,52.0101703,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>

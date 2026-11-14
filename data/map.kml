@@ -12915,11 +12915,11 @@
       </Placemark>
       <Placemark>
         <name>Purdown BT Tower</name>
-        <description><![CDATA[<img src="./data/images/8b66fce69634efdd1c7660d2bb56e61e4442f532f5ca31b60d40876be9c9e5be.png" height="200" width="auto" /><br><br>A large communications tower, visible from large parts of Bristol]]></description>
+        <description><![CDATA[<img src="./data/images/dd4d52f16480d66904bba3431e8d41c4a52ed9bf77057a6e00d765759f29767b.png" height="200" width="auto" /><br><br>A large communications tower, visible from large parts of Bristol]]></description>
         <styleUrl>#icon-1898-BDBDBD-labelson</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>./data/images/8b66fce69634efdd1c7660d2bb56e61e4442f532f5ca31b60d40876be9c9e5be.png</value>
+            <value>./data/images/dd4d52f16480d66904bba3431e8d41c4a52ed9bf77057a6e00d765759f29767b.png</value>
           </Data>
         </ExtendedData>
         <Point>

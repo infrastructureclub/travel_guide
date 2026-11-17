@@ -17912,6 +17912,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    20.4680995,
+                    44.8125994,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Belgrade Postal Museum",
+                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
+                "styleHash": "-4303c82c",
+                "icon": "images/icon-2.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.9055879,
                     38.1671515,
                     0
@@ -20798,8 +20815,8 @@
                 "styleUrl": "#icon-1608-F9A825-labelson",
                 "styleHash": "-5f1b77a2",
                 "icon": "images/icon-4.png",
-                "description": "<img src=\"./data/images/7cf80e63a398ef1788be4f2a185a39f72f1a0defdf19dc76e182ed48667b6c8b.png\" height=\"200\" width=\"auto\" /><br><br>Graffitied ruins of anti-aircraft gun batteries. Now home to goats and spectacular views of Bristol.",
-                "gx_media_links": "./data/images/7cf80e63a398ef1788be4f2a185a39f72f1a0defdf19dc76e182ed48667b6c8b.png"
+                "description": "<img src=\"./data/images/ef50f7683bb76cdd399b06176d0d13be216130d51eb29784691777e7f175db79.png\" height=\"200\" width=\"auto\" /><br><br>Graffitied ruins of anti-aircraft gun batteries. Now home to goats and spectacular views of Bristol.",
+                "gx_media_links": "./data/images/ef50f7683bb76cdd399b06176d0d13be216130d51eb29784691777e7f175db79.png"
             }
         },
         {

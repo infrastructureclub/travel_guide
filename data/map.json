@@ -13,7 +13,7 @@
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 589,
+      "count": 590,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -1233,6 +1233,17 @@
       "googlePlaceId": "ChIJAzij-LtmdkgR6XAolH7_pyg",
       "id": "bekonscot-model-village-railway",
       "name": "Bekonscot Model Village & Railway"
+    },
+    "belgrade-postal-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        20.4680995,
+        44.8125994
+      ],
+      "created": "2026-11-17T01:46:43.457200",
+      "googlePlaceId": "ChIJV-jmTaV6WkcRvpNUm76SwQ0",
+      "id": "belgrade-postal-museum",
+      "name": "Belgrade Postal Museum"
     },
     "bell-telephone-phone-pole-testing-site": {
       "category": "interesting-things",
@@ -10774,7 +10785,7 @@
       "googlePlaceId": "ChIJo6ikBACPcUgRJWJgCWhzzMU",
       "id": "purdown-gun-battery",
       "img": [
-        "./data/images/7cf80e63a398ef1788be4f2a185a39f72f1a0defdf19dc76e182ed48667b6c8b.png"
+        "./data/images/ef50f7683bb76cdd399b06176d0d13be216130d51eb29784691777e7f175db79.png"
       ],
       "name": "Purdown Gun Battery"
     },

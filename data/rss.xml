@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Sep 2026 21:20:27 +0000</lastBuildDate>
-    <item>
-      <title>“Toilet in Nature” added in Ōtaki, Japan</title>
-      <link>https://infrastructureclub.org/travel_guide/#toilet-in-nature</link>
-      <guid isPermaLink="false">toilet-in-nature</guid>
-      <pubDate>Mon, 30 Mar 2026 13:46:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 Nov 2026 01:46:43 +0000</lastBuildDate>
     <item>
       <title>“Transparent Public Toilets - Tokyo Toilet #7” added in Motoyoyogichō, Japan</title>
       <link>https://infrastructureclub.org/travel_guide/#transparent-public-toilets-tokyo-toilet-7</link>
@@ -363,6 +357,12 @@ Has adjacent pseudo transporter bridge / hand-cranked cable car.</description>
       <description>The national open air museum of the Netherlands. Can easily spend a whole day here seeing different buildings and infrastructure covering the history of the Netherlands. Also has a working historic tram route around the edge of the site!</description>
       <guid isPermaLink="false">netherlands-open-air-museum</guid>
       <pubDate>Fri, 25 Sep 2026 21:20:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Belgrade Postal Museum” added in Stari Grad, Serbia</title>
+      <link>https://infrastructureclub.org/travel_guide/#belgrade-postal-museum</link>
+      <guid isPermaLink="false">belgrade-postal-museum</guid>
+      <pubDate>Tue, 17 Nov 2026 01:46:43 +0000</pubDate>
     </item>
   </channel>
 </rss>

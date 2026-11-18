@@ -9834,6 +9834,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Bhutan Postal Museum</name>
+        <description>Lovely little museum showcasing the history of innovative stamps in Bhutan, including a mock-up of a post office. Well worth a stop and entry fee.</description>
+        <styleUrl>#icon-1636-F9A825-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            89.6388555,27.4739151,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>

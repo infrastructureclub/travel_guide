@@ -13,7 +13,7 @@
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 590,
+      "count": 591,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -1356,6 +1356,18 @@
       "description": "Probably the easiest way to get close to the California Aqueduct at ground level (i.e., not just driving over it) from the inner Bay Area. $10 parking fee.",
       "id": "bethany-reservoir",
       "name": "Bethany Reservoir"
+    },
+    "bhutan-postal-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        89.6388555,
+        27.4739151
+      ],
+      "created": "2026-11-18T15:25:10.913200",
+      "description": "Lovely little museum showcasing the history of innovative stamps in Bhutan, including a mock-up of a post office. Well worth a stop and entry fee.",
+      "googlePlaceId": "ChIJz8UMoxaU4TkR3Fo17Da2YRI",
+      "id": "bhutan-postal-museum",
+      "name": "Bhutan Postal Museum"
     },
     "big-pit-national-coal-museum": {
       "category": "museums-attractions",

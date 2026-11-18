@@ -17929,6 +17929,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    89.6388555,
+                    27.4739151,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bhutan Postal Museum",
+                "styleUrl": "#icon-1636-F9A825-labelson",
+                "styleHash": "-73d4c685",
+                "icon": "images/icon-2.png",
+                "description": "Lovely little museum showcasing the history of innovative stamps in Bhutan, including a mock-up of a post office. Well worth a stop and entry fee."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.9055879,
                     38.1671515,
                     0

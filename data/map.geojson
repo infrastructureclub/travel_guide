@@ -17947,6 +17947,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    7.0451496,
+                    51.487872,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Red Dot Design Museum",
+                "styleUrl": "#icon-1636-F9A825-labelson-nodesc",
+                "styleHash": "-4303c82c",
+                "icon": "images/icon-2.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.9055879,
                     38.1671515,
                     0

@@ -13,7 +13,7 @@
       "name": "Interesting Things"
     },
     "museums-attractions": {
-      "count": 591,
+      "count": 592,
       "name": "Museums / attractions"
     },
     "nature": {
@@ -11021,6 +11021,17 @@
       "googlePlaceId": "ChIJNwLLQmKdX0YRdcUAkdkaNa8",
       "id": "rdhuset-t-bana",
       "name": "Rådhuset T-bana"
+    },
+    "red-dot-design-museum": {
+      "category": "museums-attractions",
+      "coordinates": [
+        7.0451496,
+        51.487872
+      ],
+      "created": "2026-11-21T18:55:20.862217",
+      "googlePlaceId": "ChIJiZ9p4O7nuEcR4kf3P0UR3MA",
+      "id": "red-dot-design-museum",
+      "name": "Red Dot Design Museum"
     },
     "red-rock-island": {
       "category": "para-infrastructural-cultural",

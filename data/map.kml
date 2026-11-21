@@ -9844,6 +9844,15 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Red Dot Design Museum</name>
+        <styleUrl>#icon-1636-F9A825-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.0451496,51.487872,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Industry</name>
